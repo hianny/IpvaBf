@@ -1,0 +1,28 @@
+[tool.poetry]
+name = "ipvabf"
+version = "0.1.0"
+description = ""
+authors = ["hianny urt <hiannymaria@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+oracledb = "^3.0.0"
+pandas = "^2.2.3"
+pypdf2 = "^3.0.1"
+pytesseract = "^0.3.13"
+pymupdf = "^1.25.4"
+selenium = "^4.30.0"
+undetected-chromedriver = "^3.5.5"
+setuptools = "^78.1.0"
+anticaptchaofficial = "^1.0.64"
+mousekey = "^0.12"
+rapidfuzz = "^3.12.2"
+prettycolorprinter = "^0.45"
+fast-ctypes-screenshots = "^0.10"
+numpy = "^2.2.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
