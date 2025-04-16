@@ -17,7 +17,7 @@ def RetornoVeiculosLicenciamento():
             ,NUM_DOCUMENTO 
         FROM IPVA_LICENCIAMENTO 
         WHERE NUM_DOCUMENTO is not null 
-        AND STATUS_LICENCIAMENTO IS NULL 
+        --AND STATUS_LICENCIAMENTO IS NULL 
         AND RENAVAM <>'0'
         --AND SUBSTR(PLACA, LENGTH(PLACA),1) IN ('7','6','5')
         --	AND (STATUS_LICENCIAMENTO IS NULL 
@@ -29,12 +29,12 @@ def RetornoVeiculosLicenciamento():
     VeiculosTotal = cursor.fetchall()
     #print(type(VeiculosTotal))
     #for veiculo in VeiculosTotal:
-    #    print(veiculo[0])
+        #print(veiculo[0])
     
-    #veiculosporPlacas = pandas.DataFrame(VeiculosTotal,columns=['PLACA','RENAVAM','CHASSIS','NUM_DOCUMENTO'])
+    veiculosporPlacas = pandas.DataFrame(VeiculosTotal,columns=['ID','PLACA','RENAVAM','CHASSIS','NUM_DOCUMENTO'])
     #VEICULOSPLACA = df.columns['PLACA','RENAVAM','CHASSIS']
-   # df.to_csv(fr'sequencianotas\cnpjFiliais\resultado.csv', index=False, header=False)
-    #print(veiculosporPlacas)
+    #df.to_csv(fr'sequencianotas\cnpjFiliais\resultado.csv', index=False, header=False)
+    print(type(veiculosporPlacas))
     return VeiculosTotal
 
 
