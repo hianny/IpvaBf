@@ -10,20 +10,17 @@ cursor = connectionBd.cursor()
 def RetornoVeiculosLicenciamento():
     cursor.execute("""
         SELECT 
-            ID
-            ,PLACA
-            ,RENAVAM
-            ,CHASSI
-            ,NUM_DOCUMENTO 
+            *
         FROM IPVA_LICENCIAMENTO 
         WHERE NUM_DOCUMENTO is not null 
-        --AND STATUS_LICENCIAMENTO IS NULL 
-        AND RENAVAM <>'0'
-        --AND SUBSTR(PLACA, LENGTH(PLACA),1) IN ('7','6','5')
+        --AND STATUS_LICENCIAMENTO IS NULL
+        AND STATUS_LICENCIAMENTO = 'A PAGAR'
+        AND SUBSTR(PLACA, LENGTH(PLACA),1) IN ('8','9','0')
+        AND DT_ULT_CONSULTA_DETRAN < TO_TIMESTAMP('2025-04-23 9:00:00', 'YYYY-MM-DD HH24:MI:SS')
         --	AND (STATUS_LICENCIAMENTO IS NULL 
         --	OR  STATUS_LICENCIAMENTO = 'ERRO - Captcha' 
         --	OR  STATUS_LICENCIAMENTO = 'ERRO - Documento Invalido')
-        ORDER BY STATUS_LICENCIAMENTO DESC,  RENAVAM ASC
+        ORDER BY RENAVAM DESC
             """)
     # Usar fetchall() para pegar todas as linhas
     VeiculosTotal = cursor.fetchall()
