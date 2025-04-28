@@ -3,8 +3,8 @@ import pandas
 
 usernameBd = 'rpa' 
 passwordBd= 'Rpa!2023'
-#dsn = 'oracledbdev.bomfuturo.local:1521/homollnx'
-dsn = 'oracle.bomfuturo.local:1521/protheus'
+dsn = 'oracledbdev.bomfuturo.local:1521/homollnx'
+#dsn = 'oracle.bomfuturo.local:1521/protheus'
 connectionBd = oracledb.connect(user=usernameBd, password=passwordBd, dsn=dsn)
 cursor = connectionBd.cursor()
 
@@ -20,7 +20,7 @@ def RetornoVeiculosLicenciamento():
         WHERE NUM_DOCUMENTO is not null 
         --AND STATUS_LICENCIAMENTO IS NULL
         AND STATUS_LICENCIAMENTO = 'A PAGAR'
-        AND SUBSTR(PLACA, LENGTH(PLACA),1) IN ('9')
+        AND SUBSTR(PLACA, LENGTH(PLACA),1) IN ('')
         AND DT_ULT_CONSULTA_DETRAN < TO_TIMESTAMP('2025-04-23 9:00:00', 'YYYY-MM-DD HH24:MI:SS')
         --	AND (STATUS_LICENCIAMENTO IS NULL 
         --	OR  STATUS_LICENCIAMENTO = 'ERRO - Captcha' 

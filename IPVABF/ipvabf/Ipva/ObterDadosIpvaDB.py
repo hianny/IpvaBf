@@ -28,7 +28,7 @@ def RetornoVeiculosIpva():
             """)
     # Usar fetchall() para pegar todas as linhas
     Veiculos = cursor.fetchall()
-    print(Veiculos)
+
     return Veiculos
 
 def updateErro(mensagemErro,idVeiculoAtual):
@@ -67,7 +67,7 @@ def updateValor(valorLicenciamento,arquivoLicenciamento,idVeiculoAtual):
 
 if __name__ == "__main__":
     RetornoVeiculosIpva()
-    #updateErro('','')
-    #update('','')
-    #updateValor('','','')
+    updateErro('','')
+    update('','')
+    updateValor('','','')
 
