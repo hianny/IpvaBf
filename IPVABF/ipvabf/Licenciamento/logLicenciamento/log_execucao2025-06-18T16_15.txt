@@ -1,0 +1,3 @@
+2025-06-18T16_15: ---------Iniciando Sequencia de notas Sefaz---------
+2025-06-18T16_15: Abrindo o navegador
+2025-06-18T16_16: ---------Finalizando Sequencia de notas Sefaz---------

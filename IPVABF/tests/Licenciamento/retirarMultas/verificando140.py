@@ -69,7 +69,7 @@ def find_pdfs_in_directory(directory, word, debug=False):
     return results
 
 # Defina o diretório onde seus PDFs estão armazenados
-directory = "C:\\BOT\\LICENCIAMENTO\\ALTERADOS"  # Substitua com o caminho correto
+directory = "C:\\BOT\\LICENCIAMENTO"  # Substitua com o caminho correto
 
 # Defina a palavra que você está procurando
 word = "OITENTA "  # Substitua com a palavra desejada

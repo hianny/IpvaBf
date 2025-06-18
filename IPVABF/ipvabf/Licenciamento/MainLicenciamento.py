@@ -8,152 +8,218 @@ import ObterDadosLicenciamentoDB
 from selenium.webdriver.chrome.options import Options
 import undetected_chromedriver as uc
 from escreveLog import escreveLog
-import captchaLicenciamento
-import random
 import os
-import rapidfuzz
-import pandas as pd
+import ResultadoEmail
 from time import sleep
-import pytesseract
-from PrettyColorPrinter import add_printer
-import numpy as np
-import pyautogui
-import time
+from ObterResultadoFinalDB import RetornoVeiculosSucesso, RetornoVeiculosErro,RetornoVeiculosSemDebito
+import base64
 from datetime import datetime
-
-#imagemSucesso = pyautogui.locateOnScreen(fr"\tipvabfLicenciamento\img\simboloSucesso.png")
-
-add_printer(1)
-import mousekey
-
-mkey = mousekey.MouseKey()
-mkey.enable_failsafekill("ctrl+e")
-
-pytesseract.pytesseract.tesseract_cmd = fr'C:\Program Files\Tesseract-OCR\tesseract.exe'
-from fast_ctypes_screenshots import (
-    ScreenshotOfOneMonitor,
-)
-
-
-def get_screenshot_tesser(minlen=2):
-    with ScreenshotOfOneMonitor(
-        monitor=0, ascontiguousarray=True
-    ) as screenshots_monitor:
-        img5 = screenshots_monitor.screenshot_one_monitor()
-    df = pytesseract.image_to_data(img5, output_type="data.frame")
-    df = df.dropna(subset="text")
-    df = df.loc[df.text.str.len() > minlen].reset_index(drop=True)
-    return df
-
-def move_mouse(
-    x,
-    y,
-    variationx=(-5, 5),
-    variationy=(-5, 5),
-    up_down=(0.2, 0.3),
-    min_variation=-10,
-    max_variation=10,
-    use_every=4,
-    sleeptime=(0.009, 0.019),
-    linear=90,
-):
-    mkey.left_click_xy_natural(
-        int(x) - random.randint(*variationx),
-        int(y) - random.randint(*variationy),
-        delay=random.uniform(*up_down),
-        min_variation=min_variation,
-        max_variation=max_variation,
-        use_every=use_every,
-        sleeptime=sleeptime,
-        print_coords=True,
-        percent=linear,
-    )
-
-def clicarCaptcha():
-    #comacando o resolve captcha do pyajudeme
-    df = get_screenshot_tesser(minlen=2)
-    #print(dfdf = get_screenshot_tesser(minlen=2)
-    df = pd.concat(
-        [
-            df,
-            pd.DataFrame(
-                rapidfuzz.process_cpp.cdist(["Confirme", "que"], df.text.to_list())
-            ).T.rename(columns={0: "Confirme", 1: "que"}),
-        ],
-        axis=1,
-    )
-
-    try:
-        vamosclicar = (
-            np.diff(
-                df.loc[
-                    ((df.Confirme == df.Confirme.max()) & (df.Confirme > 90))
-                    | ((df.que == df.que.max()) & (df.que > 90))
-                ][:2].index
-            )[0]
-            == 1
-        )
-    except Exception:
-        vamosclicar = False
-
-    if vamosclicar:
-        x, y = df.loc[df.Confirme == df.Confirme.max()][["left", "top"]].__array__()[0]
-        move_mouse(
-            x,
-            y,
-            variationx=(-10, 10),
-            variationy=(-10, 10),
-            up_down=(0.2, 0.3),
-            min_variation=-10,
-            max_variation=10,
-            use_every=4,
-            sleeptime=(0.009, 0.019),
-            linear=90,
-        )
-    #final resolve captcha do pyajudeme
+#OQUE AINDA FALTA
+#
+#FAZER TRIGGER PARA FAZER DE TODAS AS PLACAS
+#COMO FAZER A TRIGGER?
+#CRIAR CSV QUE ARMAZENA AS INFORMACOES DO VEICULO
+#DPS DO TERMINO DE CADA PLACA ENVIAR UM NOTIFICACAO DE TERMINO 
+#MANDAR UM EMAIL COM O RESULTADO DO PROCESSO COM OS ERROS E SUCESSOS
+#
 
 def main():
     try:
         resultadoVeiculos = ObterDadosLicenciamentoDB.RetornoVeiculosLicenciamento()
+        #print(resultadoVeiculos)
         #PLACA,RENAVAM,CHASSIS,NUM_DOCUMENTO = ObterDadosLicenciamentoDB.RetornoVeiculosLicenciamento()
         escreveLog("---------Iniciando Sequencia de notas Sefaz---------")
         print("---------Iniciando Sequencia de notas Sefaz---------")
-        #options = webdriver.ChromeOptions()
-        #options.add_argument('--headless')
-        #options.add_argument('--no-sandbox')
-        #options.add_argument('--mute-audio')
-        
         for veiculos in resultadoVeiculos:
-            chrome_options = Options()
-            chrome_options.add_argument('--user-data-dir=/path/to/your/chrome/profile')  # Caminho do perfil
-            chrome_options.add_argument('--profile-directory=Profile 1')  # Nome do perfil específico
-            #chrome_options.add_argument('--start-maximized')
-            chrome_options.add_argument('--window-size=600,500')
-            chrome_options.add_argument("--disable-blink-features=AutomationControlled")
-            chrome_options.add_argument("--disable-extensions")
-            driver = uc.Chrome(options=chrome_options)
-            driver.set_window_size(1200, 700)
-            url = "https://www.detran.mt.gov.br/"
-            driver.implicitly_wait(2)
-            driver.get(url)
-            escreveLog('Abrindo o navegador')
+            while True:
+                try:
+                    chrome_options = uc.ChromeOptions()
+                    prefs = {
+                        "download.default_directory": fr"C:\BOT\LICENCIAMENTO",
+                        "download.prompt_for_download": False,
+                        "download.directory_upgrade": True,
+                        "safebrowsing.enabled": True
+                    }
+                    chrome_options.add_experimental_option("prefs", prefs)
+                    #chrome_options.add_argument('--user-data-dir=/path/to/your/chrome/profile')  # Caminho do perfil
+                    chrome_options.add_argument('--profile-directory=Profile 1')  # Nome do perfil específico
+                    chrome_options.add_argument('--start-maximized')
+                    #chrome_options.add_argument('--headless')
+                    chrome_options.add_argument("--disable-blink-features=AutomationControlled")
+                    chrome_options.add_argument("--disable-extensions")
+                    driver = uc.Chrome(options=chrome_options)
+                    driver.set_window_size(1200, 700)
+                    url = "https://www.detran.mt.gov.br/"
+                    driver.implicitly_wait(2)
+                    driver.get(url)
+                    escreveLog('Abrindo o navegador')
 
-            idVeiculo = veiculos[0]
-            placaVeiculo = veiculos[1]
-            renavamVeiculo = veiculos[2]
-            num_documentoVeiculo = veiculos[4]
+                    idVeiculo = veiculos[0]
+                    placaVeiculo = veiculos[1]
+                    renavamVeiculo = veiculos[2]
+                    num_documentoVeiculo = veiculos[4]
 
-            realizandoLicenciamento(driver,placaVeiculo,renavamVeiculo,num_documentoVeiculo,idVeiculo)
-            driver.close()
+                    realizandoLicenciamento(driver,placaVeiculo,renavamVeiculo,num_documentoVeiculo,idVeiculo)
+                    break
+                except Exception as e:
+                    try:
+                        driver.quit()
+                    except:
+                        pass
+                    break
 
+        escreveLog("---------Finalizando Sequencia de notas Sefaz---------")    
+        print("---------Finalizando Sequencia de notas Sefaz---------")
+        arquivoCsvSucesso , numeroCsvSucesso = RetornoVeiculosSucesso() 
+        arquivoCsvErro, numeroCsErro = RetornoVeiculosErro()
+        arquivoCsvSemDebito, numeroCsvDebito = RetornoVeiculosSemDebito()
+        print('Enviando email de finalizacao')
+        ResultadoEmail.ResultadoFinalEmail('0', len(resultadoVeiculos),numeroCsErro,numeroCsvSucesso,numeroCsvDebito,arquivoCsvSucesso)
+
+
+        #criar funcao de banco com3  selects criando em csv para cada status
+        #Colocar um email de notificacao de finalizacao do processo com numero de veiculos com falha, sucesso e sem debito
+        #no email colocar o csv com cada status
+        #
     except Exception as e :
-        print(e)
+        print('Ocorreu um Erro no FOR principal: ',e)
         pass
 
 def realizandoLicenciamento(driver,placaVeiculo,renavamVeiculo,num_documentoVeiculo,idVeiculo):
-    #tentativa = 0
+    def emitirLicenciamento():
+        emitir = WebDriverWait(driver, 20).until(
+                    EC.element_to_be_clickable((By.ID, "spanDAR_LicenciamentoExercicio"))
+                )
+        emitir.click()
+
+        sleep(2)
+
+        driver.execute_script("window.focus();")
+        print("mudando a pagina")
+        driver.switch_to.window(driver.window_handles[2])
+
+        #---------------------
+        # Nova aba
+        #------------------------trocando para nova aba do navegador----------------------------------
+        print("Título da nova aba:", driver.title)
+
+        try:
+            ErroSiteIndiposnivel = driver.find_elements(By.XPATH, "/html/body/center/font")
+            if ErroSiteIndiposnivel:
+                ObterDadosLicenciamentoDB.updateErroLic(idVeiculo)
+        except:
+            print("O site esta disponivel")
+            
+
+        state = driver.execute_script('return document.readyState')
+        total_height = driver.execute_script("return document.body.scrollHeight")
+        sleep(15)
+        pdf = driver.execute_cdp_cmd("Page.printToPDF", {
+            "printBackground": True
+        })
+        #------------------------------------
+        # salvando pagina para pdf
+        #------------------------------------
+        anoAtual = datetime.now().year
+        caminhoLicenciamento = fr"C:\BOT\LICENCIAMENTO\TESTE Lic Licenciamento {anoAtual} - RENAVAM {renavamVeiculo}.pdf"
+
+        with open(caminhoLicenciamento, "wb") as f:
+            f.write(base64.b64decode(pdf['data']))
+
+        if os.path.exists(caminhoLicenciamento):
+            print("PDF salvo com sucesso!")
+            print(valorliceinciamento)
+            ObterDadosLicenciamentoDB.updateValor(valorLicenciamento,caminhoLicenciamento,idVeiculo)
+            driver.close()
+            driver.switch_to.window(driver.window_handles[1])
+            #ObterDadosLicenciamentoDB.updateValorMultas(valorLicenciamento,caminhoLicenciamento,idVeiculo)
+            #updatebanco 
+        else:
+            print("Erro ao salvar o PDF.")
+            driver.close()
+            driver.switch_to.window(driver.window_handles[1])
+#            driver.close()
+#            driver.switch_to.window(driver.window_handles[0])
+#            driver.close()
+            print("fechando navegador do emitir licenciamento")
+
+    def emitirMultas(quantidade_checkboxes):
+        select.select_by_value("Multa")
+        
+        for i in range(1, quantidade_checkboxes + 1):
+            checkbox_id = f"DebitoMulta{i}"
+
+            try:
+                checkbox = driver.find_element(By.ID, checkbox_id)
+                
+                # Verifica se já está selecionado
+                if not checkbox.is_selected():
+                    checkbox.click()
+            except Exception as e:
+                print(f"Não foi possível encontrar ou clicar em {checkbox_id}: {e}")
+
+        emitir = WebDriverWait(driver, 20).until(
+            EC.element_to_be_clickable((By.ID, "spanDAR_Multa"))
+        )
+        emitir.click()
+
+        sleep(2)
+
+        driver.execute_script("window.focus();")
+        print("mudando a pagina")
+        driver.switch_to.window(driver.window_handles[2])
+
+        #---------------------
+        # Nova aba
+        #------------------------trocando para nova aba do navegador----------------------------------
+        print("Título da nova aba:", driver.title)
+
+        try:
+            ErroSiteIndiposnivel = driver.find_elements(By.XPATH, "/html/body/center/font")
+            if ErroSiteIndiposnivel:
+                ObterDadosLicenciamentoDB.updateErroMulta(idVeiculo)
+        except:
+            print("O site esta disponivel")
+
+        state = driver.execute_script('return document.readyState')
+        total_height = driver.execute_script("return document.body.scrollHeight")
+
+        sleep(15)
+        pdf = driver.execute_cdp_cmd("Page.printToPDF", {
+            "printBackground": True
+        })
+
+        #------------------------------------
+        # salvando pagina para pdf
+        #------------------------------------
+        anoAtual = datetime.now().year
+        caminhoMultas = fr"C:\BOT\MULTAS\MULTAS - {anoAtual} - RENAVAM {renavamVeiculo}.pdf"
+
+        with open(caminhoMultas, "wb") as f:
+            f.write(base64.b64decode(pdf['data']))
+
+        if os.path.exists(caminhoMultas):
+            print("PDF salvo com sucesso!")
+            #print(valorliceinciamento)
+            #ObterDadosLicenciamentoDB.updateValor(valorLicenciamento,caminhoLicenciamento,idVeiculo)
+            #ObterDadosLicenciamentoDB.updateValorMultas(valorLicenciamento,caminhoMultas,idVeiculo)
+            ObterDadosLicenciamentoDB.updateValorMultas(numeroDebitos,valorDebitos,caminhoMultas,idVeiculo)
+            #updatebanco 
+            driver.close()
+            driver.switch_to.window(driver.window_handles[1])
+            
+        else:
+            print("Erro ao salvar o PDF.")
+            driver.close()
+            driver.switch_to.window(driver.window_handles[1])
+#            driver.close()
+#            driver.switch_to.window(driver.window_handles[0])
+#            driver.close()
+            print("fechando navegador do emitir multas")
+    
     while True:
         sleep(3)
+        print('iniciando login no site do Detran')
         propagranda = WebDriverWait(driver, 20).until(
             EC.element_to_be_clickable((By.XPATH, '//*[@id="mtSitesPopup"]/div/div/div[1]/button'))
         )
@@ -175,7 +241,7 @@ def realizandoLicenciamento(driver,placaVeiculo,renavamVeiculo,num_documentoVeic
             EC.element_to_be_clickable((By.XPATH, '//*[@id="formVeiculo"]/div[4]/input[2]'))
         )
         consultar.click() 
-
+        print('login realizado')
         #windows = driver.window_handles
         driver.execute_script("window.focus();")
         print("mudando a pagina")
@@ -188,69 +254,26 @@ def realizandoLicenciamento(driver,placaVeiculo,renavamVeiculo,num_documentoVeic
         # Checa se a página terminou de carregar
         state = driver.execute_script('return document.readyState')
         print("Estado da página:", state)
-
+        print('inicinando pagina de captcha e numero de documento')
         cpfCnpj = WebDriverWait(driver, 10).until(
             EC.element_to_be_clickable((By.NAME, 'DocumentoProprietarioValidacao'))
         )
         cpfCnpj.send_keys(num_documentoVeiculo) 
         sleep(5)
 
+
+        import captchaLic
+        token = captchaLic.capsolver()  # Chama a função para resolver o captcha
+
+        driver.execute_script(f'''
+        document.querySelector('input[name="cf-turnstile-response"]').value = "{token}";
+        document.querySelector('input[name="g-recaptcha-response"]').value = "{token}";
+        ''')
         #comecando a etapa de resolver o captcha
-        print("comecando a resolver a captcha")
-
-        max_tentativas = 5
-        tentativa = 0
-
-        while tentativa < max_tentativas:
-            print(f"Tentativa {tentativa + 1}")
-            tentativa += 1
-
-            # Tenta clicar no CAPTCHA
-            clicarCaptcha()
-            time.sleep(2)
-
-            # Verifica se o símbolo de sucesso aparece por até 20 segundos
-            location = None
-            end_time = time.time() + 20
-            countTimer = 0
-            sleepTime = 0.5
-            image_sucesso = fr'.\tipvabfLicenciamento\img\simboloSucesso.png'
-            
-            print('Entrando no while para verificar símbolo de sucesso')
-            while time.time() < end_time:
-                try:
-                    location = pyautogui.locateOnScreen(image_sucesso)
-                except:
-                    location = None
-                if location:
-                    print("Símbolo de sucesso encontrado.")
-                    break
-                time.sleep(sleepTime)
-                countTimer += sleepTime
-
-            # Se encontrou o símbolo de sucesso, finaliza
-            if location:
-                print("Captcha resolvido com sucesso. Saindo do loop.")
-                break
-            else:
-                print("Símbolo de sucesso não encontrado. Verificando se ainda está esperando confirmação...")
-
-                # Verifica se a imagem do captcha ainda está visível (confirmar.png)
-                try:
-                    esperando_confirmacao = pyautogui.locateOnScreen(fr'.\tipvabfLicenciamento\img\confirmar.png')
-                except:
-                    esperando_confirmacao = None
-
-                if esperando_confirmacao:
-                    print("Captcha ainda visível. Tentando novamente após 5 segundos...")
-                    time.sleep(5)
-                else:
-                    print("Captcha não está mais visível. Interrompendo tentativas.")
-                    break
 
         print("Captcha finalizado")
 
-        #confirmando 
+        #confirmando '''
         btConsultar = WebDriverWait(driver, 10).until(
             EC.element_to_be_clickable((By.NAME, 'btOk'))
         )
@@ -258,41 +281,42 @@ def realizandoLicenciamento(driver,placaVeiculo,renavamVeiculo,num_documentoVeic
         print("clicando no botao consultar")
         sleep(2)
 
-
         try:
             textoErro = ''                         #/html/body/center/div/table/tbody/tr/td/text()[2]
             erro =  driver.find_element(By.XPATH, "/html/body/center/div/table/tbody/tr/td")
             textoErro = erro.text
             print(textoErro)
-
         except:
             pass
         print("verificando erro")
         #verificando informacoes no documento
         #caso nao tenha debito o
+        #-------------------------------------
+        #ACRESCENTAR O MULTAS NESSA PARTE DO BANCO 
         if textoErro:
             if textoErro[23:] == "Documento Proprietario informado não confere com o proprietario do veiculo.":
-                ObterDadosLicenciamentoDB.updateErro('ERRO - Documento N/ Confere',idVeiculo)
+                ObterDadosLicenciamentoDB.updateErro('ERRO - Documento N/ Confere','ERRO-Doc',idVeiculo)
 
             elif textoErro[23:] == "Documento do Proprietario invalido.":
                 print(type(idVeiculo))
                 #Idatual = f"{int(idVeiculo):,}".replace(",", ".")
                 #print(Idatual)
-                ObterDadosLicenciamentoDB.updateErro('ERRO - Documento Invalido',idVeiculo)
+                ObterDadosLicenciamentoDB.updateErro('ERRO - Documento Invalido','ERRO-Doc',idVeiculo)
 
             elif textoErro[23:] == "Confirme Nao sou Robo":
-                ObterDadosLicenciamentoDB.updateErro('ERRO - Captcha',idVeiculo)
+                ObterDadosLicenciamentoDB.updateErro('ERRO - Captcha','ERRO-Captcha',idVeiculo)
 
             elif textoErro[23:] == "Favor acessar o formulário para nova consulta":
-                ObterDadosLicenciamentoDB.updateErro('ERRO - Formulario',idVeiculo)
+                ObterDadosLicenciamentoDB.updateErro('ERRO - Formulario','ERRO-Form',idVeiculo)
 
             elif textoErro[23:] == "Renavam informado não confere com a Placa.":
-                ObterDadosLicenciamentoDB.updateErro('ERRO - Renavam Invalido',idVeiculo)
+                ObterDadosLicenciamentoDB.updateErro('ERRO - Renavam Invalido','ERRO-Renavam',idVeiculo)
 
             elif textoErro[23:] == "Operação cancelada. Veículo não emplacado na base local ou não possui infrações na base local":
-                ObterDadosLicenciamentoDB.updateErro('ERRO - N/ emplacado base local',idVeiculo)
+                ObterDadosLicenciamentoDB.updateErro('ERRO - N/ emplacado base local','RRO-baseLoc',idVeiculo)
             driver.close()
             driver.switch_to.window(driver.window_handles[0])
+            driver.close()
             break
 
 #------------------------trocando para nova aba do navegador----------------------------------
@@ -301,16 +325,18 @@ def realizandoLicenciamento(driver,placaVeiculo,renavamVeiculo,num_documentoVeic
 
         if debitos:
             if debitos == "Nenhum débito em aberto cadastrado para este veículo.":
-                ObterDadosLicenciamentoDB.update('QUITADO',idVeiculo)
+                                                                     #-------------------------------------
+                ObterDadosLicenciamentoDB.update('QUITADO',idVeiculo)  #ADICIONAR COLUNA DE STATUS MULTAS
                 print("o veiculo nao tem nenhum debito")
                 driver.close()
                 driver.switch_to.window(driver.window_handles[0])
+                driver.close()
                 
                 break
         else:
             pass
 
-        print("verificando a data do licenciamento")
+        #print("verificando a data do licenciamento")
         select_element = WebDriverWait(driver, 20).until(
                 EC.element_to_be_clickable((By.ID, "cmbTipoDebito"))
             )
@@ -318,138 +344,73 @@ def realizandoLicenciamento(driver,placaVeiculo,renavamVeiculo,num_documentoVeic
         # Cria um objeto Select
         select = Select(select_element)
 
-        # Verifica se a opção "Licenciamento 2025" está presente
+        existeMulta = False
+        temIntegral = False
 
-        opcoes = [option.text.strip() for option in select.options]
+        for option in select.options:
+            existeLic = False
+            value = option.get_attribute("value")
+            text = option.text.strip()
 
-        anoAtual = datetime.now().year
-        if fr"Licenciamento {anoAtual}" in opcoes:
-            print("Opção encontrada. Pode continuar.")
+            if value == 'LicenciamentoExercicio':
+                existeLic = True
+                select.select_by_value("LicenciamentoExercicio")
+                ObterDadosLicenciamentoDB.update('A PAGAR', idVeiculo)
+                print('O veículo ainda possui pendência de licenciamento')
 
-            valorliceinciamento = driver.find_element(By.ID, 'spanDAR_LicenciamentoExercicio')
-            valorLicenciamento = valorliceinciamento.text
-            valorLicenciamento = valorLicenciamento[35:-4]
-            print(valorLicenciamento)
+                valorliceinciamento = driver.find_element(By.ID, 'spanDAR_LicenciamentoExercicio')
+                valorLicenciamento = valorliceinciamento.text
+                valorLicenciamento = valorLicenciamento[35:-4]
+                print('O valor do licenciamento ficou: ',valorLicenciamento)
+                emitirLicenciamento()
 
-        else:
-            print("Opção NÃO encontrada. Interrompendo.")
-            driver.close()
-            driver.switch_to.window(driver.window_handles[0])
-            break
+            elif text == 'Multas':
+                existeMulta = True
 
-        emitir = WebDriverWait(driver, 20).until(
-                    EC.element_to_be_clickable((By.ID, "spanDAR_LicenciamentoExercicio"))
-                )
-        emitir.click()
+            elif text == 'Todos os débitos':
+                temIntegral = True
+        if existeLic == False:
+            ObterDadosLicenciamentoDB.updateValorSDebitosLic(idVeiculo)  
+        if temIntegral:
 
-        sleep(2)
-
-        driver.switch_to.window(driver.window_handles[2])
-        WebDriverWait(driver, 20).until(
-                    EC.element_to_be_clickable((By.ID, "form1"))
-                )
-        print("acessando tela de imprimir")
-        while True:
-            print("clicando no arquivo")
-            sleep(4)
-            pyautogui.click()
-            print("abrindo imprimir")
-            pyautogui.keyDown('ctrl')
-            pyautogui.keyDown('p')
-            pyautogui.keyUp('ctrl')
-            print("crtl feito")
-            sleep(5)
-            print("procurando botao de salvar")
-            
-            location = None
-            location2 = None
-            end_time = time.time() + 20
-            countTimer = 0
-            sleepTime = 0.5
-            imageFile = fr'.\tipvabfLicenciamento\img\salvar.png'
-            imageFile2 = fr'.\tipvabfLicenciamento\img\salvarBorda.png'
-            
-            print('Entrando no while para verificar símbolo de sucesso')
-            while time.time() < end_time:
-
-                try:
-                    location = pyautogui.locateOnScreen(imageFile)
-                    #location2 = pyautogui.locateOnScreen(imageFile2)
-                except Exception as e:
-                    location = None
-
-                try:
-                    #location = pyautogui.locateOnScreen(imageFile)
-                    location2 = pyautogui.locateOnScreen(imageFile2)
-                except Exception as e:
-                    location2 = None
-
-                if location is not None or location2 is not None:
-                    try:
-                        x, y = pyautogui.locateCenterOnScreen(imageFile)
-                        print("Localizado salvar, clicando...")
-                        pyautogui.click(x, y)
-                        break  # Se quiser sair do while após clicar
-                    except:
-                        print("Imagem 'salvar.png' não encontrada.")
-
-                    try:
-                        x, y = pyautogui.locateCenterOnScreen(imageFile2)
-                        print("Localizado salvar com borda, clicando...")
-                        pyautogui.click(x, y)
-                        break  # Se quiser sair do while após clicar
-                    except:
-                        print("Imagem 'salvarBorda.png' não encontrada.")
-                else:
-                    time.sleep(sleepTime)
-                    countTimer += sleepTime
-
-            sleep(5)
-            
-            caminhoLicenciamento = fr"C:\BOT\LICENCIAMENTO\Lic Licenciamento {anoAtual} - RENAVAM {renavamVeiculo}.pdf"
-
-            pyautogui.write(caminhoLicenciamento, interval=0.1)
-            pyautogui.press('enter')
-            sleep(5)
-
-            salvarcomo = fr'.\ipvabf\Licenciamento\img\salvarComo.png'
-            simSalvar = fr'.\tipvabfLicenciamento\img\Sim.png'
-            
-            print('Verificando se o arquivo ja existe')
-            locationSalvarComo = None
             try:
-                locationSalvarComo = pyautogui.locateOnScreen(salvarcomo)
+                select.select_by_value("Multa")
             except:
                 pass
+            select.select_by_value("Integral")
+            tbody = driver.find_element(By.XPATH, '//*[@id="Integral"]/table/tbody')
+            trs = tbody.find_elements(By.TAG_NAME, 'tr')
 
-            if locationSalvarComo is not None:
-                x, y = pyautogui.locateCenterOnScreen(simSalvar)
-                print("o arquivo ja existe, substituindo")
-                pyautogui.click(x, y)
+            if existeMulta and len(trs) > 2:
+                print("O veículo possui multas pendentes.")
+                numeroDebitos = len(trs) - 2  # Subtrai 2: cabeçalho e valor total
+                print('NÚMERO DE DÉBITOS DO VEÍCULO:', numeroDebitos)
 
 
-            print('Entrando no while para verificar símbolo de sucesso')
-            while not os.path.exists(caminhoLicenciamento):
-                sleep(1)
-            print("verificando se o arquivo foi salvo ")
-            sleep(3)
-            if os.path.exists(caminhoLicenciamento):
-                print(fr"o arquivo {caminhoLicenciamento} foi salvo")
-                print(valorliceinciamento)
-                ObterDadosLicenciamentoDB.updateValor(valorLicenciamento,caminhoLicenciamento,idVeiculo)
+                valorDebito= driver.find_element(By.ID, 'spanDAR_Integral')
+                valorDebitoSemEdicao = valorDebito.text
+                valorDebitos = valorDebitoSemEdicao[20:-1]
+                if not numeroDebitos:
+                    numeroDebitos = 0
+
+                print('numeros DE DÉBITOS:', numeroDebitos)    
+                print('VALOR DEBITO:',valorDebitos)
+                print('ID VEICULO:',idVeiculo)
+                emitirMultas(numeroDebitos)
+
             else:
-                print("o arquivo nao foi salvo")
-                pass
+                print('ID VEICULO:',idVeiculo)
+                ObterDadosLicenciamentoDB.updateValorSDebitos(idVeiculo)
 
-            #print("salvo")
-            driver.close()
-            driver.switch_to.window(driver.window_handles[1])
             driver.close()
             driver.switch_to.window(driver.window_handles[0])
-            print("fechando navegador")
+            driver.close()
+            print("fechando navegador definitivamente")
             break
-        break
-    
+                      
+#---------------------------------------------------------------------
+#FAZER FUNCAO APRA MULTAS E UIMA SO PARA PEGAR O VALOR TOTAL DE DEBITOS 
 
+    
 if __name__ == "__main__":
     main()

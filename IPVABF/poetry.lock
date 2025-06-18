@@ -45,6 +45,20 @@ tests = ["cloudpickle", "hypothesis", "mypy (>=1.11.1)", "pympler", "pytest (>=4
 tests-mypy = ["mypy (>=1.11.1)", "pytest-mypy-plugins"]
 
 [[package]]
+name = "capsolver"
+version = "1.0.7"
+description = "capsolver python libary"
+optional = false
+python-versions = ">=3.6.8"
+files = [
+    {file = "capsolver-1.0.7-py3-none-any.whl", hash = "sha256:c0497cc55398741a00c84c34bbad5698a7e76b73787b568622a6ec4d319c5773"},
+    {file = "capsolver-1.0.7.tar.gz", hash = "sha256:e3ec645c8752becb2c861d357bbc0cc23c5716bd9073e1b9b1cc5ecc5ba1d21f"},
+]
+
+[package.dependencies]
+requests = ">=2.26.0"
+
+[[package]]
 name = "certifi"
 version = "2025.1.31"
 description = "Python package for providing Mozilla's CA Bundle."
@@ -4730,4 +4744,4 @@ h11 = ">=0.9.0,<1"
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "f95189333f7d13cc504a598043a5a0880c9deefd28c75d9b91292bee4d0ac8c2"
+content-hash = "1e82b0805ba25a2cb7c9de91181481c5c1d426d5a6a75bef4f00e62c4b02983a"
