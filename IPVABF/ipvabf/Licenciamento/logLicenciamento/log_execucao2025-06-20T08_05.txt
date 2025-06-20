@@ -1,0 +1,4 @@
+2025-06-20T08_05: ---------Iniciando Sequencia de notas Sefaz---------
+2025-06-20T08_05: Abrindo o navegador
+2025-06-20T08_06: Abrindo o navegador
+2025-06-20T08_07: Abrindo o navegador
