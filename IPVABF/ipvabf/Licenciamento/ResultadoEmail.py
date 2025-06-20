@@ -65,7 +65,6 @@ def ResultadoFinalEmail(finalPlaca,qtdVeiculos,qtdVeiculosErro,qtdVeiculosSucess
 
     return
 
-
 def ResultadoErro(finalPlaca,qtdVeiculos,qtdVeiculosErro,qtdVeiculosSucesso,qtdVeiculosSDebito, mensagemErro):
     try:
 
@@ -143,7 +142,6 @@ def enviar_temp_exc(finalPlaca,qtdVeiculos,qtdVeiculosErro,qtdVeiculosSucesso,qt
     except Exception as e:
         print(f'Ocorreu um erro: {e}')
     return
-
 
 if __name__ == "__main__":
     ResultadoErro()
