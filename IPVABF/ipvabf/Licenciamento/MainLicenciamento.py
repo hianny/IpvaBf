@@ -14,6 +14,7 @@ from time import sleep
 from ObterResultadoFinalDB import RetornoVeiculosSucesso, RetornoVeiculosErro,RetornoVeiculosSemDebito
 import base64
 from datetime import datetime
+import sys
 #OQUE AINDA FALTA
 #
 #FAZER TRIGGER PARA FAZER DE TODAS AS PLACAS
@@ -23,9 +24,14 @@ from datetime import datetime
 #MANDAR UM EMAIL COM O RESULTADO DO PROCESSO COM OS ERROS E SUCESSOS
 #
 
-def main():
+
+def main(final_placa):
     try:
-        resultadoVeiculos = ObterDadosLicenciamentoDB.RetornoVeiculosLicenciamento()
+        print(final_placa)
+        if final_placa == 'erro':  
+             resultadoVeiculos = ObterDadosLicenciamentoDB.RetornoVeiculosErro()   
+        else:
+            resultadoVeiculos = ObterDadosLicenciamentoDB.RetornoVeiculosLicenciamento(final_placa)
         #print(resultadoVeiculos)
         #PLACA,RENAVAM,CHASSIS,NUM_DOCUMENTO = ObterDadosLicenciamentoDB.RetornoVeiculosLicenciamento()
         escreveLog("---------Iniciando Sequencia de notas Sefaz---------")
@@ -60,9 +66,13 @@ def main():
                     num_documentoVeiculo = veiculos[4]
 
                     realizandoLicenciamento(driver,placaVeiculo,renavamVeiculo,num_documentoVeiculo,idVeiculo)
+                    escreveLog("Finalizando as consultas do veiculo com a placa: ",placaVeiculo)
+                    escreveLog("fechando navegador definitivamente")
+                    print("fechando navegador definitivamente")
                     break
                 except Exception as e:
                     try:
+                        escreveLog(f'Ocorreu um erro ao processar o veiculo {placaVeiculo}: {e}')
                         driver.quit()
                     except:
                         pass
@@ -74,19 +84,21 @@ def main():
         arquivoCsvErro, numeroCsErro = RetornoVeiculosErro()
         arquivoCsvSemDebito, numeroCsvDebito = RetornoVeiculosSemDebito()
         print('Enviando email de finalizacao')
-        ResultadoEmail.ResultadoFinalEmail('0', len(resultadoVeiculos),numeroCsErro,numeroCsvSucesso,numeroCsvDebito,arquivoCsvSucesso)
-
+        escreveLog('Enviando email de finalizacao')
+        ResultadoEmail.ResultadoFinalEmail('0', len(resultadoVeiculos),numeroCsErro,numeroCsvSucesso,numeroCsvDebito,arquivoCsvSucesso,arquivoCsvErro,arquivoCsvSemDebito)
 
         #criar funcao de banco com3  selects criando em csv para cada status
         #Colocar um email de notificacao de finalizacao do processo com numero de veiculos com falha, sucesso e sem debito
         #no email colocar o csv com cada status
         #
     except Exception as e :
+        escreveLog('Ocorreu um erro no FOR principal: ',e)
         print('Ocorreu um Erro no FOR principal: ',e)
         pass
 
 def realizandoLicenciamento(driver,placaVeiculo,renavamVeiculo,num_documentoVeiculo,idVeiculo):
     def emitirLicenciamento():
+        escreveLog(f'Emitindo licenciamento')
         emitir = WebDriverWait(driver, 20).until(
                     EC.element_to_be_clickable((By.ID, "spanDAR_LicenciamentoExercicio"))
                 )
@@ -95,17 +107,18 @@ def realizandoLicenciamento(driver,placaVeiculo,renavamVeiculo,num_documentoVeic
         sleep(2)
 
         driver.execute_script("window.focus();")
-        print("mudando a pagina")
+        #print("mudando a pagina")
         driver.switch_to.window(driver.window_handles[2])
 
         #---------------------
         # Nova aba
         #------------------------trocando para nova aba do navegador----------------------------------
-        print("Título da nova aba:", driver.title)
+        #print("Título da nova aba:", driver.title)
 
         try:
             ErroSiteIndiposnivel = driver.find_elements(By.XPATH, "/html/body/center/font")
             if ErroSiteIndiposnivel:
+                print("O site NAO esta disponivel")
                 ObterDadosLicenciamentoDB.updateErroLic(idVeiculo)
         except:
             print("O site esta disponivel")
@@ -113,7 +126,7 @@ def realizandoLicenciamento(driver,placaVeiculo,renavamVeiculo,num_documentoVeic
 
         state = driver.execute_script('return document.readyState')
         total_height = driver.execute_script("return document.body.scrollHeight")
-        sleep(15)
+        sleep(10)
         pdf = driver.execute_cdp_cmd("Page.printToPDF", {
             "printBackground": True
         })
@@ -128,7 +141,7 @@ def realizandoLicenciamento(driver,placaVeiculo,renavamVeiculo,num_documentoVeic
 
         if os.path.exists(caminhoLicenciamento):
             print("PDF salvo com sucesso!")
-            print(valorliceinciamento)
+            print("valor que esta no licenciamento: ",valorliceinciamento)
             ObterDadosLicenciamentoDB.updateValor(valorLicenciamento,caminhoLicenciamento,idVeiculo)
             driver.close()
             driver.switch_to.window(driver.window_handles[1])
@@ -144,6 +157,8 @@ def realizandoLicenciamento(driver,placaVeiculo,renavamVeiculo,num_documentoVeic
             print("fechando navegador do emitir licenciamento")
 
     def emitirMultas(quantidade_checkboxes):
+        escreveLog(f'Emitindo multa')
+
         select.select_by_value("Multa")
         
         for i in range(1, quantidade_checkboxes + 1):
@@ -166,17 +181,18 @@ def realizandoLicenciamento(driver,placaVeiculo,renavamVeiculo,num_documentoVeic
         sleep(2)
 
         driver.execute_script("window.focus();")
-        print("mudando a pagina")
+        #print("mudando a pagina")
         driver.switch_to.window(driver.window_handles[2])
 
         #---------------------
         # Nova aba
         #------------------------trocando para nova aba do navegador----------------------------------
-        print("Título da nova aba:", driver.title)
+        #print("Título da nova aba:", driver.title)
 
         try:
             ErroSiteIndiposnivel = driver.find_elements(By.XPATH, "/html/body/center/font")
             if ErroSiteIndiposnivel:
+                print("O site NAO esta disponivel")
                 ObterDadosLicenciamentoDB.updateErroMulta(idVeiculo)
         except:
             print("O site esta disponivel")
@@ -200,6 +216,7 @@ def realizandoLicenciamento(driver,placaVeiculo,renavamVeiculo,num_documentoVeic
 
         if os.path.exists(caminhoMultas):
             print("PDF salvo com sucesso!")
+            print("valor que esta no licenciamento: ",valorliceinciamento)
             #print(valorliceinciamento)
             #ObterDadosLicenciamentoDB.updateValor(valorLicenciamento,caminhoLicenciamento,idVeiculo)
             #ObterDadosLicenciamentoDB.updateValorMultas(valorLicenciamento,caminhoMultas,idVeiculo)
@@ -219,6 +236,7 @@ def realizandoLicenciamento(driver,placaVeiculo,renavamVeiculo,num_documentoVeic
     
     while True:
         sleep(3)
+        escreveLog('Iniciando o site do Detran')
         print('iniciando login no site do Detran')
         propagranda = WebDriverWait(driver, 20).until(
             EC.element_to_be_clickable((By.XPATH, '//*[@id="mtSitesPopup"]/div/div/div[1]/button'))
@@ -242,15 +260,16 @@ def realizandoLicenciamento(driver,placaVeiculo,renavamVeiculo,num_documentoVeic
         )
         consultar.click() 
         print('login realizado')
+        escreveLog('login realizado')
         #windows = driver.window_handles
         driver.execute_script("window.focus();")
-        print("mudando a pagina")
+        #print("mudando a pagina")
         driver.switch_to.window(driver.window_handles[1])
 
         # Troca pra nova aba
 #------------------------trocando para nova aba do navegador----------------------------------
 
-        print("Título da nova aba:", driver.title)
+        #print("Título da nova aba:", driver.title)
         # Checa se a página terminou de carregar
         state = driver.execute_script('return document.readyState')
         print("Estado da página:", state)
@@ -270,7 +289,7 @@ def realizandoLicenciamento(driver,placaVeiculo,renavamVeiculo,num_documentoVeic
         document.querySelector('input[name="g-recaptcha-response"]').value = "{token}";
         ''')
         #comecando a etapa de resolver o captcha
-
+        escreveLog("O captcha foi resolvido")
         print("Captcha finalizado")
 
         #confirmando '''
@@ -279,8 +298,8 @@ def realizandoLicenciamento(driver,placaVeiculo,renavamVeiculo,num_documentoVeic
         )
         btConsultar.click()
         print("clicando no botao consultar")
+        escreveLog("Consultando o veiculo")
         sleep(2)
-
         try:
             textoErro = ''                         #/html/body/center/div/table/tbody/tr/td/text()[2]
             erro =  driver.find_element(By.XPATH, "/html/body/center/div/table/tbody/tr/td")
@@ -288,7 +307,8 @@ def realizandoLicenciamento(driver,placaVeiculo,renavamVeiculo,num_documentoVeic
             print(textoErro)
         except:
             pass
-        print("verificando erro")
+        print("Verificando se houve erro na consulta do veiculo")
+        escreveLog("Verificando se houve erro na consulta do veiculo")
         #verificando informacoes no documento
         #caso nao tenha debito o
         #-------------------------------------
@@ -296,24 +316,29 @@ def realizandoLicenciamento(driver,placaVeiculo,renavamVeiculo,num_documentoVeic
         if textoErro:
             if textoErro[23:] == "Documento Proprietario informado não confere com o proprietario do veiculo.":
                 ObterDadosLicenciamentoDB.updateErro('ERRO - Documento N/ Confere','ERRO-Doc',idVeiculo)
-
+                escreveLog(f'Erro - Documento N/ Confere para o veiculo {placaVeiculo}')
             elif textoErro[23:] == "Documento do Proprietario invalido.":
                 print(type(idVeiculo))
                 #Idatual = f"{int(idVeiculo):,}".replace(",", ".")
                 #print(Idatual)
                 ObterDadosLicenciamentoDB.updateErro('ERRO - Documento Invalido','ERRO-Doc',idVeiculo)
+                escreveLog(f'Erro - Documento Invalido para o veiculo {placaVeiculo}')
 
             elif textoErro[23:] == "Confirme Nao sou Robo":
                 ObterDadosLicenciamentoDB.updateErro('ERRO - Captcha','ERRO-Captcha',idVeiculo)
+                escreveLog(f'Erro - Captcha para o veiculo {placaVeiculo}')
 
             elif textoErro[23:] == "Favor acessar o formulário para nova consulta":
                 ObterDadosLicenciamentoDB.updateErro('ERRO - Formulario','ERRO-Form',idVeiculo)
+                escreveLog(f'Erro - Acessar o formulário para nova consulta {placaVeiculo}')
 
             elif textoErro[23:] == "Renavam informado não confere com a Placa.":
                 ObterDadosLicenciamentoDB.updateErro('ERRO - Renavam Invalido','ERRO-Renavam',idVeiculo)
+                escreveLog(f'Erro - Renavam Invalido para o veiculo {placaVeiculo}')
 
             elif textoErro[23:] == "Operação cancelada. Veículo não emplacado na base local ou não possui infrações na base local":
-                ObterDadosLicenciamentoDB.updateErro('ERRO - N/ emplacado base local','RRO-baseLoc',idVeiculo)
+                ObterDadosLicenciamentoDB.updateErro('ERRO - N/ emplacado base local','ERRO-baseLoc',idVeiculo)
+                escreveLog(f'Erro - N/ emplacado na base local para o veiculo {placaVeiculo}')
             driver.close()
             driver.switch_to.window(driver.window_handles[0])
             driver.close()
@@ -327,7 +352,8 @@ def realizandoLicenciamento(driver,placaVeiculo,renavamVeiculo,num_documentoVeic
             if debitos == "Nenhum débito em aberto cadastrado para este veículo.":
                                                                      #-------------------------------------
                 ObterDadosLicenciamentoDB.update('QUITADO',idVeiculo)  #ADICIONAR COLUNA DE STATUS MULTAS
-                print("o veiculo nao tem nenhum debito")
+                print(fr"o veiculo da placa {placaVeiculo} nao tem nenhum debito")
+                escreveLog(fr"o veiculo da placa {placaVeiculo} nao tem nenhum debito")
                 driver.close()
                 driver.switch_to.window(driver.window_handles[0])
                 driver.close()
@@ -356,8 +382,8 @@ def realizandoLicenciamento(driver,placaVeiculo,renavamVeiculo,num_documentoVeic
                 existeLic = True
                 select.select_by_value("LicenciamentoExercicio")
                 ObterDadosLicenciamentoDB.update('A PAGAR', idVeiculo)
-                print('O veículo ainda possui pendência de licenciamento')
-
+                print(fr'O veículo da placa {placaVeiculo} ainda possui pendência de licenciamento')
+                escreveLog(fr'O veículo da placa {placaVeiculo} ainda possui pendência de licenciamento')
                 valorliceinciamento = driver.find_element(By.ID, 'spanDAR_LicenciamentoExercicio')
                 valorLicenciamento = valorliceinciamento.text
                 valorLicenciamento = valorLicenciamento[35:-4]
@@ -382,24 +408,23 @@ def realizandoLicenciamento(driver,placaVeiculo,renavamVeiculo,num_documentoVeic
             trs = tbody.find_elements(By.TAG_NAME, 'tr')
 
             if existeMulta and len(trs) > 2:
-                print("O veículo possui multas pendentes.")
+                print(fr"O veículo da placa {placaVeiculo} possui multas pendentes")
+                escreveLog(fr"O veículo da placa {placaVeiculo} possui multas pendentes")
                 numeroDebitos = len(trs) - 2  # Subtrai 2: cabeçalho e valor total
                 print('NÚMERO DE DÉBITOS DO VEÍCULO:', numeroDebitos)
-
-
                 valorDebito= driver.find_element(By.ID, 'spanDAR_Integral')
                 valorDebitoSemEdicao = valorDebito.text
                 valorDebitos = valorDebitoSemEdicao[20:-1]
                 if not numeroDebitos:
                     numeroDebitos = 0
-
-                print('numeros DE DÉBITOS:', numeroDebitos)    
+                #print('numeros DE DÉBITOS:', numeroDebitos)    
                 print('VALOR DEBITO:',valorDebitos)
-                print('ID VEICULO:',idVeiculo)
+                #print('ID VEICULO:',idVeiculo)
                 emitirMultas(numeroDebitos)
 
             else:
-                print('ID VEICULO:',idVeiculo)
+                print(fr'O veículo da placa {placaVeiculo} NAO possui multas pendentes')
+                escreveLog(fr'O veículo da placa {placaVeiculo} NAO possui multas pendentes')
                 ObterDadosLicenciamentoDB.updateValorSDebitos(idVeiculo)
 
             driver.close()
@@ -413,4 +438,6 @@ def realizandoLicenciamento(driver,placaVeiculo,renavamVeiculo,num_documentoVeic
 
     
 if __name__ == "__main__":
-    main()
+    if len(sys.argv) > 1:
+        final_placa = sys.argv[1]
+        main(final_placa)

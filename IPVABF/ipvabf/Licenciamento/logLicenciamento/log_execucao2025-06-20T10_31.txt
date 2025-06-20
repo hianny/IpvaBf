@@ -1,0 +1,12 @@
+2025-06-20T10_31: ---------Iniciando Sequencia de notas Sefaz---------
+2025-06-20T10_32: Abrindo o navegador
+2025-06-20T10_32: Iniciando o site do Detran
+2025-06-20T10_32: login realizado
+2025-06-20T10_32: O captcha foi resolvido
+2025-06-20T10_32: Consultando o veiculo
+2025-06-20T10_32: Verificando se houve erro na consulta do veiculo
+2025-06-20T10_32: O veículo da placa QCZ0J70 possui multas pendentes
+2025-06-20T10_32: Emitindo multa
+2025-06-20T10_33: Ocorreu um erro ao processar o veiculo QCZ0J70: cannot access free variable 'valorliceinciamento' where it is not associated with a value in enclosing scope
+2025-06-20T10_33: ---------Finalizando Sequencia de notas Sefaz---------
+2025-06-20T10_33: Enviando email de finalizacao

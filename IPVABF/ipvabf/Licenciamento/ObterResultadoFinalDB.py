@@ -38,8 +38,8 @@ def RetornoVeiculosSucesso():
     veiculosporPlacas = pd.DataFrame(VeiculosTotal, columns=['ID','PLACA','RENAVAM','CHASSIS','NUM_DOCUMENTO',
         'DT_ULT_CONSULTA_DETRAN','STATUS_LICENCIAMENTO','VALOR_LICENCIAMENTO','ARQUIVO_LICENCIAMENTO',
         'DT_ULT_CONSULTA_MULTAS','STATUS_MULTAS','MULTAS','PRECO_MULTAS','ARQUIVO_MULTAS'])
-    arquivo_csv = fr'ipvabf\Licenciamento\ResultadoCsv\resultado_Veiculo_A_PAGAR_{datetime.now().strftime("%d_%m_%Y")}.csv'
-    veiculosporPlacas.to_csv(arquivo_csv, index=False, header=False)
+    arquivo_csv = fr'ipvabf\Licenciamento\ResultadoCsv\Veiculos_A_PAGAR_{datetime.now().strftime("%d_%m_%Y")}.csv'
+    veiculosporPlacas.to_csv(arquivo_csv, index=False, header=True, sep=";")
     print('concluido csv de veiculos a pagar')
     #print(type(veiculosporPlacas))
     numeroVeiculos = len(veiculosporPlacas)
@@ -68,8 +68,8 @@ def RetornoVeiculosErro():
     VeiculosTotal = cursor.fetchall()
     veiculosporPlacas = pd.DataFrame(VeiculosTotal, columns=['ID','PLACA','RENAVAM','CHASSIS','NUM_DOCUMENTO',
         'DT_ULT_CONSULTA_DETRAN','STATUS_LICENCIAMENTO','DT_ULT_CONSULTA_MULTAS','STATUS_MULTAS'])
-    arquivo_csv = fr'ipvabf\Licenciamento\ResultadoCsv\resultado_Veiculo_ERRO_{datetime.now().strftime("%d_%m_%Y")}.csv'
-    veiculosporPlacas.to_csv(arquivo_csv, index=False, header=False)
+    arquivo_csv = fr'ipvabf\Licenciamento\ResultadoCsv\Veiculos_ERRO_{datetime.now().strftime("%d_%m_%Y")}.csv'
+    veiculosporPlacas.to_csv(arquivo_csv, index=False, header=False, sep=";")
     print('concluido csv de veiculos com erro')
     #print(type(veiculosporPlacas))
     numeroVeiculos = len(veiculosporPlacas)
@@ -98,8 +98,8 @@ def RetornoVeiculosSemDebito():
     VeiculosTotal = cursor.fetchall()
     veiculosporPlacas = pd.DataFrame(VeiculosTotal, columns=['ID','PLACA','RENAVAM','CHASSIS','NUM_DOCUMENTO',
         'DT_ULT_CONSULTA_DETRAN','STATUS_LICENCIAMENTO','DT_ULT_CONSULTA_MULTAS','STATUS_MULTAS'])
-    arquivo_csv = fr'ipvabf\Licenciamento\ResultadoCsv\resultado_Veiculo_SEM_DEBITO_{datetime.now().strftime("%d_%m_%Y")}.csv'
-    veiculosporPlacas.to_csv(arquivo_csv, index=False, header=False)
+    arquivo_csv = fr'ipvabf\Licenciamento\ResultadoCsv\Veiculos_SEM_DEBITO_{datetime.now().strftime("%d_%m_%Y")}.csv'
+    veiculosporPlacas.to_csv(arquivo_csv, index=False, header=False, sep=";")
     print('concluido csv de veiculos sem debito')
     numeroVeiculos = len(veiculosporPlacas)
     return arquivo_csv, numeroVeiculos

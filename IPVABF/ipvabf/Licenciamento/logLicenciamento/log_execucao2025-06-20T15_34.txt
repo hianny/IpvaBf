@@ -1,0 +1,519 @@
+2025-06-20T15_34: ---------Iniciando Sequencia de notas Sefaz---------
+2025-06-20T15_34: Abrindo o navegador
+2025-06-20T15_34: Iniciando o site do Detran
+2025-06-20T15_34: login realizado
+2025-06-20T15_35: O captcha foi resolvido
+2025-06-20T15_35: Consultando o veiculo
+2025-06-20T15_35: Verificando se houve erro na consulta do veiculo
+2025-06-20T15_35: O veículo da placa OBB9E70 ainda possui pendência de licenciamento
+2025-06-20T15_35: Emitindo licenciamento
+2025-06-20T15_35: O veículo da placa OBB9E70 NAO possui multas pendentes
+2025-06-20T15_35: Ocorreu um erro ao processar o veiculo OBB9E70: escreveLog() takes 1 positional argument but 2 were given
+2025-06-20T15_36: Abrindo o navegador
+2025-06-20T15_36: Iniciando o site do Detran
+2025-06-20T15_36: login realizado
+2025-06-20T15_36: O captcha foi resolvido
+2025-06-20T15_36: Consultando o veiculo
+2025-06-20T15_36: Verificando se houve erro na consulta do veiculo
+2025-06-20T15_36: O veículo da placa QCZ2E60 ainda possui pendência de licenciamento
+2025-06-20T15_36: Emitindo licenciamento
+2025-06-20T15_37: O veículo da placa QCZ2E60 NAO possui multas pendentes
+2025-06-20T15_37: Ocorreu um erro ao processar o veiculo QCZ2E60: escreveLog() takes 1 positional argument but 2 were given
+2025-06-20T15_38: Abrindo o navegador
+2025-06-20T15_38: Iniciando o site do Detran
+2025-06-20T15_38: login realizado
+2025-06-20T15_39: O captcha foi resolvido
+2025-06-20T15_39: Consultando o veiculo
+2025-06-20T15_39: Verificando se houve erro na consulta do veiculo
+2025-06-20T15_39: O veículo da placa QCV3F10 ainda possui pendência de licenciamento
+2025-06-20T15_39: Emitindo licenciamento
+2025-06-20T15_39: O veículo da placa QCV3F10 NAO possui multas pendentes
+2025-06-20T15_39: Ocorreu um erro ao processar o veiculo QCV3F10: escreveLog() takes 1 positional argument but 2 were given
+2025-06-20T15_39: Abrindo o navegador
+2025-06-20T15_39: Iniciando o site do Detran
+2025-06-20T15_40: login realizado
+2025-06-20T15_40: O captcha foi resolvido
+2025-06-20T15_40: Consultando o veiculo
+2025-06-20T15_40: Verificando se houve erro na consulta do veiculo
+2025-06-20T15_40: O veículo da placa QCE7970 ainda possui pendência de licenciamento
+2025-06-20T15_40: Emitindo licenciamento
+2025-06-20T15_40: O veículo da placa QCE7970 possui multas pendentes
+2025-06-20T15_40: Emitindo multa
+2025-06-20T15_40: Ocorreu um erro ao processar o veiculo QCE7970: escreveLog() takes 1 positional argument but 2 were given
+2025-06-20T15_41: Abrindo o navegador
+2025-06-20T15_41: Iniciando o site do Detran
+2025-06-20T15_41: login realizado
+2025-06-20T15_41: O captcha foi resolvido
+2025-06-20T15_41: Consultando o veiculo
+2025-06-20T15_41: Verificando se houve erro na consulta do veiculo
+2025-06-20T15_41: O veículo da placa AVT9210 ainda possui pendência de licenciamento
+2025-06-20T15_41: Emitindo licenciamento
+2025-06-20T15_42: O veículo da placa AVT9210 NAO possui multas pendentes
+2025-06-20T15_42: Ocorreu um erro ao processar o veiculo AVT9210: escreveLog() takes 1 positional argument but 2 were given
+2025-06-20T15_42: Abrindo o navegador
+2025-06-20T15_42: Iniciando o site do Detran
+2025-06-20T15_42: login realizado
+2025-06-20T15_43: O captcha foi resolvido
+2025-06-20T15_43: Consultando o veiculo
+2025-06-20T15_43: Verificando se houve erro na consulta do veiculo
+2025-06-20T15_43: Ocorreu um erro ao processar o veiculo RAR9B70: escreveLog() takes 1 positional argument but 2 were given
+2025-06-20T15_43: Abrindo o navegador
+2025-06-20T15_43: Iniciando o site do Detran
+2025-06-20T15_43: login realizado
+2025-06-20T15_44: O captcha foi resolvido
+2025-06-20T15_44: Consultando o veiculo
+2025-06-20T15_44: Verificando se houve erro na consulta do veiculo
+2025-06-20T15_44: O veículo da placa QCD9G70 possui multas pendentes
+2025-06-20T15_44: Emitindo multa
+2025-06-20T15_44: Ocorreu um erro ao processar o veiculo QCD9G70: cannot access free variable 'valorliceinciamento' where it is not associated with a value in enclosing scope
+2025-06-20T15_45: Abrindo o navegador
+2025-06-20T15_45: Iniciando o site do Detran
+2025-06-20T15_45: login realizado
+2025-06-20T15_45: O captcha foi resolvido
+2025-06-20T15_45: Consultando o veiculo
+2025-06-20T15_45: Verificando se houve erro na consulta do veiculo
+2025-06-20T15_45: O veículo da placa QCY9J70 ainda possui pendência de licenciamento
+2025-06-20T15_45: Emitindo licenciamento
+2025-06-20T15_45: O veículo da placa QCY9J70 NAO possui multas pendentes
+2025-06-20T15_45: Ocorreu um erro ao processar o veiculo QCY9J70: escreveLog() takes 1 positional argument but 2 were given
+2025-06-20T15_46: Abrindo o navegador
+2025-06-20T15_46: Iniciando o site do Detran
+2025-06-20T15_46: login realizado
+2025-06-20T15_46: O captcha foi resolvido
+2025-06-20T15_46: Consultando o veiculo
+2025-06-20T15_46: Verificando se houve erro na consulta do veiculo
+2025-06-20T15_47: O veículo da placa QBI8F40 ainda possui pendência de licenciamento
+2025-06-20T15_47: Emitindo licenciamento
+2025-06-20T15_47: Ocorreu um erro ao processar o veiculo QBI8F40: list index out of range
+2025-06-20T15_47: Abrindo o navegador
+2025-06-20T15_47: Iniciando o site do Detran
+2025-06-20T15_47: Ocorreu um erro ao processar o veiculo CMP0120: Message: element not interactable
+  (Session info: chrome=137.0.7151.104)
+Stacktrace:
+	GetHandleVerifier [0x0xa73b03+62899]
+	GetHandleVerifier [0x0xa73b44+62964]
+	(No symbol) [0x0x8a0f50]
+	(No symbol) [0x0x8e4219]
+	(No symbol) [0x0x8e2907]
+	(No symbol) [0x0x90e50c]
+	(No symbol) [0x0x8dee74]
+	(No symbol) [0x0x90e784]
+	(No symbol) [0x0x92fd81]
+	(No symbol) [0x0x90e306]
+	(No symbol) [0x0x8dd670]
+	(No symbol) [0x0x8de4e4]
+	GetHandleVerifier [0x0xcd4793+2556483]
+	GetHandleVerifier [0x0xccfd02+2537394]
+	GetHandleVerifier [0x0xa9a2fa+220586]
+	GetHandleVerifier [0x0xa8aae8+157080]
+	GetHandleVerifier [0x0xa9141d+184013]
+	GetHandleVerifier [0x0xa7ba68+95512]
+	GetHandleVerifier [0x0xa7bc10+95936]
+	GetHandleVerifier [0x0xa66b5a+9738]
+	BaseThreadInitThunk [0x0x75cc7ba9+25]
+	RtlInitializeExceptionChain [0x0x772bc36b+107]
+	RtlClearBits [0x0x772bc2ef+191]
+
+2025-06-20T15_48: Abrindo o navegador
+2025-06-20T15_48: Iniciando o site do Detran
+2025-06-20T15_48: Ocorreu um erro ao processar o veiculo IMQ5790: Message: element not interactable
+  (Session info: chrome=137.0.7151.104)
+Stacktrace:
+	GetHandleVerifier [0x0xf23b03+62899]
+	GetHandleVerifier [0x0xf23b44+62964]
+	(No symbol) [0x0xd50f50]
+	(No symbol) [0x0xd94219]
+	(No symbol) [0x0xd92907]
+	(No symbol) [0x0xdbe50c]
+	(No symbol) [0x0xd8ee74]
+	(No symbol) [0x0xdbe784]
+	(No symbol) [0x0xddfd81]
+	(No symbol) [0x0xdbe306]
+	(No symbol) [0x0xd8d670]
+	(No symbol) [0x0xd8e4e4]
+	GetHandleVerifier [0x0x1184793+2556483]
+	GetHandleVerifier [0x0x117fd02+2537394]
+	GetHandleVerifier [0x0xf4a2fa+220586]
+	GetHandleVerifier [0x0xf3aae8+157080]
+	GetHandleVerifier [0x0xf4141d+184013]
+	GetHandleVerifier [0x0xf2ba68+95512]
+	GetHandleVerifier [0x0xf2bc10+95936]
+	GetHandleVerifier [0x0xf16b5a+9738]
+	BaseThreadInitThunk [0x0x75cc7ba9+25]
+	RtlInitializeExceptionChain [0x0x772bc36b+107]
+	RtlClearBits [0x0x772bc2ef+191]
+
+2025-06-20T15_48: Abrindo o navegador
+2025-06-20T15_48: Iniciando o site do Detran
+2025-06-20T15_48: login realizado
+2025-06-20T15_49: O captcha foi resolvido
+2025-06-20T15_49: Consultando o veiculo
+2025-06-20T15_49: Verificando se houve erro na consulta do veiculo
+2025-06-20T15_49: o veiculo da placa NIY2B20 nao tem nenhum debito
+2025-06-20T15_49: Ocorreu um erro ao processar o veiculo NIY2B20: escreveLog() takes 1 positional argument but 2 were given
+2025-06-20T15_49: Abrindo o navegador
+2025-06-20T15_49: Iniciando o site do Detran
+2025-06-20T15_49: login realizado
+2025-06-20T15_50: O captcha foi resolvido
+2025-06-20T15_50: Consultando o veiculo
+2025-06-20T15_50: Verificando se houve erro na consulta do veiculo
+2025-06-20T15_50: o veiculo da placa QCD9H00 nao tem nenhum debito
+2025-06-20T15_50: Ocorreu um erro ao processar o veiculo QCD9H00: escreveLog() takes 1 positional argument but 2 were given
+2025-06-20T15_50: Abrindo o navegador
+2025-06-20T15_50: Iniciando o site do Detran
+2025-06-20T15_50: login realizado
+2025-06-20T15_51: O captcha foi resolvido
+2025-06-20T15_51: Consultando o veiculo
+2025-06-20T15_51: Verificando se houve erro na consulta do veiculo
+2025-06-20T15_51: Ocorreu um erro ao processar o veiculo SPJ7E00: escreveLog() takes 1 positional argument but 2 were given
+2025-06-20T15_51: Abrindo o navegador
+2025-06-20T15_51: Iniciando o site do Detran
+2025-06-20T15_52: login realizado
+2025-06-20T15_52: O captcha foi resolvido
+2025-06-20T15_52: Consultando o veiculo
+2025-06-20T15_52: Verificando se houve erro na consulta do veiculo
+2025-06-20T15_52: o veiculo da placa SPS9H20 nao tem nenhum debito
+2025-06-20T15_52: Ocorreu um erro ao processar o veiculo SPS9H20: escreveLog() takes 1 positional argument but 2 were given
+2025-06-20T15_52: Abrindo o navegador
+2025-06-20T15_52: Iniciando o site do Detran
+2025-06-20T15_52: login realizado
+2025-06-20T15_53: O captcha foi resolvido
+2025-06-20T15_53: Consultando o veiculo
+2025-06-20T15_53: Verificando se houve erro na consulta do veiculo
+2025-06-20T15_53: o veiculo da placa DUM7520 nao tem nenhum debito
+2025-06-20T15_53: Ocorreu um erro ao processar o veiculo DUM7520: escreveLog() takes 1 positional argument but 2 were given
+2025-06-20T15_53: Abrindo o navegador
+2025-06-20T15_53: Iniciando o site do Detran
+2025-06-20T15_53: login realizado
+2025-06-20T15_54: O captcha foi resolvido
+2025-06-20T15_54: Consultando o veiculo
+2025-06-20T15_54: Verificando se houve erro na consulta do veiculo
+2025-06-20T15_54: o veiculo da placa QCC7G00 nao tem nenhum debito
+2025-06-20T15_54: Ocorreu um erro ao processar o veiculo QCC7G00: escreveLog() takes 1 positional argument but 2 were given
+2025-06-20T15_54: Abrindo o navegador
+2025-06-20T15_54: Iniciando o site do Detran
+2025-06-20T15_54: login realizado
+2025-06-20T15_54: O captcha foi resolvido
+2025-06-20T15_54: Consultando o veiculo
+2025-06-20T15_55: Verificando se houve erro na consulta do veiculo
+2025-06-20T15_55: Erro - Renavam Invalido para o veiculo RAW7H00
+2025-06-20T15_55: Ocorreu um erro ao processar o veiculo RAW7H00: escreveLog() takes 1 positional argument but 2 were given
+2025-06-20T15_55: Abrindo o navegador
+2025-06-20T15_55: Iniciando o site do Detran
+2025-06-20T15_55: login realizado
+2025-06-20T15_55: O captcha foi resolvido
+2025-06-20T15_55: Consultando o veiculo
+2025-06-20T15_55: Verificando se houve erro na consulta do veiculo
+2025-06-20T15_55: o veiculo da placa SPN9J20 nao tem nenhum debito
+2025-06-20T15_55: Ocorreu um erro ao processar o veiculo SPN9J20: escreveLog() takes 1 positional argument but 2 were given
+2025-06-20T15_56: Abrindo o navegador
+2025-06-20T15_56: Iniciando o site do Detran
+2025-06-20T15_56: login realizado
+2025-06-20T15_56: O captcha foi resolvido
+2025-06-20T15_56: Consultando o veiculo
+2025-06-20T15_56: Verificando se houve erro na consulta do veiculo
+2025-06-20T15_57: o veiculo da placa SPO4E90 nao tem nenhum debito
+2025-06-20T15_57: Ocorreu um erro ao processar o veiculo SPO4E90: escreveLog() takes 1 positional argument but 2 were given
+2025-06-20T15_57: Abrindo o navegador
+2025-06-20T15_57: Iniciando o site do Detran
+2025-06-20T15_57: login realizado
+2025-06-20T15_57: O captcha foi resolvido
+2025-06-20T15_57: Consultando o veiculo
+2025-06-20T15_57: Verificando se houve erro na consulta do veiculo
+2025-06-20T15_57: O veículo da placa QCG8E10 ainda possui pendência de licenciamento
+2025-06-20T15_57: Emitindo licenciamento
+2025-06-20T15_58: O veículo da placa QCG8E10 NAO possui multas pendentes
+2025-06-20T15_58: Ocorreu um erro ao processar o veiculo QCG8E10: escreveLog() takes 1 positional argument but 2 were given
+2025-06-20T15_58: Abrindo o navegador
+2025-06-20T15_58: Iniciando o site do Detran
+2025-06-20T15_58: login realizado
+2025-06-20T15_59: O captcha foi resolvido
+2025-06-20T15_59: Consultando o veiculo
+2025-06-20T15_59: Verificando se houve erro na consulta do veiculo
+2025-06-20T15_59: o veiculo da placa SPN9H60 nao tem nenhum debito
+2025-06-20T15_59: Ocorreu um erro ao processar o veiculo SPN9H60: escreveLog() takes 1 positional argument but 2 were given
+2025-06-20T15_59: Abrindo o navegador
+2025-06-20T15_59: Iniciando o site do Detran
+2025-06-20T15_59: login realizado
+2025-06-20T16_00: O captcha foi resolvido
+2025-06-20T16_00: Consultando o veiculo
+2025-06-20T16_00: Verificando se houve erro na consulta do veiculo
+2025-06-20T16_00: O veículo da placa QCZ1E60 ainda possui pendência de licenciamento
+2025-06-20T16_00: Emitindo licenciamento
+2025-06-20T16_00: O veículo da placa QCZ1E60 NAO possui multas pendentes
+2025-06-20T16_00: Ocorreu um erro ao processar o veiculo QCZ1E60: escreveLog() takes 1 positional argument but 2 were given
+2025-06-20T16_00: Abrindo o navegador
+2025-06-20T16_00: Iniciando o site do Detran
+2025-06-20T16_01: login realizado
+2025-06-20T16_01: O captcha foi resolvido
+2025-06-20T16_01: Consultando o veiculo
+2025-06-20T16_01: Verificando se houve erro na consulta do veiculo
+2025-06-20T16_01: O veículo da placa LKT6210 ainda possui pendência de licenciamento
+2025-06-20T16_01: Emitindo licenciamento
+2025-06-20T16_01: Ocorreu um erro ao processar o veiculo LKT6210: list index out of range
+2025-06-20T16_01: Abrindo o navegador
+2025-06-20T16_01: Iniciando o site do Detran
+2025-06-20T16_01: Ocorreu um erro ao processar o veiculo QCZ1E00: Message: element not interactable
+  (Session info: chrome=137.0.7151.104)
+Stacktrace:
+	GetHandleVerifier [0x0xf43b03+62899]
+	GetHandleVerifier [0x0xf43b44+62964]
+	(No symbol) [0x0xd70f50]
+	(No symbol) [0x0xdb4219]
+	(No symbol) [0x0xdb2907]
+	(No symbol) [0x0xdde50c]
+	(No symbol) [0x0xdaee74]
+	(No symbol) [0x0xdde784]
+	(No symbol) [0x0xdffd81]
+	(No symbol) [0x0xdde306]
+	(No symbol) [0x0xdad670]
+	(No symbol) [0x0xdae4e4]
+	GetHandleVerifier [0x0x11a4793+2556483]
+	GetHandleVerifier [0x0x119fd02+2537394]
+	GetHandleVerifier [0x0xf6a2fa+220586]
+	GetHandleVerifier [0x0xf5aae8+157080]
+	GetHandleVerifier [0x0xf6141d+184013]
+	GetHandleVerifier [0x0xf4ba68+95512]
+	GetHandleVerifier [0x0xf4bc10+95936]
+	GetHandleVerifier [0x0xf36b5a+9738]
+	BaseThreadInitThunk [0x0x75cc7ba9+25]
+	RtlInitializeExceptionChain [0x0x772bc36b+107]
+	RtlClearBits [0x0x772bc2ef+191]
+
+2025-06-20T16_02: Abrindo o navegador
+2025-06-20T16_02: Iniciando o site do Detran
+2025-06-20T16_02: login realizado
+2025-06-20T16_03: O captcha foi resolvido
+2025-06-20T16_03: Consultando o veiculo
+2025-06-20T16_03: Verificando se houve erro na consulta do veiculo
+2025-06-20T16_03: O veículo da placa QCV3H50 ainda possui pendência de licenciamento
+2025-06-20T16_03: Emitindo licenciamento
+2025-06-20T16_03: O veículo da placa QCV3H50 NAO possui multas pendentes
+2025-06-20T16_03: Ocorreu um erro ao processar o veiculo QCV3H50: escreveLog() takes 1 positional argument but 2 were given
+2025-06-20T16_03: Abrindo o navegador
+2025-06-20T16_03: Iniciando o site do Detran
+2025-06-20T16_04: login realizado
+2025-06-20T16_04: O captcha foi resolvido
+2025-06-20T16_04: Consultando o veiculo
+2025-06-20T16_04: Verificando se houve erro na consulta do veiculo
+2025-06-20T16_04: O veículo da placa RRR9B10 ainda possui pendência de licenciamento
+2025-06-20T16_04: Emitindo licenciamento
+2025-06-20T16_04: O veículo da placa RRR9B10 NAO possui multas pendentes
+2025-06-20T16_04: Ocorreu um erro ao processar o veiculo RRR9B10: escreveLog() takes 1 positional argument but 2 were given
+2025-06-20T16_05: Abrindo o navegador
+2025-06-20T16_05: Iniciando o site do Detran
+2025-06-20T16_05: login realizado
+2025-06-20T16_05: O captcha foi resolvido
+2025-06-20T16_05: Consultando o veiculo
+2025-06-20T16_05: Verificando se houve erro na consulta do veiculo
+2025-06-20T16_05: o veiculo da placa QCZ2B80 nao tem nenhum debito
+2025-06-20T16_05: Ocorreu um erro ao processar o veiculo QCZ2B80: escreveLog() takes 1 positional argument but 2 were given
+2025-06-20T16_06: Abrindo o navegador
+2025-06-20T16_06: Iniciando o site do Detran
+2025-06-20T16_06: login realizado
+2025-06-20T16_06: O captcha foi resolvido
+2025-06-20T16_06: Consultando o veiculo
+2025-06-20T16_06: Verificando se houve erro na consulta do veiculo
+2025-06-20T16_06: o veiculo da placa SPM3E10 nao tem nenhum debito
+2025-06-20T16_06: Ocorreu um erro ao processar o veiculo SPM3E10: escreveLog() takes 1 positional argument but 2 were given
+2025-06-20T16_06: Abrindo o navegador
+2025-06-20T16_06: Iniciando o site do Detran
+2025-06-20T16_07: login realizado
+2025-06-20T16_07: O captcha foi resolvido
+2025-06-20T16_07: Consultando o veiculo
+2025-06-20T16_07: Verificando se houve erro na consulta do veiculo
+2025-06-20T16_07: O veículo da placa QCG8F90 ainda possui pendência de licenciamento
+2025-06-20T16_07: Emitindo licenciamento
+2025-06-20T16_07: O veículo da placa QCG8F90 NAO possui multas pendentes
+2025-06-20T16_07: Ocorreu um erro ao processar o veiculo QCG8F90: escreveLog() takes 1 positional argument but 2 were given
+2025-06-20T16_08: Abrindo o navegador
+2025-06-20T16_08: Iniciando o site do Detran
+2025-06-20T16_08: login realizado
+2025-06-20T16_08: O captcha foi resolvido
+2025-06-20T16_08: Consultando o veiculo
+2025-06-20T16_08: Verificando se houve erro na consulta do veiculo
+2025-06-20T16_08: o veiculo da placa SPS9H10 nao tem nenhum debito
+2025-06-20T16_08: Ocorreu um erro ao processar o veiculo SPS9H10: escreveLog() takes 1 positional argument but 2 were given
+2025-06-20T16_08: Abrindo o navegador
+2025-06-20T16_08: Iniciando o site do Detran
+2025-06-20T16_09: login realizado
+2025-06-20T16_09: O captcha foi resolvido
+2025-06-20T16_09: Consultando o veiculo
+2025-06-20T16_09: Verificando se houve erro na consulta do veiculo
+2025-06-20T16_09: o veiculo da placa QCZ1J20 nao tem nenhum debito
+2025-06-20T16_09: Ocorreu um erro ao processar o veiculo QCZ1J20: escreveLog() takes 1 positional argument but 2 were given
+2025-06-20T16_09: Abrindo o navegador
+2025-06-20T16_09: Iniciando o site do Detran
+2025-06-20T16_09: Ocorreu um erro ao processar o veiculo QCZ1A50: Message: element not interactable
+  (Session info: chrome=137.0.7151.104)
+Stacktrace:
+	GetHandleVerifier [0x0x703b03+62899]
+	GetHandleVerifier [0x0x703b44+62964]
+	(No symbol) [0x0x530f50]
+	(No symbol) [0x0x574219]
+	(No symbol) [0x0x572907]
+	(No symbol) [0x0x59e50c]
+	(No symbol) [0x0x56ee74]
+	(No symbol) [0x0x59e784]
+	(No symbol) [0x0x5bfd81]
+	(No symbol) [0x0x59e306]
+	(No symbol) [0x0x56d670]
+	(No symbol) [0x0x56e4e4]
+	GetHandleVerifier [0x0x964793+2556483]
+	GetHandleVerifier [0x0x95fd02+2537394]
+	GetHandleVerifier [0x0x72a2fa+220586]
+	GetHandleVerifier [0x0x71aae8+157080]
+	GetHandleVerifier [0x0x72141d+184013]
+	GetHandleVerifier [0x0x70ba68+95512]
+	GetHandleVerifier [0x0x70bc10+95936]
+	GetHandleVerifier [0x0x6f6b5a+9738]
+	BaseThreadInitThunk [0x0x75cc7ba9+25]
+	RtlInitializeExceptionChain [0x0x772bc36b+107]
+	RtlClearBits [0x0x772bc2ef+191]
+
+2025-06-20T16_10: Abrindo o navegador
+2025-06-20T16_10: Iniciando o site do Detran
+2025-06-20T16_10: login realizado
+2025-06-20T16_10: O captcha foi resolvido
+2025-06-20T16_10: Consultando o veiculo
+2025-06-20T16_10: Verificando se houve erro na consulta do veiculo
+2025-06-20T16_10: o veiculo da placa SPO0D60 nao tem nenhum debito
+2025-06-20T16_10: Ocorreu um erro ao processar o veiculo SPO0D60: escreveLog() takes 1 positional argument but 2 were given
+2025-06-20T16_11: Abrindo o navegador
+2025-06-20T16_11: Iniciando o site do Detran
+2025-06-20T16_11: login realizado
+2025-06-20T16_11: O captcha foi resolvido
+2025-06-20T16_11: Consultando o veiculo
+2025-06-20T16_11: Verificando se houve erro na consulta do veiculo
+2025-06-20T16_11: O veículo da placa RAK3I70 ainda possui pendência de licenciamento
+2025-06-20T16_11: Emitindo licenciamento
+2025-06-20T16_11: O veículo da placa RAK3I70 NAO possui multas pendentes
+2025-06-20T16_11: Ocorreu um erro ao processar o veiculo RAK3I70: escreveLog() takes 1 positional argument but 2 were given
+2025-06-20T16_12: Abrindo o navegador
+2025-06-20T16_12: Iniciando o site do Detran
+2025-06-20T16_12: login realizado
+2025-06-20T16_12: O captcha foi resolvido
+2025-06-20T16_12: Consultando o veiculo
+2025-06-20T16_12: Verificando se houve erro na consulta do veiculo
+2025-06-20T16_12: O veículo da placa QCZ1F30 ainda possui pendência de licenciamento
+2025-06-20T16_12: Emitindo licenciamento
+2025-06-20T16_13: O veículo da placa QCZ1F30 NAO possui multas pendentes
+2025-06-20T16_13: Ocorreu um erro ao processar o veiculo QCZ1F30: escreveLog() takes 1 positional argument but 2 were given
+2025-06-20T16_13: Abrindo o navegador
+2025-06-20T16_13: Iniciando o site do Detran
+2025-06-20T16_13: login realizado
+2025-06-20T16_13: O captcha foi resolvido
+2025-06-20T16_13: Consultando o veiculo
+2025-06-20T16_13: Verificando se houve erro na consulta do veiculo
+2025-06-20T16_13: o veiculo da placa QCG8H60 nao tem nenhum debito
+2025-06-20T16_13: Ocorreu um erro ao processar o veiculo QCG8H60: escreveLog() takes 1 positional argument but 2 were given
+2025-06-20T16_14: Abrindo o navegador
+2025-06-20T16_14: Iniciando o site do Detran
+2025-06-20T16_14: login realizado
+2025-06-20T16_14: O captcha foi resolvido
+2025-06-20T16_14: Consultando o veiculo
+2025-06-20T16_14: Verificando se houve erro na consulta do veiculo
+2025-06-20T16_14: O veículo da placa QCV3I00 ainda possui pendência de licenciamento
+2025-06-20T16_14: Emitindo licenciamento
+2025-06-20T16_15: O veículo da placa QCV3I00 NAO possui multas pendentes
+2025-06-20T16_15: Ocorreu um erro ao processar o veiculo QCV3I00: escreveLog() takes 1 positional argument but 2 were given
+2025-06-20T16_15: Abrindo o navegador
+2025-06-20T16_15: Iniciando o site do Detran
+2025-06-20T16_15: login realizado
+2025-06-20T16_15: O captcha foi resolvido
+2025-06-20T16_15: Consultando o veiculo
+2025-06-20T16_15: Verificando se houve erro na consulta do veiculo
+2025-06-20T16_15: o veiculo da placa QCD9I00 nao tem nenhum debito
+2025-06-20T16_15: Ocorreu um erro ao processar o veiculo QCD9I00: escreveLog() takes 1 positional argument but 2 were given
+2025-06-20T16_16: Abrindo o navegador
+2025-06-20T16_16: Iniciando o site do Detran
+2025-06-20T16_16: login realizado
+2025-06-20T16_16: O captcha foi resolvido
+2025-06-20T16_16: Consultando o veiculo
+2025-06-20T16_16: Verificando se houve erro na consulta do veiculo
+2025-06-20T16_16: O veículo da placa SPN9I80 ainda possui pendência de licenciamento
+2025-06-20T16_16: Emitindo licenciamento
+2025-06-20T16_17: O veículo da placa SPN9I80 NAO possui multas pendentes
+2025-06-20T16_17: Ocorreu um erro ao processar o veiculo SPN9I80: escreveLog() takes 1 positional argument but 2 were given
+2025-06-20T16_17: Abrindo o navegador
+2025-06-20T16_17: Iniciando o site do Detran
+2025-06-20T16_17: login realizado
+2025-06-20T16_18: O captcha foi resolvido
+2025-06-20T16_18: Consultando o veiculo
+2025-06-20T16_18: Verificando se houve erro na consulta do veiculo
+2025-06-20T16_18: O veículo da placa EGS5A20 ainda possui pendência de licenciamento
+2025-06-20T16_18: Emitindo licenciamento
+2025-06-20T16_18: O veículo da placa EGS5A20 NAO possui multas pendentes
+2025-06-20T16_18: Ocorreu um erro ao processar o veiculo EGS5A20: escreveLog() takes 1 positional argument but 2 were given
+2025-06-20T16_19: Abrindo o navegador
+2025-06-20T16_19: Iniciando o site do Detran
+2025-06-20T16_19: login realizado
+2025-06-20T16_19: O captcha foi resolvido
+2025-06-20T16_19: Consultando o veiculo
+2025-06-20T16_19: Verificando se houve erro na consulta do veiculo
+2025-06-20T16_19: o veiculo da placa QCH7H20 nao tem nenhum debito
+2025-06-20T16_19: Ocorreu um erro ao processar o veiculo QCH7H20: escreveLog() takes 1 positional argument but 2 were given
+2025-06-20T16_19: Abrindo o navegador
+2025-06-20T16_19: Iniciando o site do Detran
+2025-06-20T16_20: login realizado
+2025-06-20T16_20: O captcha foi resolvido
+2025-06-20T16_20: Consultando o veiculo
+2025-06-20T16_20: Verificando se houve erro na consulta do veiculo
+2025-06-20T16_20: O veículo da placa QCV3D30 ainda possui pendência de licenciamento
+2025-06-20T16_20: Emitindo licenciamento
+2025-06-20T16_20: O veículo da placa QCV3D30 NAO possui multas pendentes
+2025-06-20T16_20: Ocorreu um erro ao processar o veiculo QCV3D30: escreveLog() takes 1 positional argument but 2 were given
+2025-06-20T16_21: Abrindo o navegador
+2025-06-20T16_21: Iniciando o site do Detran
+2025-06-20T16_21: login realizado
+2025-06-20T16_21: O captcha foi resolvido
+2025-06-20T16_21: Consultando o veiculo
+2025-06-20T16_21: Verificando se houve erro na consulta do veiculo
+2025-06-20T16_21: O veículo da placa QCG8G40 ainda possui pendência de licenciamento
+2025-06-20T16_21: Emitindo licenciamento
+2025-06-20T16_21: O veículo da placa QCG8G40 NAO possui multas pendentes
+2025-06-20T16_21: Ocorreu um erro ao processar o veiculo QCG8G40: escreveLog() takes 1 positional argument but 2 were given
+2025-06-20T16_22: Abrindo o navegador
+2025-06-20T16_22: Iniciando o site do Detran
+2025-06-20T16_22: login realizado
+2025-06-20T16_23: O captcha foi resolvido
+2025-06-20T16_23: Consultando o veiculo
+2025-06-20T16_23: Verificando se houve erro na consulta do veiculo
+2025-06-20T16_23: Ocorreu um erro ao processar o veiculo RAX1J60: escreveLog() takes 1 positional argument but 2 were given
+2025-06-20T16_23: Abrindo o navegador
+2025-06-20T16_23: Iniciando o site do Detran
+2025-06-20T16_23: login realizado
+2025-06-20T16_23: O captcha foi resolvido
+2025-06-20T16_23: Consultando o veiculo
+2025-06-20T16_24: Verificando se houve erro na consulta do veiculo
+2025-06-20T16_24: O veículo da placa SPC1G50 ainda possui pendência de licenciamento
+2025-06-20T16_24: Emitindo licenciamento
+2025-06-20T16_24: O veículo da placa SPC1G50 possui multas pendentes
+2025-06-20T16_24: Emitindo multa
+2025-06-20T16_24: Ocorreu um erro ao processar o veiculo SPC1G50: escreveLog() takes 1 positional argument but 2 were given
+2025-06-20T16_24: Abrindo o navegador
+2025-06-20T16_25: Iniciando o site do Detran
+2025-06-20T16_25: login realizado
+2025-06-20T16_25: O captcha foi resolvido
+2025-06-20T16_25: Consultando o veiculo
+2025-06-20T16_25: Verificando se houve erro na consulta do veiculo
+2025-06-20T16_25: o veiculo da placa LSW7E90 nao tem nenhum debito
+2025-06-20T16_25: Ocorreu um erro ao processar o veiculo LSW7E90: escreveLog() takes 1 positional argument but 2 were given
+2025-06-20T16_25: Abrindo o navegador
+2025-06-20T16_26: Iniciando o site do Detran
+2025-06-20T16_26: login realizado
+2025-06-20T16_26: O captcha foi resolvido
+2025-06-20T16_26: Consultando o veiculo
+2025-06-20T16_26: Verificando se houve erro na consulta do veiculo
+2025-06-20T16_26: o veiculo da placa SPO4D20 nao tem nenhum debito
+2025-06-20T16_26: Ocorreu um erro ao processar o veiculo SPO4D20: escreveLog() takes 1 positional argument but 2 were given
+2025-06-20T16_26: Abrindo o navegador
+2025-06-20T16_26: Iniciando o site do Detran
+2025-06-20T16_27: login realizado
+2025-06-20T16_27: O captcha foi resolvido
+2025-06-20T16_27: Consultando o veiculo
+2025-06-20T16_27: Verificando se houve erro na consulta do veiculo
+2025-06-20T16_27: o veiculo da placa RAL1G40 nao tem nenhum debito
+2025-06-20T16_27: Ocorreu um erro ao processar o veiculo RAL1G40: escreveLog() takes 1 positional argument but 2 were given
+2025-06-20T16_27: Abrindo o navegador
+2025-06-20T16_27: Iniciando o site do Detran

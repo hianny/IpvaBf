@@ -8,9 +8,9 @@ dsn = 'oracledbdev.bomfuturo.local:1521/homollnx'
 connectionBd = oracledb.connect(user=usernameBd, password=passwordBd, dsn=dsn)
 cursor = connectionBd.cursor()
 
-def RetornoVeiculosLicenciamento():
+def RetornoVeiculosLicenciamento(final_placa):
     cursor.execute(
-        '''SELECT 
+        fr'''SELECT 
                 ID
                 ,PLACA
                 ,RENAVAM
@@ -19,7 +19,7 @@ def RetornoVeiculosLicenciamento():
             FROM IPVA_LICENCIAMENTO_MULTAS 
             WHERE NUM_DOCUMENTO IS NOT NULL
             --AND PLACA = 'QCZ0J70' 
-            AND  substr(placa,7,1) IN ('0') 
+            AND  substr(placa,7,1) IN ('{final_placa}') 
             AND STATUS_MULTAS IS NOT null  
             '''
         ) 
@@ -30,6 +30,30 @@ def RetornoVeiculosLicenciamento():
     #df.to_csv(fr'sequencianotas\cnpjFiliais\resultado.csv', index=False, header=False)
     print(type(veiculosporPlacas))
     return VeiculosTotal
+
+
+def RetornoVeiculosErro():
+    cursor.execute(
+        fr'''SELECT 
+                ID
+                ,PLACA
+                ,RENAVAM
+                ,CHASSI
+                ,NUM_DOCUMENTO 
+            FROM IPVA_LICENCIAMENTO_MULTAS 
+            WHERE NUM_DOCUMENTO IS NOT NULL
+            AND (STATUS_MULTAS LIKE '%ERRO%'
+            OR STATUS_LICENCIAMENTO LIKE '%ERRO%')   
+            '''
+        ) 
+    # Usar fetchall() para pegar todas as linhas
+    VeiculosTotal = cursor.fetchall()
+    veiculosporPlacas = pandas.DataFrame(VeiculosTotal,columns=['ID','PLACA','RENAVAM','CHASSIS','NUM_DOCUMENTO'])
+    #VEICULOSPLACA = df.columns['PLACA','RENAVAM','CHASSIS']
+    #df.to_csv(fr'sequencianotas\cnpjFiliais\resultado.csv', index=False, header=False)
+    print(type(veiculosporPlacas))
+    return VeiculosTotal
+
 
 def updateErro(mensagemErro,erroPmulta,idVeiculoAtual):
     cursor.execute(fr"""
@@ -42,7 +66,7 @@ def updateErro(mensagemErro,erroPmulta,idVeiculoAtual):
             WHERE  ID = '{idVeiculoAtual}'
             """)
     connectionBd.commit()
-    print('Mudanca no banco: ',cursor.rowcount)
+    print('Mudanca no banco com update de erro geral: ',cursor.rowcount)
 
 
 def updateErroLic(idVeiculoAtual):
@@ -54,7 +78,7 @@ def updateErroLic(idVeiculoAtual):
             WHERE  ID = '{idVeiculoAtual}'
             """)
     connectionBd.commit()
-    print('Mudanca no banco: ',cursor.rowcount)
+    print('Mudanca no banco com update de erro no licenciamento: ',cursor.rowcount)
 
 def updateErroMulta(idVeiculoAtual):
     cursor.execute(fr"""
@@ -65,7 +89,7 @@ def updateErroMulta(idVeiculoAtual):
             WHERE  ID = '{idVeiculoAtual}'
             """)
     connectionBd.commit()
-    print('Mudanca no banco: ',cursor.rowcount)
+    print('Mudanca no bancocom update de erro nas multas: ',cursor.rowcount)
 
 
 def update(mensagem,idVeiculoAtual):
@@ -79,7 +103,7 @@ def update(mensagem,idVeiculoAtual):
               WHERE  ID = '{idVeiculoAtual}'
             """)
     connectionBd.commit()
-    print('Mudanca no banco: ',cursor.rowcount) 
+    print('Mudanca no banco com update: ',cursor.rowcount) 
 
 def updateValor(valorLicenciamento,arquivoLicenciamento,idVeiculoAtual):
     sql = (fr"""
@@ -96,7 +120,7 @@ def updateValor(valorLicenciamento,arquivoLicenciamento,idVeiculoAtual):
         "idVeiculo": idVeiculoAtual
     })   
     connectionBd.commit()
-    print('Mudanca no banco: ',cursor.rowcount)
+    print('Mudanca no banco com update de valor no licenciamento: ',cursor.rowcount)
 
 def updateValorMultas(valorDebitos,arquivoDebitos,caminhoMultas,idDebitos):
     arquivoDebitos = arquivoDebitos.replace(',', '.')
@@ -110,7 +134,7 @@ def updateValorMultas(valorDebitos,arquivoDebitos,caminhoMultas,idDebitos):
         WHERE ID = '{idDebitos}'
             """)
     connectionBd.commit()
-    print('Mudanca no banco: ',cursor.rowcount)
+    print('Mudanca no banco com update de valor nas multas: ',cursor.rowcount)
   
 
 def updateValorSDebitos(idDebitos):
@@ -122,7 +146,7 @@ def updateValorSDebitos(idDebitos):
         WHERE ID = '{idDebitos}'
             """)
     connectionBd.commit()
-    print('Mudanca no banco: ',cursor.rowcount)    
+    print('Mudanca no banco com update de veiculo sem debito nas multas: ',cursor.rowcount)    
 
 def updateValorSDebitosLic(idDebitos):
     cursor.execute(fr"""
@@ -132,10 +156,11 @@ def updateValorSDebitosLic(idDebitos):
         WHERE ID = '{idDebitos}'
             """)
     connectionBd.commit()
-    print('Mudanca no banco: ',cursor.rowcount)        
+    print('Mudanca no banco com update de veiculo sem debito no licenciamento: ',cursor.rowcount)        
 
 if __name__ == "__main__":
-    RetornoVeiculosLicenciamento()
+    RetornoVeiculosLicenciamento('')
+    RetornoVeiculosErro()
     updateErro('','')
     updateErroLic('')
     updateValorSDebitosLic('')

@@ -64,4 +64,4 @@ def capsolver():
     return None
 
 token = capsolver()
-print("Token resolvido:")
+print("Token resolvido")
