@@ -1,0 +1,4 @@
+2025-06-27T10_52: ---------Iniciando Sequencia de notas Sefaz---------
+2025-06-27T10_52: ---------Finalizando Sequencia de notas Sefaz---------
+2025-06-27T10_52: Ocorreu um erro no FOR principal: cannot access local variable 'placaVeiculo' where it is not associated with a value
+2025-06-27T10_52: ---------Finalizando Sequencia de notas Sefaz---------

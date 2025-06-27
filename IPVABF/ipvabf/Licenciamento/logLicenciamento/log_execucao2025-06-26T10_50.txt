@@ -1,0 +1,9 @@
+2025-06-26T10_50: ---------Iniciando Sequencia de notas Sefaz---------
+2025-06-26T10_50: Abrindo o navegador
+2025-06-26T10_50: Iniciando o site do Detran
+2025-06-26T10_50: login realizado
+2025-06-26T10_50: O captcha foi resolvido
+2025-06-26T10_50: Consultando o veiculo
+2025-06-26T10_51: Verificando se houve erro na consulta do veiculo
+2025-06-26T10_51: o veiculo da placa AIB6I89 nao tem nenhum debito
+2025-06-26T10_51: Ocorreu um erro ao processar o veiculo AIB6I89: escreveLog() takes 1 positional argument but 2 were given

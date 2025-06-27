@@ -1,0 +1,14 @@
+2025-06-27T09_14: ---------Iniciando Sequencia de notas Sefaz---------
+2025-06-27T09_14: Abrindo o navegador
+2025-06-27T09_14: Iniciando o site do Detran
+2025-06-27T09_15: login realizado
+2025-06-27T09_15: O captcha foi resolvido
+2025-06-27T09_15: Consultando o veiculo
+2025-06-27T09_15: Verificando se houve erro na consulta do veiculo
+2025-06-27T09_15: O veículo da placa OBE3I59 ainda possui pendência de licenciamento
+2025-06-27T09_15: Emitindo licenciamento
+2025-06-27T09_16: O veículo da placa OBE3I59 NAO possui multas pendentes
+2025-06-27T09_16: Finalizando as consultas do veiculo com a placa: OBE3I59
+2025-06-27T09_16: fechando navegador definitivamente
+2025-06-27T09_16: ---------Finalizando Sequencia de notas Sefaz---------
+2025-06-27T09_16: Enviando email de finalizacao

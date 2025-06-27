@@ -18,9 +18,9 @@ def RetornoVeiculosLicenciamento(final_placa):
                 ,NUM_DOCUMENTO 
             FROM IPVA_LICENCIAMENTO_MULTAS 
             WHERE NUM_DOCUMENTO IS NOT NULL
-            --AND PLACA = 'QCZ0J70' 
+            --AND PLACA = 'OBE3I59' 
             AND  substr(placa,7,1) IN ('{final_placa}') 
-            AND STATUS_MULTAS IS NOT null  
+            AND STATUS_MULTAS IS null  
             '''
         ) 
     # Usar fetchall() para pegar todas as linhas

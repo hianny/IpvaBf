@@ -1,0 +1,10 @@
+2025-06-26T13_06: ---------Iniciando Sequencia de notas Sefaz---------
+2025-06-26T13_06: Abrindo o navegador
+2025-06-26T13_06: Iniciando o site do Detran
+2025-06-26T13_06: login realizado
+2025-06-26T13_07: O captcha foi resolvido
+2025-06-26T13_07: Consultando o veiculo
+2025-06-26T13_07: Verificando se houve erro na consulta do veiculo
+2025-06-26T13_07: O veículo da placa QCI5J89 possui multas pendentes
+2025-06-26T13_07: Emitindo multa
+2025-06-26T13_07: Ocorreu um erro ao processar o veiculo QCI5J89: cannot access free variable 'valorliceinciamento' where it is not associated with a value in enclosing scope

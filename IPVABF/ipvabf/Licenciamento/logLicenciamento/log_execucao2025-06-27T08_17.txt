@@ -1,0 +1,214 @@
+2025-06-27T08_17: ---------Iniciando Sequencia de notas Sefaz---------
+2025-06-27T08_17: Abrindo o navegador
+2025-06-27T08_17: Iniciando o site do Detran
+2025-06-27T08_17: login realizado
+2025-06-27T08_18: O captcha foi resolvido
+2025-06-27T08_18: Consultando o veiculo
+2025-06-27T08_18: Verificando se houve erro na consulta do veiculo
+2025-06-27T08_18: Finalizando as consultas do veiculo com a placa: AXT2C49
+2025-06-27T08_18: fechando navegador definitivamente
+2025-06-27T08_18: Abrindo o navegador
+2025-06-27T08_18: Iniciando o site do Detran
+2025-06-27T08_18: login realizado
+2025-06-27T08_18: O captcha foi resolvido
+2025-06-27T08_18: Consultando o veiculo
+2025-06-27T08_18: Verificando se houve erro na consulta do veiculo
+2025-06-27T08_18: O veículo da placa OBA9309 ainda possui pendência de licenciamento
+2025-06-27T08_18: Emitindo licenciamento
+2025-06-27T08_19: O veículo da placa OBA9309 possui multas pendentes
+2025-06-27T08_19: Emitindo multa
+2025-06-27T08_19: Finalizando as consultas do veiculo com a placa: OBA9309
+2025-06-27T08_19: fechando navegador definitivamente
+2025-06-27T08_19: Abrindo o navegador
+2025-06-27T08_19: Iniciando o site do Detran
+2025-06-27T08_19: login realizado
+2025-06-27T08_20: O captcha foi resolvido
+2025-06-27T08_20: Consultando o veiculo
+2025-06-27T08_20: Verificando se houve erro na consulta do veiculo
+2025-06-27T08_20: o veiculo da placa KAQ0369 nao tem nenhum debito
+2025-06-27T08_20: Finalizando as consultas do veiculo com a placa: KAQ0369
+2025-06-27T08_20: fechando navegador definitivamente
+2025-06-27T08_20: Abrindo o navegador
+2025-06-27T08_20: Iniciando o site do Detran
+2025-06-27T08_20: login realizado
+2025-06-27T08_20: O captcha foi resolvido
+2025-06-27T08_20: Consultando o veiculo
+2025-06-27T08_21: Verificando se houve erro na consulta do veiculo
+2025-06-27T08_21: O veículo da placa RRN3G29 possui multas pendentes
+2025-06-27T08_21: Emitindo multa
+2025-06-27T08_21: Finalizando as consultas do veiculo com a placa: RRN3G29
+2025-06-27T08_21: fechando navegador definitivamente
+2025-06-27T08_21: Abrindo o navegador
+2025-06-27T08_21: Iniciando o site do Detran
+2025-06-27T08_21: login realizado
+2025-06-27T08_21: O captcha foi resolvido
+2025-06-27T08_21: Consultando o veiculo
+2025-06-27T08_22: Verificando se houve erro na consulta do veiculo
+2025-06-27T08_22: o veiculo da placa RRN3F09 nao tem nenhum debito
+2025-06-27T08_22: Finalizando as consultas do veiculo com a placa: RRN3F09
+2025-06-27T08_22: fechando navegador definitivamente
+2025-06-27T08_22: Abrindo o navegador
+2025-06-27T08_22: Iniciando o site do Detran
+2025-06-27T08_22: login realizado
+2025-06-27T08_22: O captcha foi resolvido
+2025-06-27T08_22: Consultando o veiculo
+2025-06-27T08_22: Verificando se houve erro na consulta do veiculo
+2025-06-27T08_22: O veículo da placa RRV2H49 ainda possui pendência de licenciamento
+2025-06-27T08_22: Emitindo licenciamento
+2025-06-27T08_23: O veículo da placa RRV2H49 possui multas pendentes
+2025-06-27T08_23: Emitindo multa
+2025-06-27T08_23: Finalizando as consultas do veiculo com a placa: RRV2H49
+2025-06-27T08_23: fechando navegador definitivamente
+2025-06-27T08_23: Abrindo o navegador
+2025-06-27T08_23: Iniciando o site do Detran
+2025-06-27T08_23: login realizado
+2025-06-27T08_24: O captcha foi resolvido
+2025-06-27T08_24: Consultando o veiculo
+2025-06-27T08_24: Verificando se houve erro na consulta do veiculo
+2025-06-27T08_24: o veiculo da placa SPR7J59 nao tem nenhum debito
+2025-06-27T08_24: Finalizando as consultas do veiculo com a placa: SPR7J59
+2025-06-27T08_24: fechando navegador definitivamente
+2025-06-27T08_24: Abrindo o navegador
+2025-06-27T08_24: Iniciando o site do Detran
+2025-06-27T08_24: login realizado
+2025-06-27T08_24: O captcha foi resolvido
+2025-06-27T08_24: Consultando o veiculo
+2025-06-27T08_24: Verificando se houve erro na consulta do veiculo
+2025-06-27T08_24: O veículo da placa QCI6A99 ainda possui pendência de licenciamento
+2025-06-27T08_24: Emitindo licenciamento
+2025-06-27T08_25: O veículo da placa QCI6A99 possui multas pendentes
+2025-06-27T08_25: Emitindo multa
+2025-06-27T08_25: Finalizando as consultas do veiculo com a placa: QCI6A99
+2025-06-27T08_25: fechando navegador definitivamente
+2025-06-27T08_25: Abrindo o navegador
+2025-06-27T08_25: Iniciando o site do Detran
+2025-06-27T08_25: login realizado
+2025-06-27T08_26: O captcha foi resolvido
+2025-06-27T08_26: Consultando o veiculo
+2025-06-27T08_26: Verificando se houve erro na consulta do veiculo
+2025-06-27T08_26: o veiculo da placa QBW4589 nao tem nenhum debito
+2025-06-27T08_26: Finalizando as consultas do veiculo com a placa: QBW4589
+2025-06-27T08_26: fechando navegador definitivamente
+2025-06-27T08_26: Abrindo o navegador
+2025-06-27T08_26: Iniciando o site do Detran
+2025-06-27T08_26: login realizado
+2025-06-27T08_26: O captcha foi resolvido
+2025-06-27T08_26: Consultando o veiculo
+2025-06-27T08_27: Verificando se houve erro na consulta do veiculo
+2025-06-27T08_27: o veiculo da placa RRN3G99 nao tem nenhum debito
+2025-06-27T08_27: Finalizando as consultas do veiculo com a placa: RRN3G99
+2025-06-27T08_27: fechando navegador definitivamente
+2025-06-27T08_27: Abrindo o navegador
+2025-06-27T08_27: Iniciando o site do Detran
+2025-06-27T08_27: login realizado
+2025-06-27T08_27: O captcha foi resolvido
+2025-06-27T08_27: Consultando o veiculo
+2025-06-27T08_27: Verificando se houve erro na consulta do veiculo
+2025-06-27T08_27: o veiculo da placa RAL9J79 nao tem nenhum debito
+2025-06-27T08_27: Finalizando as consultas do veiculo com a placa: RAL9J79
+2025-06-27T08_27: fechando navegador definitivamente
+2025-06-27T08_27: Abrindo o navegador
+2025-06-27T08_27: Iniciando o site do Detran
+2025-06-27T08_28: login realizado
+2025-06-27T08_28: O captcha foi resolvido
+2025-06-27T08_28: Consultando o veiculo
+2025-06-27T08_28: Verificando se houve erro na consulta do veiculo
+2025-06-27T08_28: O veículo da placa KEK1369 ainda possui pendência de licenciamento
+2025-06-27T08_28: Emitindo licenciamento
+2025-06-27T08_29: O veículo da placa KEK1369 NAO possui multas pendentes
+2025-06-27T08_29: Finalizando as consultas do veiculo com a placa: KEK1369
+2025-06-27T08_29: fechando navegador definitivamente
+2025-06-27T08_29: Abrindo o navegador
+2025-06-27T08_29: Iniciando o site do Detran
+2025-06-27T08_29: login realizado
+2025-06-27T08_29: O captcha foi resolvido
+2025-06-27T08_29: Consultando o veiculo
+2025-06-27T08_29: Verificando se houve erro na consulta do veiculo
+2025-06-27T08_29: o veiculo da placa RRN3H49 nao tem nenhum debito
+2025-06-27T08_29: Finalizando as consultas do veiculo com a placa: RRN3H49
+2025-06-27T08_29: fechando navegador definitivamente
+2025-06-27T08_29: Abrindo o navegador
+2025-06-27T08_29: Iniciando o site do Detran
+2025-06-27T08_30: login realizado
+2025-06-27T08_30: O captcha foi resolvido
+2025-06-27T08_30: Consultando o veiculo
+2025-06-27T08_30: Verificando se houve erro na consulta do veiculo
+2025-06-27T08_30: o veiculo da placa RRN3I19 nao tem nenhum debito
+2025-06-27T08_30: Finalizando as consultas do veiculo com a placa: RRN3I19
+2025-06-27T08_30: fechando navegador definitivamente
+2025-06-27T08_30: Abrindo o navegador
+2025-06-27T08_30: Iniciando o site do Detran
+2025-06-27T08_30: login realizado
+2025-06-27T08_31: O captcha foi resolvido
+2025-06-27T08_31: Consultando o veiculo
+2025-06-27T08_31: Verificando se houve erro na consulta do veiculo
+2025-06-27T08_31: o veiculo da placa IMS9J29 nao tem nenhum debito
+2025-06-27T08_31: Finalizando as consultas do veiculo com a placa: IMS9J29
+2025-06-27T08_31: fechando navegador definitivamente
+2025-06-27T08_31: Abrindo o navegador
+2025-06-27T08_31: Iniciando o site do Detran
+2025-06-27T08_31: login realizado
+2025-06-27T08_31: O captcha foi resolvido
+2025-06-27T08_31: Consultando o veiculo
+2025-06-27T08_31: Verificando se houve erro na consulta do veiculo
+2025-06-27T08_31: O veículo da placa SPR0A09 ainda possui pendência de licenciamento
+2025-06-27T08_31: Emitindo licenciamento
+2025-06-27T08_32: O veículo da placa SPR0A09 NAO possui multas pendentes
+2025-06-27T08_32: Finalizando as consultas do veiculo com a placa: SPR0A09
+2025-06-27T08_32: fechando navegador definitivamente
+2025-06-27T08_32: Abrindo o navegador
+2025-06-27T08_32: Iniciando o site do Detran
+2025-06-27T08_32: login realizado
+2025-06-27T08_32: O captcha foi resolvido
+2025-06-27T08_32: Consultando o veiculo
+2025-06-27T08_32: Verificando se houve erro na consulta do veiculo
+2025-06-27T08_32: o veiculo da placa RAL9A09 nao tem nenhum debito
+2025-06-27T08_32: Finalizando as consultas do veiculo com a placa: RAL9A09
+2025-06-27T08_32: fechando navegador definitivamente
+2025-06-27T08_33: Abrindo o navegador
+2025-06-27T08_33: Iniciando o site do Detran
+2025-06-27T08_33: login realizado
+2025-06-27T08_33: O captcha foi resolvido
+2025-06-27T08_33: Consultando o veiculo
+2025-06-27T08_33: Verificando se houve erro na consulta do veiculo
+2025-06-27T08_33: o veiculo da placa RRN3F19 nao tem nenhum debito
+2025-06-27T08_33: Finalizando as consultas do veiculo com a placa: RRN3F19
+2025-06-27T08_33: fechando navegador definitivamente
+2025-06-27T08_33: Abrindo o navegador
+2025-06-27T08_33: Iniciando o site do Detran
+2025-06-27T08_33: login realizado
+2025-06-27T08_34: O captcha foi resolvido
+2025-06-27T08_34: Consultando o veiculo
+2025-06-27T08_34: Verificando se houve erro na consulta do veiculo
+2025-06-27T08_34: o veiculo da placa QCD1D59 nao tem nenhum debito
+2025-06-27T08_34: Finalizando as consultas do veiculo com a placa: QCD1D59
+2025-06-27T08_34: fechando navegador definitivamente
+2025-06-27T08_34: Abrindo o navegador
+2025-06-27T08_34: Iniciando o site do Detran
+2025-06-27T08_34: login realizado
+2025-06-27T08_34: O captcha foi resolvido
+2025-06-27T08_34: Consultando o veiculo
+2025-06-27T08_35: Verificando se houve erro na consulta do veiculo
+2025-06-27T08_35: o veiculo da placa QCU8F29 nao tem nenhum debito
+2025-06-27T08_35: Finalizando as consultas do veiculo com a placa: QCU8F29
+2025-06-27T08_35: fechando navegador definitivamente
+2025-06-27T08_35: Abrindo o navegador
+2025-06-27T08_35: Iniciando o site do Detran
+2025-06-27T08_35: login realizado
+2025-06-27T08_35: O captcha foi resolvido
+2025-06-27T08_35: Consultando o veiculo
+2025-06-27T08_35: Verificando se houve erro na consulta do veiculo
+2025-06-27T08_35: o veiculo da placa SPR7J09 nao tem nenhum debito
+2025-06-27T08_35: Finalizando as consultas do veiculo com a placa: SPR7J09
+2025-06-27T08_35: fechando navegador definitivamente
+2025-06-27T08_35: Abrindo o navegador
+2025-06-27T08_36: Iniciando o site do Detran
+2025-06-27T08_36: login realizado
+2025-06-27T08_36: O captcha foi resolvido
+2025-06-27T08_36: Consultando o veiculo
+2025-06-27T08_36: Verificando se houve erro na consulta do veiculo
+2025-06-27T08_36: o veiculo da placa QCI6A09 nao tem nenhum debito
+2025-06-27T08_36: Finalizando as consultas do veiculo com a placa: QCI6A09
+2025-06-27T08_36: fechando navegador definitivamente
+2025-06-27T08_36: Abrindo o navegador
+2025-06-27T08_36: Iniciando o site do Detran

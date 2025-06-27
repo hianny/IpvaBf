@@ -1,0 +1,7 @@
+2025-06-27T09_16: ---------Iniciando Sequencia de notas Sefaz---------
+2025-06-27T09_16: Abrindo o navegador
+2025-06-27T09_16: Iniciando o site do Detran
+2025-06-27T09_16: login realizado
+2025-06-27T09_17: O captcha foi resolvido
+2025-06-27T09_17: Consultando o veiculo
+2025-06-27T09_17: Verificando se houve erro na consulta do veiculo

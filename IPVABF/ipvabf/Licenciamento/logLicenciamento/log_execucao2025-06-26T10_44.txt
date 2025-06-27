@@ -1,0 +1,9 @@
+2025-06-26T10_44: ---------Iniciando Sequencia de notas Sefaz---------
+2025-06-26T10_44: Abrindo o navegador
+2025-06-26T10_44: Iniciando o site do Detran
+2025-06-26T10_44: login realizado
+2025-06-26T10_45: O captcha foi resolvido
+2025-06-26T10_45: Consultando o veiculo
+2025-06-26T10_45: Verificando se houve erro na consulta do veiculo
+2025-06-26T10_45: o veiculo da placa QCD2C09 nao tem nenhum debito
+2025-06-26T10_45: Ocorreu um erro ao processar o veiculo QCD2C09: escreveLog() takes 1 positional argument but 2 were given

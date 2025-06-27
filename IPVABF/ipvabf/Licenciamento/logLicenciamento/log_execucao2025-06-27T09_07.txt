@@ -1,0 +1,41 @@
+2025-06-27T09_07: ---------Iniciando Sequencia de notas Sefaz---------
+2025-06-27T09_07: Abrindo o navegador
+2025-06-27T09_07: Iniciando o site do Detran
+2025-06-27T09_07: login realizado
+2025-06-27T09_07: O captcha foi resolvido
+2025-06-27T09_07: Consultando o veiculo
+2025-06-27T09_08: Verificando se houve erro na consulta do veiculo
+2025-06-27T09_08: o veiculo da placa QCD2C09 nao tem nenhum debito
+2025-06-27T09_08: Finalizando as consultas do veiculo com a placa: QCD2C09
+2025-06-27T09_08: fechando navegador definitivamente
+2025-06-27T09_08: Abrindo o navegador
+2025-06-27T09_08: Iniciando o site do Detran
+2025-06-27T09_08: Ocorreu um erro ao processar o veiculo RRN3H89: Message: element not interactable
+  (Session info: chrome=137.0.7151.120)
+Stacktrace:
+	GetHandleVerifier [0x0x1523b03+62899]
+	GetHandleVerifier [0x0x1523b44+62964]
+	(No symbol) [0x0x1350f50]
+	(No symbol) [0x0x1394219]
+	(No symbol) [0x0x1392907]
+	(No symbol) [0x0x13be50c]
+	(No symbol) [0x0x138ee74]
+	(No symbol) [0x0x13be784]
+	(No symbol) [0x0x13dfd81]
+	(No symbol) [0x0x13be306]
+	(No symbol) [0x0x138d670]
+	(No symbol) [0x0x138e4e4]
+	GetHandleVerifier [0x0x1784793+2556483]
+	GetHandleVerifier [0x0x177fd02+2537394]
+	GetHandleVerifier [0x0x154a2fa+220586]
+	GetHandleVerifier [0x0x153aae8+157080]
+	GetHandleVerifier [0x0x154141d+184013]
+	GetHandleVerifier [0x0x152ba68+95512]
+	GetHandleVerifier [0x0x152bc10+95936]
+	GetHandleVerifier [0x0x1516b5a+9738]
+	BaseThreadInitThunk [0x0x75f005c9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77597c5d+237]
+	RtlGetAppContainerNamedObjectPath [0x0x77597c2d+189]
+
+2025-06-27T09_09: Abrindo o navegador
+2025-06-27T09_09: Iniciando o site do Detran

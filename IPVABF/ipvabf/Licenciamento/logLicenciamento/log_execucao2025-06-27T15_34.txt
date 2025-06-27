@@ -1,0 +1,39 @@
+2025-06-27T15_34: ---------Iniciando Sequencia de notas Sefaz---------
+2025-06-27T15_35: Abrindo o navegador
+2025-06-27T15_35: Iniciando o site do Detran
+2025-06-27T15_35: login realizado
+2025-06-27T15_35: O captcha foi resolvido
+2025-06-27T15_35: Consultando o veiculo
+2025-06-27T15_35: Verificando se houve erro na consulta do veiculo
+2025-06-27T15_35: o veiculo da placa RRS6F99 nao tem nenhum debito
+2025-06-27T15_35: Finalizando as consultas do veiculo com a placa: RRS6F99
+2025-06-27T15_35: fechando navegador definitivamente
+2025-06-27T15_35: Abrindo o navegador
+2025-06-27T15_35: Iniciando o site do Detran
+2025-06-27T15_36: login realizado
+2025-06-27T15_36: O captcha foi resolvido
+2025-06-27T15_36: Consultando o veiculo
+2025-06-27T15_36: Verificando se houve erro na consulta do veiculo
+2025-06-27T15_36: o veiculo da placa SVF1D19 nao tem nenhum debito
+2025-06-27T15_36: Finalizando as consultas do veiculo com a placa: SVF1D19
+2025-06-27T15_36: fechando navegador definitivamente
+2025-06-27T15_36: Abrindo o navegador
+2025-06-27T15_36: Iniciando o site do Detran
+2025-06-27T15_36: login realizado
+2025-06-27T15_37: O captcha foi resolvido
+2025-06-27T15_37: Consultando o veiculo
+2025-06-27T15_37: Verificando se houve erro na consulta do veiculo
+2025-06-27T15_37: o veiculo da placa RRN3E49 nao tem nenhum debito
+2025-06-27T15_37: Finalizando as consultas do veiculo com a placa: RRN3E49
+2025-06-27T15_37: fechando navegador definitivamente
+2025-06-27T15_37: Abrindo o navegador
+2025-06-27T15_37: Iniciando o site do Detran
+2025-06-27T15_37: login realizado
+2025-06-27T15_38: O captcha foi resolvido
+2025-06-27T15_38: Consultando o veiculo
+2025-06-27T15_38: Verificando se houve erro na consulta do veiculo
+2025-06-27T15_38: o veiculo da placa SPQ4D29 nao tem nenhum debito
+2025-06-27T15_38: Finalizando as consultas do veiculo com a placa: SPQ4D29
+2025-06-27T15_38: fechando navegador definitivamente
+2025-06-27T15_38: ---------Finalizando Sequencia de notas Sefaz---------
+2025-06-27T15_38: Enviando email de finalizacao

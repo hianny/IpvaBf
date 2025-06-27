@@ -1,0 +1,30 @@
+2025-06-26T10_41: ---------Iniciando Sequencia de notas Sefaz---------
+2025-06-26T10_42: Abrindo o navegador
+2025-06-26T10_42: Iniciando o site do Detran
+2025-06-26T10_43: Ocorreu um erro ao processar o veiculo QCD2C09: Message: element not interactable
+  (Session info: chrome=137.0.7151.120)
+Stacktrace:
+	GetHandleVerifier [0x0xec3b03+62899]
+	GetHandleVerifier [0x0xec3b44+62964]
+	(No symbol) [0x0xcf0f50]
+	(No symbol) [0x0xd34219]
+	(No symbol) [0x0xd32907]
+	(No symbol) [0x0xd5e50c]
+	(No symbol) [0x0xd2ee74]
+	(No symbol) [0x0xd5e784]
+	(No symbol) [0x0xd7fd81]
+	(No symbol) [0x0xd5e306]
+	(No symbol) [0x0xd2d670]
+	(No symbol) [0x0xd2e4e4]
+	GetHandleVerifier [0x0x1124793+2556483]
+	GetHandleVerifier [0x0x111fd02+2537394]
+	GetHandleVerifier [0x0xeea2fa+220586]
+	GetHandleVerifier [0x0xedaae8+157080]
+	GetHandleVerifier [0x0xee141d+184013]
+	GetHandleVerifier [0x0xecba68+95512]
+	GetHandleVerifier [0x0xecbc10+95936]
+	GetHandleVerifier [0x0xeb6b5a+9738]
+	BaseThreadInitThunk [0x0x75f005c9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77597c5d+237]
+	RtlGetAppContainerNamedObjectPath [0x0x77597c2d+189]
+

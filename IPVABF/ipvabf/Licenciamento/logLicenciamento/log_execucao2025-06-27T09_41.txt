@@ -1,0 +1,348 @@
+2025-06-27T09_41: ---------Iniciando Sequencia de notas Sefaz---------
+2025-06-27T09_41: Abrindo o navegador
+2025-06-27T09_41: Iniciando o site do Detran
+2025-06-27T09_41: login realizado
+2025-06-27T09_42: O captcha foi resolvido
+2025-06-27T09_42: Consultando o veiculo
+2025-06-27T09_42: Verificando se houve erro na consulta do veiculo
+2025-06-27T09_43: o veiculo da placa QCD2C09 nao tem nenhum debito
+2025-06-27T09_43: Finalizando as consultas do veiculo com a placa: QCD2C09
+2025-06-27T09_43: fechando navegador definitivamente
+2025-06-27T09_43: Abrindo o navegador
+2025-06-27T09_43: Iniciando o site do Detran
+2025-06-27T09_43: Ocorreu um erro ao processar o veiculo RRN3H89: Message: element not interactable
+  (Session info: chrome=137.0.7151.120)
+Stacktrace:
+	GetHandleVerifier [0x0xda3b03+62899]
+	GetHandleVerifier [0x0xda3b44+62964]
+	(No symbol) [0x0xbd0f50]
+	(No symbol) [0x0xc14219]
+	(No symbol) [0x0xc12907]
+	(No symbol) [0x0xc3e50c]
+	(No symbol) [0x0xc0ee74]
+	(No symbol) [0x0xc3e784]
+	(No symbol) [0x0xc5fd81]
+	(No symbol) [0x0xc3e306]
+	(No symbol) [0x0xc0d670]
+	(No symbol) [0x0xc0e4e4]
+	GetHandleVerifier [0x0x1004793+2556483]
+	GetHandleVerifier [0x0xfffd02+2537394]
+	GetHandleVerifier [0x0xdca2fa+220586]
+	GetHandleVerifier [0x0xdbaae8+157080]
+	GetHandleVerifier [0x0xdc141d+184013]
+	GetHandleVerifier [0x0xdaba68+95512]
+	GetHandleVerifier [0x0xdabc10+95936]
+	GetHandleVerifier [0x0xd96b5a+9738]
+	BaseThreadInitThunk [0x0x75f005c9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77597c5d+237]
+	RtlGetAppContainerNamedObjectPath [0x0x77597c2d+189]
+
+2025-06-27T09_43: Abrindo o navegador
+2025-06-27T09_43: Iniciando o site do Detran
+2025-06-27T09_43: Ocorreu um erro ao processar o veiculo AIB6I89: Message: element not interactable
+  (Session info: chrome=137.0.7151.120)
+Stacktrace:
+	GetHandleVerifier [0x0xda3b03+62899]
+	GetHandleVerifier [0x0xda3b44+62964]
+	(No symbol) [0x0xbd0f50]
+	(No symbol) [0x0xc14219]
+	(No symbol) [0x0xc12907]
+	(No symbol) [0x0xc3e50c]
+	(No symbol) [0x0xc0ee74]
+	(No symbol) [0x0xc3e784]
+	(No symbol) [0x0xc5fd81]
+	(No symbol) [0x0xc3e306]
+	(No symbol) [0x0xc0d670]
+	(No symbol) [0x0xc0e4e4]
+	GetHandleVerifier [0x0x1004793+2556483]
+	GetHandleVerifier [0x0xfffd02+2537394]
+	GetHandleVerifier [0x0xdca2fa+220586]
+	GetHandleVerifier [0x0xdbaae8+157080]
+	GetHandleVerifier [0x0xdc141d+184013]
+	GetHandleVerifier [0x0xdaba68+95512]
+	GetHandleVerifier [0x0xdabc10+95936]
+	GetHandleVerifier [0x0xd96b5a+9738]
+	BaseThreadInitThunk [0x0x75f005c9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77597c5d+237]
+	RtlGetAppContainerNamedObjectPath [0x0x77597c2d+189]
+
+2025-06-27T09_43: Abrindo o navegador
+2025-06-27T09_43: Iniciando o site do Detran
+2025-06-27T09_43: Ocorreu um erro ao processar o veiculo OBE3I59: Message: element not interactable
+  (Session info: chrome=137.0.7151.120)
+Stacktrace:
+	GetHandleVerifier [0x0xda3b03+62899]
+	GetHandleVerifier [0x0xda3b44+62964]
+	(No symbol) [0x0xbd0f50]
+	(No symbol) [0x0xc14219]
+	(No symbol) [0x0xc12907]
+	(No symbol) [0x0xc3e50c]
+	(No symbol) [0x0xc0ee74]
+	(No symbol) [0x0xc3e784]
+	(No symbol) [0x0xc5fd81]
+	(No symbol) [0x0xc3e306]
+	(No symbol) [0x0xc0d670]
+	(No symbol) [0x0xc0e4e4]
+	GetHandleVerifier [0x0x1004793+2556483]
+	GetHandleVerifier [0x0xfffd02+2537394]
+	GetHandleVerifier [0x0xdca2fa+220586]
+	GetHandleVerifier [0x0xdbaae8+157080]
+	GetHandleVerifier [0x0xdc141d+184013]
+	GetHandleVerifier [0x0xdaba68+95512]
+	GetHandleVerifier [0x0xdabc10+95936]
+	GetHandleVerifier [0x0xd96b5a+9738]
+	BaseThreadInitThunk [0x0x75f005c9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77597c5d+237]
+	RtlGetAppContainerNamedObjectPath [0x0x77597c2d+189]
+
+2025-06-27T09_44: Abrindo o navegador
+2025-06-27T09_44: Iniciando o site do Detran
+2025-06-27T09_44: Ocorreu um erro ao processar o veiculo RRT6F59: Message: element not interactable
+  (Session info: chrome=137.0.7151.120)
+Stacktrace:
+	GetHandleVerifier [0x0xda3b03+62899]
+	GetHandleVerifier [0x0xda3b44+62964]
+	(No symbol) [0x0xbd0f50]
+	(No symbol) [0x0xc14219]
+	(No symbol) [0x0xc12907]
+	(No symbol) [0x0xc3e50c]
+	(No symbol) [0x0xc0ee74]
+	(No symbol) [0x0xc3e784]
+	(No symbol) [0x0xc5fd81]
+	(No symbol) [0x0xc3e306]
+	(No symbol) [0x0xc0d670]
+	(No symbol) [0x0xc0e4e4]
+	GetHandleVerifier [0x0x1004793+2556483]
+	GetHandleVerifier [0x0xfffd02+2537394]
+	GetHandleVerifier [0x0xdca2fa+220586]
+	GetHandleVerifier [0x0xdbaae8+157080]
+	GetHandleVerifier [0x0xdc141d+184013]
+	GetHandleVerifier [0x0xdaba68+95512]
+	GetHandleVerifier [0x0xdabc10+95936]
+	GetHandleVerifier [0x0xd96b5a+9738]
+	BaseThreadInitThunk [0x0x75f005c9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77597c5d+237]
+	RtlGetAppContainerNamedObjectPath [0x0x77597c2d+189]
+
+2025-06-27T09_44: Abrindo o navegador
+2025-06-27T09_44: Iniciando o site do Detran
+2025-06-27T09_44: login realizado
+2025-06-27T09_44: O captcha foi resolvido
+2025-06-27T09_44: Consultando o veiculo
+2025-06-27T09_44: Verificando se houve erro na consulta do veiculo
+2025-06-27T09_45: o veiculo da placa QBX8C09 nao tem nenhum debito
+2025-06-27T09_45: Finalizando as consultas do veiculo com a placa: QBX8C09
+2025-06-27T09_45: fechando navegador definitivamente
+2025-06-27T09_45: Abrindo o navegador
+2025-06-27T09_45: Iniciando o site do Detran
+2025-06-27T09_45: login realizado
+2025-06-27T09_46: O captcha foi resolvido
+2025-06-27T09_46: Consultando o veiculo
+2025-06-27T09_46: Verificando se houve erro na consulta do veiculo
+2025-06-27T09_46: Finalizando as consultas do veiculo com a placa: RRW8D59
+2025-06-27T09_46: fechando navegador definitivamente
+2025-06-27T09_46: Abrindo o navegador
+2025-06-27T09_46: Iniciando o site do Detran
+2025-06-27T09_46: Ocorreu um erro ao processar o veiculo SPO2G29: Message: element not interactable
+  (Session info: chrome=137.0.7151.120)
+Stacktrace:
+	GetHandleVerifier [0x0xda3b03+62899]
+	GetHandleVerifier [0x0xda3b44+62964]
+	(No symbol) [0x0xbd0f50]
+	(No symbol) [0x0xc14219]
+	(No symbol) [0x0xc12907]
+	(No symbol) [0x0xc3e50c]
+	(No symbol) [0x0xc0ee74]
+	(No symbol) [0x0xc3e784]
+	(No symbol) [0x0xc5fd81]
+	(No symbol) [0x0xc3e306]
+	(No symbol) [0x0xc0d670]
+	(No symbol) [0x0xc0e4e4]
+	GetHandleVerifier [0x0x1004793+2556483]
+	GetHandleVerifier [0x0xfffd02+2537394]
+	GetHandleVerifier [0x0xdca2fa+220586]
+	GetHandleVerifier [0x0xdbaae8+157080]
+	GetHandleVerifier [0x0xdc141d+184013]
+	GetHandleVerifier [0x0xdaba68+95512]
+	GetHandleVerifier [0x0xdabc10+95936]
+	GetHandleVerifier [0x0xd96b5a+9738]
+	BaseThreadInitThunk [0x0x75f005c9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77597c5d+237]
+	RtlGetAppContainerNamedObjectPath [0x0x77597c2d+189]
+
+2025-06-27T09_46: Abrindo o navegador
+2025-06-27T09_46: Iniciando o site do Detran
+2025-06-27T09_46: Ocorreu um erro ao processar o veiculo EGS1739: Message: element not interactable
+  (Session info: chrome=137.0.7151.120)
+Stacktrace:
+	GetHandleVerifier [0x0xda3b03+62899]
+	GetHandleVerifier [0x0xda3b44+62964]
+	(No symbol) [0x0xbd0f50]
+	(No symbol) [0x0xc14219]
+	(No symbol) [0x0xc12907]
+	(No symbol) [0x0xc3e50c]
+	(No symbol) [0x0xc0ee74]
+	(No symbol) [0x0xc3e784]
+	(No symbol) [0x0xc5fd81]
+	(No symbol) [0x0xc3e306]
+	(No symbol) [0x0xc0d670]
+	(No symbol) [0x0xc0e4e4]
+	GetHandleVerifier [0x0x1004793+2556483]
+	GetHandleVerifier [0x0xfffd02+2537394]
+	GetHandleVerifier [0x0xdca2fa+220586]
+	GetHandleVerifier [0x0xdbaae8+157080]
+	GetHandleVerifier [0x0xdc141d+184013]
+	GetHandleVerifier [0x0xdaba68+95512]
+	GetHandleVerifier [0x0xdabc10+95936]
+	GetHandleVerifier [0x0xd96b5a+9738]
+	BaseThreadInitThunk [0x0x75f005c9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77597c5d+237]
+	RtlGetAppContainerNamedObjectPath [0x0x77597c2d+189]
+
+2025-06-27T09_46: Abrindo o navegador
+2025-06-27T09_46: Iniciando o site do Detran
+2025-06-27T09_46: Ocorreu um erro ao processar o veiculo QCT9I89: Message: element not interactable
+  (Session info: chrome=137.0.7151.120)
+Stacktrace:
+	GetHandleVerifier [0x0xda3b03+62899]
+	GetHandleVerifier [0x0xda3b44+62964]
+	(No symbol) [0x0xbd0f50]
+	(No symbol) [0x0xc14219]
+	(No symbol) [0x0xc12907]
+	(No symbol) [0x0xc3e50c]
+	(No symbol) [0x0xc0ee74]
+	(No symbol) [0x0xc3e784]
+	(No symbol) [0x0xc5fd81]
+	(No symbol) [0x0xc3e306]
+	(No symbol) [0x0xc0d670]
+	(No symbol) [0x0xc0e4e4]
+	GetHandleVerifier [0x0x1004793+2556483]
+	GetHandleVerifier [0x0xfffd02+2537394]
+	GetHandleVerifier [0x0xdca2fa+220586]
+	GetHandleVerifier [0x0xdbaae8+157080]
+	GetHandleVerifier [0x0xdc141d+184013]
+	GetHandleVerifier [0x0xdaba68+95512]
+	GetHandleVerifier [0x0xdabc10+95936]
+	GetHandleVerifier [0x0xd96b5a+9738]
+	BaseThreadInitThunk [0x0x75f005c9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77597c5d+237]
+	RtlGetAppContainerNamedObjectPath [0x0x77597c2d+189]
+
+2025-06-27T09_46: Abrindo o navegador
+2025-06-27T09_46: Iniciando o site do Detran
+2025-06-27T09_47: Ocorreu um erro ao processar o veiculo SPS3E79: Message: element not interactable
+  (Session info: chrome=137.0.7151.120)
+Stacktrace:
+	GetHandleVerifier [0x0xda3b03+62899]
+	GetHandleVerifier [0x0xda3b44+62964]
+	(No symbol) [0x0xbd0f50]
+	(No symbol) [0x0xc14219]
+	(No symbol) [0x0xc12907]
+	(No symbol) [0x0xc3e50c]
+	(No symbol) [0x0xc0ee74]
+	(No symbol) [0x0xc3e784]
+	(No symbol) [0x0xc5fd81]
+	(No symbol) [0x0xc3e306]
+	(No symbol) [0x0xc0d670]
+	(No symbol) [0x0xc0e4e4]
+	GetHandleVerifier [0x0x1004793+2556483]
+	GetHandleVerifier [0x0xfffd02+2537394]
+	GetHandleVerifier [0x0xdca2fa+220586]
+	GetHandleVerifier [0x0xdbaae8+157080]
+	GetHandleVerifier [0x0xdc141d+184013]
+	GetHandleVerifier [0x0xdaba68+95512]
+	GetHandleVerifier [0x0xdabc10+95936]
+	GetHandleVerifier [0x0xd96b5a+9738]
+	BaseThreadInitThunk [0x0x75f005c9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77597c5d+237]
+	RtlGetAppContainerNamedObjectPath [0x0x77597c2d+189]
+
+2025-06-27T09_47: Abrindo o navegador
+2025-06-27T09_47: Iniciando o site do Detran
+2025-06-27T09_47: Ocorreu um erro ao processar o veiculo RRN3H99: Message: element not interactable
+  (Session info: chrome=137.0.7151.120)
+Stacktrace:
+	GetHandleVerifier [0x0xda3b03+62899]
+	GetHandleVerifier [0x0xda3b44+62964]
+	(No symbol) [0x0xbd0f50]
+	(No symbol) [0x0xc14219]
+	(No symbol) [0x0xc12907]
+	(No symbol) [0x0xc3e50c]
+	(No symbol) [0x0xc0ee74]
+	(No symbol) [0x0xc3e784]
+	(No symbol) [0x0xc5fd81]
+	(No symbol) [0x0xc3e306]
+	(No symbol) [0x0xc0d670]
+	(No symbol) [0x0xc0e4e4]
+	GetHandleVerifier [0x0x1004793+2556483]
+	GetHandleVerifier [0x0xfffd02+2537394]
+	GetHandleVerifier [0x0xdca2fa+220586]
+	GetHandleVerifier [0x0xdbaae8+157080]
+	GetHandleVerifier [0x0xdc141d+184013]
+	GetHandleVerifier [0x0xdaba68+95512]
+	GetHandleVerifier [0x0xdabc10+95936]
+	GetHandleVerifier [0x0xd96b5a+9738]
+	BaseThreadInitThunk [0x0x75f005c9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77597c5d+237]
+	RtlGetAppContainerNamedObjectPath [0x0x77597c2d+189]
+
+2025-06-27T09_47: Abrindo o navegador
+2025-06-27T09_47: Iniciando o site do Detran
+2025-06-27T09_47: Ocorreu um erro ao processar o veiculo OBA9C49: Message: element not interactable
+  (Session info: chrome=137.0.7151.120)
+Stacktrace:
+	GetHandleVerifier [0x0xda3b03+62899]
+	GetHandleVerifier [0x0xda3b44+62964]
+	(No symbol) [0x0xbd0f50]
+	(No symbol) [0x0xc14219]
+	(No symbol) [0x0xc12907]
+	(No symbol) [0x0xc3e50c]
+	(No symbol) [0x0xc0ee74]
+	(No symbol) [0x0xc3e784]
+	(No symbol) [0x0xc5fd81]
+	(No symbol) [0x0xc3e306]
+	(No symbol) [0x0xc0d670]
+	(No symbol) [0x0xc0e4e4]
+	GetHandleVerifier [0x0x1004793+2556483]
+	GetHandleVerifier [0x0xfffd02+2537394]
+	GetHandleVerifier [0x0xdca2fa+220586]
+	GetHandleVerifier [0x0xdbaae8+157080]
+	GetHandleVerifier [0x0xdc141d+184013]
+	GetHandleVerifier [0x0xdaba68+95512]
+	GetHandleVerifier [0x0xdabc10+95936]
+	GetHandleVerifier [0x0xd96b5a+9738]
+	BaseThreadInitThunk [0x0x75f005c9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77597c5d+237]
+	RtlGetAppContainerNamedObjectPath [0x0x77597c2d+189]
+
+2025-06-27T09_47: Abrindo o navegador
+2025-06-27T09_47: Iniciando o site do Detran
+2025-06-27T09_47: Ocorreu um erro ao processar o veiculo QCU8D69: Message: element not interactable
+  (Session info: chrome=137.0.7151.120)
+Stacktrace:
+	GetHandleVerifier [0x0xda3b03+62899]
+	GetHandleVerifier [0x0xda3b44+62964]
+	(No symbol) [0x0xbd0f50]
+	(No symbol) [0x0xc14219]
+	(No symbol) [0x0xc12907]
+	(No symbol) [0x0xc3e50c]
+	(No symbol) [0x0xc0ee74]
+	(No symbol) [0x0xc3e784]
+	(No symbol) [0x0xc5fd81]
+	(No symbol) [0x0xc3e306]
+	(No symbol) [0x0xc0d670]
+	(No symbol) [0x0xc0e4e4]
+	GetHandleVerifier [0x0x1004793+2556483]
+	GetHandleVerifier [0x0xfffd02+2537394]
+	GetHandleVerifier [0x0xdca2fa+220586]
+	GetHandleVerifier [0x0xdbaae8+157080]
+	GetHandleVerifier [0x0xdc141d+184013]
+	GetHandleVerifier [0x0xdaba68+95512]
+	GetHandleVerifier [0x0xdabc10+95936]
+	GetHandleVerifier [0x0xd96b5a+9738]
+	BaseThreadInitThunk [0x0x75f005c9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77597c5d+237]
+	RtlGetAppContainerNamedObjectPath [0x0x77597c2d+189]
+
+2025-06-27T09_48: Abrindo o navegador
+2025-06-27T09_48: Iniciando o site do Detran

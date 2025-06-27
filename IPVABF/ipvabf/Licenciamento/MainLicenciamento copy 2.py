@@ -9,129 +9,95 @@ from selenium.webdriver.chrome.options import Options
 import undetected_chromedriver as uc
 from escreveLog import escreveLog
 import os
-import platform
 import ResultadoEmail
 from time import sleep
 from ObterResultadoFinalDB import RetornoVeiculosSucesso, RetornoVeiculosErro,RetornoVeiculosSemDebito
 import base64
 from datetime import datetime
-import traceback
 import sys
 #OQUE AINDA FALTA
 #
 #FAZER TRIGGER PARA FAZER DE TODAS AS PLACAS
 #COMO FAZER A TRIGGER?
+#CRIAR CSV QUE ARMAZENA AS INFORMACOES DO VEICULO
+#DPS DO TERMINO DE CADA PLACA ENVIAR UM NOTIFICACAO DE TERMINO 
+#MANDAR UM EMAIL COM O RESULTADO DO PROCESSO COM OS ERROS E SUCESSOS
 #
+
 
 def main(final_placa):
     try:
         print(final_placa)
         if final_placa == 'erro':  
-            resultadoVeiculos = ObterDadosLicenciamentoDB.RetornoVeiculosErro()   
+             resultadoVeiculos = ObterDadosLicenciamentoDB.RetornoVeiculosErro()   
         else:
             resultadoVeiculos = ObterDadosLicenciamentoDB.RetornoVeiculosLicenciamento(final_placa)
-
+        #print(resultadoVeiculos)
+        #PLACA,RENAVAM,CHASSIS,NUM_DOCUMENTO = ObterDadosLicenciamentoDB.RetornoVeiculosLicenciamento()
         escreveLog("---------Iniciando Sequencia de notas Sefaz---------")
         print("---------Iniciando Sequencia de notas Sefaz---------")
 
-        for veiculos in resultadoVeiculos:
-            driver = None  # Inicializa a variável driver
-            try:
-                # Configuração do Chrome
-                chrome_options = uc.ChromeOptions()
-                prefs = {
-                    "download.default_directory": fr"S:\Automacao\bot\LICENCIAMENTO",
-                    "download.prompt_for_download": False,
-                    "download.directory_upgrade": True,
-                    "safebrowsing.enabled": True
-                }
-                chrome_options.add_experimental_option("prefs", prefs)
-                chrome_options.add_argument('--profile-directory=Profile 1')
-                chrome_options.add_argument('--start-maximized')
-                chrome_options.add_argument('--headless')
-                chrome_options.add_argument("--disable-blink-features=AutomationControlled")
-                chrome_options.add_argument("--disable-extensions")
-                
-                # Opções para reduzir problemas
-                chrome_options.add_argument('--no-sandbox')
-                chrome_options.add_argument('--disable-dev-shm-usage')
-                chrome_options.add_argument('--disable-gpu')
-                
-                driver = uc.Chrome(options=chrome_options, version_main=137)
-                driver.set_window_size(1200, 700)
-                
-                url = "https://www.detran.mt.gov.br/"
-                driver.implicitly_wait(2)
-                driver.get(url)
-                escreveLog('Abrindo o navegador')
+        chrome_options = uc.ChromeOptions()
+        prefs = {
+            "download.default_directory": fr"C:\BOT\LICENCIAMENTO",
+            "download.prompt_for_download": False,
+            "download.directory_upgrade": True,
+            "safebrowsing.enabled": True
+        }
+        chrome_options.add_experimental_option("prefs", prefs)
+        #chrome_options.add_argument('--user-data-dir=/path/to/your/chrome/profile')  # Caminho do perfil
+        chrome_options.add_argument('--profile-directory=Profile 1')  # Nome do perfil específico
+        chrome_options.add_argument('--start-maximized')
+        #chrome_options.add_argument('--headless')
+        chrome_options.add_argument("--disable-blink-features=AutomationControlled")
+        chrome_options.add_argument("--disable-extensions")
+        driver = uc.Chrome(options=chrome_options, version_main=137)
+        driver.set_window_size(1200, 700)
+        url = "https://www.detran.mt.gov.br/"
+        driver.implicitly_wait(2)
+        driver.get(url)
+        escreveLog('Abrindo o navegador')
 
-                idVeiculo = veiculos[0]
-                placaVeiculo = veiculos[1]
-                renavamVeiculo = veiculos[2]
-                num_documentoVeiculo = veiculos[4]
+        idVeiculo = veiculos[0]
+        placaVeiculo = veiculos[1]
+        renavamVeiculo = veiculos[2]
+        num_documentoVeiculo = veiculos[4]
 
-                realizandoLicenciamento(driver, placaVeiculo, renavamVeiculo, num_documentoVeiculo, idVeiculo)
-                escreveLog(f"Finalizando as consultas do veiculo com a placa: {placaVeiculo}")
+        realizandoLicenciamento(driver,placaVeiculo,renavamVeiculo,num_documentoVeiculo,idVeiculo)
+        escreveLog("Finalizando as consultas do veiculo com a placa: ",placaVeiculo)
+        escreveLog("fechando navegador definitivamente")
+        print("fechando navegador definitivamente")
+        
 
-            except Exception as e:
-                escreveLog(f'Ocorreu um erro ao processar o veiculo {placaVeiculo}: {e}')
-                print(f'Ocorreu um erro ao processar o veiculo {placaVeiculo}: {e}')
-                traceback.print_exc()
-                
-            finally:
-                # Fechamento seguro do driver
-                if driver is not None:
-                    try:
-                        # Fecha todas as abas primeiro
-                        while len(driver.window_handles) > 0:
-                            try:
-                                driver.switch_to.window(driver.window_handles[0])
-                                driver.close()
-                            except:
-                                break
-                        
-                        # Encerra o driver propriamente
-                        driver.quit()
-                        # Limpeza adicional para garantir
-                        if platform.system() == "Windows":
-                            os.system("taskkill /f /im chromedriver.exe /t 2>nul")
-                            os.system("taskkill /f /im chrome.exe /t 2>nul")
-                    except Exception as e:
-                        escreveLog(f'Erro ao fechar o navegador: {e}')
-                        # Força o kill do processo se necessário
-                        if platform.system() == "Windows":
-                            os.system("taskkill /f /im chromedriver.exe /t 2>nul")
-                            os.system("taskkill /f /im chrome.exe /t 2>nul")
 
-        # Restante do seu código...
         escreveLog("---------Finalizando Sequencia de notas Sefaz---------")    
         print("---------Finalizando Sequencia de notas Sefaz---------")
-        arquivoCsvSucesso, numeroCsvSucesso = RetornoVeiculosSucesso(placaVeiculo) 
-        arquivoCsvErro, numeroCsErro = RetornoVeiculosErro(placaVeiculo)
-        arquivoCsvSemDebito, numeroCsvDebito = RetornoVeiculosSemDebito(placaVeiculo)
+        arquivoCsvSucesso , numeroCsvSucesso = RetornoVeiculosSucesso() 
+        arquivoCsvErro, numeroCsErro = RetornoVeiculosErro()
+        arquivoCsvSemDebito, numeroCsvDebito = RetornoVeiculosSemDebito()
         print('Enviando email de finalizacao')
         escreveLog('Enviando email de finalizacao')
-        ResultadoEmail.ResultadoFinalEmail(final_placa, len(resultadoVeiculos),numeroCsErro,numeroCsvSucesso,numeroCsvDebito,arquivoCsvSucesso,arquivoCsvErro,arquivoCsvSemDebito)
+        ResultadoEmail.ResultadoFinalEmail('0', len(resultadoVeiculos),numeroCsErro,numeroCsvSucesso,numeroCsvDebito,arquivoCsvSucesso,arquivoCsvErro,arquivoCsvSemDebito)
 
-    except Exception as e:
-        escreveLog(f'Ocorreu um erro no FOR principal: {e}')
-        print('Ocorreu um Erro no FOR principal: ', e)
+        #criar funcao de banco com3  selects criando em csv para cada status
+        #Colocar um email de notificacao de finalizacao do processo com numero de veiculos com falha, sucesso e sem debito
+        #no email colocar o csv com cada status
+        #
+    except Exception as e :
+        escreveLog('Ocorreu um erro no FOR principal: ',e)
+        print('Ocorreu um Erro no FOR principal: ',e)
         escreveLog("---------Finalizando Sequencia de notas Sefaz---------")    
         print("---------Finalizando Sequencia de notas Sefaz---------")
-        arquivoCsvSucesso, numeroCsvSucesso = RetornoVeiculosSucesso(final_placa) 
-        arquivoCsvErro, numeroCsErro = RetornoVeiculosErro(final_placa)
-        arquivoCsvSemDebito, numeroCsvDebito = RetornoVeiculosSemDebito(final_placa)
+        arquivoCsvSucesso , numeroCsvSucesso = RetornoVeiculosSucesso() 
+        arquivoCsvErro, numeroCsErro = RetornoVeiculosErro()
+        arquivoCsvSemDebito, numeroCsvDebito = RetornoVeiculosSemDebito()
         print('Enviando email de finalizacao')
         escreveLog('Enviando email de finalizacao')
-        ResultadoEmail.ResultadoErro(e, final_placa, len(resultadoVeiculos),numeroCsErro,numeroCsvSucesso,numeroCsvDebito,arquivoCsvSucesso,arquivoCsvErro,arquivoCsvSemDebito)
+        ResultadoEmail.ResultadoErro('0', len(resultadoVeiculos),numeroCsErro,numeroCsvSucesso,numeroCsvDebito,arquivoCsvSucesso,arquivoCsvErro,arquivoCsvSemDebito)
+        pass
 
 def realizandoLicenciamento(driver,placaVeiculo,renavamVeiculo,num_documentoVeiculo,idVeiculo):
-    #-----------------------------------
-    #Funcao para baixar o lincenciamento
-    #------------------------------------
-    
     def emitirLicenciamento():
-        print('O veiculo tem licenciamento Pendente')
         escreveLog(f'Emitindo licenciamento')
         emitir = WebDriverWait(driver, 20).until(
                     EC.element_to_be_clickable((By.ID, "spanDAR_LicenciamentoExercicio"))
@@ -156,7 +122,8 @@ def realizandoLicenciamento(driver,placaVeiculo,renavamVeiculo,num_documentoVeic
                 ObterDadosLicenciamentoDB.updateErroLic(idVeiculo)
         except:
             print("O site esta disponivel")
-        print('Salvando o Licenciamento')
+            
+
         state = driver.execute_script('return document.readyState')
         total_height = driver.execute_script("return document.body.scrollHeight")
         sleep(10)
@@ -167,16 +134,15 @@ def realizandoLicenciamento(driver,placaVeiculo,renavamVeiculo,num_documentoVeic
         # salvando pagina para pdf
         #------------------------------------
         anoAtual = datetime.now().year
-        caminhoLicenciamento = fr"S:\Automacao\bot\LICENCIAMENTO\TESTE Lic Licenciamento {anoAtual} - RENAVAM {renavamVeiculo}.pdf"
+        caminhoLicenciamento = fr"C:\BOT\LICENCIAMENTO\TESTE Lic Licenciamento {anoAtual} - RENAVAM {renavamVeiculo}.pdf"
 
         with open(caminhoLicenciamento, "wb") as f:
             f.write(base64.b64decode(pdf['data']))
 
         if os.path.exists(caminhoLicenciamento):
             print("PDF salvo com sucesso!")
-            print("valor que esta no licenciamento: ",valorLicenciamento)
+            print("valor que esta no licenciamento: ",valorliceinciamento)
             ObterDadosLicenciamentoDB.updateValor(valorLicenciamento,caminhoLicenciamento,idVeiculo)
-            print('')
             driver.close()
             driver.switch_to.window(driver.window_handles[1])
             #ObterDadosLicenciamentoDB.updateValorMultas(valorLicenciamento,caminhoLicenciamento,idVeiculo)
@@ -185,11 +151,11 @@ def realizandoLicenciamento(driver,placaVeiculo,renavamVeiculo,num_documentoVeic
             print("Erro ao salvar o PDF.")
             driver.close()
             driver.switch_to.window(driver.window_handles[1])
+#            driver.close()
+#            driver.switch_to.window(driver.window_handles[0])
+#            driver.close()
             print("fechando navegador do emitir licenciamento")
- 
-    #-----------------------------------
-    #Funcao para baixar as multas
-    #------------------------------------
+
     def emitirMultas(quantidade_checkboxes):
         escreveLog(f'Emitindo multa')
 
@@ -243,17 +209,14 @@ def realizandoLicenciamento(driver,placaVeiculo,renavamVeiculo,num_documentoVeic
         # salvando pagina para pdf
         #------------------------------------
         anoAtual = datetime.now().year
-        caminhoMultas = fr"S:\Automacao\bot\MULTAS\MULTAS - {anoAtual} - RENAVAM {renavamVeiculo}.pdf"
+        caminhoMultas = fr"C:\BOT\MULTAS\MULTAS - {anoAtual} - RENAVAM {renavamVeiculo}.pdf"
 
         with open(caminhoMultas, "wb") as f:
             f.write(base64.b64decode(pdf['data']))
 
         if os.path.exists(caminhoMultas):
             print("PDF salvo com sucesso!")
-            try:
-                print("valor que esta no licenciamento: ",valorliceinciamento)
-            except:
-                pass
+            print("valor que esta no licenciamento: ",valorliceinciamento)
             #print(valorliceinciamento)
             #ObterDadosLicenciamentoDB.updateValor(valorLicenciamento,caminhoLicenciamento,idVeiculo)
             #ObterDadosLicenciamentoDB.updateValorMultas(valorLicenciamento,caminhoMultas,idVeiculo)
@@ -266,11 +229,11 @@ def realizandoLicenciamento(driver,placaVeiculo,renavamVeiculo,num_documentoVeic
             print("Erro ao salvar o PDF.")
             driver.close()
             driver.switch_to.window(driver.window_handles[1])
+#            driver.close()
+#            driver.switch_to.window(driver.window_handles[0])
+#            driver.close()
             print("fechando navegador do emitir multas")
     
-    
-    #Inicio do codigo
-    #Faz o login no detran
     while True:
         sleep(3)
         escreveLog('Iniciando o site do Detran')
@@ -305,16 +268,18 @@ def realizandoLicenciamento(driver,placaVeiculo,renavamVeiculo,num_documentoVeic
 
         # Troca pra nova aba
 #------------------------trocando para nova aba do navegador----------------------------------
+
         #print("Título da nova aba:", driver.title)
         # Checa se a página terminou de carregar
         state = driver.execute_script('return document.readyState')
         print("Estado da página:", state)
-        print('iniciando pagina de captcha e numero de documento')
+        print('inicinando pagina de captcha e numero de documento')
         cpfCnpj = WebDriverWait(driver, 10).until(
             EC.element_to_be_clickable((By.NAME, 'DocumentoProprietarioValidacao'))
         )
         cpfCnpj.send_keys(num_documentoVeiculo) 
         sleep(5)
+
 
         import captchaLic
         token = captchaLic.capsolver()  # Chama a função para resolver o captcha
@@ -376,7 +341,7 @@ def realizandoLicenciamento(driver,placaVeiculo,renavamVeiculo,num_documentoVeic
                 escreveLog(f'Erro - N/ emplacado na base local para o veiculo {placaVeiculo}')
             driver.close()
             driver.switch_to.window(driver.window_handles[0])
-            driver.quit()
+            driver.close()
             break
 
 #------------------------trocando para nova aba do navegador----------------------------------
@@ -391,7 +356,7 @@ def realizandoLicenciamento(driver,placaVeiculo,renavamVeiculo,num_documentoVeic
                 escreveLog(fr"o veiculo da placa {placaVeiculo} nao tem nenhum debito")
                 driver.close()
                 driver.switch_to.window(driver.window_handles[0])
-                driver.quit()
+                driver.close()
                 
                 break
         else:
@@ -407,8 +372,9 @@ def realizandoLicenciamento(driver,placaVeiculo,renavamVeiculo,num_documentoVeic
 
         existeMulta = False
         temIntegral = False
-        existeLic = False
+
         for option in select.options:
+            existeLic = False
             value = option.get_attribute("value")
             text = option.text.strip()
 
@@ -463,14 +429,17 @@ def realizandoLicenciamento(driver,placaVeiculo,renavamVeiculo,num_documentoVeic
 
             driver.close()
             driver.switch_to.window(driver.window_handles[0])
-            driver.quit()
-            print("fechando navegador depois de concluir multas")
+            driver.close()
+            print("fechando navegador definitivamente")
             break
                       
+#---------------------------------------------------------------------
+#FAZER FUNCAO APRA MULTAS E UIMA SO PARA PEGAR O VALOR TOTAL DE DEBITOS 
 
+    
 if __name__ == "__main__":
-    if len(sys.argv) > 1:
-        final_placa = sys.argv[1]
-        main(final_placa)
+#    if len(sys.argv) > 1:
+#        final_placa = sys.argv[1]
+#        main(final_placa)
         
-    #main('0')
+    main('9')

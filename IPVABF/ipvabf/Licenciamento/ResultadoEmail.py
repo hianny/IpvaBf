@@ -77,7 +77,7 @@ def ResultadoFinalEmail(finalPlaca,qtdVeiculos,qtdVeiculosErro,qtdVeiculosSucess
 
     return
 
-def ResultadoErro(finalPlaca,qtdVeiculos,qtdVeiculosErro,qtdVeiculosSucesso,qtdVeiculosSDebito,arquivoCsvSucesso,arquivoCsvErro,arquivoCsvSemDebito):
+def ResultadoErro(erro,finalPlaca,qtdVeiculos,qtdVeiculosErro,qtdVeiculosSucesso,qtdVeiculosSDebito,arquivoCsvSucesso,arquivoCsvErro,arquivoCsvSemDebito):
     try:
         data = datetime.now().strftime("%Y-%m-%d-%H-%M-%S")
         #destinatarios = ["WILSON.PALHARES@bomfuturo.com.br", "hianny.urt@bomfuturo.com.br"]
@@ -92,6 +92,7 @@ def ResultadoErro(finalPlaca,qtdVeiculos,qtdVeiculosErro,qtdVeiculosSucesso,qtdV
         <h1>Erro na execução</h1>
         <p>###########################################################</p>
         <p>Ocorreu um erro durante a execucao do Robô, o erro causou a interrupção do robô.</p>
+        <p>Erro: {erro}</p>
         <p>O roboô vai passar para a Proximo de placa, os veiculos que não rodaram pela interrupção do erro serão rodadas depois da finalização dos veiculos com final de placa: 0</p>
         <p>###########################################################</p>
         <p>Data de finalização: {data} </p>
@@ -139,4 +140,4 @@ def ResultadoErro(finalPlaca,qtdVeiculos,qtdVeiculosErro,qtdVeiculosSucesso,qtdV
 
 if __name__ == "__main__":
     ResultadoErro()
-    ResultadoFinalEmail('','','','','','')
+    ResultadoFinalEmail('','','','','','','')

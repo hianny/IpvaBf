@@ -1,0 +1,806 @@
+2025-06-23T09_28: ---------Iniciando Sequencia de notas Sefaz---------
+2025-06-23T09_28: Abrindo o navegador
+2025-06-23T09_29: Iniciando o site do Detran
+2025-06-23T09_29: login realizado
+2025-06-23T09_29: O captcha foi resolvido
+2025-06-23T09_29: Consultando o veiculo
+2025-06-23T09_29: Verificando se houve erro na consulta do veiculo
+2025-06-23T09_29: O veículo da placa OBB9E70 ainda possui pendência de licenciamento
+2025-06-23T09_29: Emitindo licenciamento
+2025-06-23T09_30: Ocorreu um erro ao processar o veiculo OBB9E70: [Errno 2] No such file or directory: 'C:\\BOT\\LICENCIAMENTO\\TESTE Lic Licenciamento 2025 - RENAVAM 490886191.pdf'
+2025-06-23T09_30: Abrindo o navegador
+2025-06-23T09_30: Iniciando o site do Detran
+2025-06-23T09_30: login realizado
+2025-06-23T09_30: O captcha foi resolvido
+2025-06-23T09_30: Consultando o veiculo
+2025-06-23T09_30: Verificando se houve erro na consulta do veiculo
+2025-06-23T09_30: O veículo da placa QCZ2E60 ainda possui pendência de licenciamento
+2025-06-23T09_30: Emitindo licenciamento
+2025-06-23T09_31: Ocorreu um erro ao processar o veiculo QCZ2E60: [Errno 2] No such file or directory: 'C:\\BOT\\LICENCIAMENTO\\TESTE Lic Licenciamento 2025 - RENAVAM 1175811138.pdf'
+2025-06-23T09_31: Abrindo o navegador
+2025-06-23T09_31: Iniciando o site do Detran
+2025-06-23T09_31: login realizado
+2025-06-23T09_31: O captcha foi resolvido
+2025-06-23T09_31: Consultando o veiculo
+2025-06-23T09_31: Verificando se houve erro na consulta do veiculo
+2025-06-23T09_31: O veículo da placa QCV3F10 ainda possui pendência de licenciamento
+2025-06-23T09_31: Emitindo licenciamento
+2025-06-23T09_31: Ocorreu um erro ao processar o veiculo QCV3F10: [Errno 2] No such file or directory: 'C:\\BOT\\LICENCIAMENTO\\TESTE Lic Licenciamento 2025 - RENAVAM 1176358372.pdf'
+2025-06-23T09_32: Abrindo o navegador
+2025-06-23T09_32: Iniciando o site do Detran
+2025-06-23T09_32: login realizado
+2025-06-23T09_32: O captcha foi resolvido
+2025-06-23T09_32: Consultando o veiculo
+2025-06-23T09_32: Verificando se houve erro na consulta do veiculo
+2025-06-23T09_32: O veículo da placa QCE7970 ainda possui pendência de licenciamento
+2025-06-23T09_32: Emitindo licenciamento
+2025-06-23T09_32: Ocorreu um erro ao processar o veiculo QCE7970: [Errno 2] No such file or directory: 'C:\\BOT\\LICENCIAMENTO\\TESTE Lic Licenciamento 2025 - RENAVAM 1177427025.pdf'
+2025-06-23T09_32: Abrindo o navegador
+2025-06-23T09_33: Iniciando o site do Detran
+2025-06-23T09_33: login realizado
+2025-06-23T09_33: O captcha foi resolvido
+2025-06-23T09_33: Consultando o veiculo
+2025-06-23T09_33: Verificando se houve erro na consulta do veiculo
+2025-06-23T09_33: O veículo da placa AVT9210 ainda possui pendência de licenciamento
+2025-06-23T09_33: Emitindo licenciamento
+2025-06-23T09_33: Ocorreu um erro ao processar o veiculo AVT9210: [Errno 2] No such file or directory: 'C:\\BOT\\LICENCIAMENTO\\TESTE Lic Licenciamento 2025 - RENAVAM 605594090.pdf'
+2025-06-23T09_33: Abrindo o navegador
+2025-06-23T09_33: Iniciando o site do Detran
+2025-06-23T09_34: login realizado
+2025-06-23T09_34: O captcha foi resolvido
+2025-06-23T09_34: Consultando o veiculo
+2025-06-23T09_34: Verificando se houve erro na consulta do veiculo
+2025-06-23T09_34: O veículo da placa RAR9B70 ainda possui pendência de licenciamento
+2025-06-23T09_34: Emitindo licenciamento
+2025-06-23T09_34: Ocorreu um erro ao processar o veiculo RAR9B70: [Errno 2] No such file or directory: 'C:\\BOT\\LICENCIAMENTO\\TESTE Lic Licenciamento 2025 - RENAVAM 1277646896.pdf'
+2025-06-23T09_34: Abrindo o navegador
+2025-06-23T09_34: Iniciando o site do Detran
+2025-06-23T09_35: login realizado
+2025-06-23T09_35: O captcha foi resolvido
+2025-06-23T09_35: Consultando o veiculo
+2025-06-23T09_35: Verificando se houve erro na consulta do veiculo
+2025-06-23T09_35: O veículo da placa QCD9G70 possui multas pendentes
+2025-06-23T09_35: Emitindo multa
+2025-06-23T09_35: Ocorreu um erro ao processar o veiculo QCD9G70: [Errno 2] No such file or directory: 'C:\\BOT\\MULTAS\\MULTAS - 2025 - RENAVAM 1173046230.pdf'
+2025-06-23T09_35: Abrindo o navegador
+2025-06-23T09_36: Iniciando o site do Detran
+2025-06-23T09_36: login realizado
+2025-06-23T09_36: O captcha foi resolvido
+2025-06-23T09_36: Consultando o veiculo
+2025-06-23T09_36: Verificando se houve erro na consulta do veiculo
+2025-06-23T09_36: O veículo da placa QCY9J70 ainda possui pendência de licenciamento
+2025-06-23T09_36: Emitindo licenciamento
+2025-06-23T09_36: Ocorreu um erro ao processar o veiculo QCY9J70: [Errno 2] No such file or directory: 'C:\\BOT\\LICENCIAMENTO\\TESTE Lic Licenciamento 2025 - RENAVAM 1175794527.pdf'
+2025-06-23T09_36: Abrindo o navegador
+2025-06-23T09_36: Iniciando o site do Detran
+2025-06-23T09_37: login realizado
+2025-06-23T09_37: O captcha foi resolvido
+2025-06-23T09_37: Consultando o veiculo
+2025-06-23T09_37: Verificando se houve erro na consulta do veiculo
+2025-06-23T09_37: O veículo da placa QBI8F40 ainda possui pendência de licenciamento
+2025-06-23T09_37: Emitindo licenciamento
+2025-06-23T09_37: Ocorreu um erro ao processar o veiculo QBI8F40: [Errno 2] No such file or directory: 'C:\\BOT\\LICENCIAMENTO\\TESTE Lic Licenciamento 2025 - RENAVAM 1065670572.pdf'
+2025-06-23T09_37: Abrindo o navegador
+2025-06-23T09_37: Iniciando o site do Detran
+2025-06-23T09_38: login realizado
+2025-06-23T09_38: O captcha foi resolvido
+2025-06-23T09_38: Consultando o veiculo
+2025-06-23T09_38: Verificando se houve erro na consulta do veiculo
+2025-06-23T09_38: o veiculo da placa CMP0120 nao tem nenhum debito
+2025-06-23T09_38: Ocorreu um erro ao processar o veiculo CMP0120: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T09_38: Abrindo o navegador
+2025-06-23T09_38: Iniciando o site do Detran
+2025-06-23T09_38: login realizado
+2025-06-23T09_38: O captcha foi resolvido
+2025-06-23T09_39: Consultando o veiculo
+2025-06-23T09_39: Verificando se houve erro na consulta do veiculo
+2025-06-23T09_39: o veiculo da placa IMQ5790 nao tem nenhum debito
+2025-06-23T09_39: Ocorreu um erro ao processar o veiculo IMQ5790: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T09_39: Abrindo o navegador
+2025-06-23T09_39: Iniciando o site do Detran
+2025-06-23T09_39: login realizado
+2025-06-23T09_39: O captcha foi resolvido
+2025-06-23T09_39: Consultando o veiculo
+2025-06-23T09_39: Verificando se houve erro na consulta do veiculo
+2025-06-23T09_39: o veiculo da placa NIY2B20 nao tem nenhum debito
+2025-06-23T09_39: Ocorreu um erro ao processar o veiculo NIY2B20: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T09_39: Abrindo o navegador
+2025-06-23T09_39: Iniciando o site do Detran
+2025-06-23T09_40: login realizado
+2025-06-23T09_40: O captcha foi resolvido
+2025-06-23T09_40: Consultando o veiculo
+2025-06-23T09_40: Verificando se houve erro na consulta do veiculo
+2025-06-23T09_40: o veiculo da placa QCD9H00 nao tem nenhum debito
+2025-06-23T09_40: Ocorreu um erro ao processar o veiculo QCD9H00: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T09_40: Abrindo o navegador
+2025-06-23T09_40: Iniciando o site do Detran
+2025-06-23T09_40: login realizado
+2025-06-23T09_40: O captcha foi resolvido
+2025-06-23T09_40: Consultando o veiculo
+2025-06-23T09_41: Verificando se houve erro na consulta do veiculo
+2025-06-23T09_41: o veiculo da placa SPJ7E00 nao tem nenhum debito
+2025-06-23T09_41: Ocorreu um erro ao processar o veiculo SPJ7E00: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T09_41: Abrindo o navegador
+2025-06-23T09_41: Iniciando o site do Detran
+2025-06-23T09_41: login realizado
+2025-06-23T09_41: O captcha foi resolvido
+2025-06-23T09_41: Consultando o veiculo
+2025-06-23T09_41: Verificando se houve erro na consulta do veiculo
+2025-06-23T09_41: o veiculo da placa SPS9H20 nao tem nenhum debito
+2025-06-23T09_41: Ocorreu um erro ao processar o veiculo SPS9H20: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T09_41: Abrindo o navegador
+2025-06-23T09_42: Iniciando o site do Detran
+2025-06-23T09_42: login realizado
+2025-06-23T09_42: O captcha foi resolvido
+2025-06-23T09_42: Consultando o veiculo
+2025-06-23T09_42: Verificando se houve erro na consulta do veiculo
+2025-06-23T09_42: o veiculo da placa DUM7520 nao tem nenhum debito
+2025-06-23T09_42: Ocorreu um erro ao processar o veiculo DUM7520: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T09_42: Abrindo o navegador
+2025-06-23T09_42: Iniciando o site do Detran
+2025-06-23T09_42: login realizado
+2025-06-23T09_43: O captcha foi resolvido
+2025-06-23T09_43: Consultando o veiculo
+2025-06-23T09_43: Verificando se houve erro na consulta do veiculo
+2025-06-23T09_43: o veiculo da placa QCC7G00 nao tem nenhum debito
+2025-06-23T09_43: Ocorreu um erro ao processar o veiculo QCC7G00: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T09_43: Abrindo o navegador
+2025-06-23T09_43: Iniciando o site do Detran
+2025-06-23T09_43: login realizado
+2025-06-23T09_43: O captcha foi resolvido
+2025-06-23T09_43: Consultando o veiculo
+2025-06-23T09_43: Verificando se houve erro na consulta do veiculo
+2025-06-23T09_43: Erro - Renavam Invalido para o veiculo RAW7H00
+2025-06-23T09_43: Ocorreu um erro ao processar o veiculo RAW7H00: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T09_43: Abrindo o navegador
+2025-06-23T09_43: Iniciando o site do Detran
+2025-06-23T09_44: login realizado
+2025-06-23T09_44: O captcha foi resolvido
+2025-06-23T09_44: Consultando o veiculo
+2025-06-23T09_44: Verificando se houve erro na consulta do veiculo
+2025-06-23T09_44: o veiculo da placa SPN9J20 nao tem nenhum debito
+2025-06-23T09_44: Ocorreu um erro ao processar o veiculo SPN9J20: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T09_44: Abrindo o navegador
+2025-06-23T09_44: Iniciando o site do Detran
+2025-06-23T09_44: login realizado
+2025-06-23T09_45: O captcha foi resolvido
+2025-06-23T09_45: Consultando o veiculo
+2025-06-23T09_45: Verificando se houve erro na consulta do veiculo
+2025-06-23T09_45: o veiculo da placa SPO4E90 nao tem nenhum debito
+2025-06-23T09_45: Ocorreu um erro ao processar o veiculo SPO4E90: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T09_45: Abrindo o navegador
+2025-06-23T09_45: Iniciando o site do Detran
+2025-06-23T09_45: login realizado
+2025-06-23T09_45: O captcha foi resolvido
+2025-06-23T09_45: Consultando o veiculo
+2025-06-23T09_45: Verificando se houve erro na consulta do veiculo
+2025-06-23T09_45: O veículo da placa QCG8E10 ainda possui pendência de licenciamento
+2025-06-23T09_45: Emitindo licenciamento
+2025-06-23T09_46: Ocorreu um erro ao processar o veiculo QCG8E10: [Errno 2] No such file or directory: 'C:\\BOT\\LICENCIAMENTO\\TESTE Lic Licenciamento 2025 - RENAVAM 1173819093.pdf'
+2025-06-23T09_46: Abrindo o navegador
+2025-06-23T09_46: Iniciando o site do Detran
+2025-06-23T09_46: login realizado
+2025-06-23T09_46: O captcha foi resolvido
+2025-06-23T09_46: Consultando o veiculo
+2025-06-23T09_46: Verificando se houve erro na consulta do veiculo
+2025-06-23T09_46: o veiculo da placa SPN9H60 nao tem nenhum debito
+2025-06-23T09_46: Ocorreu um erro ao processar o veiculo SPN9H60: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T09_47: Abrindo o navegador
+2025-06-23T09_47: Iniciando o site do Detran
+2025-06-23T09_47: login realizado
+2025-06-23T09_47: O captcha foi resolvido
+2025-06-23T09_47: Consultando o veiculo
+2025-06-23T09_47: Verificando se houve erro na consulta do veiculo
+2025-06-23T09_47: O veículo da placa QCZ1E60 ainda possui pendência de licenciamento
+2025-06-23T09_47: Emitindo licenciamento
+2025-06-23T09_47: Ocorreu um erro ao processar o veiculo QCZ1E60: [Errno 2] No such file or directory: 'C:\\BOT\\LICENCIAMENTO\\TESTE Lic Licenciamento 2025 - RENAVAM 1175803950.pdf'
+2025-06-23T09_48: Abrindo o navegador
+2025-06-23T09_48: Iniciando o site do Detran
+2025-06-23T09_48: login realizado
+2025-06-23T09_48: O captcha foi resolvido
+2025-06-23T09_48: Consultando o veiculo
+2025-06-23T09_48: Verificando se houve erro na consulta do veiculo
+2025-06-23T09_48: O veículo da placa LKT6210 ainda possui pendência de licenciamento
+2025-06-23T09_48: Emitindo licenciamento
+2025-06-23T09_48: Ocorreu um erro ao processar o veiculo LKT6210: [Errno 2] No such file or directory: 'C:\\BOT\\LICENCIAMENTO\\TESTE Lic Licenciamento 2025 - RENAVAM 991085337.pdf'
+2025-06-23T09_49: Abrindo o navegador
+2025-06-23T09_49: Iniciando o site do Detran
+2025-06-23T09_49: login realizado
+2025-06-23T09_49: O captcha foi resolvido
+2025-06-23T09_49: Consultando o veiculo
+2025-06-23T09_49: Verificando se houve erro na consulta do veiculo
+2025-06-23T09_49: O veículo da placa QCZ1E00 ainda possui pendência de licenciamento
+2025-06-23T09_49: Emitindo licenciamento
+2025-06-23T09_49: Ocorreu um erro ao processar o veiculo QCZ1E00: [Errno 2] No such file or directory: 'C:\\BOT\\LICENCIAMENTO\\TESTE Lic Licenciamento 2025 - RENAVAM 1175803631.pdf'
+2025-06-23T09_49: Abrindo o navegador
+2025-06-23T09_49: Iniciando o site do Detran
+2025-06-23T09_50: login realizado
+2025-06-23T09_50: O captcha foi resolvido
+2025-06-23T09_50: Consultando o veiculo
+2025-06-23T09_50: Verificando se houve erro na consulta do veiculo
+2025-06-23T09_50: O veículo da placa QCV3H50 ainda possui pendência de licenciamento
+2025-06-23T09_50: Emitindo licenciamento
+2025-06-23T09_50: Ocorreu um erro ao processar o veiculo QCV3H50: [Errno 2] No such file or directory: 'C:\\BOT\\LICENCIAMENTO\\TESTE Lic Licenciamento 2025 - RENAVAM 1176365360.pdf'
+2025-06-23T09_50: Abrindo o navegador
+2025-06-23T09_50: Iniciando o site do Detran
+2025-06-23T09_51: login realizado
+2025-06-23T09_51: O captcha foi resolvido
+2025-06-23T09_51: Consultando o veiculo
+2025-06-23T09_51: Verificando se houve erro na consulta do veiculo
+2025-06-23T09_51: O veículo da placa RRR9B10 ainda possui pendência de licenciamento
+2025-06-23T09_51: Emitindo licenciamento
+2025-06-23T09_51: Ocorreu um erro ao processar o veiculo RRR9B10: [Errno 2] No such file or directory: 'C:\\BOT\\LICENCIAMENTO\\TESTE Lic Licenciamento 2025 - RENAVAM 1327997123.pdf'
+2025-06-23T09_51: Abrindo o navegador
+2025-06-23T09_51: Iniciando o site do Detran
+2025-06-23T09_52: login realizado
+2025-06-23T09_52: O captcha foi resolvido
+2025-06-23T09_52: Consultando o veiculo
+2025-06-23T09_52: Verificando se houve erro na consulta do veiculo
+2025-06-23T09_52: o veiculo da placa QCZ2B80 nao tem nenhum debito
+2025-06-23T09_52: Ocorreu um erro ao processar o veiculo QCZ2B80: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T09_52: Abrindo o navegador
+2025-06-23T09_52: Iniciando o site do Detran
+2025-06-23T09_52: login realizado
+2025-06-23T09_52: O captcha foi resolvido
+2025-06-23T09_52: Consultando o veiculo
+2025-06-23T09_52: Verificando se houve erro na consulta do veiculo
+2025-06-23T09_52: o veiculo da placa SPM3E10 nao tem nenhum debito
+2025-06-23T09_52: Ocorreu um erro ao processar o veiculo SPM3E10: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T09_53: Abrindo o navegador
+2025-06-23T09_53: Iniciando o site do Detran
+2025-06-23T09_53: login realizado
+2025-06-23T09_53: O captcha foi resolvido
+2025-06-23T09_53: Consultando o veiculo
+2025-06-23T09_53: Verificando se houve erro na consulta do veiculo
+2025-06-23T09_53: O veículo da placa QCG8F90 ainda possui pendência de licenciamento
+2025-06-23T09_53: Emitindo licenciamento
+2025-06-23T09_53: Ocorreu um erro ao processar o veiculo QCG8F90: [Errno 2] No such file or directory: 'C:\\BOT\\LICENCIAMENTO\\TESTE Lic Licenciamento 2025 - RENAVAM 1173825271.pdf'
+2025-06-23T09_53: Abrindo o navegador
+2025-06-23T09_53: Iniciando o site do Detran
+2025-06-23T09_54: login realizado
+2025-06-23T09_54: O captcha foi resolvido
+2025-06-23T09_54: Consultando o veiculo
+2025-06-23T09_54: Verificando se houve erro na consulta do veiculo
+2025-06-23T09_54: o veiculo da placa SPS9H10 nao tem nenhum debito
+2025-06-23T09_54: Ocorreu um erro ao processar o veiculo SPS9H10: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T09_54: Abrindo o navegador
+2025-06-23T09_54: Iniciando o site do Detran
+2025-06-23T09_54: login realizado
+2025-06-23T09_55: O captcha foi resolvido
+2025-06-23T09_55: Consultando o veiculo
+2025-06-23T09_55: Verificando se houve erro na consulta do veiculo
+2025-06-23T09_55: o veiculo da placa QCZ1J20 nao tem nenhum debito
+2025-06-23T09_55: Ocorreu um erro ao processar o veiculo QCZ1J20: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T09_55: Abrindo o navegador
+2025-06-23T09_55: Iniciando o site do Detran
+2025-06-23T09_55: login realizado
+2025-06-23T09_55: O captcha foi resolvido
+2025-06-23T09_55: Consultando o veiculo
+2025-06-23T09_55: Verificando se houve erro na consulta do veiculo
+2025-06-23T09_55: Ocorreu um erro ao processar o veiculo QCZ1A50: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T09_55: Abrindo o navegador
+2025-06-23T09_56: Iniciando o site do Detran
+2025-06-23T09_56: login realizado
+2025-06-23T09_56: O captcha foi resolvido
+2025-06-23T09_56: Consultando o veiculo
+2025-06-23T09_56: Verificando se houve erro na consulta do veiculo
+2025-06-23T09_56: o veiculo da placa SPO0D60 nao tem nenhum debito
+2025-06-23T09_56: Ocorreu um erro ao processar o veiculo SPO0D60: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T09_56: Abrindo o navegador
+2025-06-23T09_56: Iniciando o site do Detran
+2025-06-23T09_56: login realizado
+2025-06-23T09_57: O captcha foi resolvido
+2025-06-23T09_57: Consultando o veiculo
+2025-06-23T09_57: Verificando se houve erro na consulta do veiculo
+2025-06-23T09_57: O veículo da placa RAK3I70 ainda possui pendência de licenciamento
+2025-06-23T09_57: Emitindo licenciamento
+2025-06-23T09_57: Ocorreu um erro ao processar o veiculo RAK3I70: [Errno 2] No such file or directory: 'C:\\BOT\\LICENCIAMENTO\\TESTE Lic Licenciamento 2025 - RENAVAM 1213629818.pdf'
+2025-06-23T09_57: Abrindo o navegador
+2025-06-23T09_57: Iniciando o site do Detran
+2025-06-23T09_57: login realizado
+2025-06-23T09_58: O captcha foi resolvido
+2025-06-23T09_58: Consultando o veiculo
+2025-06-23T09_58: Verificando se houve erro na consulta do veiculo
+2025-06-23T09_58: O veículo da placa QCZ1F30 ainda possui pendência de licenciamento
+2025-06-23T09_58: Emitindo licenciamento
+2025-06-23T09_58: Ocorreu um erro ao processar o veiculo QCZ1F30: [Errno 2] No such file or directory: 'C:\\BOT\\LICENCIAMENTO\\TESTE Lic Licenciamento 2025 - RENAVAM 1175804085.pdf'
+2025-06-23T09_58: Abrindo o navegador
+2025-06-23T09_58: Iniciando o site do Detran
+2025-06-23T09_58: login realizado
+2025-06-23T09_58: O captcha foi resolvido
+2025-06-23T09_58: Consultando o veiculo
+2025-06-23T09_59: Verificando se houve erro na consulta do veiculo
+2025-06-23T09_59: o veiculo da placa QCG8H60 nao tem nenhum debito
+2025-06-23T09_59: Ocorreu um erro ao processar o veiculo QCG8H60: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T10_01: Ocorreu um erro ao processar o veiculo QCG8H60: HTTPConnectionPool(host='localhost', port=56316): Read timed out. (read timeout=120)
+2025-06-23T10_01: Abrindo o navegador
+2025-06-23T10_01: Iniciando o site do Detran
+2025-06-23T10_01: login realizado
+2025-06-23T10_01: O captcha foi resolvido
+2025-06-23T10_01: Consultando o veiculo
+2025-06-23T10_01: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_01: O veículo da placa SPN9I80 ainda possui pendência de licenciamento
+2025-06-23T10_01: Emitindo licenciamento
+2025-06-23T10_01: Ocorreu um erro ao processar o veiculo SPN9I80: [Errno 2] No such file or directory: 'C:\\BOT\\LICENCIAMENTO\\TESTE Lic Licenciamento 2025 - RENAVAM 1401881391.pdf'
+2025-06-23T10_02: Abrindo o navegador
+2025-06-23T10_02: Iniciando o site do Detran
+2025-06-23T10_02: login realizado
+2025-06-23T10_02: O captcha foi resolvido
+2025-06-23T10_02: Consultando o veiculo
+2025-06-23T10_02: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_02: O veículo da placa EGS5A20 ainda possui pendência de licenciamento
+2025-06-23T10_02: Emitindo licenciamento
+2025-06-23T10_02: Ocorreu um erro ao processar o veiculo EGS5A20: [Errno 2] No such file or directory: 'C:\\BOT\\LICENCIAMENTO\\TESTE Lic Licenciamento 2025 - RENAVAM 110096681.pdf'
+2025-06-23T10_02: Abrindo o navegador
+2025-06-23T10_03: Iniciando o site do Detran
+2025-06-23T10_03: login realizado
+2025-06-23T10_03: O captcha foi resolvido
+2025-06-23T10_03: Consultando o veiculo
+2025-06-23T10_03: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_03: o veiculo da placa QCH7H20 nao tem nenhum debito
+2025-06-23T10_03: Ocorreu um erro ao processar o veiculo QCH7H20: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T10_03: Abrindo o navegador
+2025-06-23T10_03: Iniciando o site do Detran
+2025-06-23T10_03: login realizado
+2025-06-23T10_04: O captcha foi resolvido
+2025-06-23T10_04: Consultando o veiculo
+2025-06-23T10_04: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_04: O veículo da placa QCV3D30 ainda possui pendência de licenciamento
+2025-06-23T10_04: Emitindo licenciamento
+2025-06-23T10_04: Ocorreu um erro ao processar o veiculo QCV3D30: [Errno 2] No such file or directory: 'C:\\BOT\\LICENCIAMENTO\\TESTE Lic Licenciamento 2025 - RENAVAM 1176352013.pdf'
+2025-06-23T10_04: Abrindo o navegador
+2025-06-23T10_04: Iniciando o site do Detran
+2025-06-23T10_04: login realizado
+2025-06-23T10_05: O captcha foi resolvido
+2025-06-23T10_05: Consultando o veiculo
+2025-06-23T10_05: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_05: O veículo da placa QCG8G40 ainda possui pendência de licenciamento
+2025-06-23T10_05: Emitindo licenciamento
+2025-06-23T10_05: Ocorreu um erro ao processar o veiculo QCG8G40: [Errno 2] No such file or directory: 'C:\\BOT\\LICENCIAMENTO\\TESTE Lic Licenciamento 2025 - RENAVAM 1173825816.pdf'
+2025-06-23T10_05: Abrindo o navegador
+2025-06-23T10_05: Iniciando o site do Detran
+2025-06-23T10_05: login realizado
+2025-06-23T10_06: O captcha foi resolvido
+2025-06-23T10_06: Consultando o veiculo
+2025-06-23T10_06: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_06: o veiculo da placa RAX1J60 nao tem nenhum debito
+2025-06-23T10_06: Ocorreu um erro ao processar o veiculo RAX1J60: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T10_06: Abrindo o navegador
+2025-06-23T10_06: Iniciando o site do Detran
+2025-06-23T10_06: login realizado
+2025-06-23T10_06: O captcha foi resolvido
+2025-06-23T10_06: Consultando o veiculo
+2025-06-23T10_06: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_06: O veículo da placa SPC1G50 ainda possui pendência de licenciamento
+2025-06-23T10_06: Emitindo licenciamento
+2025-06-23T10_07: Ocorreu um erro ao processar o veiculo SPC1G50: [Errno 2] No such file or directory: 'C:\\BOT\\LICENCIAMENTO\\TESTE Lic Licenciamento 2025 - RENAVAM 1361815512.pdf'
+2025-06-23T10_07: Abrindo o navegador
+2025-06-23T10_07: Iniciando o site do Detran
+2025-06-23T10_07: login realizado
+2025-06-23T10_07: O captcha foi resolvido
+2025-06-23T10_07: Consultando o veiculo
+2025-06-23T10_07: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_07: o veiculo da placa LSW7E90 nao tem nenhum debito
+2025-06-23T10_07: Ocorreu um erro ao processar o veiculo LSW7E90: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T10_07: Abrindo o navegador
+2025-06-23T10_07: Iniciando o site do Detran
+2025-06-23T10_08: login realizado
+2025-06-23T10_08: O captcha foi resolvido
+2025-06-23T10_08: Consultando o veiculo
+2025-06-23T10_08: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_08: o veiculo da placa SPO4D20 nao tem nenhum debito
+2025-06-23T10_08: Ocorreu um erro ao processar o veiculo SPO4D20: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T10_08: Abrindo o navegador
+2025-06-23T10_08: Iniciando o site do Detran
+2025-06-23T10_08: login realizado
+2025-06-23T10_09: O captcha foi resolvido
+2025-06-23T10_09: Consultando o veiculo
+2025-06-23T10_09: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_09: o veiculo da placa RAL1G40 nao tem nenhum debito
+2025-06-23T10_09: Ocorreu um erro ao processar o veiculo RAL1G40: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T10_09: Abrindo o navegador
+2025-06-23T10_09: Iniciando o site do Detran
+2025-06-23T10_09: login realizado
+2025-06-23T10_09: O captcha foi resolvido
+2025-06-23T10_09: Consultando o veiculo
+2025-06-23T10_09: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_09: O veículo da placa QCV3F40 ainda possui pendência de licenciamento
+2025-06-23T10_09: Emitindo licenciamento
+2025-06-23T10_10: Ocorreu um erro ao processar o veiculo QCV3F40: [Errno 2] No such file or directory: 'C:\\BOT\\LICENCIAMENTO\\TESTE Lic Licenciamento 2025 - RENAVAM 1176359360.pdf'
+2025-06-23T10_10: Abrindo o navegador
+2025-06-23T10_10: Iniciando o site do Detran
+2025-06-23T10_10: login realizado
+2025-06-23T10_10: O captcha foi resolvido
+2025-06-23T10_10: Consultando o veiculo
+2025-06-23T10_10: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_10: o veiculo da placa SPC1F10 nao tem nenhum debito
+2025-06-23T10_10: Ocorreu um erro ao processar o veiculo SPC1F10: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T10_10: Abrindo o navegador
+2025-06-23T10_11: Iniciando o site do Detran
+2025-06-23T10_11: login realizado
+2025-06-23T10_11: O captcha foi resolvido
+2025-06-23T10_11: Consultando o veiculo
+2025-06-23T10_11: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_11: o veiculo da placa SPJ7D70 nao tem nenhum debito
+2025-06-23T10_11: Ocorreu um erro ao processar o veiculo SPJ7D70: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T10_11: Abrindo o navegador
+2025-06-23T10_11: Iniciando o site do Detran
+2025-06-23T10_11: login realizado
+2025-06-23T10_12: O captcha foi resolvido
+2025-06-23T10_12: Consultando o veiculo
+2025-06-23T10_12: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_12: o veiculo da placa RAZ4F10 nao tem nenhum debito
+2025-06-23T10_12: Ocorreu um erro ao processar o veiculo RAZ4F10: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T10_12: Abrindo o navegador
+2025-06-23T10_12: Iniciando o site do Detran
+2025-06-23T10_12: login realizado
+2025-06-23T10_12: O captcha foi resolvido
+2025-06-23T10_12: Consultando o veiculo
+2025-06-23T10_12: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_12: o veiculo da placa QCV3G20 nao tem nenhum debito
+2025-06-23T10_12: Ocorreu um erro ao processar o veiculo QCV3G20: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T10_13: Abrindo o navegador
+2025-06-23T10_13: Iniciando o site do Detran
+2025-06-23T10_13: login realizado
+2025-06-23T10_13: O captcha foi resolvido
+2025-06-23T10_13: Consultando o veiculo
+2025-06-23T10_13: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_13: o veiculo da placa RAK3H70 nao tem nenhum debito
+2025-06-23T10_13: Ocorreu um erro ao processar o veiculo RAK3H70: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T10_13: Abrindo o navegador
+2025-06-23T10_13: Iniciando o site do Detran
+2025-06-23T10_13: login realizado
+2025-06-23T10_14: O captcha foi resolvido
+2025-06-23T10_14: Consultando o veiculo
+2025-06-23T10_14: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_14: o veiculo da placa SPM3H60 nao tem nenhum debito
+2025-06-23T10_14: Ocorreu um erro ao processar o veiculo SPM3H60: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T10_14: Abrindo o navegador
+2025-06-23T10_14: Iniciando o site do Detran
+2025-06-23T10_14: login realizado
+2025-06-23T10_14: O captcha foi resolvido
+2025-06-23T10_14: Consultando o veiculo
+2025-06-23T10_14: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_14: o veiculo da placa NIZ3890 nao tem nenhum debito
+2025-06-23T10_14: Ocorreu um erro ao processar o veiculo NIZ3890: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T10_15: Abrindo o navegador
+2025-06-23T10_15: Iniciando o site do Detran
+2025-06-23T10_15: login realizado
+2025-06-23T10_15: O captcha foi resolvido
+2025-06-23T10_15: Consultando o veiculo
+2025-06-23T10_15: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_15: O veículo da placa BWD0100 ainda possui pendência de licenciamento
+2025-06-23T10_15: Emitindo licenciamento
+2025-06-23T10_15: Ocorreu um erro ao processar o veiculo BWD0100: [Errno 2] No such file or directory: 'C:\\BOT\\LICENCIAMENTO\\TESTE Lic Licenciamento 2025 - RENAVAM 422668311.pdf'
+2025-06-23T10_16: Abrindo o navegador
+2025-06-23T10_16: Iniciando o site do Detran
+2025-06-23T10_16: login realizado
+2025-06-23T10_16: O captcha foi resolvido
+2025-06-23T10_16: Consultando o veiculo
+2025-06-23T10_16: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_16: o veiculo da placa QCZ0G20 nao tem nenhum debito
+2025-06-23T10_16: Ocorreu um erro ao processar o veiculo QCZ0G20: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T10_16: Abrindo o navegador
+2025-06-23T10_16: Iniciando o site do Detran
+2025-06-23T10_16: login realizado
+2025-06-23T10_17: O captcha foi resolvido
+2025-06-23T10_17: Consultando o veiculo
+2025-06-23T10_17: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_17: O veículo da placa SPT9D10 possui multas pendentes
+2025-06-23T10_17: Emitindo multa
+2025-06-23T10_17: Ocorreu um erro ao processar o veiculo SPT9D10: [Errno 2] No such file or directory: 'C:\\BOT\\MULTAS\\MULTAS - 2025 - RENAVAM 1417823930.pdf'
+2025-06-23T10_17: Abrindo o navegador
+2025-06-23T10_17: Iniciando o site do Detran
+2025-06-23T10_18: login realizado
+2025-06-23T10_18: O captcha foi resolvido
+2025-06-23T10_18: Consultando o veiculo
+2025-06-23T10_18: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_18: o veiculo da placa QCV3E00 nao tem nenhum debito
+2025-06-23T10_18: Ocorreu um erro ao processar o veiculo QCV3E00: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T10_18: Abrindo o navegador
+2025-06-23T10_18: Iniciando o site do Detran
+2025-06-23T10_18: login realizado
+2025-06-23T10_19: O captcha foi resolvido
+2025-06-23T10_19: Consultando o veiculo
+2025-06-23T10_19: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_19: o veiculo da placa QCV3H70 nao tem nenhum debito
+2025-06-23T10_19: Ocorreu um erro ao processar o veiculo QCV3H70: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T10_19: Abrindo o navegador
+2025-06-23T10_19: Iniciando o site do Detran
+2025-06-23T10_19: login realizado
+2025-06-23T10_19: O captcha foi resolvido
+2025-06-23T10_19: Consultando o veiculo
+2025-06-23T10_19: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_19: O veículo da placa SPO4E00 possui multas pendentes
+2025-06-23T10_19: Emitindo multa
+2025-06-23T10_20: Ocorreu um erro ao processar o veiculo SPO4E00: [Errno 2] No such file or directory: 'C:\\BOT\\MULTAS\\MULTAS - 2025 - RENAVAM 1402060022.pdf'
+2025-06-23T10_20: Abrindo o navegador
+2025-06-23T10_20: Iniciando o site do Detran
+2025-06-23T10_20: login realizado
+2025-06-23T10_20: O captcha foi resolvido
+2025-06-23T10_20: Consultando o veiculo
+2025-06-23T10_21: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_21: O veículo da placa AGH8890 ainda possui pendência de licenciamento
+2025-06-23T10_21: Emitindo licenciamento
+2025-06-23T10_21: Ocorreu um erro ao processar o veiculo AGH8890: [Errno 2] No such file or directory: 'C:\\BOT\\LICENCIAMENTO\\TESTE Lic Licenciamento 2025 - RENAVAM 657056677.pdf'
+2025-06-23T10_21: Abrindo o navegador
+2025-06-23T10_21: Iniciando o site do Detran
+2025-06-23T10_21: login realizado
+2025-06-23T10_21: O captcha foi resolvido
+2025-06-23T10_21: Consultando o veiculo
+2025-06-23T10_21: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_21: o veiculo da placa MCK2G40 nao tem nenhum debito
+2025-06-23T10_21: Ocorreu um erro ao processar o veiculo MCK2G40: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T10_21: Abrindo o navegador
+2025-06-23T10_22: Iniciando o site do Detran
+2025-06-23T10_22: login realizado
+2025-06-23T10_22: O captcha foi resolvido
+2025-06-23T10_22: Consultando o veiculo
+2025-06-23T10_22: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_22: o veiculo da placa QCZ0F60 nao tem nenhum debito
+2025-06-23T10_22: Ocorreu um erro ao processar o veiculo QCZ0F60: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T10_22: Abrindo o navegador
+2025-06-23T10_22: Iniciando o site do Detran
+2025-06-23T10_22: login realizado
+2025-06-23T10_23: O captcha foi resolvido
+2025-06-23T10_23: Consultando o veiculo
+2025-06-23T10_23: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_23: o veiculo da placa SPO4D60 nao tem nenhum debito
+2025-06-23T10_23: Ocorreu um erro ao processar o veiculo SPO4D60: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T10_23: Abrindo o navegador
+2025-06-23T10_23: Iniciando o site do Detran
+2025-06-23T10_23: login realizado
+2025-06-23T10_23: O captcha foi resolvido
+2025-06-23T10_23: Consultando o veiculo
+2025-06-23T10_23: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_23: O veículo da placa QCZ0H40 ainda possui pendência de licenciamento
+2025-06-23T10_23: Emitindo licenciamento
+2025-06-23T10_24: Ocorreu um erro ao processar o veiculo QCZ0H40: [Errno 2] No such file or directory: 'C:\\BOT\\LICENCIAMENTO\\TESTE Lic Licenciamento 2025 - RENAVAM 1175798646.pdf'
+2025-06-23T10_24: Abrindo o navegador
+2025-06-23T10_24: Iniciando o site do Detran
+2025-06-23T10_24: login realizado
+2025-06-23T10_24: O captcha foi resolvido
+2025-06-23T10_24: Consultando o veiculo
+2025-06-23T10_24: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_24: o veiculo da placa QCG8F70 nao tem nenhum debito
+2025-06-23T10_24: Ocorreu um erro ao processar o veiculo QCG8F70: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T10_24: Abrindo o navegador
+2025-06-23T10_25: Iniciando o site do Detran
+2025-06-23T10_25: login realizado
+2025-06-23T10_25: O captcha foi resolvido
+2025-06-23T10_25: Consultando o veiculo
+2025-06-23T10_25: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_25: o veiculo da placa SPO4E40 nao tem nenhum debito
+2025-06-23T10_25: Ocorreu um erro ao processar o veiculo SPO4E40: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T10_25: Abrindo o navegador
+2025-06-23T10_25: Iniciando o site do Detran
+2025-06-23T10_25: login realizado
+2025-06-23T10_26: O captcha foi resolvido
+2025-06-23T10_26: Consultando o veiculo
+2025-06-23T10_26: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_26: o veiculo da placa QCY9J30 nao tem nenhum debito
+2025-06-23T10_26: Ocorreu um erro ao processar o veiculo QCY9J30: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T10_26: Abrindo o navegador
+2025-06-23T10_26: Iniciando o site do Detran
+2025-06-23T10_26: login realizado
+2025-06-23T10_26: O captcha foi resolvido
+2025-06-23T10_26: Consultando o veiculo
+2025-06-23T10_26: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_26: o veiculo da placa QCC7I40 nao tem nenhum debito
+2025-06-23T10_26: Ocorreu um erro ao processar o veiculo QCC7I40: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T10_27: Abrindo o navegador
+2025-06-23T10_27: Iniciando o site do Detran
+2025-06-23T10_27: login realizado
+2025-06-23T10_27: O captcha foi resolvido
+2025-06-23T10_27: Consultando o veiculo
+2025-06-23T10_27: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_27: o veiculo da placa QCD9H60 nao tem nenhum debito
+2025-06-23T10_27: Ocorreu um erro ao processar o veiculo QCD9H60: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T10_27: Abrindo o navegador
+2025-06-23T10_27: Iniciando o site do Detran
+2025-06-23T10_27: login realizado
+2025-06-23T10_28: O captcha foi resolvido
+2025-06-23T10_28: Consultando o veiculo
+2025-06-23T10_28: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_28: O veículo da placa RAX2B90 ainda possui pendência de licenciamento
+2025-06-23T10_28: Emitindo licenciamento
+2025-06-23T10_28: Ocorreu um erro ao processar o veiculo RAX2B90: [Errno 2] No such file or directory: 'C:\\BOT\\LICENCIAMENTO\\TESTE Lic Licenciamento 2025 - RENAVAM 1279696807.pdf'
+2025-06-23T10_28: Abrindo o navegador
+2025-06-23T10_28: Iniciando o site do Detran
+2025-06-23T10_29: login realizado
+2025-06-23T10_29: O captcha foi resolvido
+2025-06-23T10_29: Consultando o veiculo
+2025-06-23T10_29: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_29: o veiculo da placa EKL5750 nao tem nenhum debito
+2025-06-23T10_29: Ocorreu um erro ao processar o veiculo EKL5750: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T10_29: Abrindo o navegador
+2025-06-23T10_29: Iniciando o site do Detran
+2025-06-23T10_29: login realizado
+2025-06-23T10_29: O captcha foi resolvido
+2025-06-23T10_29: Consultando o veiculo
+2025-06-23T10_30: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_30: o veiculo da placa QCG8130 nao tem nenhum debito
+2025-06-23T10_30: Ocorreu um erro ao processar o veiculo QCG8130: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T10_30: Abrindo o navegador
+2025-06-23T10_30: Iniciando o site do Detran
+2025-06-23T10_30: login realizado
+2025-06-23T10_30: O captcha foi resolvido
+2025-06-23T10_30: Consultando o veiculo
+2025-06-23T10_30: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_30: O veículo da placa RAY9F70 ainda possui pendência de licenciamento
+2025-06-23T10_30: Emitindo licenciamento
+2025-06-23T10_31: Ocorreu um erro ao processar o veiculo RAY9F70: [Errno 2] No such file or directory: 'C:\\BOT\\LICENCIAMENTO\\TESTE Lic Licenciamento 2025 - RENAVAM 1280570811.pdf'
+2025-06-23T10_31: Abrindo o navegador
+2025-06-23T10_31: Iniciando o site do Detran
+2025-06-23T10_31: login realizado
+2025-06-23T10_31: O captcha foi resolvido
+2025-06-23T10_31: Consultando o veiculo
+2025-06-23T10_31: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_31: o veiculo da placa SPO4E50 nao tem nenhum debito
+2025-06-23T10_31: Ocorreu um erro ao processar o veiculo SPO4E50: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T10_31: Abrindo o navegador
+2025-06-23T10_31: Iniciando o site do Detran
+2025-06-23T10_32: login realizado
+2025-06-23T10_32: O captcha foi resolvido
+2025-06-23T10_32: Consultando o veiculo
+2025-06-23T10_32: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_32: o veiculo da placa EAZ9I60 nao tem nenhum debito
+2025-06-23T10_32: Ocorreu um erro ao processar o veiculo EAZ9I60: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T10_32: Abrindo o navegador
+2025-06-23T10_32: Iniciando o site do Detran
+2025-06-23T10_32: login realizado
+2025-06-23T10_32: O captcha foi resolvido
+2025-06-23T10_32: Consultando o veiculo
+2025-06-23T10_32: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_32: o veiculo da placa QCG8H40 nao tem nenhum debito
+2025-06-23T10_32: Ocorreu um erro ao processar o veiculo QCG8H40: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T10_33: Abrindo o navegador
+2025-06-23T10_33: Iniciando o site do Detran
+2025-06-23T10_33: login realizado
+2025-06-23T10_33: O captcha foi resolvido
+2025-06-23T10_33: Consultando o veiculo
+2025-06-23T10_33: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_33: o veiculo da placa SPO4F10 nao tem nenhum debito
+2025-06-23T10_33: Ocorreu um erro ao processar o veiculo SPO4F10: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T10_33: Abrindo o navegador
+2025-06-23T10_33: Iniciando o site do Detran
+2025-06-23T10_33: Ocorreu um erro ao processar o veiculo QCZ1F40: Message: element not interactable
+  (Session info: chrome=137.0.7151.120)
+Stacktrace:
+	GetHandleVerifier [0x0xaa3b03+62899]
+	GetHandleVerifier [0x0xaa3b44+62964]
+	(No symbol) [0x0x8d0f50]
+	(No symbol) [0x0x914219]
+	(No symbol) [0x0x912907]
+	(No symbol) [0x0x93e50c]
+	(No symbol) [0x0x90ee74]
+	(No symbol) [0x0x93e784]
+	(No symbol) [0x0x95fd81]
+	(No symbol) [0x0x93e306]
+	(No symbol) [0x0x90d670]
+	(No symbol) [0x0x90e4e4]
+	GetHandleVerifier [0x0xd04793+2556483]
+	GetHandleVerifier [0x0xcffd02+2537394]
+	GetHandleVerifier [0x0xaca2fa+220586]
+	GetHandleVerifier [0x0xabaae8+157080]
+	GetHandleVerifier [0x0xac141d+184013]
+	GetHandleVerifier [0x0xaaba68+95512]
+	GetHandleVerifier [0x0xaabc10+95936]
+	GetHandleVerifier [0x0xa96b5a+9738]
+	BaseThreadInitThunk [0x0x75f005c9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77597c5d+237]
+	RtlGetAppContainerNamedObjectPath [0x0x77597c2d+189]
+
+2025-06-23T10_33: Abrindo o navegador
+2025-06-23T10_34: Iniciando o site do Detran
+2025-06-23T10_34: login realizado
+2025-06-23T10_34: O captcha foi resolvido
+2025-06-23T10_34: Consultando o veiculo
+2025-06-23T10_34: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_34: o veiculo da placa SPO4F70 nao tem nenhum debito
+2025-06-23T10_34: Ocorreu um erro ao processar o veiculo SPO4F70: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T10_34: Abrindo o navegador
+2025-06-23T10_34: Iniciando o site do Detran
+2025-06-23T10_34: login realizado
+2025-06-23T10_35: O captcha foi resolvido
+2025-06-23T10_35: Consultando o veiculo
+2025-06-23T10_35: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_35: o veiculo da placa QCZ0D60 nao tem nenhum debito
+2025-06-23T10_35: Ocorreu um erro ao processar o veiculo QCZ0D60: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T10_35: Abrindo o navegador
+2025-06-23T10_35: Iniciando o site do Detran
+2025-06-23T10_35: login realizado
+2025-06-23T10_35: O captcha foi resolvido
+2025-06-23T10_35: Consultando o veiculo
+2025-06-23T10_36: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_36: o veiculo da placa QCZ0H60 nao tem nenhum debito
+2025-06-23T10_36: Ocorreu um erro ao processar o veiculo QCZ0H60: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T10_36: Abrindo o navegador
+2025-06-23T10_36: Iniciando o site do Detran
+2025-06-23T10_36: login realizado
+2025-06-23T10_36: O captcha foi resolvido
+2025-06-23T10_36: Consultando o veiculo
+2025-06-23T10_36: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_36: o veiculo da placa RAK4A90 nao tem nenhum debito
+2025-06-23T10_36: Ocorreu um erro ao processar o veiculo RAK4A90: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T10_36: Abrindo o navegador
+2025-06-23T10_36: Iniciando o site do Detran
+2025-06-23T10_36: login realizado
+2025-06-23T10_37: O captcha foi resolvido
+2025-06-23T10_37: Consultando o veiculo
+2025-06-23T10_37: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_37: O veículo da placa RAK3J60 ainda possui pendência de licenciamento
+2025-06-23T10_37: Emitindo licenciamento
+2025-06-23T10_37: Ocorreu um erro ao processar o veiculo RAK3J60: [Errno 2] No such file or directory: 'C:\\BOT\\LICENCIAMENTO\\TESTE Lic Licenciamento 2025 - RENAVAM 1213633980.pdf'
+2025-06-23T10_37: Abrindo o navegador
+2025-06-23T10_37: Iniciando o site do Detran
+2025-06-23T10_37: login realizado
+2025-06-23T10_38: O captcha foi resolvido
+2025-06-23T10_38: Consultando o veiculo
+2025-06-23T10_38: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_38: o veiculo da placa SPT7C90 nao tem nenhum debito
+2025-06-23T10_38: Ocorreu um erro ao processar o veiculo SPT7C90: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T10_38: Abrindo o navegador
+2025-06-23T10_38: Iniciando o site do Detran
+2025-06-23T10_38: login realizado
+2025-06-23T10_38: O captcha foi resolvido
+2025-06-23T10_38: Consultando o veiculo
+2025-06-23T10_38: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_38: o veiculo da placa QCZ2G10 nao tem nenhum debito
+2025-06-23T10_38: Ocorreu um erro ao processar o veiculo QCZ2G10: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T10_39: Abrindo o navegador
+2025-06-23T10_39: Iniciando o site do Detran
+2025-06-23T10_39: login realizado
+2025-06-23T10_39: O captcha foi resolvido
+2025-06-23T10_39: Consultando o veiculo
+2025-06-23T10_39: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_39: o veiculo da placa SPS9G70 nao tem nenhum debito
+2025-06-23T10_39: Ocorreu um erro ao processar o veiculo SPS9G70: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T10_39: Abrindo o navegador
+2025-06-23T10_39: Iniciando o site do Detran
+2025-06-23T10_39: login realizado
+2025-06-23T10_40: O captcha foi resolvido
+2025-06-23T10_40: Consultando o veiculo
+2025-06-23T10_40: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_40: o veiculo da placa QCD0I90 nao tem nenhum debito
+2025-06-23T10_40: Ocorreu um erro ao processar o veiculo QCD0I90: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T10_40: Abrindo o navegador
+2025-06-23T10_40: Iniciando o site do Detran
+2025-06-23T10_40: login realizado
+2025-06-23T10_41: O captcha foi resolvido
+2025-06-23T10_41: Consultando o veiculo
+2025-06-23T10_41: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_41: o veiculo da placa QCV3G80 nao tem nenhum debito
+2025-06-23T10_41: Ocorreu um erro ao processar o veiculo QCV3G80: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T10_41: Abrindo o navegador
+2025-06-23T10_41: Iniciando o site do Detran
+2025-06-23T10_41: login realizado
+2025-06-23T10_41: O captcha foi resolvido
+2025-06-23T10_41: Consultando o veiculo
+2025-06-23T10_41: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_41: o veiculo da placa SWA1A30 nao tem nenhum debito
+2025-06-23T10_41: Ocorreu um erro ao processar o veiculo SWA1A30: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T10_41: Abrindo o navegador
+2025-06-23T10_41: Iniciando o site do Detran
+2025-06-23T10_42: login realizado
+2025-06-23T10_42: O captcha foi resolvido
+2025-06-23T10_42: Consultando o veiculo
+2025-06-23T10_42: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_42: o veiculo da placa QCZ1A40 nao tem nenhum debito
+2025-06-23T10_42: Ocorreu um erro ao processar o veiculo QCZ1A40: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T10_42: Abrindo o navegador
+2025-06-23T10_42: Iniciando o site do Detran
+2025-06-23T10_42: login realizado
+2025-06-23T10_43: O captcha foi resolvido
+2025-06-23T10_43: Consultando o veiculo
+2025-06-23T10_43: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_43: o veiculo da placa RAQ4J50 nao tem nenhum debito
+2025-06-23T10_43: Ocorreu um erro ao processar o veiculo RAQ4J50: escreveLog() takes 1 positional argument but 2 were given
+2025-06-23T10_43: Abrindo o navegador
+2025-06-23T10_43: Iniciando o site do Detran
+2025-06-23T10_43: login realizado
+2025-06-23T10_43: O captcha foi resolvido
+2025-06-23T10_43: Consultando o veiculo
+2025-06-23T10_43: Verificando se houve erro na consulta do veiculo
+2025-06-23T10_43: Erro - Renavam Invalido para o veiculo DJB5A20
+2025-06-23T10_43: Ocorreu um erro ao processar o veiculo DJB5A20: escreveLog() takes 1 positional argument but 2 were given

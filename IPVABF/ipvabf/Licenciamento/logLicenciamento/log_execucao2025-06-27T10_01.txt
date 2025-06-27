@@ -1,0 +1,12 @@
+2025-06-27T10_01: ---------Iniciando Sequencia de notas Sefaz---------
+2025-06-27T10_01: Abrindo o navegador
+2025-06-27T10_01: Iniciando o site do Detran
+2025-06-27T10_01: login realizado
+2025-06-27T10_02: O captcha foi resolvido
+2025-06-27T10_02: Consultando o veiculo
+2025-06-27T10_02: Verificando se houve erro na consulta do veiculo
+2025-06-27T10_02: O veículo da placa OBE3I59 ainda possui pendência de licenciamento
+2025-06-27T10_02: Emitindo licenciamento
+2025-06-27T10_03: Ocorreu um erro ao processar o veiculo OBE3I59: HTTPConnectionPool(host='localhost', port=64379): Max retries exceeded with url: /session/9c8d33e740be066581745a1c9bf6f2a6/element/f.888AA531C775499953295879E9FD6DAA.d.920AA078FD4BDD76F7C817AAA836CD6C.e.87/elements (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001907B4787D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-06-27T10_03: ---------Finalizando Sequencia de notas Sefaz---------
+2025-06-27T10_03: Enviando email de finalizacao

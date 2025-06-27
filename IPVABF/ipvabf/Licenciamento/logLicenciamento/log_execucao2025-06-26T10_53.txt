@@ -1,0 +1,10 @@
+2025-06-26T10_53: ---------Iniciando Sequencia de notas Sefaz---------
+2025-06-26T10_53: Abrindo o navegador
+2025-06-26T10_53: Iniciando o site do Detran
+2025-06-26T10_53: login realizado
+2025-06-26T10_54: O captcha foi resolvido
+2025-06-26T10_54: Consultando o veiculo
+2025-06-26T10_54: Verificando se houve erro na consulta do veiculo
+2025-06-26T10_54: O veículo da placa OBE3I59 ainda possui pendência de licenciamento
+2025-06-26T10_54: Emitindo licenciamento
+2025-06-26T10_54: Ocorreu um erro ao processar o veiculo OBE3I59: [Errno 2] No such file or directory: 'C:\\BOT\\LICENCIAMENTO\\TESTE Lic Licenciamento 2025 - RENAVAM 588992321.pdf'

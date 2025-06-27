@@ -1,0 +1,3 @@
+2025-06-26T09_04: ---------Iniciando Sequencia de notas Sefaz---------
+2025-06-26T09_04: ---------Finalizando Sequencia de notas Sefaz---------
+2025-06-26T09_04: Enviando email de finalizacao

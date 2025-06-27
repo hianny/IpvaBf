@@ -1,0 +1,11 @@
+2025-06-27T08_53: ---------Iniciando Sequencia de notas Sefaz---------
+2025-06-27T08_53: Abrindo o navegador
+2025-06-27T08_53: Iniciando o site do Detran
+2025-06-27T08_53: login realizado
+2025-06-27T08_56: O captcha foi resolvido
+2025-06-27T08_56: Consultando o veiculo
+2025-06-27T08_56: Verificando se houve erro na consulta do veiculo
+2025-06-27T08_56: Finalizando as consultas do veiculo com a placa: OBE3I59
+2025-06-27T08_56: fechando navegador definitivamente
+2025-06-27T08_56: ---------Finalizando Sequencia de notas Sefaz---------
+2025-06-27T08_56: Enviando email de finalizacao

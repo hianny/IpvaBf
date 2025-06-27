@@ -1,0 +1,41 @@
+2025-06-27T09_48: ---------Iniciando Sequencia de notas Sefaz---------
+2025-06-27T09_48: Abrindo o navegador
+2025-06-27T09_48: Iniciando o site do Detran
+2025-06-27T09_48: login realizado
+2025-06-27T09_49: O captcha foi resolvido
+2025-06-27T09_49: Consultando o veiculo
+2025-06-27T09_49: Verificando se houve erro na consulta do veiculo
+2025-06-27T09_52: o veiculo da placa QCD2C09 nao tem nenhum debito
+2025-06-27T09_52: Finalizando as consultas do veiculo com a placa: QCD2C09
+2025-06-27T09_52: fechando navegador definitivamente
+2025-06-27T09_52: Abrindo o navegador
+2025-06-27T09_52: Iniciando o site do Detran
+2025-06-27T09_52: login realizado
+2025-06-27T09_52: O captcha foi resolvido
+2025-06-27T09_52: Consultando o veiculo
+2025-06-27T09_52: Verificando se houve erro na consulta do veiculo
+2025-06-27T09_52: o veiculo da placa RRN3H89 nao tem nenhum debito
+2025-06-27T09_52: Finalizando as consultas do veiculo com a placa: RRN3H89
+2025-06-27T09_52: fechando navegador definitivamente
+2025-06-27T09_53: Abrindo o navegador
+2025-06-27T09_53: Iniciando o site do Detran
+2025-06-27T09_53: login realizado
+2025-06-27T09_53: O captcha foi resolvido
+2025-06-27T09_53: Consultando o veiculo
+2025-06-27T09_53: Verificando se houve erro na consulta do veiculo
+2025-06-27T09_53: o veiculo da placa AIB6I89 nao tem nenhum debito
+2025-06-27T09_53: Finalizando as consultas do veiculo com a placa: AIB6I89
+2025-06-27T09_53: fechando navegador definitivamente
+2025-06-27T09_54: Abrindo o navegador
+2025-06-27T09_54: Iniciando o site do Detran
+2025-06-27T09_54: login realizado
+2025-06-27T09_54: O captcha foi resolvido
+2025-06-27T09_54: Consultando o veiculo
+2025-06-27T09_54: Verificando se houve erro na consulta do veiculo
+2025-06-27T09_54: O veículo da placa OBE3I59 ainda possui pendência de licenciamento
+2025-06-27T09_54: Emitindo licenciamento
+2025-06-27T09_54: O veículo da placa OBE3I59 NAO possui multas pendentes
+2025-06-27T09_54: Finalizando as consultas do veiculo com a placa: OBE3I59
+2025-06-27T09_54: fechando navegador definitivamente
+2025-06-27T09_55: Abrindo o navegador
+2025-06-27T09_55: Iniciando o site do Detran

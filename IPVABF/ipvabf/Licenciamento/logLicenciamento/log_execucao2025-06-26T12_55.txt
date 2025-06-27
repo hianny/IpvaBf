@@ -1,0 +1,37 @@
+2025-06-26T12_55: ---------Iniciando Sequencia de notas Sefaz---------
+2025-06-26T12_55: Abrindo o navegador
+2025-06-26T12_55: Iniciando o site do Detran
+2025-06-26T12_56: login realizado
+2025-06-26T12_56: O captcha foi resolvido
+2025-06-26T12_56: Consultando o veiculo
+2025-06-26T12_56: Verificando se houve erro na consulta do veiculo
+2025-06-26T12_56: o veiculo da placa QCU3J29 nao tem nenhum debito
+2025-06-26T12_56: Finalizando as consultas do veiculo com a placa: QCU3J29
+2025-06-26T12_56: fechando navegador definitivamente
+2025-06-26T12_56: Abrindo o navegador
+2025-06-26T12_56: Iniciando o site do Detran
+2025-06-26T12_56: login realizado
+2025-06-26T12_57: O captcha foi resolvido
+2025-06-26T12_57: Consultando o veiculo
+2025-06-26T12_57: Verificando se houve erro na consulta do veiculo
+2025-06-26T12_57: o veiculo da placa QCU8A89 nao tem nenhum debito
+2025-06-26T12_57: Finalizando as consultas do veiculo com a placa: QCU8A89
+2025-06-26T12_57: fechando navegador definitivamente
+2025-06-26T12_57: Abrindo o navegador
+2025-06-26T12_57: Iniciando o site do Detran
+2025-06-26T12_57: login realizado
+2025-06-26T12_57: O captcha foi resolvido
+2025-06-26T12_57: Consultando o veiculo
+2025-06-26T12_57: Verificando se houve erro na consulta do veiculo
+2025-06-26T12_57: o veiculo da placa SPR2I19 nao tem nenhum debito
+2025-06-26T12_57: Finalizando as consultas do veiculo com a placa: SPR2I19
+2025-06-26T12_57: fechando navegador definitivamente
+2025-06-26T12_58: Abrindo o navegador
+2025-06-26T12_58: Iniciando o site do Detran
+2025-06-26T12_58: login realizado
+2025-06-26T12_58: O captcha foi resolvido
+2025-06-26T12_58: Consultando o veiculo
+2025-06-26T12_58: Verificando se houve erro na consulta do veiculo
+2025-06-26T12_58: O veículo da placa QCI5J89 possui multas pendentes
+2025-06-26T12_58: Emitindo multa
+2025-06-26T12_58: Ocorreu um erro ao processar o veiculo QCI5J89: [Errno 2] No such file or directory: 'C:\\BOT\\MULTAS\\MULTAS - 2025 - RENAVAM 1207898667.pdf'
