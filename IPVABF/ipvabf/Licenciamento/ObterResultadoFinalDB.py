@@ -25,7 +25,7 @@ def RetornoVeiculosSucesso(finalPlaca):
                 ,MULTAS
                 ,PRECO_MULTAS
                 ,ARQUIVO_MULTAS
-            FROM IPVA_LICENCIAMENTO_MULTAS 
+            FROM IPVA_LICENCIAMENTO
             WHERE NUM_DOCUMENTO IS NOT NULL
             --AND VALOR_LICENCIAMENTO = '140' 
             AND  substr(placa,7,1) IN ('{finalPlaca}') 
@@ -55,7 +55,7 @@ def RetornoVeiculosErro(finalPlaca):
                 ,sTATUS_LICENCIAMENTO
                 ,DT_ULT_CONSULTA_MULTAS
                 ,STATUS_MULTAS
-            FROM IPVA_LICENCIAMENTO_MULTAS 
+            FROM IPVA_LICENCIAMENTO
             WHERE NUM_DOCUMENTO IS NOT NULL
             --AND VALOR_LICENCIAMENTO = '140' 
             AND  substr(placa,7,1) IN ('{finalPlaca}') 
@@ -84,7 +84,7 @@ def RetornoVeiculosSemDebito(finalPlaca):
                 ,sTATUS_LICENCIAMENTO
                 ,DT_ULT_CONSULTA_MULTAS
                 ,STATUS_MULTAS
-            FROM IPVA_LICENCIAMENTO_MULTAS 
+            FROM IPVA_LICENCIAMENTO
             WHERE NUM_DOCUMENTO IS NOT NULL
             --AND VALOR_LICENCIAMENTO = '140' 
             AND  substr(placa,7,1) IN ('{finalPlaca}') 

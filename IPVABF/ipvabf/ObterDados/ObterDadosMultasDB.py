@@ -3,7 +3,8 @@ import pandas
 
 usernameBd = 'rpa' 
 passwordBd= 'Rpa!2023'
-dsn = 'oracledbdev.bomfuturo.local:1521/homollnx'
+#dsn = 'oracledbdev.bomfuturo.local:1521/homollnx'
+dsn = 'oracle.bomfuturo.local:1521/protheus'
 connectionBd = oracledb.connect(user=usernameBd, password=passwordBd, dsn=dsn)
 cursor = connectionBd.cursor()
 
@@ -14,7 +15,7 @@ def RetornoVeiculosBen(finalPlaca):
         WHERE SUBSTR(N1_PLACA, LENGTH(N1_PLACA)) = '{finalPlaca}'
         AND NOT EXISTS (
             SELECT 1
-            FROM RPA.IPVA_LICENCIAMENTO_MULTAS LC
+            FROM RPA.IPVA_LICENCIAMENTO LC
             WHERE BENS.N1_PLACA = LC.PLACA
                  AND BENS.N1_CHASSIS = LC.CHASSI
                  AND BENS.N1_RENAVAN = TO_NUMBER(LC.RENAVAM)
@@ -32,10 +33,10 @@ def RetornoVeiculosBen(finalPlaca):
     print(veiculosporPlacas)
     return veiculosporPlacas
 
-def RetornoVeiculosIpva(PLACA, CHASSI):
-    cursor.execute("""
+def RetornoVeiculosIpva(PLACA, CHASSI,tabela_ipva):
+    cursor.execute(fr"""
         SELECT num_documento
-        FROM rpa.IPVA_LICENCIAMENTO
+        FROM rpa.{tabela_ipva}
         WHERE placa = :placa
         AND chassi = :chassi
     """, {
@@ -48,7 +49,7 @@ def RetornoVeiculosIpva(PLACA, CHASSI):
 
     for _, row in num_doc_veiculos.iterrows():
         cursor.execute("""
-            UPDATE rpa.IPVA_LICENCIAMENTO_MULTAS
+            UPDATE rpa.IPVA_LICENCIAMENTO
             SET NUM_DOCUMENTO = :num_doc
             WHERE PLACA = :placa AND CHASSI = :chassi
         """, {
@@ -63,7 +64,7 @@ def RetornoVeiculosIpva(PLACA, CHASSI):
 
 def veiculoIndividual(placa,renavam,chassi,grupo):
     cursor.execute(fr"""
-            SELECT ID FROM IPVA_LICENCIAMENTO_MULTAS 
+            SELECT ID FROM IPVA_LICENCIAMENTO
             WHERE PLACA = '{placa}' 
             AND RENAVAM = '{renavam}' 
             AND CHASSI = '{chassi}'
@@ -77,7 +78,7 @@ def veiculoIndividual(placa,renavam,chassi,grupo):
 
 def InserirDadosTabela(placa,renavam,chassi,grupo):
     cursor.execute(fr"""
-            INSERT INTO IPVA_LICENCIAMENTO_MULTAS (PLACA, RENAVAM, CHASSI, GRUPO) 
+            INSERT INTO IPVA_LICENCIAMENTO (PLACA, RENAVAM, CHASSI, GRUPO) 
             VALUES ('{placa}', '{renavam}', '{chassi}',{grupo})
             """)
     # Usar fetchall() para pegar todas as linhas
@@ -88,6 +89,6 @@ def InserirDadosTabela(placa,renavam,chassi,grupo):
 
 if __name__ == "__main__":
     RetornoVeiculosBen('')
-    RetornoVeiculosIpva('','')
+    RetornoVeiculosIpva('','','')
     veiculoIndividual('','','','a')
     InserirDadosTabela('','','')

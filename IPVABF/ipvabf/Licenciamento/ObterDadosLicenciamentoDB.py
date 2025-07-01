@@ -3,8 +3,8 @@ import pandas
 
 usernameBd = 'rpa' 
 passwordBd= 'Rpa!2023'
-dsn = 'oracledbdev.bomfuturo.local:1521/homollnx'
-#dsn = 'oracle.bomfuturo.local:1521/protheus'
+#dsn = 'oracledbdev.bomfuturo.local:1521/homollnx'
+dsn = 'oracle.bomfuturo.local:1521/protheus'
 connectionBd = oracledb.connect(user=usernameBd, password=passwordBd, dsn=dsn)
 cursor = connectionBd.cursor()
 
@@ -16,11 +16,13 @@ def RetornoVeiculosLicenciamento(final_placa):
                 ,RENAVAM
                 ,CHASSI
                 ,NUM_DOCUMENTO 
-            FROM IPVA_LICENCIAMENTO_MULTAS 
+            FROM IPVA_LICENCIAMENTO
             WHERE NUM_DOCUMENTO IS NOT NULL
             --AND PLACA = 'OBE3I59' 
             AND  substr(placa,7,1) IN ('{final_placa}') 
-            AND STATUS_MULTAS IS null  
+            --AND STATUS_MULTAS IS null  
+            AND DT_ULT_CONSULTA_MULTAS < TRUNC(SYSDATE, 'MM')
+            OR DT_ULT_CONSULTA_MULTAS IS NULL 
             '''
         ) 
     # Usar fetchall() para pegar todas as linhas
@@ -40,10 +42,12 @@ def RetornoVeiculosErro():
                 ,RENAVAM
                 ,CHASSI
                 ,NUM_DOCUMENTO 
-            FROM IPVA_LICENCIAMENTO_MULTAS 
+            FROM IPVA_LICENCIAMENTO
             WHERE NUM_DOCUMENTO IS NOT NULL
             AND (STATUS_MULTAS LIKE '%ERRO%'
-            OR STATUS_LICENCIAMENTO LIKE '%ERRO%')   
+            OR STATUS_LICENCIAMENTO LIKE '%ERRO%') 
+            AND DT_ULT_CONSULTA_MULTAS < TRUNC(SYSDATE, 'MM')
+            OR DT_ULT_CONSULTA_MULTAS IS NULL   
             '''
         ) 
     # Usar fetchall() para pegar todas as linhas
@@ -57,7 +61,7 @@ def RetornoVeiculosErro():
 
 def updateErro(mensagemErro,erroPmulta,idVeiculoAtual):
     cursor.execute(fr"""
-        UPDATE IPVA_LICENCIAMENTO_MULTAS
+        UPDATE IPVA_LICENCIAMENTO
             SET  STATUS_LICENCIAMENTO = '{mensagemErro}',
             STATUS_MULTAS = '{erroPmulta}',
             MULTAS = '0',
@@ -71,7 +75,7 @@ def updateErro(mensagemErro,erroPmulta,idVeiculoAtual):
 
 def updateErroLic(idVeiculoAtual):
     cursor.execute(fr"""
-        UPDATE IPVA_LICENCIAMENTO_MULTAS
+        UPDATE IPVA_LICENCIAMENTO
             SET  STATUS_LICENCIAMENTO = 'ERRO - Servico indisponivel',
             DT_ULT_CONSULTA_DETRAN = sysdate,
             DT_ULT_CONSULTA_MULTAS = sysdate 
@@ -82,7 +86,7 @@ def updateErroLic(idVeiculoAtual):
 
 def updateErroMulta(idVeiculoAtual):
     cursor.execute(fr"""
-        UPDATE IPVA_LICENCIAMENTO_MULTAS
+        UPDATE IPVA_LICENCIAMENTO
             SET STATUS_MULTAS = 'ERRO-Site',
             MULTAS = '0',
             DT_ULT_CONSULTA_MULTAS = sysdate 
@@ -94,7 +98,7 @@ def updateErroMulta(idVeiculoAtual):
 
 def update(mensagem,idVeiculoAtual):
     cursor.execute(fr"""
-        UPDATE IPVA_LICENCIAMENTO_MULTAS
+        UPDATE IPVA_LICENCIAMENTO
             SET  STATUS_LICENCIAMENTO = '{mensagem}',
             STATUS_MULTAS = 'SEM DEBITOS',
             MULTAS = '0',
@@ -107,7 +111,7 @@ def update(mensagem,idVeiculoAtual):
 
 def updateValor(valorLicenciamento,arquivoLicenciamento,idVeiculoAtual):
     sql = (fr"""
-        UPDATE IPVA_LICENCIAMENTO_MULTAS 
+        UPDATE IPVA_LICENCIAMENTO
         SET DT_ULT_CONSULTA_DETRAN = SYSDATE,
             STATUS_LICENCIAMENTO = 'A PAGAR',
             VALOR_LICENCIAMENTO = :valorLicenciamento,
@@ -125,7 +129,7 @@ def updateValor(valorLicenciamento,arquivoLicenciamento,idVeiculoAtual):
 def updateValorMultas(valorDebitos,arquivoDebitos,caminhoMultas,idDebitos):
     arquivoDebitos = arquivoDebitos.replace(',', '.')
     cursor.execute(fr"""
-        UPDATE IPVA_LICENCIAMENTO_MULTAS
+        UPDATE IPVA_LICENCIAMENTO
         SET STATUS_MULTAS = 'A PAGAR',
             MULTAS = '{valorDebitos}',
             DT_ULT_CONSULTA_MULTAS = SYSDATE,
@@ -139,7 +143,7 @@ def updateValorMultas(valorDebitos,arquivoDebitos,caminhoMultas,idDebitos):
 
 def updateValorSDebitos(idDebitos):
     cursor.execute(fr"""
-        UPDATE IPVA_LICENCIAMENTO_MULTAS 
+        UPDATE IPVA_LICENCIAMENTO 
             SET DT_ULT_CONSULTA_MULTAS = SYSDATE,
             MULTAS = '0',
             STATUS_MULTAS = 'SEM DEBITOS'
@@ -150,7 +154,7 @@ def updateValorSDebitos(idDebitos):
 
 def updateValorSDebitosLic(idDebitos):
     cursor.execute(fr"""
-        UPDATE IPVA_LICENCIAMENTO_MULTAS 
+        UPDATE IPVA_LICENCIAMENTO
             SET DT_ULT_CONSULTA_DETRAN = SYSDATE,
             STATUS_LICENCIAMENTO = 'QUITADO'
         WHERE ID = '{idDebitos}'

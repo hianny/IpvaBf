@@ -13,8 +13,8 @@ password = "7BchvtSg0ZV6"
 
 #Environment = "protheus"
 
-#destinatarios = ["WILSON.PALHARES@bomfuturo.com.br", "hianny.urt@bomfuturo.com.br"]
-destinatarios = ["hianny.urt@bomfuturo.com.br"]
+destinatarios = ["WILSON.PALHARES@bomfuturo.com.br", "hianny.urt@bomfuturo.com.br","SHERMAN.VENDRAMINI@bomfuturo.com.br"]
+#destinatarios = ["hianny.urt@bomfuturo.com.br"]
 
 def ResultadoFinalEmail(finalPlaca,qtdVeiculos,qtdVeiculosErro,qtdVeiculosSucesso,qtdVeiculosSDebito,arquivoCsvSucesso,arquivoCsvErro,arquivoCsvSemDebito):
 

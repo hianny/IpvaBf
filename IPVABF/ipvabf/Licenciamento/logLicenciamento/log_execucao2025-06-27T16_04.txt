@@ -1,0 +1,336 @@
+2025-06-27T16_04: ---------Iniciando Sequencia de notas Sefaz---------
+2025-06-27T16_04: Abrindo o navegador
+2025-06-27T16_04: Iniciando o site do Detran
+2025-06-27T16_04: login realizado
+2025-06-27T16_04: Ocorreu um erro ao processar o veiculo CUD4C29: 'NoneType' object is not iterable
+2025-06-27T16_04: Erro ao fechar o navegador: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0xc83b03+62899]
+	GetHandleVerifier [0x0xc83b44+62964]
+	(No symbol) [0x0xab0f50]
+	(No symbol) [0x0xaec938]
+	(No symbol) [0x0xb1e3c6]
+	(No symbol) [0x0xb19e72]
+	(No symbol) [0x0xb19406]
+	(No symbol) [0x0xa83a05]
+	(No symbol) [0x0xa83f5e]
+	(No symbol) [0x0xa843fd]
+	GetHandleVerifier [0x0xee4793+2556483]
+	GetHandleVerifier [0x0xedfd02+2537394]
+	GetHandleVerifier [0x0xcaa2fa+220586]
+	GetHandleVerifier [0x0xc9aae8+157080]
+	GetHandleVerifier [0x0xca141d+184013]
+	(No symbol) [0x0xa836d0]
+	(No symbol) [0x0xa82f47]
+	GetHandleVerifier [0x0x101aa2c+3826908]
+	BaseThreadInitThunk [0x0x75f005c9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77597c5d+237]
+	RtlGetAppContainerNamedObjectPath [0x0x77597c2d+189]
+
+2025-06-27T16_04: Abrindo o navegador
+2025-06-27T16_04: Iniciando o site do Detran
+2025-06-27T16_04: Ocorreu um erro ao processar o veiculo OBS2E59: Message: element not interactable
+  (Session info: chrome=137.0.7151.120)
+Stacktrace:
+	GetHandleVerifier [0x0xc83b03+62899]
+	GetHandleVerifier [0x0xc83b44+62964]
+	(No symbol) [0x0xab0f50]
+	(No symbol) [0x0xaf4219]
+	(No symbol) [0x0xaf2907]
+	(No symbol) [0x0xb1e50c]
+	(No symbol) [0x0xaeee74]
+	(No symbol) [0x0xb1e784]
+	(No symbol) [0x0xb3fd81]
+	(No symbol) [0x0xb1e306]
+	(No symbol) [0x0xaed670]
+	(No symbol) [0x0xaee4e4]
+	GetHandleVerifier [0x0xee4793+2556483]
+	GetHandleVerifier [0x0xedfd02+2537394]
+	GetHandleVerifier [0x0xcaa2fa+220586]
+	GetHandleVerifier [0x0xc9aae8+157080]
+	GetHandleVerifier [0x0xca141d+184013]
+	GetHandleVerifier [0x0xc8ba68+95512]
+	GetHandleVerifier [0x0xc8bc10+95936]
+	GetHandleVerifier [0x0xc76b5a+9738]
+	BaseThreadInitThunk [0x0x75f005c9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77597c5d+237]
+	RtlGetAppContainerNamedObjectPath [0x0x77597c2d+189]
+
+2025-06-27T16_04: Erro ao fechar o navegador: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0xc83b03+62899]
+	GetHandleVerifier [0x0xc83b44+62964]
+	(No symbol) [0x0xab0f50]
+	(No symbol) [0x0xaec938]
+	(No symbol) [0x0xb1e3c6]
+	(No symbol) [0x0xb19e72]
+	(No symbol) [0x0xb19406]
+	(No symbol) [0x0xa83a05]
+	(No symbol) [0x0xa83f5e]
+	(No symbol) [0x0xa843fd]
+	GetHandleVerifier [0x0xee4793+2556483]
+	GetHandleVerifier [0x0xedfd02+2537394]
+	GetHandleVerifier [0x0xcaa2fa+220586]
+	GetHandleVerifier [0x0xc9aae8+157080]
+	GetHandleVerifier [0x0xca141d+184013]
+	(No symbol) [0x0xa836d0]
+	(No symbol) [0x0xa82f47]
+	GetHandleVerifier [0x0x101aa2c+3826908]
+	BaseThreadInitThunk [0x0x75f005c9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77597c5d+237]
+	RtlGetAppContainerNamedObjectPath [0x0x77597c2d+189]
+
+2025-06-27T16_05: Abrindo o navegador
+2025-06-27T16_05: Iniciando o site do Detran
+2025-06-27T16_05: login realizado
+2025-06-27T16_05: Ocorreu um erro ao processar o veiculo CUD4C10: 'NoneType' object is not iterable
+2025-06-27T16_05: Erro ao fechar o navegador: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0xc83b03+62899]
+	GetHandleVerifier [0x0xc83b44+62964]
+	(No symbol) [0x0xab0f50]
+	(No symbol) [0x0xaec938]
+	(No symbol) [0x0xb1e3c6]
+	(No symbol) [0x0xb19e72]
+	(No symbol) [0x0xb19406]
+	(No symbol) [0x0xa83a05]
+	(No symbol) [0x0xa83f5e]
+	(No symbol) [0x0xa843fd]
+	GetHandleVerifier [0x0xee4793+2556483]
+	GetHandleVerifier [0x0xedfd02+2537394]
+	GetHandleVerifier [0x0xcaa2fa+220586]
+	GetHandleVerifier [0x0xc9aae8+157080]
+	GetHandleVerifier [0x0xca141d+184013]
+	(No symbol) [0x0xa836d0]
+	(No symbol) [0x0xa82f47]
+	GetHandleVerifier [0x0x101aa2c+3826908]
+	BaseThreadInitThunk [0x0x75f005c9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77597c5d+237]
+	RtlGetAppContainerNamedObjectPath [0x0x77597c2d+189]
+
+2025-06-27T16_05: Abrindo o navegador
+2025-06-27T16_05: Iniciando o site do Detran
+2025-06-27T16_05: login realizado
+2025-06-27T16_05: Ocorreu um erro ao processar o veiculo CUD4C00: 'NoneType' object is not iterable
+2025-06-27T16_05: Erro ao fechar o navegador: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0xc83b03+62899]
+	GetHandleVerifier [0x0xc83b44+62964]
+	(No symbol) [0x0xab0f50]
+	(No symbol) [0x0xaec938]
+	(No symbol) [0x0xb1e3c6]
+	(No symbol) [0x0xb19e72]
+	(No symbol) [0x0xb19406]
+	(No symbol) [0x0xa83a05]
+	(No symbol) [0x0xa83f5e]
+	(No symbol) [0x0xa843fd]
+	GetHandleVerifier [0x0xee4793+2556483]
+	GetHandleVerifier [0x0xedfd02+2537394]
+	GetHandleVerifier [0x0xcaa2fa+220586]
+	GetHandleVerifier [0x0xc9aae8+157080]
+	GetHandleVerifier [0x0xca141d+184013]
+	(No symbol) [0x0xa836d0]
+	(No symbol) [0x0xa82f47]
+	GetHandleVerifier [0x0x101aa2c+3826908]
+	BaseThreadInitThunk [0x0x75f005c9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77597c5d+237]
+	RtlGetAppContainerNamedObjectPath [0x0x77597c2d+189]
+
+2025-06-27T16_05: Abrindo o navegador
+2025-06-27T16_05: Iniciando o site do Detran
+2025-06-27T16_05: login realizado
+2025-06-27T16_05: Ocorreu um erro ao processar o veiculo EAZ9I50: 'NoneType' object is not iterable
+2025-06-27T16_05: Erro ao fechar o navegador: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0xc83b03+62899]
+	GetHandleVerifier [0x0xc83b44+62964]
+	(No symbol) [0x0xab0f50]
+	(No symbol) [0x0xaec938]
+	(No symbol) [0x0xb1e3c6]
+	(No symbol) [0x0xb19e72]
+	(No symbol) [0x0xb19406]
+	(No symbol) [0x0xa83a05]
+	(No symbol) [0x0xa83f5e]
+	(No symbol) [0x0xa843fd]
+	GetHandleVerifier [0x0xee4793+2556483]
+	GetHandleVerifier [0x0xedfd02+2537394]
+	GetHandleVerifier [0x0xcaa2fa+220586]
+	GetHandleVerifier [0x0xc9aae8+157080]
+	GetHandleVerifier [0x0xca141d+184013]
+	(No symbol) [0x0xa836d0]
+	(No symbol) [0x0xa82f47]
+	GetHandleVerifier [0x0x101aa2c+3826908]
+	BaseThreadInitThunk [0x0x75f005c9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77597c5d+237]
+	RtlGetAppContainerNamedObjectPath [0x0x77597c2d+189]
+
+2025-06-27T16_06: Abrindo o navegador
+2025-06-27T16_06: Iniciando o site do Detran
+2025-06-27T16_06: login realizado
+2025-06-27T16_06: Ocorreu um erro ao processar o veiculo SPI9J60: 'NoneType' object is not iterable
+2025-06-27T16_06: Erro ao fechar o navegador: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0xc83b03+62899]
+	GetHandleVerifier [0x0xc83b44+62964]
+	(No symbol) [0x0xab0f50]
+	(No symbol) [0x0xaec938]
+	(No symbol) [0x0xb1e3c6]
+	(No symbol) [0x0xb19e72]
+	(No symbol) [0x0xb19406]
+	(No symbol) [0x0xa83a05]
+	(No symbol) [0x0xa83f5e]
+	(No symbol) [0x0xa843fd]
+	GetHandleVerifier [0x0xee4793+2556483]
+	GetHandleVerifier [0x0xedfd02+2537394]
+	GetHandleVerifier [0x0xcaa2fa+220586]
+	GetHandleVerifier [0x0xc9aae8+157080]
+	GetHandleVerifier [0x0xca141d+184013]
+	(No symbol) [0x0xa836d0]
+	(No symbol) [0x0xa82f47]
+	GetHandleVerifier [0x0x101aa2c+3826908]
+	BaseThreadInitThunk [0x0x75f005c9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77597c5d+237]
+	RtlGetAppContainerNamedObjectPath [0x0x77597c2d+189]
+
+2025-06-27T16_06: Abrindo o navegador
+2025-06-27T16_06: Iniciando o site do Detran
+2025-06-27T16_06: login realizado
+2025-06-27T16_06: Ocorreu um erro ao processar o veiculo CUD4C20: 'NoneType' object is not iterable
+2025-06-27T16_06: Erro ao fechar o navegador: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0xc83b03+62899]
+	GetHandleVerifier [0x0xc83b44+62964]
+	(No symbol) [0x0xab0f50]
+	(No symbol) [0x0xaec938]
+	(No symbol) [0x0xb1e3c6]
+	(No symbol) [0x0xb19e72]
+	(No symbol) [0x0xb19406]
+	(No symbol) [0x0xa83a05]
+	(No symbol) [0x0xa83f5e]
+	(No symbol) [0x0xa843fd]
+	GetHandleVerifier [0x0xee4793+2556483]
+	GetHandleVerifier [0x0xedfd02+2537394]
+	GetHandleVerifier [0x0xcaa2fa+220586]
+	GetHandleVerifier [0x0xc9aae8+157080]
+	GetHandleVerifier [0x0xca141d+184013]
+	(No symbol) [0x0xa836d0]
+	(No symbol) [0x0xa82f47]
+	GetHandleVerifier [0x0x101aa2c+3826908]
+	BaseThreadInitThunk [0x0x75f005c9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77597c5d+237]
+	RtlGetAppContainerNamedObjectPath [0x0x77597c2d+189]
+
+2025-06-27T16_06: Abrindo o navegador
+2025-06-27T16_06: Iniciando o site do Detran
+2025-06-27T16_06: login realizado
+2025-06-27T16_06: Ocorreu um erro ao processar o veiculo SPI9J80: 'NoneType' object is not iterable
+2025-06-27T16_06: Erro ao fechar o navegador: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0xc83b03+62899]
+	GetHandleVerifier [0x0xc83b44+62964]
+	(No symbol) [0x0xab0f50]
+	(No symbol) [0x0xaec938]
+	(No symbol) [0x0xb1e3c6]
+	(No symbol) [0x0xb19e72]
+	(No symbol) [0x0xb19406]
+	(No symbol) [0x0xa83a05]
+	(No symbol) [0x0xa83f5e]
+	(No symbol) [0x0xa843fd]
+	GetHandleVerifier [0x0xee4793+2556483]
+	GetHandleVerifier [0x0xedfd02+2537394]
+	GetHandleVerifier [0x0xcaa2fa+220586]
+	GetHandleVerifier [0x0xc9aae8+157080]
+	GetHandleVerifier [0x0xca141d+184013]
+	(No symbol) [0x0xa836d0]
+	(No symbol) [0x0xa82f47]
+	GetHandleVerifier [0x0x101aa2c+3826908]
+	BaseThreadInitThunk [0x0x75f005c9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77597c5d+237]
+	RtlGetAppContainerNamedObjectPath [0x0x77597c2d+189]
+
+2025-06-27T16_07: Abrindo o navegador
+2025-06-27T16_07: Iniciando o site do Detran
+2025-06-27T16_07: login realizado
+2025-06-27T16_07: Ocorreu um erro ao processar o veiculo CUD4A39: 'NoneType' object is not iterable
+2025-06-27T16_07: Erro ao fechar o navegador: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0xc83b03+62899]
+	GetHandleVerifier [0x0xc83b44+62964]
+	(No symbol) [0x0xab0f50]
+	(No symbol) [0x0xaec938]
+	(No symbol) [0x0xb1e3c6]
+	(No symbol) [0x0xb19e72]
+	(No symbol) [0x0xb19406]
+	(No symbol) [0x0xa83a05]
+	(No symbol) [0x0xa83f5e]
+	(No symbol) [0x0xa843fd]
+	GetHandleVerifier [0x0xee4793+2556483]
+	GetHandleVerifier [0x0xedfd02+2537394]
+	GetHandleVerifier [0x0xcaa2fa+220586]
+	GetHandleVerifier [0x0xc9aae8+157080]
+	GetHandleVerifier [0x0xca141d+184013]
+	(No symbol) [0x0xa836d0]
+	(No symbol) [0x0xa82f47]
+	GetHandleVerifier [0x0x101aa2c+3826908]
+	BaseThreadInitThunk [0x0x75f005c9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77597c5d+237]
+	RtlGetAppContainerNamedObjectPath [0x0x77597c2d+189]
+
+2025-06-27T16_07: Abrindo o navegador
+2025-06-27T16_07: Iniciando o site do Detran
+2025-06-27T16_07: login realizado
+2025-06-27T16_07: Ocorreu um erro ao processar o veiculo CUD4B99: 'NoneType' object is not iterable
+2025-06-27T16_07: Erro ao fechar o navegador: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0xc83b03+62899]
+	GetHandleVerifier [0x0xc83b44+62964]
+	(No symbol) [0x0xab0f50]
+	(No symbol) [0x0xaec938]
+	(No symbol) [0x0xb1e3c6]
+	(No symbol) [0x0xb19e72]
+	(No symbol) [0x0xb19406]
+	(No symbol) [0x0xa83a05]
+	(No symbol) [0x0xa83f5e]
+	(No symbol) [0x0xa843fd]
+	GetHandleVerifier [0x0xee4793+2556483]
+	GetHandleVerifier [0x0xedfd02+2537394]
+	GetHandleVerifier [0x0xcaa2fa+220586]
+	GetHandleVerifier [0x0xc9aae8+157080]
+	GetHandleVerifier [0x0xca141d+184013]
+	(No symbol) [0x0xa836d0]
+	(No symbol) [0x0xa82f47]
+	GetHandleVerifier [0x0x101aa2c+3826908]
+	BaseThreadInitThunk [0x0x75f005c9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77597c5d+237]
+	RtlGetAppContainerNamedObjectPath [0x0x77597c2d+189]
+
+2025-06-27T16_07: Abrindo o navegador
+2025-06-27T16_07: Iniciando o site do Detran
+2025-06-27T16_07: login realizado
+2025-06-27T16_07: Ocorreu um erro ao processar o veiculo CUD4C09: 'NoneType' object is not iterable
+2025-06-27T16_07: Erro ao fechar o navegador: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0xc83b03+62899]
+	GetHandleVerifier [0x0xc83b44+62964]
+	(No symbol) [0x0xab0f50]
+	(No symbol) [0x0xaec938]
+	(No symbol) [0x0xb1e3c6]
+	(No symbol) [0x0xb19e72]
+	(No symbol) [0x0xb19406]
+	(No symbol) [0x0xa83a05]
+	(No symbol) [0x0xa83f5e]
+	(No symbol) [0x0xa843fd]
+	GetHandleVerifier [0x0xee4793+2556483]
+	GetHandleVerifier [0x0xedfd02+2537394]
+	GetHandleVerifier [0x0xcaa2fa+220586]
+	GetHandleVerifier [0x0xc9aae8+157080]
+	GetHandleVerifier [0x0xca141d+184013]
+	(No symbol) [0x0xa836d0]
+	(No symbol) [0x0xa82f47]
+	GetHandleVerifier [0x0x101aa2c+3826908]
+	BaseThreadInitThunk [0x0x75f005c9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77597c5d+237]
+	RtlGetAppContainerNamedObjectPath [0x0x77597c2d+189]
+
+2025-06-27T16_07: ---------Finalizando Sequencia de notas Sefaz---------
+2025-06-27T16_07: Enviando email de finalizacao
