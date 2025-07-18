@@ -79,36 +79,39 @@ def main(final_placa):
                 traceback.print_exc()
                 
             finally:
-                # Fechamento seguro do driver
                 if driver is not None:
                     try:
-                        # Fecha todas as abas primeiro
-                        while len(driver.window_handles) > 0:
-                            try:
-                                driver.switch_to.window(driver.window_handles[0])
-                                driver.close()
-                            except:
-                                break
+                        # Tenta fechar abas se o driver ainda estiver ativo
+                        try:
+                            handles = driver.window_handles
+                            for handle in handles:
+                                try:
+                                    driver.switch_to.window(handle)
+                                    driver.close()
+                                except Exception:
+                                    pass  # Ignora erro ao tentar fechar janela específica
+                        except Exception as e:
+                            escreveLog(f'Não foi possível acessar as janelas do navegador: {e}')
                         
                         # Encerra o driver propriamente
                         driver.quit()
-                        # Limpeza adicional para garantir
-                        if platform.system() == "Windows":
-                            os.system("taskkill /f /im chromedriver.exe /t 2>nul")
-                            os.system("taskkill /f /im chrome.exe /t 2>nul")
+
                     except Exception as e:
                         escreveLog(f'Erro ao fechar o navegador: {e}')
-                        # Força o kill do processo se necessário
-                        if platform.system() == "Windows":
-                            os.system("taskkill /f /im chromedriver.exe /t 2>nul")
-                            os.system("taskkill /f /im chrome.exe /t 2>nul")
+
+                    # Garantia adicional no Windows
+                    if platform.system() == "Windows":
+                        os.system("taskkill /f /im chromedriver.exe /t 2>nul")
+                        os.system("taskkill /f /im chrome.exe /t 2>nul")
+
 
         # Restante do seu código...
         escreveLog("---------Finalizando Sequencia de notas Sefaz---------")    
         print("---------Finalizando Sequencia de notas Sefaz---------")
-        arquivoCsvSucesso, numeroCsvSucesso = RetornoVeiculosSucesso(placaVeiculo) 
-        arquivoCsvErro, numeroCsErro = RetornoVeiculosErro(placaVeiculo)
-        arquivoCsvSemDebito, numeroCsvDebito = RetornoVeiculosSemDebito(placaVeiculo)
+        
+        arquivoCsvSucesso, numeroCsvSucesso = RetornoVeiculosSucesso(final_placa) 
+        arquivoCsvErro, numeroCsErro = RetornoVeiculosErro(final_placa)
+        arquivoCsvSemDebito, numeroCsvDebito = RetornoVeiculosSemDebito(final_placa)
         print('Enviando email de finalizacao')
         escreveLog('Enviando email de finalizacao')
         ResultadoEmail.ResultadoFinalEmail(final_placa, len(resultadoVeiculos),numeroCsErro,numeroCsvSucesso,numeroCsvDebito,arquivoCsvSucesso,arquivoCsvErro,arquivoCsvSemDebito)
@@ -275,6 +278,7 @@ def realizandoLicenciamento(driver,placaVeiculo,renavamVeiculo,num_documentoVeic
         sleep(3)
         escreveLog('Iniciando o site do Detran')
         print('iniciando login no site do Detran')
+        sleep(6)
         propagranda = WebDriverWait(driver, 20).until(
             EC.element_to_be_clickable((By.XPATH, '//*[@id="mtSitesPopup"]/div/div/div[1]/button'))
         )
@@ -374,6 +378,10 @@ def realizandoLicenciamento(driver,placaVeiculo,renavamVeiculo,num_documentoVeic
             elif textoErro[23:] == "Operação cancelada. Veículo não emplacado na base local ou não possui infrações na base local":
                 ObterDadosLicenciamentoDB.updateErro('ERRO - N/ emplacado base local','ERRO-baseLoc',idVeiculo)
                 escreveLog(f'Erro - N/ emplacado na base local para o veiculo {placaVeiculo}')
+                
+            elif textoErro[23:] == 'DetranNet. Erro: ["invalid-input-response"]':
+                ObterDadosLicenciamentoDB.updateErro('ERRO - invalid-input-response','ERRO-captcha',idVeiculo)
+                escreveLog(f'ERRO - invalid-input-response {placaVeiculo}')
             driver.close()
             driver.switch_to.window(driver.window_handles[0])
             driver.quit()
@@ -382,8 +390,11 @@ def realizandoLicenciamento(driver,placaVeiculo,renavamVeiculo,num_documentoVeic
 #------------------------trocando para nova aba do navegador----------------------------------
         debito = driver.find_element(By.XPATH, '//*[@id="div_servicos_Debitos"]/table/tbody/tr/td')
         debitos = debito.text
+        escreveLog(fr'Nao ouve erro')
 
         if debitos:
+            escreveLog(fr'Verificando se existe debito para o veiculo')
+            
             if debitos == "Nenhum débito em aberto cadastrado para este veículo.":
                                                                      #-------------------------------------
                 ObterDadosLicenciamentoDB.update('QUITADO',idVeiculo)  #ADICIONAR COLUNA DE STATUS MULTAS
@@ -469,8 +480,10 @@ def realizandoLicenciamento(driver,placaVeiculo,renavamVeiculo,num_documentoVeic
                       
 
 if __name__ == "__main__":
+    
     if len(sys.argv) > 1:
         final_placa = sys.argv[1]
         main(final_placa)
         
-    #main('0')
+    
+    #main('9')

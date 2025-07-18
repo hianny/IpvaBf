@@ -1,0 +1,13 @@
+2025-07-18T14_40: ---------Iniciando Sequencia de notas Sefaz---------
+2025-07-18T14_40: Abrindo o navegador
+2025-07-18T14_40: Iniciando o site do Detran
+2025-07-18T14_40: login realizado
+2025-07-18T14_41: O captcha foi resolvido
+2025-07-18T14_41: Consultando o veiculo
+2025-07-18T14_41: Verificando se houve erro na consulta do veiculo
+2025-07-18T14_41: Nao ouve erro
+2025-07-18T14_41: Verificando se existe debito para o veiculo
+2025-07-18T14_41: o veiculo da placa OBE3I59 nao tem nenhum debito
+2025-07-18T14_41: Finalizando as consultas do veiculo com a placa: OBE3I59
+2025-07-18T14_41: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=55596): Max retries exceeded with url: /session/0509340c93bb78df244d8afb30a8f23a/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002226C5BDB20>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-07-18T14_41: ---------Finalizando Sequencia de notas Sefaz---------

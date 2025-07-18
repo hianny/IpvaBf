@@ -1,0 +1,7 @@
+2025-07-11T13_38: ---------Iniciando Sequencia de notas Sefaz---------
+2025-07-11T13_38: Abrindo o navegador
+2025-07-11T13_38: Iniciando o site do Detran
+2025-07-11T13_38: login realizado
+2025-07-11T13_38: O captcha foi resolvido
+2025-07-11T13_39: Consultando o veiculo
+2025-07-11T13_39: Verificando se houve erro na consulta do veiculo

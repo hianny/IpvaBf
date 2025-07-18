@@ -1,0 +1,10 @@
+2025-07-02T13_05: ---------Iniciando Sequencia de notas Sefaz---------
+2025-07-02T13_05: Abrindo o navegador
+2025-07-02T13_05: Iniciando o site do Detran
+2025-07-02T13_06: login realizado
+2025-07-02T13_06: O captcha foi resolvido
+2025-07-02T13_06: Consultando o veiculo
+2025-07-02T13_06: Verificando se houve erro na consulta do veiculo
+2025-07-02T13_06: o veiculo da placa QCG7H02 nao tem nenhum debito
+2025-07-02T13_06: Finalizando as consultas do veiculo com a placa: QCG7H02
+2025-07-02T13_06: Erro ao fechar o navegador: HTTPConnectionPool(host='localhost', port=54858): Max retries exceeded with url: /session/c112c7643defdf83ba65582e2ba26d82/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000124BE1C1EB0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))

@@ -10,6 +10,7 @@ connectionBd = oracledb.connect(user=usernameBd, password=passwordBd, dsn=dsn)
 cursor = connectionBd.cursor()
 
 def RetornoVeiculosSucesso(finalPlaca):
+    print(finalPlaca)
     cursor.execute(
         fr'''SELECT 
                 PLACA
@@ -34,6 +35,7 @@ def RetornoVeiculosSucesso(finalPlaca):
         )    
     # Usar fetchall() para pegar todas as linhas
     VeiculosTotal = cursor.fetchall()
+    print(VeiculosTotal)
     veiculosporPlacas = pd.DataFrame(VeiculosTotal, columns=['PLACA','RENAVAM','CHASSIS','NUM_DOCUMENTO',
         'DT_ULT_CONSULTA_DETRAN','STATUS_LICENCIAMENTO','VALOR_LICENCIAMENTO','ARQUIVO_LICENCIAMENTO',
         'DT_ULT_CONSULTA_MULTAS','STATUS_MULTAS','MULTAS','PRECO_MULTAS','ARQUIVO_MULTAS'])

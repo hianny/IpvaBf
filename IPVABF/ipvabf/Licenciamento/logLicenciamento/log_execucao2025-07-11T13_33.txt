@@ -1,0 +1,8 @@
+2025-07-11T13_33: ---------Iniciando Sequencia de notas Sefaz---------
+2025-07-11T13_33: Abrindo o navegador
+2025-07-11T13_33: Iniciando o site do Detran
+2025-07-11T13_34: login realizado
+2025-07-11T13_34: O captcha foi resolvido
+2025-07-11T13_34: Consultando o veiculo
+2025-07-11T13_34: Verificando se houve erro na consulta do veiculo
+2025-07-11T13_34: Finalizando as consultas do veiculo com a placa: QCE2E58

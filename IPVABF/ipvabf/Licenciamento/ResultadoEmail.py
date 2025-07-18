@@ -13,7 +13,7 @@ password = "7BchvtSg0ZV6"
 
 #Environment = "protheus"
 
-destinatarios = ["WILSON.PALHARES@bomfuturo.com.br", "hianny.urt@bomfuturo.com.br","SHERMAN.VENDRAMINI@bomfuturo.com.br"]
+destinatarios = ["WILSON.PALHARES@bomfuturo.com.br", "hianny.urt@bomfuturo.com.br","SHERMAN.VENDRAMINI@bomfuturo.com.br","grupopatrimoniomultastransito@bomfuturo.com.br"]
 #destinatarios = ["hianny.urt@bomfuturo.com.br"]
 
 def ResultadoFinalEmail(finalPlaca,qtdVeiculos,qtdVeiculosErro,qtdVeiculosSucesso,qtdVeiculosSDebito,arquivoCsvSucesso,arquivoCsvErro,arquivoCsvSemDebito):
@@ -21,7 +21,7 @@ def ResultadoFinalEmail(finalPlaca,qtdVeiculos,qtdVeiculosErro,qtdVeiculosSucess
     try:
         data = datetime.now().strftime("%Y-%m-%d-%H-%M-%S")
         #destinatarios = ["WILSON.PALHARES@bomfuturo.com.br", "hianny.urt@bomfuturo.com.br"]
-        destinatarios = ["hianny.urt@bomfuturo.com.br"]
+        #destinatarios = ["hianny.urt@bomfuturo.com.br"]
         
         server_smtp = "smtp-lob.office365.com"
         port = 587

@@ -1,0 +1,20 @@
+2025-07-11T13_31: ---------Iniciando Sequencia de notas Sefaz---------
+2025-07-11T13_31: Abrindo o navegador
+2025-07-11T13_31: Iniciando o site do Detran
+2025-07-11T13_32: login realizado
+2025-07-11T13_32: O captcha foi resolvido
+2025-07-11T13_32: Consultando o veiculo
+2025-07-11T13_32: Verificando se houve erro na consulta do veiculo
+2025-07-11T13_32: Finalizando as consultas do veiculo com a placa: QCE2E58
+2025-07-11T13_32: Erro ao fechar o navegador: HTTPConnectionPool(host='localhost', port=62633): Max retries exceeded with url: /session/5371ea4f2014dc9f5516b9ca8f70493c/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F51497BE90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-07-11T13_32: Abrindo o navegador
+2025-07-11T13_32: Iniciando o site do Detran
+2025-07-11T13_32: login realizado
+2025-07-11T13_33: O captcha foi resolvido
+2025-07-11T13_33: Consultando o veiculo
+2025-07-11T13_33: Verificando se houve erro na consulta do veiculo
+2025-07-11T13_33: Finalizando as consultas do veiculo com a placa: QCE2E68
+2025-07-11T13_33: Erro ao fechar o navegador: HTTPConnectionPool(host='localhost', port=62729): Max retries exceeded with url: /session/52dca3f864c22ab234dd7b421f3f51a7/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F514A1FA70>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-07-11T13_33: Abrindo o navegador
+2025-07-11T13_33: Iniciando o site do Detran
+2025-07-11T13_33: login realizado

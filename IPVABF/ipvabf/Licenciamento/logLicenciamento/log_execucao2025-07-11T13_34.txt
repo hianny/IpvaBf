@@ -1,0 +1,58 @@
+2025-07-11T13_34: ---------Iniciando Sequencia de notas Sefaz---------
+2025-07-11T13_34: Abrindo o navegador
+2025-07-11T13_34: Iniciando o site do Detran
+2025-07-11T13_34: Ocorreu um erro ao processar o veiculo QCE2E58: Message: element not interactable
+  (Session info: chrome=138.0.7204.101)
+Stacktrace:
+	GetHandleVerifier [0x0x11b3b03+62899]
+	GetHandleVerifier [0x0x11b3b44+62964]
+	(No symbol) [0x0xfe0f50]
+	(No symbol) [0x0x1024219]
+	(No symbol) [0x0x1022907]
+	(No symbol) [0x0x104e50c]
+	(No symbol) [0x0x101ee74]
+	(No symbol) [0x0x104e784]
+	(No symbol) [0x0x106fd81]
+	(No symbol) [0x0x104e306]
+	(No symbol) [0x0x101d670]
+	(No symbol) [0x0x101e4e4]
+	GetHandleVerifier [0x0x1414793+2556483]
+	GetHandleVerifier [0x0x140fd02+2537394]
+	GetHandleVerifier [0x0x11da2fa+220586]
+	GetHandleVerifier [0x0x11caae8+157080]
+	GetHandleVerifier [0x0x11d141d+184013]
+	GetHandleVerifier [0x0x11bba68+95512]
+	GetHandleVerifier [0x0x11bbc10+95936]
+	GetHandleVerifier [0x0x11a6b5a+9738]
+	BaseThreadInitThunk [0x0x754105c9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77257c5d+237]
+	RtlGetAppContainerNamedObjectPath [0x0x77257c2d+189]
+
+2025-07-11T13_34: Erro ao fechar o navegador: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0x11b3b03+62899]
+	GetHandleVerifier [0x0x11b3b44+62964]
+	(No symbol) [0x0xfe0f50]
+	(No symbol) [0x0x101c938]
+	(No symbol) [0x0x104e3c6]
+	(No symbol) [0x0x1049e72]
+	(No symbol) [0x0x1049406]
+	(No symbol) [0x0xfb3a05]
+	(No symbol) [0x0xfb3f5e]
+	(No symbol) [0x0xfb43fd]
+	GetHandleVerifier [0x0x1414793+2556483]
+	GetHandleVerifier [0x0x140fd02+2537394]
+	GetHandleVerifier [0x0x11da2fa+220586]
+	GetHandleVerifier [0x0x11caae8+157080]
+	GetHandleVerifier [0x0x11d141d+184013]
+	(No symbol) [0x0xfb36d0]
+	(No symbol) [0x0xfb2f47]
+	GetHandleVerifier [0x0x154aa2c+3826908]
+	BaseThreadInitThunk [0x0x754105c9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77257c5d+237]
+	RtlGetAppContainerNamedObjectPath [0x0x77257c2d+189]
+
+2025-07-11T13_35: Abrindo o navegador
+2025-07-11T13_35: Iniciando o site do Detran
+2025-07-11T13_35: login realizado
+2025-07-11T13_35: O captcha foi resolvido
