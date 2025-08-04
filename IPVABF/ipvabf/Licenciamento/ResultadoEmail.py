@@ -15,7 +15,7 @@ password = "7BchvtSg0ZV6"
 
 destinatarios = ["WILSON.PALHARES@bomfuturo.com.br", "hianny.urt@bomfuturo.com.br","SHERMAN.VENDRAMINI@bomfuturo.com.br","grupopatrimoniomultastransito@bomfuturo.com.br"]
 #destinatarios = ["hianny.urt@bomfuturo.com.br"]
-
+#                       final_placa, len(resultadoVeiculos),numeroCsErro,numeroCsvSucesso,numeroCsvDebito,arquivoCsvSucesso,arquivoCsvErro,arquivoCsvSemDebito
 def ResultadoFinalEmail(finalPlaca,qtdVeiculos,qtdVeiculosErro,qtdVeiculosSucesso,qtdVeiculosSDebito,arquivoCsvSucesso,arquivoCsvErro,arquivoCsvSemDebito):
 
     try:
@@ -139,5 +139,5 @@ def ResultadoErro(erro,finalPlaca,qtdVeiculos,qtdVeiculosErro,qtdVeiculosSucesso
     return
 
 if __name__ == "__main__":
-    ResultadoErro()
+    ResultadoErro('','','','','','','','')
     ResultadoFinalEmail('','','','','','','')

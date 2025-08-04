@@ -4,8 +4,8 @@ from datetime import datetime
 
 usernameBd = 'rpa' 
 passwordBd= 'Rpa!2023'
-#dsn = 'oracledbdev.bomfuturo.local:1521/homollnx'
-dsn = 'oracle.bomfuturo.local:1521/protheus'
+dsn = 'oracledbdev.bomfuturo.local:1521/homollnx'
+#dsn = 'oracle.bomfuturo.local:1521/protheus'
 connectionBd = oracledb.connect(user=usernameBd, password=passwordBd, dsn=dsn)
 cursor = connectionBd.cursor()
 

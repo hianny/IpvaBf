@@ -18,7 +18,7 @@ def RetornoVeiculosLicenciamento(final_placa):
                 ,NUM_DOCUMENTO 
             FROM IPVA_LICENCIAMENTO
             WHERE NUM_DOCUMENTO IS NOT NULL
-            --AND PLACA = 'OBE3I59' 
+            --AND PLACA in ('OBE3I59')
             AND  substr(placa,7,1) IN ('{final_placa}') 
             --AND STATUS_MULTAS IS null  
             --AND DT_ULT_CONSULTA_MULTAS < TRUNC(SYSDATE, 'MM')

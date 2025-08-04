@@ -1,0 +1,60 @@
+2025-07-21T09_49: ---------Iniciando Sequencia de notas Sefaz---------
+2025-07-21T09_49: Abrindo o navegador
+2025-07-21T09_49: Iniciando o site do Detran
+2025-07-21T09_49: login realizado
+2025-07-21T09_50: O captcha foi resolvido
+2025-07-21T09_50: Consultando o veiculo
+2025-07-21T09_50: Verificando se houve erro na consulta do veiculo
+2025-07-21T09_50: Nao ouve erro
+2025-07-21T09_50: Verificando se existe debito para o veiculo
+2025-07-21T09_50: O veículo da placa QBA5A99 ainda possui pendência de licenciamento
+2025-07-21T09_50: Emitindo licenciamento
+2025-07-21T09_50: O veículo da placa QBA5A99 NAO possui multas pendentes
+2025-07-21T09_50: Finalizando as consultas do veiculo com a placa: QBA5A99
+2025-07-21T09_51: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=50088): Max retries exceeded with url: /session/faddfd477061e0a2790fb182ed32850e/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001BF72673D10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-07-21T09_51: Abrindo o navegador
+2025-07-21T09_51: Iniciando o site do Detran
+2025-07-21T09_51: login realizado
+2025-07-21T09_51: O captcha foi resolvido
+2025-07-21T09_51: Consultando o veiculo
+2025-07-21T09_51: Verificando se houve erro na consulta do veiculo
+2025-07-21T09_51: Nao ouve erro
+2025-07-21T09_51: Verificando se existe debito para o veiculo
+2025-07-21T09_51: o veiculo da placa KRW3H49 nao tem nenhum debito
+2025-07-21T09_51: Finalizando as consultas do veiculo com a placa: KRW3H49
+2025-07-21T09_51: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=50263): Max retries exceeded with url: /session/1e5bbfa97d4966becea297e45e1ec442/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001BF72671C40>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-07-21T09_52: Abrindo o navegador
+2025-07-21T09_52: Iniciando o site do Detran
+2025-07-21T09_52: login realizado
+2025-07-21T09_52: O captcha foi resolvido
+2025-07-21T09_52: Consultando o veiculo
+2025-07-21T09_52: Verificando se houve erro na consulta do veiculo
+2025-07-21T09_52: Nao ouve erro
+2025-07-21T09_52: Verificando se existe debito para o veiculo
+2025-07-21T09_52: o veiculo da placa QBX8C09 nao tem nenhum debito
+2025-07-21T09_52: Finalizando as consultas do veiculo com a placa: QBX8C09
+2025-07-21T09_52: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=50359): Max retries exceeded with url: /session/de883244758a9472117fdc1adf5878c5/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001BF726C69C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-07-21T09_52: Abrindo o navegador
+2025-07-21T09_53: Iniciando o site do Detran
+2025-07-21T09_53: login realizado
+2025-07-21T09_53: O captcha foi resolvido
+2025-07-21T09_53: Consultando o veiculo
+2025-07-21T09_53: Verificando se houve erro na consulta do veiculo
+2025-07-21T09_53: Nao ouve erro
+2025-07-21T09_53: Verificando se existe debito para o veiculo
+2025-07-21T09_53: o veiculo da placa FQX9J29 nao tem nenhum debito
+2025-07-21T09_53: Finalizando as consultas do veiculo com a placa: FQX9J29
+2025-07-21T09_53: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=50456): Max retries exceeded with url: /session/0d02e0ac3261d3d1a3cd0286047c082f/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001BF726723F0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-07-21T09_53: Abrindo o navegador
+2025-07-21T09_53: Iniciando o site do Detran
+2025-07-21T09_54: login realizado
+2025-07-21T09_54: O captcha foi resolvido
+2025-07-21T09_54: Consultando o veiculo
+2025-07-21T09_54: Verificando se houve erro na consulta do veiculo
+2025-07-21T09_54: Nao ouve erro
+2025-07-21T09_54: Verificando se existe debito para o veiculo
+2025-07-21T09_54: o veiculo da placa QCU3H99 nao tem nenhum debito
+2025-07-21T09_54: Finalizando as consultas do veiculo com a placa: QCU3H99
+2025-07-21T09_54: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=50544): Max retries exceeded with url: /session/a8df08f22ae69354426e575867f569b1/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001BF726C79B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-07-21T09_54: Abrindo o navegador
+2025-07-21T09_54: Iniciando o site do Detran
