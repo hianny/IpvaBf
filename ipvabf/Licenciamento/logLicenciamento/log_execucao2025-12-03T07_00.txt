@@ -1,0 +1,6537 @@
+2025-12-03T07_00: ---------Iniciando Sequencia de notas Sefaz---------
+2025-12-03T07_00: Iniciando o site do Detran
+2025-12-03T07_00: Ocorreu um erro ao processar o veiculo RRN3I19: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_00: Iniciando o site do Detran
+2025-12-03T07_01: Ocorreu um erro ao processar o veiculo SPR0A09: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_01: Iniciando o site do Detran
+2025-12-03T07_01: Ocorreu um erro ao processar o veiculo RAV7E89: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_01: Iniciando o site do Detran
+2025-12-03T07_01: Ocorreu um erro ao processar o veiculo RAV9D49: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_02: Iniciando o site do Detran
+2025-12-03T07_02: Ocorreu um erro ao processar o veiculo RAW4A39: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_02: Iniciando o site do Detran
+2025-12-03T07_02: Ocorreu um erro ao processar o veiculo SPR7J09: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_03: Iniciando o site do Detran
+2025-12-03T07_03: Ocorreu um erro ao processar o veiculo SPR7J59: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_03: Iniciando o site do Detran
+2025-12-03T07_04: Ocorreu um erro ao processar o veiculo SPR7J79: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_04: Iniciando o site do Detran
+2025-12-03T07_04: Ocorreu um erro ao processar o veiculo DQB0H39: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_04: Iniciando o site do Detran
+2025-12-03T07_04: Ocorreu um erro ao processar o veiculo NJM7C99: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_05: Iniciando o site do Detran
+2025-12-03T07_05: Ocorreu um erro ao processar o veiculo RAL9A99: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_05: Iniciando o site do Detran
+2025-12-03T07_05: Ocorreu um erro ao processar o veiculo RRN3E59: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_05: Iniciando o site do Detran
+2025-12-03T07_06: Ocorreu um erro ao processar o veiculo RRN3E89: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_06: Iniciando o site do Detran
+2025-12-03T07_06: Ocorreu um erro ao processar o veiculo SPR7J99: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_06: Iniciando o site do Detran
+2025-12-03T07_07: Ocorreu um erro ao processar o veiculo SPS2B69: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_07: Iniciando o site do Detran
+2025-12-03T07_07: Ocorreu um erro ao processar o veiculo SPS2B79: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_07: Iniciando o site do Detran
+2025-12-03T07_08: Ocorreu um erro ao processar o veiculo SPS2B89: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_08: Iniciando o site do Detran
+2025-12-03T07_08: Ocorreu um erro ao processar o veiculo OBM8H79: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_08: Iniciando o site do Detran
+2025-12-03T07_09: Ocorreu um erro ao processar o veiculo ACX4879: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_09: Iniciando o site do Detran
+2025-12-03T07_09: Ocorreu um erro ao processar o veiculo OBA9309: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_09: Iniciando o site do Detran
+2025-12-03T07_10: Ocorreu um erro ao processar o veiculo OBE3E39: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_10: Iniciando o site do Detran
+2025-12-03T07_10: Ocorreu um erro ao processar o veiculo SPR0A59: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_10: Iniciando o site do Detran
+2025-12-03T07_11: Ocorreu um erro ao processar o veiculo AIB6I89: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_11: Iniciando o site do Detran
+2025-12-03T07_11: Ocorreu um erro ao processar o veiculo SPR0A89: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_11: Iniciando o site do Detran
+2025-12-03T07_12: Ocorreu um erro ao processar o veiculo APU5809: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_12: Iniciando o site do Detran
+2025-12-03T07_12: Ocorreu um erro ao processar o veiculo QCU8A89: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_12: Iniciando o site do Detran
+2025-12-03T07_13: Ocorreu um erro ao processar o veiculo EYD6849: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_13: Iniciando o site do Detran
+2025-12-03T07_13: Ocorreu um erro ao processar o veiculo QBM9G39: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_13: Iniciando o site do Detran
+2025-12-03T07_14: Ocorreu um erro ao processar o veiculo RRN3F09: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_14: Iniciando o site do Detran
+2025-12-03T07_14: Ocorreu um erro ao processar o veiculo RRN3G49: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_14: Iniciando o site do Detran
+2025-12-03T07_14: Ocorreu um erro ao processar o veiculo SPT9C59: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_15: Iniciando o site do Detran
+2025-12-03T07_15: Ocorreu um erro ao processar o veiculo OBE4A49: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_15: Iniciando o site do Detran
+2025-12-03T07_15: Ocorreu um erro ao processar o veiculo RRW8D39: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_16: Iniciando o site do Detran
+2025-12-03T07_16: Ocorreu um erro ao processar o veiculo RRV2H79: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_16: Iniciando o site do Detran
+2025-12-03T07_16: Ocorreu um erro ao processar o veiculo SWF5D09: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_17: Iniciando o site do Detran
+2025-12-03T07_17: Ocorreu um erro ao processar o veiculo SVI0B79: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_17: Iniciando o site do Detran
+2025-12-03T07_17: Ocorreu um erro ao processar o veiculo SVC2H99: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_17: Iniciando o site do Detran
+2025-12-03T07_18: Ocorreu um erro ao processar o veiculo QBA5A99: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_18: Iniciando o site do Detran
+2025-12-03T07_18: Ocorreu um erro ao processar o veiculo KRW3H49: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_18: Iniciando o site do Detran
+2025-12-03T07_19: Ocorreu um erro ao processar o veiculo QBX8C09: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_19: Iniciando o site do Detran
+2025-12-03T07_19: Ocorreu um erro ao processar o veiculo FQX9J29: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_19: Iniciando o site do Detran
+2025-12-03T07_20: Ocorreu um erro ao processar o veiculo QCU3H99: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_20: Iniciando o site do Detran
+2025-12-03T07_20: Ocorreu um erro ao processar o veiculo QCU3J29: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_20: Iniciando o site do Detran
+2025-12-03T07_21: Ocorreu um erro ao processar o veiculo QCU8B99: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_21: Iniciando o site do Detran
+2025-12-03T07_21: Ocorreu um erro ao processar o veiculo QCU8D29: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_21: Iniciando o site do Detran
+2025-12-03T07_22: Ocorreu um erro ao processar o veiculo QCU8D69: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_22: Iniciando o site do Detran
+2025-12-03T07_22: Ocorreu um erro ao processar o veiculo QCU8E79: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_22: Iniciando o site do Detran
+2025-12-03T07_23: Ocorreu um erro ao processar o veiculo QCD2B79: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_23: Iniciando o site do Detran
+2025-12-03T07_23: Ocorreu um erro ao processar o veiculo QCD2C09: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_23: Iniciando o site do Detran
+2025-12-03T07_24: Ocorreu um erro ao processar o veiculo QCD1D59: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_24: Iniciando o site do Detran
+2025-12-03T07_24: Ocorreu um erro ao processar o veiculo QCD2C69: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_24: Iniciando o site do Detran
+2025-12-03T07_25: Ocorreu um erro ao processar o veiculo QCD2C99: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_25: Iniciando o site do Detran
+2025-12-03T07_25: Ocorreu um erro ao processar o veiculo QCD2D29: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_25: Iniciando o site do Detran
+2025-12-03T07_26: Ocorreu um erro ao processar o veiculo QCD2D59: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_26: Iniciando o site do Detran
+2025-12-03T07_26: Ocorreu um erro ao processar o veiculo QCD2D79: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_26: Iniciando o site do Detran
+2025-12-03T07_27: Ocorreu um erro ao processar o veiculo QCD2E29: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_27: Iniciando o site do Detran
+2025-12-03T07_27: Ocorreu um erro ao processar o veiculo QCE8009: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_27: Iniciando o site do Detran
+2025-12-03T07_28: Ocorreu um erro ao processar o veiculo OAW1G09: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_28: Iniciando o site do Detran
+2025-12-03T07_28: Ocorreu um erro ao processar o veiculo GBB8H09: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_28: Iniciando o site do Detran
+2025-12-03T07_29: Ocorreu um erro ao processar o veiculo RRI6F69: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_29: Iniciando o site do Detran
+2025-12-03T07_29: Ocorreu um erro ao processar o veiculo NPD7B59: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_29: Iniciando o site do Detran
+2025-12-03T07_30: Ocorreu um erro ao processar o veiculo QCU8B69: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_30: Iniciando o site do Detran
+2025-12-03T07_30: Ocorreu um erro ao processar o veiculo NPI9989: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_30: Iniciando o site do Detran
+2025-12-03T07_31: Ocorreu um erro ao processar o veiculo EGS1739: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_31: Iniciando o site do Detran
+2025-12-03T07_31: Ocorreu um erro ao processar o veiculo QCT9I89: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_31: Iniciando o site do Detran
+2025-12-03T07_32: Ocorreu um erro ao processar o veiculo OBS3339: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_32: Iniciando o site do Detran
+2025-12-03T07_32: Ocorreu um erro ao processar o veiculo OBK2B39: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_32: Iniciando o site do Detran
+2025-12-03T07_33: Ocorreu um erro ao processar o veiculo QCN5E39: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_33: Iniciando o site do Detran
+2025-12-03T07_33: Ocorreu um erro ao processar o veiculo DXZ8559: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_33: Iniciando o site do Detran
+2025-12-03T07_34: Ocorreu um erro ao processar o veiculo RAZ4B59: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_34: Iniciando o site do Detran
+2025-12-03T07_34: Ocorreu um erro ao processar o veiculo KAF3999: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_34: Iniciando o site do Detran
+2025-12-03T07_35: Ocorreu um erro ao processar o veiculo QCM1G89: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_35: Iniciando o site do Detran
+2025-12-03T07_35: Ocorreu um erro ao processar o veiculo RAL8I59: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_35: Iniciando o site do Detran
+2025-12-03T07_36: Ocorreu um erro ao processar o veiculo MAP7I49: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_36: Iniciando o site do Detran
+2025-12-03T07_36: Ocorreu um erro ao processar o veiculo JYT5039: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_36: Iniciando o site do Detran
+2025-12-03T07_37: Ocorreu um erro ao processar o veiculo EGS1G99: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_37: Iniciando o site do Detran
+2025-12-03T07_37: Ocorreu um erro ao processar o veiculo QCU8A39: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_37: Iniciando o site do Detran
+2025-12-03T07_37: Ocorreu um erro ao processar o veiculo OBH6469: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_38: Iniciando o site do Detran
+2025-12-03T07_38: Ocorreu um erro ao processar o veiculo SUX0B89: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_38: Iniciando o site do Detran
+2025-12-03T07_38: Ocorreu um erro ao processar o veiculo QCH7629: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_39: Iniciando o site do Detran
+2025-12-03T07_39: Ocorreu um erro ao processar o veiculo DDV0209: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_39: Iniciando o site do Detran
+2025-12-03T07_39: Ocorreu um erro ao processar o veiculo SPS3E59: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_40: Iniciando o site do Detran
+2025-12-03T07_40: Ocorreu um erro ao processar o veiculo RRS6F49: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_40: Iniciando o site do Detran
+2025-12-03T07_40: Ocorreu um erro ao processar o veiculo QCI6A29: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_41: Iniciando o site do Detran
+2025-12-03T07_41: Ocorreu um erro ao processar o veiculo QCI6B09: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_41: Iniciando o site do Detran
+2025-12-03T07_41: Ocorreu um erro ao processar o veiculo KAQ0369: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_42: Iniciando o site do Detran
+2025-12-03T07_42: Ocorreu um erro ao processar o veiculo QBW4589: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_42: Iniciando o site do Detran
+2025-12-03T07_42: Ocorreu um erro ao processar o veiculo IMS9J29: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_42: Iniciando o site do Detran
+2025-12-03T07_43: Ocorreu um erro ao processar o veiculo OBS2E59: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_43: Iniciando o site do Detran
+2025-12-03T07_43: Ocorreu um erro ao processar o veiculo QBK2879: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_43: Iniciando o site do Detran
+2025-12-03T07_44: Ocorreu um erro ao processar o veiculo RAL9A39: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_44: Iniciando o site do Detran
+2025-12-03T07_44: Ocorreu um erro ao processar o veiculo QCD2D49: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_44: Iniciando o site do Detran
+2025-12-03T07_45: Ocorreu um erro ao processar o veiculo SPR7I69: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_45: Iniciando o site do Detran
+2025-12-03T07_45: Ocorreu um erro ao processar o veiculo RRN3F89: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_45: Iniciando o site do Detran
+2025-12-03T07_46: Ocorreu um erro ao processar o veiculo QBK4629: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_46: Iniciando o site do Detran
+2025-12-03T07_46: Ocorreu um erro ao processar o veiculo RRN3G79: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_46: Iniciando o site do Detran
+2025-12-03T07_47: Ocorreu um erro ao processar o veiculo EFO8D09: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_47: Iniciando o site do Detran
+2025-12-03T07_47: Ocorreu um erro ao processar o veiculo NJI8A99: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_47: Iniciando o site do Detran
+2025-12-03T07_48: Ocorreu um erro ao processar o veiculo SVF1D19: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_48: Iniciando o site do Detran
+2025-12-03T07_48: Ocorreu um erro ao processar o veiculo SPR8A09: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_48: Iniciando o site do Detran
+2025-12-03T07_49: Ocorreu um erro ao processar o veiculo QCI5J59: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_49: Iniciando o site do Detran
+2025-12-03T07_49: Ocorreu um erro ao processar o veiculo SPT7C79: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_49: Iniciando o site do Detran
+2025-12-03T07_50: Ocorreu um erro ao processar o veiculo KCE2499: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_50: Iniciando o site do Detran
+2025-12-03T07_50: Ocorreu um erro ao processar o veiculo RRN3E49: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_50: Iniciando o site do Detran
+2025-12-03T07_51: Ocorreu um erro ao processar o veiculo JYI3339: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_51: Iniciando o site do Detran
+2025-12-03T07_51: Ocorreu um erro ao processar o veiculo CHP7E99: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_51: Iniciando o site do Detran
+2025-12-03T07_52: Ocorreu um erro ao processar o veiculo IMP9E69: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_52: Iniciando o site do Detran
+2025-12-03T07_52: Ocorreu um erro ao processar o veiculo RRW8D19: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_52: Iniciando o site do Detran
+2025-12-03T07_53: Ocorreu um erro ao processar o veiculo QCU8B59: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_53: Iniciando o site do Detran
+2025-12-03T07_53: Ocorreu um erro ao processar o veiculo QCL0G59: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_53: Iniciando o site do Detran
+2025-12-03T07_54: Ocorreu um erro ao processar o veiculo EGS1H19: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_54: Iniciando o site do Detran
+2025-12-03T07_54: Ocorreu um erro ao processar o veiculo SPR2J19: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_54: Iniciando o site do Detran
+2025-12-03T07_55: Ocorreu um erro ao processar o veiculo QCL0H99: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_55: Iniciando o site do Detran
+2025-12-03T07_55: Ocorreu um erro ao processar o veiculo JTH2479: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_55: Iniciando o site do Detran
+2025-12-03T07_55: Ocorreu um erro ao processar o veiculo QCL0H39: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_56: Iniciando o site do Detran
+2025-12-03T07_56: Ocorreu um erro ao processar o veiculo QCN5E79: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_56: Iniciando o site do Detran
+2025-12-03T07_57: Ocorreu um erro ao processar o veiculo QCN5F99: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_57: Iniciando o site do Detran
+2025-12-03T07_57: Ocorreu um erro ao processar o veiculo QCN5G39: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_57: Iniciando o site do Detran
+2025-12-03T07_57: Ocorreu um erro ao processar o veiculo RAL8J19: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_58: Iniciando o site do Detran
+2025-12-03T07_58: Ocorreu um erro ao processar o veiculo RAQ1D89: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_58: Iniciando o site do Detran
+2025-12-03T07_58: Ocorreu um erro ao processar o veiculo RAU4A29: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_59: Iniciando o site do Detran
+2025-12-03T07_59: Ocorreu um erro ao processar o veiculo RAV0C69: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T07_59: Iniciando o site do Detran
+2025-12-03T07_59: Ocorreu um erro ao processar o veiculo RAV7F19: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_00: Iniciando o site do Detran
+2025-12-03T08_00: Ocorreu um erro ao processar o veiculo GEB5H49: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_00: Iniciando o site do Detran
+2025-12-03T08_00: Ocorreu um erro ao processar o veiculo QCW4G19: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_00: Iniciando o site do Detran
+2025-12-03T08_01: Ocorreu um erro ao processar o veiculo QCG8429: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_01: Iniciando o site do Detran
+2025-12-03T08_01: Ocorreu um erro ao processar o veiculo QCI5J79: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_01: Iniciando o site do Detran
+2025-12-03T08_02: Ocorreu um erro ao processar o veiculo RAW4A79: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_02: Iniciando o site do Detran
+2025-12-03T08_02: Ocorreu um erro ao processar o veiculo RAZ4B09: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_02: Iniciando o site do Detran
+2025-12-03T08_03: Ocorreu um erro ao processar o veiculo RAZ4B39: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_03: Iniciando o site do Detran
+2025-12-03T08_03: Ocorreu um erro ao processar o veiculo RRI6F79: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_03: Iniciando o site do Detran
+2025-12-03T08_04: Ocorreu um erro ao processar o veiculo EDL7359: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_04: Iniciando o site do Detran
+2025-12-03T08_04: Ocorreu um erro ao processar o veiculo RRN2J89: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_04: Iniciando o site do Detran
+2025-12-03T08_05: Ocorreu um erro ao processar o veiculo RRN3E39: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_05: Iniciando o site do Detran
+2025-12-03T08_05: Ocorreu um erro ao processar o veiculo RRN3I29: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_05: Iniciando o site do Detran
+2025-12-03T08_06: Ocorreu um erro ao processar o veiculo RRN6H59: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_06: Iniciando o site do Detran
+2025-12-03T08_06: Ocorreu um erro ao processar o veiculo HQN7419: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_06: Iniciando o site do Detran
+2025-12-03T08_07: Ocorreu um erro ao processar o veiculo RRT6F59: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_07: Iniciando o site do Detran
+2025-12-03T08_07: Ocorreu um erro ao processar o veiculo RRV0E19: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_07: Iniciando o site do Detran
+2025-12-03T08_08: Ocorreu um erro ao processar o veiculo RRV0E39: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_08: Iniciando o site do Detran
+2025-12-03T08_08: Ocorreu um erro ao processar o veiculo RRV2H49: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_08: Iniciando o site do Detran
+2025-12-03T08_09: Ocorreu um erro ao processar o veiculo RRV5A49: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_09: Iniciando o site do Detran
+2025-12-03T08_09: Ocorreu um erro ao processar o veiculo QCI5H89: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_09: Iniciando o site do Detran
+2025-12-03T08_10: Ocorreu um erro ao processar o veiculo QCI6A09: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_10: Iniciando o site do Detran
+2025-12-03T08_10: Ocorreu um erro ao processar o veiculo QCI6A49: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_10: Iniciando o site do Detran
+2025-12-03T08_11: Ocorreu um erro ao processar o veiculo QCI6A99: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_11: Iniciando o site do Detran
+2025-12-03T08_11: Ocorreu um erro ao processar o veiculo JYZ7309: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_11: Iniciando o site do Detran
+2025-12-03T08_12: Ocorreu um erro ao processar o veiculo RAV7E49: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_12: Iniciando o site do Detran
+2025-12-03T08_12: Ocorreu um erro ao processar o veiculo SPS3E29: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_12: Iniciando o site do Detran
+2025-12-03T08_13: Ocorreu um erro ao processar o veiculo SPS3E79: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_13: Iniciando o site do Detran
+2025-12-03T08_13: Ocorreu um erro ao processar o veiculo SPS3F09: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_13: Iniciando o site do Detran
+2025-12-03T08_13: Ocorreu um erro ao processar o veiculo OBK2B29: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_14: Iniciando o site do Detran
+2025-12-03T08_14: Ocorreu um erro ao processar o veiculo BEL6A99: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_14: Iniciando o site do Detran
+2025-12-03T08_14: Ocorreu um erro ao processar o veiculo OBS2F39: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_15: Iniciando o site do Detran
+2025-12-03T08_15: Ocorreu um erro ao processar o veiculo OBS2569: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_15: Iniciando o site do Detran
+2025-12-03T08_15: Ocorreu um erro ao processar o veiculo OBS2I79: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_16: Iniciando o site do Detran
+2025-12-03T08_16: Ocorreu um erro ao processar o veiculo OBE3659: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_16: Iniciando o site do Detran
+2025-12-03T08_16: Ocorreu um erro ao processar o veiculo OBA9B89: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_17: Iniciando o site do Detran
+2025-12-03T08_17: Ocorreu um erro ao processar o veiculo OBA9C49: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_17: Iniciando o site do Detran
+2025-12-03T08_17: Ocorreu um erro ao processar o veiculo OBA9D29: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_18: Iniciando o site do Detran
+2025-12-03T08_18: Ocorreu um erro ao processar o veiculo OBA9D39: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_18: Iniciando o site do Detran
+2025-12-03T08_18: Ocorreu um erro ao processar o veiculo OBE3I39: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_19: Iniciando o site do Detran
+2025-12-03T08_19: Ocorreu um erro ao processar o veiculo RRS6F99: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_19: Iniciando o site do Detran
+2025-12-03T08_19: Ocorreu um erro ao processar o veiculo SPI5B79: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_20: Iniciando o site do Detran
+2025-12-03T08_20: Ocorreu um erro ao processar o veiculo SPR0B19: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_20: Iniciando o site do Detran
+2025-12-03T08_20: Ocorreu um erro ao processar o veiculo SPR0B39: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_21: Iniciando o site do Detran
+2025-12-03T08_21: Ocorreu um erro ao processar o veiculo SPR2G79: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_21: Iniciando o site do Detran
+2025-12-03T08_21: Ocorreu um erro ao processar o veiculo SPR2I19: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_21: Iniciando o site do Detran
+2025-12-03T08_22: Ocorreu um erro ao processar o veiculo SPR2I89: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_22: Iniciando o site do Detran
+2025-12-03T08_22: Ocorreu um erro ao processar o veiculo SPR2J59: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_22: Iniciando o site do Detran
+2025-12-03T08_23: Ocorreu um erro ao processar o veiculo SPR2J99: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_23: Iniciando o site do Detran
+2025-12-03T08_23: Ocorreu um erro ao processar o veiculo SPR3A49: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_23: Iniciando o site do Detran
+2025-12-03T08_24: Ocorreu um erro ao processar o veiculo SPR3A79: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_24: Iniciando o site do Detran
+2025-12-03T08_24: Ocorreu um erro ao processar o veiculo SPR3B09: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_24: Iniciando o site do Detran
+2025-12-03T08_25: Ocorreu um erro ao processar o veiculo SPR3B39: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_25: Iniciando o site do Detran
+2025-12-03T08_25: Ocorreu um erro ao processar o veiculo SPO7D89: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_25: Iniciando o site do Detran
+2025-12-03T08_26: Ocorreu um erro ao processar o veiculo SPQ4D29: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_26: Iniciando o site do Detran
+2025-12-03T08_26: Ocorreu um erro ao processar o veiculo SPO2G29: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_26: Iniciando o site do Detran
+2025-12-03T08_27: Ocorreu um erro ao processar o veiculo SPR7J19: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_27: Iniciando o site do Detran
+2025-12-03T08_27: Ocorreu um erro ao processar o veiculo SPS8I29: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_27: Iniciando o site do Detran
+2025-12-03T08_28: Ocorreu um erro ao processar o veiculo SPT9C09: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_28: Iniciando o site do Detran
+2025-12-03T08_28: Ocorreu um erro ao processar o veiculo SPT9C49: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_28: Iniciando o site do Detran
+2025-12-03T08_29: Ocorreu um erro ao processar o veiculo SPT9C89: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_29: Iniciando o site do Detran
+2025-12-03T08_29: Ocorreu um erro ao processar o veiculo NPI9J29: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_29: Iniciando o site do Detran
+2025-12-03T08_30: Ocorreu um erro ao processar o veiculo BWN7939: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_30: Iniciando o site do Detran
+2025-12-03T08_30: Ocorreu um erro ao processar o veiculo OBE3G79: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_30: Iniciando o site do Detran
+2025-12-03T08_31: Ocorreu um erro ao processar o veiculo RRV5J69: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_31: Iniciando o site do Detran
+2025-12-03T08_31: Ocorreu um erro ao processar o veiculo RRW8D59: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_31: Iniciando o site do Detran
+2025-12-03T08_32: Ocorreu um erro ao processar o veiculo SUK4J99: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_32: Iniciando o site do Detran
+2025-12-03T08_32: Ocorreu um erro ao processar o veiculo OBE3I59: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_32: Iniciando o site do Detran
+2025-12-03T08_33: Ocorreu um erro ao processar o veiculo OBE3J09: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_33: Iniciando o site do Detran
+2025-12-03T08_33: Ocorreu um erro ao processar o veiculo KEK1369: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_33: Iniciando o site do Detran
+2025-12-03T08_34: Ocorreu um erro ao processar o veiculo ALH8559: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_34: Iniciando o site do Detran
+2025-12-03T08_34: Ocorreu um erro ao processar o veiculo DSF2269: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_34: Iniciando o site do Detran
+2025-12-03T08_35: Ocorreu um erro ao processar o veiculo DVT9169: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_35: Iniciando o site do Detran
+2025-12-03T08_35: Ocorreu um erro ao processar o veiculo AJL5859: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_35: Iniciando o site do Detran
+2025-12-03T08_36: Ocorreu um erro ao processar o veiculo NFJ1F29: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_36: Iniciando o site do Detran
+2025-12-03T08_36: Ocorreu um erro ao processar o veiculo RRN3H89: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_36: Iniciando o site do Detran
+2025-12-03T08_36: Ocorreu um erro ao processar o veiculo RRN3H99: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_37: Iniciando o site do Detran
+2025-12-03T08_37: Ocorreu um erro ao processar o veiculo QBM9F49: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_37: Iniciando o site do Detran
+2025-12-03T08_37: Ocorreu um erro ao processar o veiculo QCL0G29: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_38: Iniciando o site do Detran
+2025-12-03T08_38: Ocorreu um erro ao processar o veiculo RRN3F79: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_38: Iniciando o site do Detran
+2025-12-03T08_38: Ocorreu um erro ao processar o veiculo RRW8D79: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_39: Iniciando o site do Detran
+2025-12-03T08_39: Ocorreu um erro ao processar o veiculo QBM9G69: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_39: Iniciando o site do Detran
+2025-12-03T08_39: Ocorreu um erro ao processar o veiculo DXZ8579: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_40: Iniciando o site do Detran
+2025-12-03T08_40: Ocorreu um erro ao processar o veiculo AXT2C49: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_40: Iniciando o site do Detran
+2025-12-03T08_40: Ocorreu um erro ao processar o veiculo RRN3G29: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_40: Iniciando o site do Detran
+2025-12-03T08_41: Ocorreu um erro ao processar o veiculo RRN3G99: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_41: Iniciando o site do Detran
+2025-12-03T08_41: Ocorreu um erro ao processar o veiculo RAL9J79: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_41: Iniciando o site do Detran
+2025-12-03T08_42: Ocorreu um erro ao processar o veiculo RRN3F19: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_42: Iniciando o site do Detran
+2025-12-03T08_42: Ocorreu um erro ao processar o veiculo DXZ8609: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_42: Iniciando o site do Detran
+2025-12-03T08_43: Ocorreu um erro ao processar o veiculo QCU8E29: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_43: Iniciando o site do Detran
+2025-12-03T08_43: Ocorreu um erro ao processar o veiculo RAL8J89: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_43: Iniciando o site do Detran
+2025-12-03T08_44: Ocorreu um erro ao processar o veiculo CQH8A29: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_44: Iniciando o site do Detran
+2025-12-03T08_44: Ocorreu um erro ao processar o veiculo RRN3I59: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_44: Iniciando o site do Detran
+2025-12-03T08_45: Ocorreu um erro ao processar o veiculo RRN3I89: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_45: Iniciando o site do Detran
+2025-12-03T08_45: Ocorreu um erro ao processar o veiculo RRN3H79: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_45: Iniciando o site do Detran
+2025-12-03T08_46: Ocorreu um erro ao processar o veiculo QBF8769: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_46: Iniciando o site do Detran
+2025-12-03T08_46: Ocorreu um erro ao processar o veiculo QCU8F89: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_46: Iniciando o site do Detran
+2025-12-03T08_47: Ocorreu um erro ao processar o veiculo QBQ3839: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_47: Iniciando o site do Detran
+2025-12-03T08_47: Ocorreu um erro ao processar o veiculo QCU7J19: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_47: Iniciando o site do Detran
+2025-12-03T08_48: Ocorreu um erro ao processar o veiculo RAL9A09: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_48: Iniciando o site do Detran
+2025-12-03T08_48: Ocorreu um erro ao processar o veiculo OBE4A09: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_48: Iniciando o site do Detran
+2025-12-03T08_49: Ocorreu um erro ao processar o veiculo RRP9H39: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_49: Iniciando o site do Detran
+2025-12-03T08_49: Ocorreu um erro ao processar o veiculo EFO8D69: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_49: Iniciando o site do Detran
+2025-12-03T08_50: Ocorreu um erro ao processar o veiculo OBE3J89: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_50: Iniciando o site do Detran
+2025-12-03T08_50: Ocorreu um erro ao processar o veiculo QCU8C79: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_50: Iniciando o site do Detran
+2025-12-03T08_51: Ocorreu um erro ao processar o veiculo RAL8I79: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_51: Iniciando o site do Detran
+2025-12-03T08_51: Ocorreu um erro ao processar o veiculo QCU8A69: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_51: Iniciando o site do Detran
+2025-12-03T08_52: Ocorreu um erro ao processar o veiculo RRN3F59: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_52: Iniciando o site do Detran
+2025-12-03T08_52: Ocorreu um erro ao processar o veiculo QBM9F89: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_52: Iniciando o site do Detran
+2025-12-03T08_53: Ocorreu um erro ao processar o veiculo RRN3F49: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_53: Iniciando o site do Detran
+2025-12-03T08_53: Ocorreu um erro ao processar o veiculo RRN3F69: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_53: Iniciando o site do Detran
+2025-12-03T08_54: Ocorreu um erro ao processar o veiculo RRN3H09: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_54: Iniciando o site do Detran
+2025-12-03T08_54: Ocorreu um erro ao processar o veiculo RRN3H49: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_54: Iniciando o site do Detran
+2025-12-03T08_55: Ocorreu um erro ao processar o veiculo RRN3I49: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_55: Iniciando o site do Detran
+2025-12-03T08_55: Ocorreu um erro ao processar o veiculo QCI5J89: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_55: Iniciando o site do Detran
+2025-12-03T08_56: Ocorreu um erro ao processar o veiculo OBE3D29: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_56: Iniciando o site do Detran
+2025-12-03T08_56: Ocorreu um erro ao processar o veiculo RRN3F39: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_56: Iniciando o site do Detran
+2025-12-03T08_57: Ocorreu um erro ao processar o veiculo SPR7I99: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_57: Iniciando o site do Detran
+2025-12-03T08_57: Ocorreu um erro ao processar o veiculo OAZ3349: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_57: Iniciando o site do Detran
+2025-12-03T08_58: Ocorreu um erro ao processar o veiculo QCU8F29: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xee4103
+	0xee4144
+	0xcee71d
+	0xd3a03d
+	0xd3a41b
+	0xd817f2
+	0xd5c954
+	0xd7ee17
+	0xd5c706
+	0xd2da30
+	0xd2ed54
+	0x11557b4
+	0x115098a
+	0xf0c392
+	0xefc4c8
+	0xf0324d
+	0xeec478
+	0xeec63c
+	0xed67ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2025-12-03T08_58: ---------Finalizando Sequencia de notas Sefaz---------
+2025-12-03T08_58: Enviando email de finalizacao

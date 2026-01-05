@@ -1,0 +1,9 @@
+2025-09-02T17_04: ---------Iniciando Sequencia de notas Sefaz---------
+2025-09-02T17_04: Abrindo o navegador
+2025-09-02T17_05: Iniciando o site do Detran
+2025-09-02T17_05: login realizado
+2025-09-02T17_05: O captcha foi resolvido
+2025-09-02T17_05: Consultando o veiculo
+2025-09-02T17_05: Verificando se houve erro na consulta do veiculo
+2025-09-02T17_05: ERRO - invalid-input-response KAS9691
+2025-09-02T17_05: Finalizando as consultas do veiculo com a placa: KAS9691

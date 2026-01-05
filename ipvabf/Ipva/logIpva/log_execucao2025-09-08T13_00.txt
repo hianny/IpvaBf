@@ -1,0 +1,32 @@
+2025-09-08T13_00: Iniciando execução do processo SEFAZ-IPVA
+2025-09-08T13_00: Total de veículos encontrados: 2
+2025-09-08T13_00: Configurando Chrome...
+2025-09-08T13_00: Iniciando ChromeDriver com undetected_chromedriver...
+2025-09-08T13_00: Erro crítico na execução principal: Message: session not created: cannot connect to chrome at 127.0.0.1:59615
+from session not created: This version of ChromeDriver only supports Chrome version 140
+Current browser version is 139.0.7258.157; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	GetHandleVerifier [0x0x162d283+66419]
+	GetHandleVerifier [0x0x162d2c4+66484]
+	(No symbol) [0x0x1404bd3]
+	(No symbol) [0x0x143fc48]
+	(No symbol) [0x0x143ec29]
+	(No symbol) [0x0x1434e6f]
+	(No symbol) [0x0x1434c96]
+	(No symbol) [0x0x147cce4]
+	(No symbol) [0x0x147c5ea]
+	(No symbol) [0x0x1470e16]
+	(No symbol) [0x0x14425ce]
+	(No symbol) [0x0x14434a4]
+	GetHandleVerifier [0x0x1875ec3+2461619]
+	GetHandleVerifier [0x0x1870f46+2441270]
+	GetHandleVerifier [0x0x1656222+234258]
+	GetHandleVerifier [0x0x16461e8+168664]
+	GetHandleVerifier [0x0x164d18d+197245]
+	GetHandleVerifier [0x0x16355d8+100040]
+	GetHandleVerifier [0x0x1635772+100450]
+	GetHandleVerifier [0x0x161f72a+10266]
+	BaseThreadInitThunk [0x0x76e605c9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x774b7c5d+237]
+	RtlGetAppContainerNamedObjectPath [0x0x774b7c2d+189]
+

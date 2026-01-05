@@ -1,0 +1,16 @@
+\IPVABF\tests\Licenciamento\logLicenciamento\*
+\ipvabf\Licenciamento\logLicenciamento\*
+\ipvabf\Licenciamento\ResultadoCsv\*
+\ipvabf\Licenciamento\*.ps1
+\ipvabf\ObterDados\logObterDados\*
+\ipvabf\ObterDados\ResultadoCsv\*   
+\venv\*
+.venv\*
+__pycache__/
+*.log   
+*.sqlite3
+*.db    
+.env
+*.env.*
+.ipynb_checkpoints 
+ipvabf/venv/*

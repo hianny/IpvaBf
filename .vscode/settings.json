@@ -1,0 +1,7 @@
+{
+    "totvsLanguageServer.welcomePage": false,
+    "python.analysis.extraPaths": [
+        "./ipvabf/Licenciamento/database",
+        "./ipvabf/Licenciamento/captcha"
+    ]
+}

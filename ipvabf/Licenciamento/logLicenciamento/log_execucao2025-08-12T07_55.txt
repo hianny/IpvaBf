@@ -1,0 +1,859 @@
+2025-08-12T07_55: ---------Iniciando Sequencia de notas Sefaz---------
+2025-08-12T07_55: Abrindo o navegador
+2025-08-12T07_55: Iniciando o site do Detran
+2025-08-12T07_56: login realizado
+2025-08-12T07_56: Ocorreu um erro ao processar o veiculo QCF0F61: 'NoneType' object is not iterable
+2025-08-12T07_56: Abrindo o navegador
+2025-08-12T07_56: Iniciando o site do Detran
+2025-08-12T07_56: login realizado
+2025-08-12T07_56: Ocorreu um erro ao processar o veiculo OBB5F91: 'NoneType' object is not iterable
+2025-08-12T07_56: Abrindo o navegador
+2025-08-12T07_56: Iniciando o site do Detran
+2025-08-12T07_57: login realizado
+2025-08-12T07_57: Ocorreu um erro ao processar o veiculo OBH0C71: 'NoneType' object is not iterable
+2025-08-12T07_57: Abrindo o navegador
+2025-08-12T07_57: Iniciando o site do Detran
+2025-08-12T07_57: login realizado
+2025-08-12T07_57: Ocorreu um erro ao processar o veiculo OBH0A61: 'NoneType' object is not iterable
+2025-08-12T07_57: Abrindo o navegador
+2025-08-12T07_57: Iniciando o site do Detran
+2025-08-12T07_57: login realizado
+2025-08-12T07_57: Ocorreu um erro ao processar o veiculo API3H21: 'NoneType' object is not iterable
+2025-08-12T07_58: Abrindo o navegador
+2025-08-12T07_58: Iniciando o site do Detran
+2025-08-12T07_58: login realizado
+2025-08-12T07_58: Ocorreu um erro ao processar o veiculo QCD0C32: 'NoneType' object is not iterable
+2025-08-12T07_58: Abrindo o navegador
+2025-08-12T07_58: Iniciando o site do Detran
+2025-08-12T07_58: login realizado
+2025-08-12T07_58: Ocorreu um erro ao processar o veiculo QCD8D42: 'NoneType' object is not iterable
+2025-08-12T07_58: Abrindo o navegador
+2025-08-12T07_58: Iniciando o site do Detran
+2025-08-12T07_59: login realizado
+2025-08-12T07_59: Ocorreu um erro ao processar o veiculo QCG7G42: 'NoneType' object is not iterable
+2025-08-12T07_59: Abrindo o navegador
+2025-08-12T07_59: Iniciando o site do Detran
+2025-08-12T08_00: login realizado
+2025-08-12T08_00: Ocorreu um erro ao processar o veiculo QCD1I13: 'NoneType' object is not iterable
+2025-08-12T08_00: Abrindo o navegador
+2025-08-12T08_00: Iniciando o site do Detran
+2025-08-12T08_01: login realizado
+2025-08-12T08_01: Ocorreu um erro ao processar o veiculo QCD1I63: 'NoneType' object is not iterable
+2025-08-12T08_01: Abrindo o navegador
+2025-08-12T08_01: Iniciando o site do Detran
+2025-08-12T08_01: login realizado
+2025-08-12T08_01: Ocorreu um erro ao processar o veiculo QCD1I03: 'NoneType' object is not iterable
+2025-08-12T08_01: Abrindo o navegador
+2025-08-12T08_01: Iniciando o site do Detran
+2025-08-12T08_01: login realizado
+2025-08-12T08_02: Ocorreu um erro ao processar o veiculo DJG5C73: 'NoneType' object is not iterable
+2025-08-12T08_02: Abrindo o navegador
+2025-08-12T08_02: Iniciando o site do Detran
+2025-08-12T08_02: login realizado
+2025-08-12T08_02: O captcha foi resolvido
+2025-08-12T08_02: Consultando o veiculo
+2025-08-12T08_02: Verificando se houve erro na consulta do veiculo
+2025-08-12T08_02: Nao ouve erro
+2025-08-12T08_02: Verificando se existe debito para o veiculo
+2025-08-12T08_03: o veiculo da placa DMD7514 nao tem nenhum debito
+2025-08-12T08_03: Finalizando as consultas do veiculo com a placa: DMD7514
+2025-08-12T08_03: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=62967): Max retries exceeded with url: /session/699909a8da791e5b78442b6b21443e60/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FEBB0AEDB0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-08-12T08_03: Abrindo o navegador
+2025-08-12T08_03: Iniciando o site do Detran
+2025-08-12T08_03: login realizado
+2025-08-12T08_03: Ocorreu um erro ao processar o veiculo OAZ2D94: 'NoneType' object is not iterable
+2025-08-12T08_03: Abrindo o navegador
+2025-08-12T08_03: Iniciando o site do Detran
+2025-08-12T08_04: login realizado
+2025-08-12T08_04: O captcha foi resolvido
+2025-08-12T08_04: Consultando o veiculo
+2025-08-12T08_04: Verificando se houve erro na consulta do veiculo
+2025-08-12T08_04: Nao ouve erro
+2025-08-12T08_04: Verificando se existe debito para o veiculo
+2025-08-12T08_04: O veículo da placa SPE3A54 possui multas pendentes
+2025-08-12T08_04: Emitindo multa
+2025-08-12T08_04: Ocorreu um erro ao processar o veiculo SPE3A54: ORA-01722: invalid number
+Help: https://docs.oracle.com/error-help/db/ora-01722/
+2025-08-12T08_04: Abrindo o navegador
+2025-08-12T08_04: Iniciando o site do Detran
+2025-08-12T08_05: login realizado
+2025-08-12T08_05: O captcha foi resolvido
+2025-08-12T08_05: Consultando o veiculo
+2025-08-12T08_05: Verificando se houve erro na consulta do veiculo
+2025-08-12T08_05: Nao ouve erro
+2025-08-12T08_05: Verificando se existe debito para o veiculo
+2025-08-12T08_05: o veiculo da placa QCC6D34 nao tem nenhum debito
+2025-08-12T08_06: Finalizando as consultas do veiculo com a placa: QCC6D34
+2025-08-12T08_06: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=63345): Max retries exceeded with url: /session/23e97e00c0cb6c3721037f405876f06e/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FEBB0AEE40>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-08-12T08_06: Abrindo o navegador
+2025-08-12T08_06: Iniciando o site do Detran
+2025-08-12T08_06: login realizado
+2025-08-12T08_06: O captcha foi resolvido
+2025-08-12T08_06: Consultando o veiculo
+2025-08-12T08_07: Verificando se houve erro na consulta do veiculo
+2025-08-12T08_07: Nao ouve erro
+2025-08-12T08_07: Verificando se existe debito para o veiculo
+2025-08-12T08_07: o veiculo da placa SPT9G05 nao tem nenhum debito
+2025-08-12T08_07: Finalizando as consultas do veiculo com a placa: SPT9G05
+2025-08-12T08_07: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=63519): Max retries exceeded with url: /session/f1688528ebee42e193473b65cb0a0e16/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FEBB0E0DD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-08-12T08_07: Abrindo o navegador
+2025-08-12T08_07: Iniciando o site do Detran
+2025-08-12T08_07: login realizado
+2025-08-12T08_07: Ocorreu um erro ao processar o veiculo NPK8A15: 'NoneType' object is not iterable
+2025-08-12T08_07: Abrindo o navegador
+2025-08-12T08_07: Iniciando o site do Detran
+2025-08-12T08_08: login realizado
+2025-08-12T08_08: Ocorreu um erro ao processar o veiculo NPK8A55: 'NoneType' object is not iterable
+2025-08-12T08_08: Abrindo o navegador
+2025-08-12T08_08: Iniciando o site do Detran
+2025-08-12T08_08: login realizado
+2025-08-12T08_08: Ocorreu um erro ao processar o veiculo OAT6F25: 'NoneType' object is not iterable
+2025-08-12T08_08: Abrindo o navegador
+2025-08-12T08_08: Iniciando o site do Detran
+2025-08-12T08_08: login realizado
+2025-08-12T08_08: Ocorreu um erro ao processar o veiculo OAT6I35: 'NoneType' object is not iterable
+2025-08-12T08_09: Abrindo o navegador
+2025-08-12T08_09: Iniciando o site do Detran
+2025-08-12T08_09: login realizado
+2025-08-12T08_09: O captcha foi resolvido
+2025-08-12T08_09: Consultando o veiculo
+2025-08-12T08_09: Verificando se houve erro na consulta do veiculo
+2025-08-12T08_09: Nao ouve erro
+2025-08-12T08_09: Verificando se existe debito para o veiculo
+2025-08-12T08_09: O veículo da placa QCD4G15 possui multas pendentes
+2025-08-12T08_09: Emitindo multa
+2025-08-12T08_10: Ocorreu um erro ao processar o veiculo QCD4G15: ORA-01722: invalid number
+Help: https://docs.oracle.com/error-help/db/ora-01722/
+2025-08-12T08_10: Abrindo o navegador
+2025-08-12T08_10: Iniciando o site do Detran
+2025-08-12T08_10: login realizado
+2025-08-12T08_10: O captcha foi resolvido
+2025-08-12T08_10: Consultando o veiculo
+2025-08-12T08_11: Verificando se houve erro na consulta do veiculo
+2025-08-12T08_11: Nao ouve erro
+2025-08-12T08_11: Verificando se existe debito para o veiculo
+2025-08-12T08_11: o veiculo da placa NPJ3534 nao tem nenhum debito
+2025-08-12T08_11: Finalizando as consultas do veiculo com a placa: NPJ3534
+2025-08-12T08_11: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=64142): Max retries exceeded with url: /session/d1e6cd49bd45a240048302de5b778c00/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FEBB0E2360>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-08-12T08_11: Abrindo o navegador
+2025-08-12T08_11: Iniciando o site do Detran
+2025-08-12T08_11: login realizado
+2025-08-12T08_11: O captcha foi resolvido
+2025-08-12T08_11: Consultando o veiculo
+2025-08-12T08_11: Verificando se houve erro na consulta do veiculo
+2025-08-12T08_11: Nao ouve erro
+2025-08-12T08_11: Verificando se existe debito para o veiculo
+2025-08-12T08_11: O veículo da placa QCD4565 possui multas pendentes
+2025-08-12T08_11: Emitindo multa
+2025-08-12T08_12: Ocorreu um erro ao processar o veiculo QCD4565: ORA-01722: invalid number
+Help: https://docs.oracle.com/error-help/db/ora-01722/
+2025-08-12T08_12: Abrindo o navegador
+2025-08-12T08_12: Iniciando o site do Detran
+2025-08-12T08_12: login realizado
+2025-08-12T08_12: Ocorreu um erro ao processar o veiculo OAY9B54: 'NoneType' object is not iterable
+2025-08-12T08_12: Abrindo o navegador
+2025-08-12T08_12: Iniciando o site do Detran
+2025-08-12T08_13: login realizado
+2025-08-12T08_13: O captcha foi resolvido
+2025-08-12T08_13: Consultando o veiculo
+2025-08-12T08_13: Verificando se houve erro na consulta do veiculo
+2025-08-12T08_13: Nao ouve erro
+2025-08-12T08_13: Verificando se existe debito para o veiculo
+2025-08-12T08_13: o veiculo da placa OBE3J25 nao tem nenhum debito
+2025-08-12T08_13: Finalizando as consultas do veiculo com a placa: OBE3J25
+2025-08-12T08_13: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=64416): Max retries exceeded with url: /session/7d716d0c83990916c57547dcd8815adb/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FEBB0E2750>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-08-12T08_13: Abrindo o navegador
+2025-08-12T08_13: Iniciando o site do Detran
+2025-08-12T08_14: login realizado
+2025-08-12T08_14: O captcha foi resolvido
+2025-08-12T08_14: Consultando o veiculo
+2025-08-12T08_14: Verificando se houve erro na consulta do veiculo
+2025-08-12T08_14: Nao ouve erro
+2025-08-12T08_14: Verificando se existe debito para o veiculo
+2025-08-12T08_14: o veiculo da placa DXH2335 nao tem nenhum debito
+2025-08-12T08_14: Finalizando as consultas do veiculo com a placa: DXH2335
+2025-08-12T08_14: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=64522): Max retries exceeded with url: /session/1d69546f25c42412e21176fc27235a7e/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FEBB125E50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-08-12T08_14: Abrindo o navegador
+2025-08-12T08_14: Iniciando o site do Detran
+2025-08-12T08_15: login realizado
+2025-08-12T08_15: O captcha foi resolvido
+2025-08-12T08_15: Consultando o veiculo
+2025-08-12T08_15: Verificando se houve erro na consulta do veiculo
+2025-08-12T08_15: Nao ouve erro
+2025-08-12T08_15: Verificando se existe debito para o veiculo
+2025-08-12T08_15: o veiculo da placa RAY9E15 nao tem nenhum debito
+2025-08-12T08_15: Finalizando as consultas do veiculo com a placa: RAY9E15
+2025-08-12T08_15: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=64625): Max retries exceeded with url: /session/ba1b3a9aff9d456b2bcb8a106da05756/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FEBB0E1FD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-08-12T08_15: Abrindo o navegador
+2025-08-12T08_15: Iniciando o site do Detran
+2025-08-12T08_16: login realizado
+2025-08-12T08_16: Ocorreu um erro ao processar o veiculo OAU1F35: 'NoneType' object is not iterable
+2025-08-12T08_16: Abrindo o navegador
+2025-08-12T08_16: Iniciando o site do Detran
+2025-08-12T08_16: login realizado
+2025-08-12T08_16: O captcha foi resolvido
+2025-08-12T08_16: Consultando o veiculo
+2025-08-12T08_17: Verificando se houve erro na consulta do veiculo
+2025-08-12T08_17: Nao ouve erro
+2025-08-12T08_17: Verificando se existe debito para o veiculo
+2025-08-12T08_17: o veiculo da placa QCN6D05 nao tem nenhum debito
+2025-08-12T08_17: Finalizando as consultas do veiculo com a placa: QCN6D05
+2025-08-12T08_17: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=64795): Max retries exceeded with url: /session/a1d4458ebb817c99c00b7f4f50944df9/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FEBB0741A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-08-12T08_17: Abrindo o navegador
+2025-08-12T08_17: Iniciando o site do Detran
+2025-08-12T08_17: login realizado
+2025-08-12T08_17: O captcha foi resolvido
+2025-08-12T08_17: Consultando o veiculo
+2025-08-12T08_17: Verificando se houve erro na consulta do veiculo
+2025-08-12T08_17: Erro - Documento N/ Confere para o veiculo SPS2I05
+2025-08-12T08_17: Finalizando as consultas do veiculo com a placa: SPS2I05
+2025-08-12T08_18: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=64906): Max retries exceeded with url: /session/e5fbae990b79307aa9cf0e680530c937/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FEBB126B70>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-08-12T08_18: Abrindo o navegador
+2025-08-12T08_18: Iniciando o site do Detran
+2025-08-12T08_18: login realizado
+2025-08-12T08_18: O captcha foi resolvido
+2025-08-12T08_18: Consultando o veiculo
+2025-08-12T08_18: Verificando se houve erro na consulta do veiculo
+2025-08-12T08_18: Erro - Documento N/ Confere para o veiculo SPS4B35
+2025-08-12T08_18: Finalizando as consultas do veiculo com a placa: SPS4B35
+2025-08-12T08_18: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=65007): Max retries exceeded with url: /session/1abc3ecd5a4619d418c8de56432956e5/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FEBB0E0830>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-08-12T08_19: Abrindo o navegador
+2025-08-12T08_19: Iniciando o site do Detran
+2025-08-12T08_19: login realizado
+2025-08-12T08_19: Ocorreu um erro ao processar o veiculo NUG7A66: 'NoneType' object is not iterable
+2025-08-12T08_19: Abrindo o navegador
+2025-08-12T08_19: Iniciando o site do Detran
+2025-08-12T08_19: login realizado
+2025-08-12T08_19: Ocorreu um erro ao processar o veiculo OBL3976: 'NoneType' object is not iterable
+2025-08-12T08_19: Abrindo o navegador
+2025-08-12T08_20: Iniciando o site do Detran
+2025-08-12T08_20: login realizado
+2025-08-12T08_20: Ocorreu um erro ao processar o veiculo CNR9536: 'NoneType' object is not iterable
+2025-08-12T08_20: Abrindo o navegador
+2025-08-12T08_20: Iniciando o site do Detran
+2025-08-12T08_20: login realizado
+2025-08-12T08_20: Ocorreu um erro ao processar o veiculo NPQ7G86: 'NoneType' object is not iterable
+2025-08-12T08_20: Abrindo o navegador
+2025-08-12T08_20: Iniciando o site do Detran
+2025-08-12T08_21: login realizado
+2025-08-12T08_21: Ocorreu um erro ao processar o veiculo NPQ8816: 'NoneType' object is not iterable
+2025-08-12T08_21: Abrindo o navegador
+2025-08-12T08_21: Iniciando o site do Detran
+2025-08-12T08_21: login realizado
+2025-08-12T08_21: Ocorreu um erro ao processar o veiculo NPQ8H76: 'NoneType' object is not iterable
+2025-08-12T08_21: Abrindo o navegador
+2025-08-12T08_21: Iniciando o site do Detran
+2025-08-12T08_22: login realizado
+2025-08-12T08_22: Ocorreu um erro ao processar o veiculo NUG6F76: 'NoneType' object is not iterable
+2025-08-12T08_22: Abrindo o navegador
+2025-08-12T08_22: Iniciando o site do Detran
+2025-08-12T08_22: login realizado
+2025-08-12T08_22: Ocorreu um erro ao processar o veiculo OBL3796: 'NoneType' object is not iterable
+2025-08-12T08_22: Abrindo o navegador
+2025-08-12T08_22: Iniciando o site do Detran
+2025-08-12T08_23: login realizado
+2025-08-12T08_23: Ocorreu um erro ao processar o veiculo NPQ8I36: 'NoneType' object is not iterable
+2025-08-12T08_23: Abrindo o navegador
+2025-08-12T08_23: Iniciando o site do Detran
+2025-08-12T08_23: login realizado
+2025-08-12T08_23: Ocorreu um erro ao processar o veiculo OBL3866: 'NoneType' object is not iterable
+2025-08-12T08_23: Abrindo o navegador
+2025-08-12T08_23: Iniciando o site do Detran
+2025-08-12T08_23: login realizado
+2025-08-12T08_23: Ocorreu um erro ao processar o veiculo NUD0C26: 'NoneType' object is not iterable
+2025-08-12T08_24: Abrindo o navegador
+2025-08-12T08_24: Iniciando o site do Detran
+2025-08-12T08_24: login realizado
+2025-08-12T08_24: Ocorreu um erro ao processar o veiculo NUG7E26: 'NoneType' object is not iterable
+2025-08-12T08_24: Abrindo o navegador
+2025-08-12T08_24: Iniciando o site do Detran
+2025-08-12T08_24: login realizado
+2025-08-12T08_24: Ocorreu um erro ao processar o veiculo OBI4J56: 'NoneType' object is not iterable
+2025-08-12T08_24: Abrindo o navegador
+2025-08-12T08_25: Iniciando o site do Detran
+2025-08-12T08_25: login realizado
+2025-08-12T08_25: Ocorreu um erro ao processar o veiculo NPQ8J26: 'NoneType' object is not iterable
+2025-08-12T08_25: Abrindo o navegador
+2025-08-12T08_25: Iniciando o site do Detran
+2025-08-12T08_25: login realizado
+2025-08-12T08_25: Ocorreu um erro ao processar o veiculo NUF2C16: 'NoneType' object is not iterable
+2025-08-12T08_25: Abrindo o navegador
+2025-08-12T08_26: Iniciando o site do Detran
+2025-08-12T08_26: login realizado
+2025-08-12T08_26: Ocorreu um erro ao processar o veiculo NUF2C86: 'NoneType' object is not iterable
+2025-08-12T08_26: Abrindo o navegador
+2025-08-12T08_26: Iniciando o site do Detran
+2025-08-12T08_26: login realizado
+2025-08-12T08_26: Ocorreu um erro ao processar o veiculo OBE3J76: 'NoneType' object is not iterable
+2025-08-12T08_26: Abrindo o navegador
+2025-08-12T08_26: Iniciando o site do Detran
+2025-08-12T08_27: login realizado
+2025-08-12T08_27: Ocorreu um erro ao processar o veiculo OBL3716: 'NoneType' object is not iterable
+2025-08-12T08_27: Abrindo o navegador
+2025-08-12T08_27: Iniciando o site do Detran
+2025-08-12T08_27: login realizado
+2025-08-12T08_27: Ocorreu um erro ao processar o veiculo NUG7H76: 'NoneType' object is not iterable
+2025-08-12T08_27: Abrindo o navegador
+2025-08-12T08_27: Iniciando o site do Detran
+2025-08-12T08_27: login realizado
+2025-08-12T08_28: Ocorreu um erro ao processar o veiculo NUG5G36: 'NoneType' object is not iterable
+2025-08-12T08_28: Abrindo o navegador
+2025-08-12T08_28: Iniciando o site do Detran
+2025-08-12T08_28: login realizado
+2025-08-12T08_28: Ocorreu um erro ao processar o veiculo OBL3J86: 'NoneType' object is not iterable
+2025-08-12T08_28: Abrindo o navegador
+2025-08-12T08_28: Iniciando o site do Detran
+2025-08-12T08_28: login realizado
+2025-08-12T08_29: O captcha foi resolvido
+2025-08-12T08_29: Consultando o veiculo
+2025-08-12T08_29: Verificando se houve erro na consulta do veiculo
+2025-08-12T08_29: Nao ouve erro
+2025-08-12T08_29: Verificando se existe debito para o veiculo
+2025-08-12T08_29: O veículo da placa SPQ0F56 possui multas pendentes
+2025-08-12T08_29: Emitindo multa
+2025-08-12T08_29: Ocorreu um erro ao processar o veiculo SPQ0F56: ORA-01722: invalid number
+Help: https://docs.oracle.com/error-help/db/ora-01722/
+2025-08-12T08_29: Abrindo o navegador
+2025-08-12T08_29: Iniciando o site do Detran
+2025-08-12T08_30: login realizado
+2025-08-12T08_30: Ocorreu um erro ao processar o veiculo NUF2C36: 'NoneType' object is not iterable
+2025-08-12T08_30: Abrindo o navegador
+2025-08-12T08_30: Iniciando o site do Detran
+2025-08-12T08_30: login realizado
+2025-08-12T08_30: Ocorreu um erro ao processar o veiculo OBL3I16: 'NoneType' object is not iterable
+2025-08-12T08_30: Abrindo o navegador
+2025-08-12T08_30: Iniciando o site do Detran
+2025-08-12T08_31: login realizado
+2025-08-12T08_31: Ocorreu um erro ao processar o veiculo OBE4B26: 'NoneType' object is not iterable
+2025-08-12T08_31: Abrindo o navegador
+2025-08-12T08_31: Iniciando o site do Detran
+2025-08-12T08_31: login realizado
+2025-08-12T08_31: Ocorreu um erro ao processar o veiculo OBL4A06: 'NoneType' object is not iterable
+2025-08-12T08_31: Abrindo o navegador
+2025-08-12T08_31: Iniciando o site do Detran
+2025-08-12T08_31: login realizado
+2025-08-12T08_32: Ocorreu um erro ao processar o veiculo DXZ8616: 'NoneType' object is not iterable
+2025-08-12T08_32: Abrindo o navegador
+2025-08-12T08_32: Iniciando o site do Detran
+2025-08-12T08_32: login realizado
+2025-08-12T08_32: Ocorreu um erro ao processar o veiculo NUD0H16: 'NoneType' object is not iterable
+2025-08-12T08_32: Abrindo o navegador
+2025-08-12T08_32: Iniciando o site do Detran
+2025-08-12T08_32: login realizado
+2025-08-12T08_32: Ocorreu um erro ao processar o veiculo NUG8J96: 'NoneType' object is not iterable
+2025-08-12T08_33: Abrindo o navegador
+2025-08-12T08_33: Iniciando o site do Detran
+2025-08-12T08_33: login realizado
+2025-08-12T08_33: Ocorreu um erro ao processar o veiculo NUF2C46: 'NoneType' object is not iterable
+2025-08-12T08_33: Abrindo o navegador
+2025-08-12T08_33: Iniciando o site do Detran
+2025-08-12T08_33: login realizado
+2025-08-12T08_33: Ocorreu um erro ao processar o veiculo NUF2B96: 'NoneType' object is not iterable
+2025-08-12T08_33: Abrindo o navegador
+2025-08-12T08_34: Iniciando o site do Detran
+2025-08-12T08_34: login realizado
+2025-08-12T08_34: Ocorreu um erro ao processar o veiculo NUF9D96: 'NoneType' object is not iterable
+2025-08-12T08_34: Abrindo o navegador
+2025-08-12T08_34: Iniciando o site do Detran
+2025-08-12T08_34: login realizado
+2025-08-12T08_34: Ocorreu um erro ao processar o veiculo NUG7A26: 'NoneType' object is not iterable
+2025-08-12T08_34: Abrindo o navegador
+2025-08-12T08_34: Iniciando o site do Detran
+2025-08-12T08_35: login realizado
+2025-08-12T08_35: Ocorreu um erro ao processar o veiculo OBJ6I86: 'NoneType' object is not iterable
+2025-08-12T08_35: Abrindo o navegador
+2025-08-12T08_35: Iniciando o site do Detran
+2025-08-12T08_35: login realizado
+2025-08-12T08_35: Ocorreu um erro ao processar o veiculo NUD0H06: 'NoneType' object is not iterable
+2025-08-12T08_35: Abrindo o navegador
+2025-08-12T08_35: Iniciando o site do Detran
+2025-08-12T08_36: login realizado
+2025-08-12T08_36: Ocorreu um erro ao processar o veiculo NUG9E66: 'NoneType' object is not iterable
+2025-08-12T08_36: Abrindo o navegador
+2025-08-12T08_36: Iniciando o site do Detran
+2025-08-12T08_36: login realizado
+2025-08-12T08_36: Ocorreu um erro ao processar o veiculo NUG6C06: 'NoneType' object is not iterable
+2025-08-12T08_36: Abrindo o navegador
+2025-08-12T08_36: Iniciando o site do Detran
+2025-08-12T08_37: login realizado
+2025-08-12T08_37: Ocorreu um erro ao processar o veiculo NPQ7I46: 'NoneType' object is not iterable
+2025-08-12T08_37: Abrindo o navegador
+2025-08-12T08_37: Iniciando o site do Detran
+2025-08-12T08_37: login realizado
+2025-08-12T08_37: O captcha foi resolvido
+2025-08-12T08_37: Consultando o veiculo
+2025-08-12T08_37: Verificando se houve erro na consulta do veiculo
+2025-08-12T08_37: Nao ouve erro
+2025-08-12T08_37: Verificando se existe debito para o veiculo
+2025-08-12T08_37: o veiculo da placa KAF4984 nao tem nenhum debito
+2025-08-12T08_37: Finalizando as consultas do veiculo com a placa: KAF4984
+2025-08-12T08_38: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=51859): Max retries exceeded with url: /session/c5321c1fbc254b23ef9c46ddd2535b18/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FEBB1A6150>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-08-12T08_38: Abrindo o navegador
+2025-08-12T08_38: Iniciando o site do Detran
+2025-08-12T08_38: login realizado
+2025-08-12T08_38: Ocorreu um erro ao processar o veiculo OBI9A26: 'NoneType' object is not iterable
+2025-08-12T08_38: Abrindo o navegador
+2025-08-12T08_38: Iniciando o site do Detran
+2025-08-12T08_38: login realizado
+2025-08-12T08_38: Ocorreu um erro ao processar o veiculo OBI9A46: 'NoneType' object is not iterable
+2025-08-12T08_38: Abrindo o navegador
+2025-08-12T08_39: Iniciando o site do Detran
+2025-08-12T08_39: login realizado
+2025-08-12T08_39: Ocorreu um erro ao processar o veiculo OBL3846: 'NoneType' object is not iterable
+2025-08-12T08_39: Abrindo o navegador
+2025-08-12T08_39: Iniciando o site do Detran
+2025-08-12T08_39: login realizado
+2025-08-12T08_39: Ocorreu um erro ao processar o veiculo OBL4036: 'NoneType' object is not iterable
+2025-08-12T08_39: Abrindo o navegador
+2025-08-12T08_39: Iniciando o site do Detran
+2025-08-12T08_40: login realizado
+2025-08-12T08_40: Ocorreu um erro ao processar o veiculo NUF2B86: 'NoneType' object is not iterable
+2025-08-12T08_40: Abrindo o navegador
+2025-08-12T08_40: Iniciando o site do Detran
+2025-08-12T08_40: login realizado
+2025-08-12T08_40: Ocorreu um erro ao processar o veiculo QCG5A01: 'NoneType' object is not iterable
+2025-08-12T08_40: Abrindo o navegador
+2025-08-12T08_40: Iniciando o site do Detran
+2025-08-12T08_41: login realizado
+2025-08-12T08_41: Ocorreu um erro ao processar o veiculo QCD1J73: 'NoneType' object is not iterable
+2025-08-12T08_41: Abrindo o navegador
+2025-08-12T08_41: Iniciando o site do Detran
+2025-08-12T08_41: login realizado
+2025-08-12T08_41: Ocorreu um erro ao processar o veiculo NUF9F66: 'NoneType' object is not iterable
+2025-08-12T08_41: Abrindo o navegador
+2025-08-12T08_41: Iniciando o site do Detran
+2025-08-12T08_42: login realizado
+2025-08-12T08_42: Ocorreu um erro ao processar o veiculo NUF9G06: 'NoneType' object is not iterable
+2025-08-12T08_42: Abrindo o navegador
+2025-08-12T08_42: Iniciando o site do Detran
+2025-08-12T08_42: login realizado
+2025-08-12T08_42: Ocorreu um erro ao processar o veiculo NUG8B96: 'NoneType' object is not iterable
+2025-08-12T08_42: Abrindo o navegador
+2025-08-12T08_42: Iniciando o site do Detran
+2025-08-12T08_42: login realizado
+2025-08-12T08_43: Ocorreu um erro ao processar o veiculo NUG9D16: 'NoneType' object is not iterable
+2025-08-12T08_43: Abrindo o navegador
+2025-08-12T08_43: Iniciando o site do Detran
+2025-08-12T08_43: login realizado
+2025-08-12T08_43: Ocorreu um erro ao processar o veiculo NUG9I36: 'NoneType' object is not iterable
+2025-08-12T08_43: Abrindo o navegador
+2025-08-12T08_43: Iniciando o site do Detran
+2025-08-12T08_43: login realizado
+2025-08-12T08_43: Ocorreu um erro ao processar o veiculo NUF2B36: 'NoneType' object is not iterable
+2025-08-12T08_44: Abrindo o navegador
+2025-08-12T08_44: Iniciando o site do Detran
+2025-08-12T08_44: login realizado
+2025-08-12T08_44: Ocorreu um erro ao processar o veiculo NUF2B76: 'NoneType' object is not iterable
+2025-08-12T08_44: Abrindo o navegador
+2025-08-12T08_44: Iniciando o site do Detran
+2025-08-12T08_44: login realizado
+2025-08-12T08_44: Ocorreu um erro ao processar o veiculo NUD0H46: 'NoneType' object is not iterable
+2025-08-12T08_44: Abrindo o navegador
+2025-08-12T08_44: Iniciando o site do Detran
+2025-08-12T08_45: login realizado
+2025-08-12T08_45: Ocorreu um erro ao processar o veiculo NPK8E66: 'NoneType' object is not iterable
+2025-08-12T08_45: Abrindo o navegador
+2025-08-12T08_45: Iniciando o site do Detran
+2025-08-12T08_45: login realizado
+2025-08-12T08_45: Ocorreu um erro ao processar o veiculo NUF9E46: 'NoneType' object is not iterable
+2025-08-12T08_45: Abrindo o navegador
+2025-08-12T08_45: Iniciando o site do Detran
+2025-08-12T08_46: login realizado
+2025-08-12T08_46: Ocorreu um erro ao processar o veiculo NTX4A66: 'NoneType' object is not iterable
+2025-08-12T08_46: Abrindo o navegador
+2025-08-12T08_46: Iniciando o site do Detran
+2025-08-12T08_46: login realizado
+2025-08-12T08_46: Ocorreu um erro ao processar o veiculo NPQ8B16: 'NoneType' object is not iterable
+2025-08-12T08_46: Abrindo o navegador
+2025-08-12T08_46: Iniciando o site do Detran
+2025-08-12T08_47: login realizado
+2025-08-12T08_47: Ocorreu um erro ao processar o veiculo NPK8B76: 'NoneType' object is not iterable
+2025-08-12T08_47: Abrindo o navegador
+2025-08-12T08_47: Iniciando o site do Detran
+2025-08-12T08_47: login realizado
+2025-08-12T08_47: Ocorreu um erro ao processar o veiculo NUF2B46: 'NoneType' object is not iterable
+2025-08-12T08_47: Abrindo o navegador
+2025-08-12T08_47: Iniciando o site do Detran
+2025-08-12T08_47: login realizado
+2025-08-12T08_48: Ocorreu um erro ao processar o veiculo NPQ7G46: 'NoneType' object is not iterable
+2025-08-12T08_48: Abrindo o navegador
+2025-08-12T08_48: Iniciando o site do Detran
+2025-08-12T08_48: login realizado
+2025-08-12T08_48: Ocorreu um erro ao processar o veiculo QCD0C42: 'NoneType' object is not iterable
+2025-08-12T08_48: Abrindo o navegador
+2025-08-12T08_48: Iniciando o site do Detran
+2025-08-12T08_48: login realizado
+2025-08-12T08_48: Ocorreu um erro ao processar o veiculo OBB3J02: 'NoneType' object is not iterable
+2025-08-12T08_49: Abrindo o navegador
+2025-08-12T08_49: Iniciando o site do Detran
+2025-08-12T08_49: login realizado
+2025-08-12T08_49: Ocorreu um erro ao processar o veiculo QCD5E51: 'NoneType' object is not iterable
+2025-08-12T08_49: Abrindo o navegador
+2025-08-12T08_49: Iniciando o site do Detran
+2025-08-12T08_49: login realizado
+2025-08-12T08_49: Ocorreu um erro ao processar o veiculo QCF0G61: 'NoneType' object is not iterable
+2025-08-12T08_49: Abrindo o navegador
+2025-08-12T08_50: Iniciando o site do Detran
+2025-08-12T08_50: login realizado
+2025-08-12T08_50: Ocorreu um erro ao processar o veiculo QCF0G71: 'NoneType' object is not iterable
+2025-08-12T08_50: Abrindo o navegador
+2025-08-12T08_50: Iniciando o site do Detran
+2025-08-12T08_50: login realizado
+2025-08-12T08_50: Ocorreu um erro ao processar o veiculo NPQ8J16: 'NoneType' object is not iterable
+2025-08-12T08_50: Abrindo o navegador
+2025-08-12T08_50: Iniciando o site do Detran
+2025-08-12T08_51: login realizado
+2025-08-12T08_51: Ocorreu um erro ao processar o veiculo NTX4A86: 'NoneType' object is not iterable
+2025-08-12T08_51: Abrindo o navegador
+2025-08-12T08_51: Iniciando o site do Detran
+2025-08-12T08_51: login realizado
+2025-08-12T08_51: Ocorreu um erro ao processar o veiculo IML4J26: 'NoneType' object is not iterable
+2025-08-12T08_51: Abrindo o navegador
+2025-08-12T08_51: Iniciando o site do Detran
+2025-08-12T08_52: login realizado
+2025-08-12T08_52: Ocorreu um erro ao processar o veiculo OBJ6I56: 'NoneType' object is not iterable
+2025-08-12T08_52: Abrindo o navegador
+2025-08-12T08_52: Iniciando o site do Detran
+2025-08-12T08_52: login realizado
+2025-08-12T08_52: Ocorreu um erro ao processar o veiculo OBI9A16: 'NoneType' object is not iterable
+2025-08-12T08_52: Abrindo o navegador
+2025-08-12T08_52: Iniciando o site do Detran
+2025-08-12T08_52: login realizado
+2025-08-12T08_52: Ocorreu um erro ao processar o veiculo OBI9A76: 'NoneType' object is not iterable
+2025-08-12T08_53: Abrindo o navegador
+2025-08-12T08_53: Iniciando o site do Detran
+2025-08-12T08_53: login realizado
+2025-08-12T08_53: Ocorreu um erro ao processar o veiculo OBJ6I96: 'NoneType' object is not iterable
+2025-08-12T08_53: Abrindo o navegador
+2025-08-12T08_53: Iniciando o site do Detran
+2025-08-12T08_53: login realizado
+2025-08-12T08_53: Ocorreu um erro ao processar o veiculo OBL3706: 'NoneType' object is not iterable
+2025-08-12T08_54: Abrindo o navegador
+2025-08-12T08_54: Iniciando o site do Detran
+2025-08-12T08_54: login realizado
+2025-08-12T08_54: Ocorreu um erro ao processar o veiculo OBL3746: 'NoneType' object is not iterable
+2025-08-12T08_54: Abrindo o navegador
+2025-08-12T08_54: Iniciando o site do Detran
+2025-08-12T08_54: login realizado
+2025-08-12T08_54: Ocorreu um erro ao processar o veiculo OBL3826: 'NoneType' object is not iterable
+2025-08-12T08_54: Abrindo o navegador
+2025-08-12T08_54: Iniciando o site do Detran
+2025-08-12T08_55: login realizado
+2025-08-12T08_55: Ocorreu um erro ao processar o veiculo OBL3I86: 'NoneType' object is not iterable
+2025-08-12T08_55: Abrindo o navegador
+2025-08-12T08_55: Iniciando o site do Detran
+2025-08-12T08_55: login realizado
+2025-08-12T08_55: Ocorreu um erro ao processar o veiculo OBL3J16: 'NoneType' object is not iterable
+2025-08-12T08_55: Abrindo o navegador
+2025-08-12T08_55: Iniciando o site do Detran
+2025-08-12T08_56: login realizado
+2025-08-12T08_56: Ocorreu um erro ao processar o veiculo OBL3J26: 'NoneType' object is not iterable
+2025-08-12T08_56: Abrindo o navegador
+2025-08-12T08_56: Iniciando o site do Detran
+2025-08-12T08_56: login realizado
+2025-08-12T08_56: Ocorreu um erro ao processar o veiculo OBL3J46: 'NoneType' object is not iterable
+2025-08-12T08_56: Abrindo o navegador
+2025-08-12T08_56: Iniciando o site do Detran
+2025-08-12T08_56: login realizado
+2025-08-12T08_57: Ocorreu um erro ao processar o veiculo OBL3956: 'NoneType' object is not iterable
+2025-08-12T08_57: Abrindo o navegador
+2025-08-12T08_57: Iniciando o site do Detran
+2025-08-12T08_57: login realizado
+2025-08-12T08_57: Ocorreu um erro ao processar o veiculo OBL4016: 'NoneType' object is not iterable
+2025-08-12T08_57: Abrindo o navegador
+2025-08-12T08_57: Iniciando o site do Detran
+2025-08-12T08_57: login realizado
+2025-08-12T08_57: Ocorreu um erro ao processar o veiculo OAZ2F94: 'NoneType' object is not iterable
+2025-08-12T08_58: Abrindo o navegador
+2025-08-12T08_58: Iniciando o site do Detran
+2025-08-12T08_58: login realizado
+2025-08-12T08_58: Ocorreu um erro ao processar o veiculo OBB5I71: 'NoneType' object is not iterable
+2025-08-12T08_58: Abrindo o navegador
+2025-08-12T08_58: Iniciando o site do Detran
+2025-08-12T08_58: login realizado
+2025-08-12T08_58: Ocorreu um erro ao processar o veiculo NPQ8B26: 'NoneType' object is not iterable
+2025-08-12T08_58: Abrindo o navegador
+2025-08-12T08_58: Iniciando o site do Detran
+2025-08-12T08_59: login realizado
+2025-08-12T08_59: Ocorreu um erro ao processar o veiculo NPQ8E46: 'NoneType' object is not iterable
+2025-08-12T08_59: Abrindo o navegador
+2025-08-12T08_59: Iniciando o site do Detran
+2025-08-12T08_59: login realizado
+2025-08-12T08_59: Ocorreu um erro ao processar o veiculo NPQ8F46: 'NoneType' object is not iterable
+2025-08-12T08_59: Abrindo o navegador
+2025-08-12T08_59: Iniciando o site do Detran
+2025-08-12T09_00: login realizado
+2025-08-12T09_00: Ocorreu um erro ao processar o veiculo EDL7347: 'NoneType' object is not iterable
+2025-08-12T09_00: Abrindo o navegador
+2025-08-12T09_00: Iniciando o site do Detran
+2025-08-12T09_00: login realizado
+2025-08-12T09_00: Ocorreu um erro ao processar o veiculo NUD0G96: 'NoneType' object is not iterable
+2025-08-12T09_00: Abrindo o navegador
+2025-08-12T09_00: Iniciando o site do Detran
+2025-08-12T09_01: login realizado
+2025-08-12T09_01: Ocorreu um erro ao processar o veiculo NUD0H36: 'NoneType' object is not iterable
+2025-08-12T09_01: Abrindo o navegador
+2025-08-12T09_01: Iniciando o site do Detran
+2025-08-12T09_01: login realizado
+2025-08-12T09_01: Ocorreu um erro ao processar o veiculo NUD0I36: 'NoneType' object is not iterable
+2025-08-12T09_01: Abrindo o navegador
+2025-08-12T09_01: Iniciando o site do Detran
+2025-08-12T09_02: login realizado
+2025-08-12T09_02: Ocorreu um erro ao processar o veiculo NUD0J66: 'NoneType' object is not iterable
+2025-08-12T09_02: Abrindo o navegador
+2025-08-12T09_02: Iniciando o site do Detran
+2025-08-12T09_02: login realizado
+2025-08-12T09_02: Ocorreu um erro ao processar o veiculo NUD0J86: 'NoneType' object is not iterable
+2025-08-12T09_02: Abrindo o navegador
+2025-08-12T09_02: Iniciando o site do Detran
+2025-08-12T09_02: login realizado
+2025-08-12T09_02: Ocorreu um erro ao processar o veiculo NUD1C26: 'NoneType' object is not iterable
+2025-08-12T09_02: Abrindo o navegador
+2025-08-12T09_03: Iniciando o site do Detran
+2025-08-12T09_03: login realizado
+2025-08-12T09_03: Ocorreu um erro ao processar o veiculo NUF2C26: 'NoneType' object is not iterable
+2025-08-12T09_03: Abrindo o navegador
+2025-08-12T09_03: Iniciando o site do Detran
+2025-08-12T09_03: login realizado
+2025-08-12T09_03: Ocorreu um erro ao processar o veiculo NUF2276: 'NoneType' object is not iterable
+2025-08-12T09_03: Abrindo o navegador
+2025-08-12T09_03: Iniciando o site do Detran
+2025-08-12T09_04: login realizado
+2025-08-12T09_04: Ocorreu um erro ao processar o veiculo NUG8E26: 'NoneType' object is not iterable
+2025-08-12T09_04: Abrindo o navegador
+2025-08-12T09_04: Iniciando o site do Detran
+2025-08-12T09_04: login realizado
+2025-08-12T09_04: Ocorreu um erro ao processar o veiculo NUF9B06: 'NoneType' object is not iterable
+2025-08-12T09_04: Abrindo o navegador
+2025-08-12T09_04: Iniciando o site do Detran
+2025-08-12T09_05: login realizado
+2025-08-12T09_05: Ocorreu um erro ao processar o veiculo NUG5E06: 'NoneType' object is not iterable
+2025-08-12T09_05: Abrindo o navegador
+2025-08-12T09_05: Iniciando o site do Detran
+2025-08-12T09_05: login realizado
+2025-08-12T09_05: Ocorreu um erro ao processar o veiculo NUF9D56: 'NoneType' object is not iterable
+2025-08-12T09_05: Abrindo o navegador
+2025-08-12T09_05: Iniciando o site do Detran
+2025-08-12T09_06: login realizado
+2025-08-12T09_06: Ocorreu um erro ao processar o veiculo NUF9D76: 'NoneType' object is not iterable
+2025-08-12T09_06: Abrindo o navegador
+2025-08-12T09_06: Iniciando o site do Detran
+2025-08-12T09_06: login realizado
+2025-08-12T09_06: Ocorreu um erro ao processar o veiculo NUF9E16: 'NoneType' object is not iterable
+2025-08-12T09_06: Abrindo o navegador
+2025-08-12T09_06: Iniciando o site do Detran
+2025-08-12T09_07: login realizado
+2025-08-12T09_07: Ocorreu um erro ao processar o veiculo NUG9B76: 'NoneType' object is not iterable
+2025-08-12T09_07: Abrindo o navegador
+2025-08-12T09_07: Iniciando o site do Detran
+2025-08-12T09_07: login realizado
+2025-08-12T09_07: Ocorreu um erro ao processar o veiculo NUG7A36: 'NoneType' object is not iterable
+2025-08-12T09_07: Abrindo o navegador
+2025-08-12T09_07: Iniciando o site do Detran
+2025-08-12T09_07: login realizado
+2025-08-12T09_07: Ocorreu um erro ao processar o veiculo NUG7B66: 'NoneType' object is not iterable
+2025-08-12T09_08: Abrindo o navegador
+2025-08-12T09_08: Iniciando o site do Detran
+2025-08-12T09_08: login realizado
+2025-08-12T09_08: Ocorreu um erro ao processar o veiculo NUG7G06: 'NoneType' object is not iterable
+2025-08-12T09_08: Abrindo o navegador
+2025-08-12T09_08: Iniciando o site do Detran
+2025-08-12T09_08: login realizado
+2025-08-12T09_08: Ocorreu um erro ao processar o veiculo NUG7H26: 'NoneType' object is not iterable
+2025-08-12T09_08: Abrindo o navegador
+2025-08-12T09_09: Iniciando o site do Detran
+2025-08-12T09_09: login realizado
+2025-08-12T09_09: Ocorreu um erro ao processar o veiculo NUG8A96: 'NoneType' object is not iterable
+2025-08-12T09_09: Abrindo o navegador
+2025-08-12T09_09: Iniciando o site do Detran
+2025-08-12T09_09: login realizado
+2025-08-12T09_09: Ocorreu um erro ao processar o veiculo NUG9E56: 'NoneType' object is not iterable
+2025-08-12T09_09: Abrindo o navegador
+2025-08-12T09_09: Iniciando o site do Detran
+2025-08-12T09_10: login realizado
+2025-08-12T09_10: Ocorreu um erro ao processar o veiculo NUG9I46: 'NoneType' object is not iterable
+2025-08-12T09_10: Abrindo o navegador
+2025-08-12T09_10: Iniciando o site do Detran
+2025-08-12T09_10: login realizado
+2025-08-12T09_10: Ocorreu um erro ao processar o veiculo NUG9I66: 'NoneType' object is not iterable
+2025-08-12T09_10: Abrindo o navegador
+2025-08-12T09_10: Iniciando o site do Detran
+2025-08-12T09_11: login realizado
+2025-08-12T09_11: Ocorreu um erro ao processar o veiculo NUG9I96: 'NoneType' object is not iterable
+2025-08-12T09_11: Abrindo o navegador
+2025-08-12T09_11: Iniciando o site do Detran
+2025-08-12T09_11: login realizado
+2025-08-12T09_11: Ocorreu um erro ao processar o veiculo OBE3I36: 'NoneType' object is not iterable
+2025-08-12T09_11: Abrindo o navegador
+2025-08-12T09_11: Iniciando o site do Detran
+2025-08-12T09_12: login realizado
+2025-08-12T09_12: Ocorreu um erro ao processar o veiculo OBE3I66: 'NoneType' object is not iterable
+2025-08-12T09_12: Abrindo o navegador
+2025-08-12T09_12: Iniciando o site do Detran
+2025-08-12T09_12: login realizado
+2025-08-12T09_12: Ocorreu um erro ao processar o veiculo OBE4A56: 'NoneType' object is not iterable
+2025-08-12T09_12: Abrindo o navegador
+2025-08-12T09_12: Iniciando o site do Detran
+2025-08-12T09_13: login realizado
+2025-08-12T09_13: Ocorreu um erro ao processar o veiculo NPQ7G16: 'NoneType' object is not iterable
+2025-08-12T09_13: Abrindo o navegador
+2025-08-12T09_13: Iniciando o site do Detran
+2025-08-12T09_13: login realizado
+2025-08-12T09_13: Ocorreu um erro ao processar o veiculo NPQ7H16: 'NoneType' object is not iterable
+2025-08-12T09_13: Abrindo o navegador
+2025-08-12T09_13: Iniciando o site do Detran
+2025-08-12T09_13: login realizado
+2025-08-12T09_13: Ocorreu um erro ao processar o veiculo NPQ7H66: 'NoneType' object is not iterable
+2025-08-12T09_14: Abrindo o navegador
+2025-08-12T09_14: Iniciando o site do Detran
+2025-08-12T09_14: login realizado
+2025-08-12T09_14: Ocorreu um erro ao processar o veiculo NPQ7I16: 'NoneType' object is not iterable
+2025-08-12T09_14: Abrindo o navegador
+2025-08-12T09_14: Iniciando o site do Detran
+2025-08-12T09_14: login realizado
+2025-08-12T09_14: Ocorreu um erro ao processar o veiculo NPQ8E76: 'NoneType' object is not iterable
+2025-08-12T09_14: Abrindo o navegador
+2025-08-12T09_14: Iniciando o site do Detran
+2025-08-12T09_15: login realizado
+2025-08-12T09_15: Ocorreu um erro ao processar o veiculo NPQ8H66: 'NoneType' object is not iterable
+2025-08-12T09_15: Abrindo o navegador
+2025-08-12T09_15: Iniciando o site do Detran
+2025-08-12T09_15: login realizado
+2025-08-12T09_15: Ocorreu um erro ao processar o veiculo NUD0B76: 'NoneType' object is not iterable
+2025-08-12T09_15: Abrindo o navegador
+2025-08-12T09_15: Iniciando o site do Detran
+2025-08-12T09_16: login realizado
+2025-08-12T09_16: Ocorreu um erro ao processar o veiculo NUD0C56: 'NoneType' object is not iterable
+2025-08-12T09_16: Abrindo o navegador
+2025-08-12T09_16: Iniciando o site do Detran
+2025-08-12T09_16: login realizado
+2025-08-12T09_16: Ocorreu um erro ao processar o veiculo MFE8E87: 'NoneType' object is not iterable
+2025-08-12T09_16: Abrindo o navegador
+2025-08-12T09_16: Iniciando o site do Detran
+2025-08-12T09_16: login realizado
+2025-08-12T09_16: Ocorreu um erro ao processar o veiculo QCF0F41: 'NoneType' object is not iterable
+2025-08-12T09_17: Abrindo o navegador
+2025-08-12T09_17: Iniciando o site do Detran
+2025-08-12T09_17: login realizado
+2025-08-12T09_17: Ocorreu um erro ao processar o veiculo SPF0H32: 'NoneType' object is not iterable
+2025-08-12T09_17: Abrindo o navegador
+2025-08-12T09_17: Iniciando o site do Detran
+2025-08-12T09_17: login realizado
+2025-08-12T09_17: Ocorreu um erro ao processar o veiculo OBB6A91: 'NoneType' object is not iterable
+2025-08-12T09_17: Abrindo o navegador
+2025-08-12T09_18: Iniciando o site do Detran
+2025-08-12T09_18: login realizado
+2025-08-12T09_18: Ocorreu um erro ao processar o veiculo OBB6I51: 'NoneType' object is not iterable
+2025-08-12T09_18: Abrindo o navegador
+2025-08-12T09_18: Iniciando o site do Detran
+2025-08-12T09_18: login realizado
+2025-08-12T09_18: Ocorreu um erro ao processar o veiculo AXT1F26: 'NoneType' object is not iterable
+2025-08-12T09_18: Abrindo o navegador
+2025-08-12T09_18: Iniciando o site do Detran
+2025-08-12T09_19: login realizado
+2025-08-12T09_19: Ocorreu um erro ao processar o veiculo HQN5466: 'NoneType' object is not iterable
+2025-08-12T09_19: Abrindo o navegador
+2025-08-12T09_19: Iniciando o site do Detran
+2025-08-12T09_19: login realizado
+2025-08-12T09_19: Ocorreu um erro ao processar o veiculo CNR9516: 'NoneType' object is not iterable
+2025-08-12T09_19: Abrindo o navegador
+2025-08-12T09_19: Iniciando o site do Detran
+2025-08-12T09_19: login realizado
+2025-08-12T09_20: Ocorreu um erro ao processar o veiculo DXZ8576: 'NoneType' object is not iterable
+2025-08-12T09_20: Abrindo o navegador
+2025-08-12T09_20: Iniciando o site do Detran
+2025-08-12T09_20: login realizado
+2025-08-12T09_20: Ocorreu um erro ao processar o veiculo DXZ8596: 'NoneType' object is not iterable
+2025-08-12T09_20: Abrindo o navegador
+2025-08-12T09_20: Iniciando o site do Detran
+2025-08-12T09_20: login realizado
+2025-08-12T09_20: Ocorreu um erro ao processar o veiculo QCX8F88: 'NoneType' object is not iterable
+2025-08-12T09_20: Abrindo o navegador
+2025-08-12T09_21: Iniciando o site do Detran
+2025-08-12T09_21: login realizado
+2025-08-12T09_21: Ocorreu um erro ao processar o veiculo QCX8F78: 'NoneType' object is not iterable
+2025-08-12T09_21: Abrindo o navegador
+2025-08-12T09_21: Iniciando o site do Detran
+2025-08-12T09_21: login realizado
+2025-08-12T09_21: Ocorreu um erro ao processar o veiculo ETR5018: 'NoneType' object is not iterable
+2025-08-12T09_21: Abrindo o navegador
+2025-08-12T09_21: Iniciando o site do Detran
+2025-08-12T09_22: login realizado
+2025-08-12T09_22: O captcha foi resolvido
+2025-08-12T09_22: Consultando o veiculo
+2025-08-12T09_22: Verificando se houve erro na consulta do veiculo
+2025-08-12T09_22: Nao ouve erro
+2025-08-12T09_22: Verificando se existe debito para o veiculo
+2025-08-12T09_22: o veiculo da placa NPP7140 nao tem nenhum debito
+2025-08-12T09_22: Finalizando as consultas do veiculo com a placa: NPP7140
+2025-08-12T09_22: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=60044): Max retries exceeded with url: /session/da17beacadfa3de7a829769ec42aa8a2/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FEBB3324B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-08-12T09_22: Abrindo o navegador
+2025-08-12T09_22: Iniciando o site do Detran
+2025-08-12T09_23: login realizado
+2025-08-12T09_23: O captcha foi resolvido
+2025-08-12T09_23: Consultando o veiculo
+2025-08-12T09_23: Verificando se houve erro na consulta do veiculo
+2025-08-12T09_23: Nao ouve erro
+2025-08-12T09_23: Verificando se existe debito para o veiculo
+2025-08-12T09_23: o veiculo da placa QCZ0J50 nao tem nenhum debito
+2025-08-12T09_23: Finalizando as consultas do veiculo com a placa: QCZ0J50
+2025-08-12T09_23: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=60155): Max retries exceeded with url: /session/d3d1be040b2a6d14470b32b695b39ee1/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FEBB330890>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-08-12T09_23: Abrindo o navegador
+2025-08-12T09_23: Iniciando o site do Detran
+2025-08-12T09_23: login realizado
+2025-08-12T09_24: O captcha foi resolvido
+2025-08-12T09_24: Consultando o veiculo
+2025-08-12T09_24: Verificando se houve erro na consulta do veiculo
+2025-08-12T09_24: Nao ouve erro
+2025-08-12T09_24: Verificando se existe debito para o veiculo
+2025-08-12T09_24: o veiculo da placa QCV3E00 nao tem nenhum debito
+2025-08-12T09_24: Finalizando as consultas do veiculo com a placa: QCV3E00
+2025-08-12T09_24: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=60263): Max retries exceeded with url: /session/6119f16937d5342e7318b97a4c841a89/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FEBB352660>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-08-12T09_24: Abrindo o navegador
+2025-08-12T09_24: Iniciando o site do Detran
+2025-08-12T09_24: login realizado
+2025-08-12T09_25: O captcha foi resolvido
+2025-08-12T09_25: Consultando o veiculo
+2025-08-12T09_25: Verificando se houve erro na consulta do veiculo
+2025-08-12T09_25: Nao ouve erro
+2025-08-12T09_25: Verificando se existe debito para o veiculo
+2025-08-12T09_25: o veiculo da placa SVB9J90 nao tem nenhum debito
+2025-08-12T09_25: Finalizando as consultas do veiculo com a placa: SVB9J90
+2025-08-12T09_25: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=60380): Max retries exceeded with url: /session/d9aa5a099106d2bac1683caba88706d6/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FEBB330140>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-08-12T09_25: Abrindo o navegador
+2025-08-12T09_25: Iniciando o site do Detran
+2025-08-12T09_25: login realizado
+2025-08-12T09_26: O captcha foi resolvido
+2025-08-12T09_26: Consultando o veiculo
+2025-08-12T09_26: Verificando se houve erro na consulta do veiculo
+2025-08-12T09_26: Nao ouve erro
+2025-08-12T09_26: Verificando se existe debito para o veiculo
+2025-08-12T09_26: o veiculo da placa EGS5A20 nao tem nenhum debito
+2025-08-12T09_26: Finalizando as consultas do veiculo com a placa: EGS5A20
+2025-08-12T09_26: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=60506): Max retries exceeded with url: /session/27de152786d6fac6a9e7eb48c08dde52/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FEBB351A00>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-08-12T09_26: Abrindo o navegador
+2025-08-12T09_26: Iniciando o site do Detran
+2025-08-12T09_26: login realizado
+2025-08-12T09_26: Ocorreu um erro ao processar o veiculo MFF2B87: 'NoneType' object is not iterable
+2025-08-12T09_26: Abrindo o navegador
+2025-08-12T09_26: Iniciando o site do Detran
+2025-08-12T09_27: login realizado
+2025-08-12T09_27: Ocorreu um erro ao processar o veiculo OBI8J96: 'NoneType' object is not iterable
+2025-08-12T09_27: Abrindo o navegador
+2025-08-12T09_27: Iniciando o site do Detran
+2025-08-12T09_27: login realizado
+2025-08-12T09_27: Ocorreu um erro ao processar o veiculo QCD8D52: 'NoneType' object is not iterable
+2025-08-12T09_27: Abrindo o navegador
+2025-08-12T09_27: Iniciando o site do Detran
+2025-08-12T09_28: login realizado
+2025-08-12T09_28: Ocorreu um erro ao processar o veiculo QCG7G52: 'NoneType' object is not iterable
+2025-08-12T09_28: Abrindo o navegador
+2025-08-12T09_28: Iniciando o site do Detran
+2025-08-12T09_28: login realizado
+2025-08-12T09_28: Ocorreu um erro ao processar o veiculo QCD1J13: 'NoneType' object is not iterable
+2025-08-12T09_28: Abrindo o navegador
+2025-08-12T09_28: Iniciando o site do Detran
+2025-08-12T09_29: login realizado
+2025-08-12T09_29: Ocorreu um erro ao processar o veiculo QCD1J33: 'NoneType' object is not iterable
+2025-08-12T09_29: ---------Finalizando Sequencia de notas Sefaz---------
+2025-08-12T09_29: Enviando email de finalizacao

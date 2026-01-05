@@ -1,0 +1,6 @@
+2025-09-08T13_02: Iniciando execução do processo SEFAZ-IPVA
+2025-09-08T13_02: Total de veículos encontrados: 2
+2025-09-08T13_02: Iniciando execução do processo SEFAZ-IPVA
+2025-09-08T13_02: Total de veículos encontrados: 2
+2025-09-08T13_03: Configurando Chrome...
+2025-09-08T13_03: Iniciando ChromeDriver com undetected_chromedriver...
