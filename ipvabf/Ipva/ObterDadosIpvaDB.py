@@ -1,22 +1,26 @@
 import oracledb
 import pandas
+import dotenv
+import os
+dotenv.load_dotenv()
 
-
-usernameBd = 'rpa' 
-passwordBd= 'Rpa!2023'
-dsn = 'oracledbdev.bomfuturo.local:1521/homollnx'
+usernameBd = os.getenv('usernameBd')
+passwordBd= os.getenv('passwordBd')
+dsn = os.getenv('dsnhomol')
 connectionBd = oracledb.connect(user=usernameBd, password=passwordBd, dsn=dsn)
 cursor = connectionBd.cursor()
 
+tabela_ipva_lic = 'ipva2026'
+
 def RetornoVeiculosIpva():
-    cursor.execute("""
+    cursor.execute(fr"""
         SELECT
             RENAVAM,
             NUM_DOCUMENTO,
             CHASSI,
             ID
         FROM
-            IPVA_LICENCIAMENTO
+            {tabela_ipva_lic}
         WHERE
             STATUS_IPVA IS NULL
 	    --AND (GRUPO NOT IN (406, 309, 306)--
@@ -36,7 +40,7 @@ def RetornoVeiculosIpva():
 
 def updateErro(mensagemErro,idVeiculoAtual):
     cursor.execute(fr"""
-        UPDATE IPVA_LICENCIAMENTO SET  STATUS_LICENCIAMENTO = '{mensagemErro}',
+        UPDATE {tabela_ipva_lic} SET  STATUS_IPVA = '{mensagemErro}',
             DT_ULT_CONSULTA_DETRAN = sysdate WHERE  ID = '{idVeiculoAtual}'
             """)
     connectionBd.commit()
@@ -44,7 +48,7 @@ def updateErro(mensagemErro,idVeiculoAtual):
 
 def update(mensagem,idVeiculoAtual):
     cursor.execute(fr"""
-        UPDATE IPVA_LICENCIAMENTO SET  STATUS_LICENCIAMENTO = '{mensagem}',
+        UPDATE {tabela_ipva_lic} SET STATUS_LICENCIAMENTO = '{mensagem}',
             DT_ULT_CONSULTA_DETRAN = sysdate WHERE  ID = '{idVeiculoAtual}'
             """)
     connectionBd.commit()
@@ -52,7 +56,7 @@ def update(mensagem,idVeiculoAtual):
 
 def updateValor(valorLicenciamento,arquivoLicenciamento,idVeiculoAtual):
     sql = (fr"""
-        UPDATE IPVA_LICENCIAMENTO 
+        UPDATE {tabela_ipva_lic} 
         SET DT_ULT_CONSULTA_DETRAN = SYSDATE,
             STATUS_LICENCIAMENTO = 'A PAGAR',
             VALOR_LICENCIAMENTO = :valorLicenciamento,

@@ -12,6 +12,7 @@ import  ObterDadosIpvaDB
 import os
 import pandas as pd
 import requests
+import re
 from time import sleep
 import numpy as np
 import pyautogui
@@ -224,7 +225,7 @@ def main():
                     except:
                         escreveLog("Nenhuma mensagem de débito encontrada. Continuando processamento...")
                         print("Nenhuma mensagem de débito encontrada. Continuando processamento...")
-                        emissaoGuia(driver,renavam,idVeiculo)
+                        emissaoGuia(driver,renavam,chassi,idVeiculo)
 
                     # ---------------------------
                     # Finaliza processamento do veículo
@@ -246,7 +247,7 @@ def main():
 
 
 
-def emissaoGuia(driver,renavamveiculo,idVeiculo):
+def emissaoGuia(driver,renavamveiculo,chassi,idVeiculo):
         tabela=''
         try:   
             tabela = WebDriverWait(driver, 10).until(
@@ -259,116 +260,127 @@ def emissaoGuia(driver,renavamveiculo,idVeiculo):
         
             elemento = driver.find_element(By.XPATH, "//tbody[@id='cota1']//tr[td[2][contains(text(), '5%')]]/td[1]/input")
             elemento.click()
-            
+            print("Procurando input de email e telefone...")
             try:
-                email = WebDriverWait(driver, 10).until(
+                email = WebDriverWait(driver, 5).until(
                     EC.element_to_be_clickable((By.ID, 'email'))
                 )
-                telefone = WebDriverWait(driver, 10).until(
+                telefone = WebDriverWait(driver, 5).until(
                     EC.element_to_be_clickable((By.ID, 'celular'))
                 )
                 email.send_keys('hianny.urt@bomfuturo.com.br')
                 
                 telefone.send_keys('65998178793')
             except Exception as e:
-                print(f"Nao precisa preencher email/telefone")    
+                print(f"Nao foi encontrado input email/telefone")    
             sleep(3)
+
             
-            botao_gerar = WebDriverWait(driver, 10).until(
+            '''botao_gerar = WebDriverWait(driver, 10).until(
                 EC.element_to_be_clickable((By.CSS_SELECTOR, "input[value='Gerar Guia - pdf']"))
             )
             botao_gerar.click()
             
-            #salvarGuia(driver)
             janela_original = driver.current_window_handle
             WebDriverWait(driver, 10).until(EC.number_of_windows_to_be(2))
             
-            # 4. Loop para encontrar o ID da nova janela
+            #Loop para encontrar o ID da nova janela
             for handle in driver.window_handles:
                 if handle != janela_original:
-                    # 5. Troca o foco para a nova aba
+                    #Troca o foco para a nova aba
                     driver.switch_to.window(handle)
                     break
 
-                # Agora você está na nova aba!
-            driver.switch_to.window(handle)
-
-            # 1. Pegue a URL do PDF que está na barra de endereços da nova aba
-            sleep(5)
-            driver.execute_script('window.print();')
-            sleep(2)
-            pyautogui.write(fr"S:\Automacao\bot\VEICULOS\IPVA_2026\IPVA {anoAtual} - RENAVAM {renavamveiculo}.pdf", interval=0.5)
-            pyautogui.press('enter')
-            
+            # Nova aba
+            driver.switch_to.window(handle)'''
             try:
-                print("URL da aba atual:", driver.current_url)
-                def imprimir_aba_atual(driver, nome_arquivo="saida.pdf"):
-                    # Parâmetros que forçam a renderização total
-                    print_options = {
-                        'landscape': False,
-                        'displayHeaderFooter': False,
-                        'printBackground': True,
-                        'preferCSSPageSize': True,
-                        'generateTaggedPDF': True,
-                        'generateDocumentOutline': True
-                    }
-                    
-                    try:
-                        # O comando 'Page.printToPDF' não depende de seletores HTML/Shadow DOM
-                        # Ele "fotografa" o que o navegador está renderizando na aba
-                        result = driver.execute_cdp_cmd("Page.printToPDF", print_options)
-                        
-                        with open(nome_arquivo, "wb") as f:
-                            f.write(base64.b64decode(result['data']))
-                        print(f"PDF gerado com sucesso: {nome_arquivo}")
-                    except Exception as e:
-                        print(f"Erro ao imprimir: {e}")
+                download_guia(driver,chassi,renavamveiculo)
+                driver.close()
                                 
             except Exception as e:
                 driver.close()
-                driver.switch_to.window(janela_original)
+                #driver.switch_to.window(janela_original)
                 print(f"Erro ao gerar PDF: {e}")
-                driver.close()
+                #driver.close()
                 return
-            
-            
-            anoAtual = datetime.now().year
-            sleep(3)
-            caminhoIpva = fr"S:\Automacao\bot\VEICULOS\IPVA_2026\IPVA {anoAtual} - RENAVAM {renavamveiculo}.pdf"
+          
+          
+          
+def download_guia(driver,chassi,renavam):       
+    anoAtual = datetime.now().year
+    session = requests.Session()
+    for cookie in driver.get_cookies():
+        session.cookies.set(cookie['name'], cookie['value'])
 
-            pyautogui.write(caminhoIpva, interval=0.1)
-            pyautogui.press('enter')
+    # CAPTURAR OS DADOS DO FORMULÁRIO E TOKEN
+    # CSRT é o numero de segurança anti-falsificação
+    url_action = driver.find_element(By.NAME, "formulario").get_attribute("action")
+    csrf_token = driver.execute_script('return window["_csrf_"];')
+    user_agent = driver.execute_script("return navigator.userAgent;")
 
-            salvarcomo = fr'.\ipvabf\Ipva\img\salvarComo.png'
-            simSalvar = fr'.\ipvabf\Ipva\img\Sim.png'
-            
-            print('Verificando se o arquivo ja existe')
-            locationSalvarComo = None
-            try:
-                locationSalvarComo = pyautogui.locateOnScreen(salvarcomo)
-            except:
-                pass
+    #MONTAR O PAYLOAD COMPLETO
 
-            if locationSalvarComo is not None:
-                x, y = pyautogui.locateCenterOnScreen(simSalvar)
-                print("o arquivo ja existe, substituindo")
-                pyautogui.click(x, y)
+    payload = {}
+    
+    #Pegando todos os inputs da página
+    inputs = driver.find_elements(By.TAG_NAME, "input")
+    for i in inputs:
+        name = i.get_attribute("name")
+        value = i.get_attribute("value")
+        tipo = i.get_attribute("type")
 
-            print('Entrando no while para se o arquivo foi salvo')
-            while not os.path.exists(caminhoIpva):
-                sleep(1)
-            print("verificando se o arquivo foi salvo ")
-            sleep(5)
-            if os.path.exists(caminhoIpva):
-                print(fr"o arquivo {caminhoIpva} foi salvo")
-                #print(valorliceinciamento)
-                #ObterDadosLicenciamentoDB.updateValor(valorLicenciamento,caminhoLicenciamento,idVeiculo)
-            else:
-                print("o arquivo nao foi salvo")
-                pass
-            print(fr"finalizando veiculo atual - renavam {renavamveiculo}")
-            
-def salvarGuia(driver):
+        if not name: continue
+
+        # Mantém valores de campos hidden
+        if tipo == "hidden":
+            payload[name] = value
+        
+        # Seleciona a cota específica (Ex: Opção com 5% de desconto que é o value="2")
+        # No HTML o rádio botão tem o id="tipoGuia.2026.2" e value="2"
+        if name.startswith("tipoGuia") and tipo == "radio":
+            if value == "2": 
+                payload[name] = value
+
+    # Sobrescreve/Garante campos críticos
+    payload["_csrf_"] = csrf_token
+    payload["pdf"] = "1"
+    payload["pix"] = "1"
+    payload["chassi"] = chassi.strip()
+
+    # HEADERS (Imprescindível para sites com proteção F5/TSPD)
+    headers = {
+        "User-Agent": user_agent,
+        "Referer": driver.current_url,
+        "Origin": "https://www.sefaz.mt.gov.br",
+        "Content-Type": "application/x-www-form-urlencoded",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8"
+    }
+
+    # O stream=True é importante para lidar com binários grandes
+    response = session.post(url_action, data=payload, headers=headers, stream=True)
+
+    # VALIDAÇÃO E SALVAMENTO
+    if response.status_code == 200:
+        content_type = response.headers.get('Content-Type', '')
+        
+        if 'application/pdf' in content_type:
+            filename = fr"S:\Automacao\bot\VEICULOS\IPVA_2026\IPVA {anoAtual} - RENAVAM {renavam}.pdf"
+            with open(filename, "wb") as f:
+                for chunk in response.iter_content(chunk_size=8192):
+                    f.write(chunk)
+            print(f"✅ Sucesso! PDF baixado: {filename}")
+            return True
+        else:
+            print(f"❌ Erro: O servidor não enviou um PDF. Tipo recebido: {content_type}")
+            # Salva o erro para inspeção
+            with open("erro_sefaz.html", "w", encoding="utf-8") as f:
+                f.write(response.text)
+            print("Verifique o arquivo 'erro_sefaz.html' para entender o motivo da rejeição.")
+    else:
+        print(f"❌ Erro HTTP: {response.status_code}")
+    
+    return False
+          
     imagemsalvar = fr'.\ipvabf\Ipva\img\salvarAnonimo.png'
     location = None
     end_time = time.time() + 20

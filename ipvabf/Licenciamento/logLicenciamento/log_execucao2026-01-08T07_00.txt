@@ -1,0 +1,786 @@
+2026-01-08T07_00: ---------Iniciando Sequencia de notas Sefaz---------
+2026-01-08T07_00: Iniciando o site do Detran
+2026-01-08T07_01: login realizado
+2026-01-08T07_01: O captcha foi resolvido
+2026-01-08T07_01: Consultando o veiculo
+2026-01-08T07_01: Verificando se houve erro na consulta do veiculo
+2026-01-08T07_01: Nao ouve erro
+2026-01-08T07_01: Verificando se existe debito para o veiculo
+2026-01-08T07_01: O veículo da placa QCE2E58 ainda possui pendência de licenciamento
+2026-01-08T07_01: Emitindo licenciamento
+2026-01-08T07_02: O veículo da placa QCE2E58 possui multas pendentes
+2026-01-08T07_02: Emitindo multa
+2026-01-08T07_02: Ocorreu um erro ao processar o veiculo QCE2E58: [Errno 2] No such file or directory: 'S:\\Automacao\\bot\\MULTAS\\MULTAS - 2026 - RENAVAM 1202287996.pdf'
+2026-01-08T07_02: Iniciando o site do Detran
+2026-01-08T07_03: login realizado
+2026-01-08T07_03: O captcha foi resolvido
+2026-01-08T07_03: Consultando o veiculo
+2026-01-08T07_04: Verificando se houve erro na consulta do veiculo
+2026-01-08T07_04: Nao ouve erro
+2026-01-08T07_04: Verificando se existe debito para o veiculo
+2026-01-08T07_04: O veículo da placa QCE2E68 ainda possui pendência de licenciamento
+2026-01-08T07_04: Emitindo licenciamento
+2026-01-08T07_04: O veículo da placa QCE2E68 possui multas pendentes
+2026-01-08T07_04: Emitindo multa
+2026-01-08T07_04: Ocorreu um erro ao processar o veiculo QCE2E68: [Errno 2] No such file or directory: 'S:\\Automacao\\bot\\MULTAS\\MULTAS - 2026 - RENAVAM 1202288763.pdf'
+2026-01-08T07_04: Iniciando o site do Detran
+2026-01-08T07_05: login realizado
+2026-01-08T07_06: O captcha foi resolvido
+2026-01-08T07_06: Consultando o veiculo
+2026-01-08T07_06: Verificando se houve erro na consulta do veiculo
+2026-01-08T07_06: Nao ouve erro
+2026-01-08T07_06: Verificando se existe debito para o veiculo
+2026-01-08T07_06: O veículo da placa RRV2H68 ainda possui pendência de licenciamento
+2026-01-08T07_06: Emitindo licenciamento
+2026-01-08T07_06: O veículo da placa RRV2H68 possui multas pendentes
+2026-01-08T07_06: Emitindo multa
+2026-01-08T07_06: Ocorreu um erro ao processar o veiculo RRV2H68: [Errno 2] No such file or directory: 'S:\\Automacao\\bot\\MULTAS\\MULTAS - 2026 - RENAVAM 1331422598.pdf'
+2026-01-08T07_07: Iniciando o site do Detran
+2026-01-08T07_07: login realizado
+2026-01-08T07_08: O captcha foi resolvido
+2026-01-08T07_08: Consultando o veiculo
+2026-01-08T07_08: Verificando se houve erro na consulta do veiculo
+2026-01-08T07_08: Nao ouve erro
+2026-01-08T07_08: Verificando se existe debito para o veiculo
+2026-01-08T07_08: O veículo da placa RRP8C18 ainda possui pendência de licenciamento
+2026-01-08T07_08: Emitindo licenciamento
+2026-01-08T07_08: O veículo da placa RRP8C18 NAO possui multas pendentes
+2026-01-08T07_08: Finalizando as consultas do veiculo com a placa: RRP8C18
+2026-01-08T07_08: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=54456): Max retries exceeded with url: /session/71207d7add2a95d5a7d8c3d5c7510c04/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D1F8380>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T07_08: Iniciando o site do Detran
+2026-01-08T07_09: login realizado
+2026-01-08T07_09: O captcha foi resolvido
+2026-01-08T07_09: Consultando o veiculo
+2026-01-08T07_09: Verificando se houve erro na consulta do veiculo
+2026-01-08T07_09: Nao ouve erro
+2026-01-08T07_09: Verificando se existe debito para o veiculo
+2026-01-08T07_09: O veículo da placa LZK0408 ainda possui pendência de licenciamento
+2026-01-08T07_09: Emitindo licenciamento
+2026-01-08T07_10: O veículo da placa LZK0408 NAO possui multas pendentes
+2026-01-08T07_10: Finalizando as consultas do veiculo com a placa: LZK0408
+2026-01-08T07_10: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=54660): Max retries exceeded with url: /session/72d3927fe2b6359119abfe71e04e7539/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D2467B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T07_10: Iniciando o site do Detran
+2026-01-08T07_11: login realizado
+2026-01-08T07_11: O captcha foi resolvido
+2026-01-08T07_11: Consultando o veiculo
+2026-01-08T07_11: Verificando se houve erro na consulta do veiculo
+2026-01-08T07_11: Nao ouve erro
+2026-01-08T07_11: Verificando se existe debito para o veiculo
+2026-01-08T07_11: O veículo da placa GVQ7908 ainda possui pendência de licenciamento
+2026-01-08T07_11: Emitindo licenciamento
+2026-01-08T07_11: O veículo da placa GVQ7908 NAO possui multas pendentes
+2026-01-08T07_11: Finalizando as consultas do veiculo com a placa: GVQ7908
+2026-01-08T07_12: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=54878): Max retries exceeded with url: /session/dc5e7ad9b40be0e6ba7a880132a4f07a/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D1FAD50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T07_12: Iniciando o site do Detran
+2026-01-08T07_12: login realizado
+2026-01-08T07_13: O captcha foi resolvido
+2026-01-08T07_13: Consultando o veiculo
+2026-01-08T07_13: Verificando se houve erro na consulta do veiculo
+2026-01-08T07_13: Nao ouve erro
+2026-01-08T07_13: Verificando se existe debito para o veiculo
+2026-01-08T07_13: O veículo da placa OAT5H28 ainda possui pendência de licenciamento
+2026-01-08T07_13: Emitindo licenciamento
+2026-01-08T07_13: O veículo da placa OAT5H28 NAO possui multas pendentes
+2026-01-08T07_13: Finalizando as consultas do veiculo com a placa: OAT5H28
+2026-01-08T07_13: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=55074): Max retries exceeded with url: /session/2608267658214902f31c5547fff904ac/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D246330>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T07_13: Iniciando o site do Detran
+2026-01-08T07_14: login realizado
+2026-01-08T07_14: O captcha foi resolvido
+2026-01-08T07_14: Consultando o veiculo
+2026-01-08T07_14: Verificando se houve erro na consulta do veiculo
+2026-01-08T07_14: Nao ouve erro
+2026-01-08T07_14: Verificando se existe debito para o veiculo
+2026-01-08T07_14: O veículo da placa QCO9B28 ainda possui pendência de licenciamento
+2026-01-08T07_14: Emitindo licenciamento
+2026-01-08T07_15: O veículo da placa QCO9B28 NAO possui multas pendentes
+2026-01-08T07_15: Finalizando as consultas do veiculo com a placa: QCO9B28
+2026-01-08T07_15: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=55273): Max retries exceeded with url: /session/9ee7c72da1923428b91fc14c55a3c8f3/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D1FA180>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T07_15: Iniciando o site do Detran
+2026-01-08T07_16: login realizado
+2026-01-08T07_16: O captcha foi resolvido
+2026-01-08T07_16: Consultando o veiculo
+2026-01-08T07_16: Verificando se houve erro na consulta do veiculo
+2026-01-08T07_16: Nao ouve erro
+2026-01-08T07_16: Verificando se existe debito para o veiculo
+2026-01-08T07_16: O veículo da placa SPJ8E98 ainda possui pendência de licenciamento
+2026-01-08T07_16: Emitindo licenciamento
+2026-01-08T07_16: O veículo da placa SPJ8E98 NAO possui multas pendentes
+2026-01-08T07_16: Finalizando as consultas do veiculo com a placa: SPJ8E98
+2026-01-08T07_17: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=55487): Max retries exceeded with url: /session/16ec691f009e425ca45c4751c3b1134a/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D245070>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T07_17: Iniciando o site do Detran
+2026-01-08T07_17: login realizado
+2026-01-08T07_18: O captcha foi resolvido
+2026-01-08T07_18: Consultando o veiculo
+2026-01-08T07_18: Verificando se houve erro na consulta do veiculo
+2026-01-08T07_18: Nao ouve erro
+2026-01-08T07_18: Verificando se existe debito para o veiculo
+2026-01-08T07_18: O veículo da placa NPC7A28 ainda possui pendência de licenciamento
+2026-01-08T07_18: Emitindo licenciamento
+2026-01-08T07_18: O veículo da placa NPC7A28 NAO possui multas pendentes
+2026-01-08T07_18: Finalizando as consultas do veiculo com a placa: NPC7A28
+2026-01-08T07_18: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=55747): Max retries exceeded with url: /session/89c38bd25d0fdceb5d233770335bf44e/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D247F50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T07_18: Iniciando o site do Detran
+2026-01-08T07_19: login realizado
+2026-01-08T07_20: O captcha foi resolvido
+2026-01-08T07_20: Consultando o veiculo
+2026-01-08T07_20: Verificando se houve erro na consulta do veiculo
+2026-01-08T07_20: Nao ouve erro
+2026-01-08T07_20: Verificando se existe debito para o veiculo
+2026-01-08T07_20: O veículo da placa RRP8B78 ainda possui pendência de licenciamento
+2026-01-08T07_20: Emitindo licenciamento
+2026-01-08T07_20: O veículo da placa RRP8B78 NAO possui multas pendentes
+2026-01-08T07_20: Finalizando as consultas do veiculo com a placa: RRP8B78
+2026-01-08T07_20: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=55950): Max retries exceeded with url: /session/72768b48456192979a3cf17c16f0fbe3/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D244A70>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T07_20: Iniciando o site do Detran
+2026-01-08T07_21: login realizado
+2026-01-08T07_21: O captcha foi resolvido
+2026-01-08T07_21: Consultando o veiculo
+2026-01-08T07_21: Verificando se houve erro na consulta do veiculo
+2026-01-08T07_21: Nao ouve erro
+2026-01-08T07_21: Verificando se existe debito para o veiculo
+2026-01-08T07_21: O veículo da placa SPJ8C78 ainda possui pendência de licenciamento
+2026-01-08T07_21: Emitindo licenciamento
+2026-01-08T07_22: O veículo da placa SPJ8C78 possui multas pendentes
+2026-01-08T07_22: Emitindo multa
+2026-01-08T07_22: Ocorreu um erro ao processar o veiculo SPJ8C78: [Errno 2] No such file or directory: 'S:\\Automacao\\bot\\MULTAS\\MULTAS - 2026 - RENAVAM 1399057909.pdf'
+2026-01-08T07_22: Iniciando o site do Detran
+2026-01-08T07_23: login realizado
+2026-01-08T07_23: O captcha foi resolvido
+2026-01-08T07_23: Consultando o veiculo
+2026-01-08T07_23: Verificando se houve erro na consulta do veiculo
+2026-01-08T07_23: Nao ouve erro
+2026-01-08T07_23: Verificando se existe debito para o veiculo
+2026-01-08T07_24: O veículo da placa QBL0J48 ainda possui pendência de licenciamento
+2026-01-08T07_24: Emitindo licenciamento
+2026-01-08T07_24: O veículo da placa QBL0J48 NAO possui multas pendentes
+2026-01-08T07_24: Finalizando as consultas do veiculo com a placa: QBL0J48
+2026-01-08T07_24: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=56351): Max retries exceeded with url: /session/5c40c2e14aface5066a884be2801794e/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D247AA0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T07_24: Iniciando o site do Detran
+2026-01-08T07_25: login realizado
+2026-01-08T07_25: O captcha foi resolvido
+2026-01-08T07_25: Consultando o veiculo
+2026-01-08T07_25: Verificando se houve erro na consulta do veiculo
+2026-01-08T07_25: Finalizando as consultas do veiculo com a placa: SPJ8I98
+2026-01-08T07_25: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=56561): Max retries exceeded with url: /session/a06b5f132c45ae5fc3f5051481ec0ef8/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D245850>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T07_25: Iniciando o site do Detran
+2026-01-08T07_26: login realizado
+2026-01-08T07_27: O captcha foi resolvido
+2026-01-08T07_27: Consultando o veiculo
+2026-01-08T07_27: Verificando se houve erro na consulta do veiculo
+2026-01-08T07_27: Nao ouve erro
+2026-01-08T07_27: Verificando se existe debito para o veiculo
+2026-01-08T07_27: O veículo da placa RRS7B18 ainda possui pendência de licenciamento
+2026-01-08T07_27: Emitindo licenciamento
+2026-01-08T07_27: O veículo da placa RRS7B18 possui multas pendentes
+2026-01-08T07_27: Emitindo multa
+2026-01-08T07_27: Ocorreu um erro ao processar o veiculo RRS7B18: [Errno 2] No such file or directory: 'S:\\Automacao\\bot\\MULTAS\\MULTAS - 2026 - RENAVAM 1325278790.pdf'
+2026-01-08T07_27: Iniciando o site do Detran
+2026-01-08T07_28: login realizado
+2026-01-08T07_28: O captcha foi resolvido
+2026-01-08T07_28: Consultando o veiculo
+2026-01-08T07_29: Verificando se houve erro na consulta do veiculo
+2026-01-08T07_29: Nao ouve erro
+2026-01-08T07_29: Verificando se existe debito para o veiculo
+2026-01-08T07_29: O veículo da placa SPJ9D08 ainda possui pendência de licenciamento
+2026-01-08T07_29: Emitindo licenciamento
+2026-01-08T07_29: O veículo da placa SPJ9D08 NAO possui multas pendentes
+2026-01-08T07_29: Finalizando as consultas do veiculo com a placa: SPJ9D08
+2026-01-08T07_29: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=56894): Max retries exceeded with url: /session/ca99e746b95960c922b0b470db554789/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D269040>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T07_29: Iniciando o site do Detran
+2026-01-08T07_30: login realizado
+2026-01-08T07_30: O captcha foi resolvido
+2026-01-08T07_30: Consultando o veiculo
+2026-01-08T07_30: Verificando se houve erro na consulta do veiculo
+2026-01-08T07_30: Nao ouve erro
+2026-01-08T07_30: Verificando se existe debito para o veiculo
+2026-01-08T07_30: O veículo da placa RAT2A58 ainda possui pendência de licenciamento
+2026-01-08T07_30: Emitindo licenciamento
+2026-01-08T07_31: O veículo da placa RAT2A58 NAO possui multas pendentes
+2026-01-08T07_31: Finalizando as consultas do veiculo com a placa: RAT2A58
+2026-01-08T07_31: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=57112): Max retries exceeded with url: /session/d31806a72946606f96bf6fa6555469dc/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D26B590>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T07_31: Iniciando o site do Detran
+2026-01-08T07_32: login realizado
+2026-01-08T07_32: O captcha foi resolvido
+2026-01-08T07_32: Consultando o veiculo
+2026-01-08T07_32: Verificando se houve erro na consulta do veiculo
+2026-01-08T07_32: Nao ouve erro
+2026-01-08T07_32: Verificando se existe debito para o veiculo
+2026-01-08T07_32: O veículo da placa SPP2A68 ainda possui pendência de licenciamento
+2026-01-08T07_32: Emitindo licenciamento
+2026-01-08T07_32: O veículo da placa SPP2A68 NAO possui multas pendentes
+2026-01-08T07_32: Finalizando as consultas do veiculo com a placa: SPP2A68
+2026-01-08T07_32: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=57355): Max retries exceeded with url: /session/d414819cbd5aad6c08656c04efc08a92/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D245640>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T07_33: Iniciando o site do Detran
+2026-01-08T07_33: login realizado
+2026-01-08T07_34: O captcha foi resolvido
+2026-01-08T07_34: Consultando o veiculo
+2026-01-08T07_34: Verificando se houve erro na consulta do veiculo
+2026-01-08T07_34: Nao ouve erro
+2026-01-08T07_34: Verificando se existe debito para o veiculo
+2026-01-08T07_34: O veículo da placa RRP8H48 ainda possui pendência de licenciamento
+2026-01-08T07_34: Emitindo licenciamento
+2026-01-08T07_34: O veículo da placa RRP8H48 NAO possui multas pendentes
+2026-01-08T07_34: Finalizando as consultas do veiculo com a placa: RRP8H48
+2026-01-08T07_34: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=57545): Max retries exceeded with url: /session/d6c8d2996c04544d87d0a6f43bf26a7b/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D269E20>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T07_34: Iniciando o site do Detran
+2026-01-08T07_35: login realizado
+2026-01-08T07_35: O captcha foi resolvido
+2026-01-08T07_35: Consultando o veiculo
+2026-01-08T07_35: Verificando se houve erro na consulta do veiculo
+2026-01-08T07_35: Nao ouve erro
+2026-01-08T07_35: Verificando se existe debito para o veiculo
+2026-01-08T07_35: o veiculo da placa HRO4248 nao tem nenhum debito
+2026-01-08T07_35: Finalizando as consultas do veiculo com a placa: HRO4248
+2026-01-08T07_36: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=57637): Max retries exceeded with url: /session/5610ba3fa365ce90d2cee0a105c0a8f8/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D246F00>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T07_36: Iniciando o site do Detran
+2026-01-08T07_36: login realizado
+2026-01-08T07_37: O captcha foi resolvido
+2026-01-08T07_37: Consultando o veiculo
+2026-01-08T07_37: Verificando se houve erro na consulta do veiculo
+2026-01-08T07_37: Nao ouve erro
+2026-01-08T07_37: Verificando se existe debito para o veiculo
+2026-01-08T07_37: O veículo da placa SPM9E98 ainda possui pendência de licenciamento
+2026-01-08T07_37: Emitindo licenciamento
+2026-01-08T07_37: O veículo da placa SPM9E98 NAO possui multas pendentes
+2026-01-08T07_37: Finalizando as consultas do veiculo com a placa: SPM9E98
+2026-01-08T07_37: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=57817): Max retries exceeded with url: /session/5d08a1b7d347b0b871e80ef95598422e/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D26AF60>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T07_37: Iniciando o site do Detran
+2026-01-08T07_38: login realizado
+2026-01-08T07_39: O captcha foi resolvido
+2026-01-08T07_39: Consultando o veiculo
+2026-01-08T07_39: Verificando se houve erro na consulta do veiculo
+2026-01-08T07_39: Nao ouve erro
+2026-01-08T07_39: Verificando se existe debito para o veiculo
+2026-01-08T07_39: O veículo da placa OAT5B28 ainda possui pendência de licenciamento
+2026-01-08T07_39: Emitindo licenciamento
+2026-01-08T07_39: O veículo da placa OAT5B28 NAO possui multas pendentes
+2026-01-08T07_39: Finalizando as consultas do veiculo com a placa: OAT5B28
+2026-01-08T07_39: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=58049): Max retries exceeded with url: /session/3138c6a6af1f36160aa2b64ef0226269/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D26BF20>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T07_39: Iniciando o site do Detran
+2026-01-08T07_40: login realizado
+2026-01-08T07_40: O captcha foi resolvido
+2026-01-08T07_40: Consultando o veiculo
+2026-01-08T07_40: Verificando se houve erro na consulta do veiculo
+2026-01-08T07_40: Nao ouve erro
+2026-01-08T07_40: Verificando se existe debito para o veiculo
+2026-01-08T07_40: O veículo da placa RRS7C68 ainda possui pendência de licenciamento
+2026-01-08T07_40: Emitindo licenciamento
+2026-01-08T07_41: O veículo da placa RRS7C68 NAO possui multas pendentes
+2026-01-08T07_41: Finalizando as consultas do veiculo com a placa: RRS7C68
+2026-01-08T07_41: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=58145): Max retries exceeded with url: /session/2efdd9e08be1715194f2025c479bd516/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D26A4E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T07_41: Iniciando o site do Detran
+2026-01-08T07_42: login realizado
+2026-01-08T07_42: O captcha foi resolvido
+2026-01-08T07_42: Consultando o veiculo
+2026-01-08T07_42: Verificando se houve erro na consulta do veiculo
+2026-01-08T07_42: Nao ouve erro
+2026-01-08T07_42: Verificando se existe debito para o veiculo
+2026-01-08T07_42: O veículo da placa AGX4718 ainda possui pendência de licenciamento
+2026-01-08T07_42: Emitindo licenciamento
+2026-01-08T07_42: O veículo da placa AGX4718 NAO possui multas pendentes
+2026-01-08T07_42: Finalizando as consultas do veiculo com a placa: AGX4718
+2026-01-08T07_43: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=58366): Max retries exceeded with url: /session/b006849855cccdda1f8ac14b7cdcc2c6/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D268080>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T07_43: Iniciando o site do Detran
+2026-01-08T07_44: login realizado
+2026-01-08T07_44: O captcha foi resolvido
+2026-01-08T07_44: Consultando o veiculo
+2026-01-08T07_44: Verificando se houve erro na consulta do veiculo
+2026-01-08T07_44: Nao ouve erro
+2026-01-08T07_44: Verificando se existe debito para o veiculo
+2026-01-08T07_44: O veículo da placa SPI9F28 ainda possui pendência de licenciamento
+2026-01-08T07_44: Emitindo licenciamento
+2026-01-08T07_44: O veículo da placa SPI9F28 possui multas pendentes
+2026-01-08T07_44: Emitindo multa
+2026-01-08T07_45: Ocorreu um erro ao processar o veiculo SPI9F28: [Errno 2] No such file or directory: 'S:\\Automacao\\bot\\MULTAS\\MULTAS - 2026 - RENAVAM 1398734249.pdf'
+2026-01-08T07_45: Iniciando o site do Detran
+2026-01-08T07_45: login realizado
+2026-01-08T07_46: O captcha foi resolvido
+2026-01-08T07_46: Consultando o veiculo
+2026-01-08T07_46: Verificando se houve erro na consulta do veiculo
+2026-01-08T07_46: Nao ouve erro
+2026-01-08T07_46: Verificando se existe debito para o veiculo
+2026-01-08T07_46: O veículo da placa NJQ1D48 ainda possui pendência de licenciamento
+2026-01-08T07_46: Emitindo licenciamento
+2026-01-08T07_46: O veículo da placa NJQ1D48 NAO possui multas pendentes
+2026-01-08T07_46: Finalizando as consultas do veiculo com a placa: NJQ1D48
+2026-01-08T07_46: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=58770): Max retries exceeded with url: /session/d6dbf2243b8cc9cb3278d32235c1af42/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D2A4EC0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T07_46: Iniciando o site do Detran
+2026-01-08T07_47: login realizado
+2026-01-08T07_47: O captcha foi resolvido
+2026-01-08T07_47: Consultando o veiculo
+2026-01-08T07_47: Verificando se houve erro na consulta do veiculo
+2026-01-08T07_47: Nao ouve erro
+2026-01-08T07_47: Verificando se existe debito para o veiculo
+2026-01-08T07_47: O veículo da placa QBQ1778 ainda possui pendência de licenciamento
+2026-01-08T07_47: Emitindo licenciamento
+2026-01-08T07_48: O veículo da placa QBQ1778 NAO possui multas pendentes
+2026-01-08T07_48: Finalizando as consultas do veiculo com a placa: QBQ1778
+2026-01-08T07_48: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=59005): Max retries exceeded with url: /session/301383f0043fa4ddbd0ace6f2bf8b328/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D2A6990>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T07_48: Iniciando o site do Detran
+2026-01-08T07_49: login realizado
+2026-01-08T07_49: O captcha foi resolvido
+2026-01-08T07_49: Consultando o veiculo
+2026-01-08T07_49: Verificando se houve erro na consulta do veiculo
+2026-01-08T07_49: Nao ouve erro
+2026-01-08T07_49: Verificando se existe debito para o veiculo
+2026-01-08T07_49: O veículo da placa SPJ9C98 ainda possui pendência de licenciamento
+2026-01-08T07_49: Emitindo licenciamento
+2026-01-08T07_49: O veículo da placa SPJ9C98 NAO possui multas pendentes
+2026-01-08T07_49: Finalizando as consultas do veiculo com a placa: SPJ9C98
+2026-01-08T07_50: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=59208): Max retries exceeded with url: /session/36b3575990b8ebf53642e8bb05eaca57/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D269730>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T07_50: Iniciando o site do Detran
+2026-01-08T07_50: login realizado
+2026-01-08T07_51: O captcha foi resolvido
+2026-01-08T07_51: Consultando o veiculo
+2026-01-08T07_51: Verificando se houve erro na consulta do veiculo
+2026-01-08T07_51: Nao ouve erro
+2026-01-08T07_51: Verificando se existe debito para o veiculo
+2026-01-08T07_51: O veículo da placa QCI4F28 ainda possui pendência de licenciamento
+2026-01-08T07_51: Emitindo licenciamento
+2026-01-08T07_51: O veículo da placa QCI4F28 NAO possui multas pendentes
+2026-01-08T07_51: Finalizando as consultas do veiculo com a placa: QCI4F28
+2026-01-08T07_51: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=59416): Max retries exceeded with url: /session/12d1d5b7ea8c79367cbbcc725c0050f3/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D2A5C10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T07_52: Iniciando o site do Detran
+2026-01-08T07_52: login realizado
+2026-01-08T07_53: O captcha foi resolvido
+2026-01-08T07_53: Consultando o veiculo
+2026-01-08T07_53: Verificando se houve erro na consulta do veiculo
+2026-01-08T07_53: Nao ouve erro
+2026-01-08T07_53: Verificando se existe debito para o veiculo
+2026-01-08T07_53: O veículo da placa RRN7J58 ainda possui pendência de licenciamento
+2026-01-08T07_53: Emitindo licenciamento
+2026-01-08T07_53: O veículo da placa RRN7J58 NAO possui multas pendentes
+2026-01-08T07_53: Finalizando as consultas do veiculo com a placa: RRN7J58
+2026-01-08T07_53: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=59615): Max retries exceeded with url: /session/519b7ab9052c0718f5df6088ea8126c0/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D2A5FA0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T07_53: Iniciando o site do Detran
+2026-01-08T07_54: login realizado
+2026-01-08T07_54: O captcha foi resolvido
+2026-01-08T07_54: Consultando o veiculo
+2026-01-08T07_54: Verificando se houve erro na consulta do veiculo
+2026-01-08T07_54: Nao ouve erro
+2026-01-08T07_54: Verificando se existe debito para o veiculo
+2026-01-08T07_54: O veículo da placa RRP8H18 ainda possui pendência de licenciamento
+2026-01-08T07_54: Emitindo licenciamento
+2026-01-08T07_55: O veículo da placa RRP8H18 NAO possui multas pendentes
+2026-01-08T07_55: Finalizando as consultas do veiculo com a placa: RRP8H18
+2026-01-08T07_55: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=59712): Max retries exceeded with url: /session/c1524c1a1a5a818372a9a92fa08178c4/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D2A5310>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T07_55: Iniciando o site do Detran
+2026-01-08T07_56: login realizado
+2026-01-08T07_56: O captcha foi resolvido
+2026-01-08T07_56: Consultando o veiculo
+2026-01-08T07_56: Verificando se houve erro na consulta do veiculo
+2026-01-08T07_56: Erro - Documento N/ Confere para o veiculo RRN8C88
+2026-01-08T07_56: Finalizando as consultas do veiculo com a placa: RRN8C88
+2026-01-08T07_56: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=59899): Max retries exceeded with url: /session/818ce9ca60779930488d35ade3492ff0/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D2A5C40>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T07_56: Iniciando o site do Detran
+2026-01-08T07_57: login realizado
+2026-01-08T07_57: O captcha foi resolvido
+2026-01-08T07_57: Consultando o veiculo
+2026-01-08T07_57: Verificando se houve erro na consulta do veiculo
+2026-01-08T07_57: Nao ouve erro
+2026-01-08T07_57: Verificando se existe debito para o veiculo
+2026-01-08T07_57: O veículo da placa RRP8H68 ainda possui pendência de licenciamento
+2026-01-08T07_57: Emitindo licenciamento
+2026-01-08T07_58: O veículo da placa RRP8H68 NAO possui multas pendentes
+2026-01-08T07_58: Finalizando as consultas do veiculo com a placa: RRP8H68
+2026-01-08T07_58: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=60082): Max retries exceeded with url: /session/53df60fb610a03838d64aa138dd3aa07/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D2A6EA0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T07_58: Iniciando o site do Detran
+2026-01-08T07_59: login realizado
+2026-01-08T07_59: O captcha foi resolvido
+2026-01-08T07_59: Consultando o veiculo
+2026-01-08T07_59: Verificando se houve erro na consulta do veiculo
+2026-01-08T07_59: Erro - Documento N/ Confere para o veiculo RRR5B28
+2026-01-08T07_59: Finalizando as consultas do veiculo com a placa: RRR5B28
+2026-01-08T07_59: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=60295): Max retries exceeded with url: /session/469e85be0a1129609860b10114cc125d/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D2A4440>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T08_00: Iniciando o site do Detran
+2026-01-08T08_00: login realizado
+2026-01-08T08_01: O captcha foi resolvido
+2026-01-08T08_01: Consultando o veiculo
+2026-01-08T08_01: Verificando se houve erro na consulta do veiculo
+2026-01-08T08_01: Finalizando as consultas do veiculo com a placa: RRR5B58
+2026-01-08T08_01: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=60439): Max retries exceeded with url: /session/b1aed96bc83dbe3772c7ff0fd06f7dd9/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D2A50D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T08_01: Iniciando o site do Detran
+2026-01-08T08_02: login realizado
+2026-01-08T08_02: O captcha foi resolvido
+2026-01-08T08_02: Consultando o veiculo
+2026-01-08T08_02: Verificando se houve erro na consulta do veiculo
+2026-01-08T08_02: Nao ouve erro
+2026-01-08T08_02: Verificando se existe debito para o veiculo
+2026-01-08T08_02: O veículo da placa RRR5B78 ainda possui pendência de licenciamento
+2026-01-08T08_02: Emitindo licenciamento
+2026-01-08T08_03: O veículo da placa RRR5B78 NAO possui multas pendentes
+2026-01-08T08_03: Finalizando as consultas do veiculo com a placa: RRR5B78
+2026-01-08T08_03: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=60631): Max retries exceeded with url: /session/72e4bc85a322604e28af00281ef622bb/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D2A6870>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T08_03: Iniciando o site do Detran
+2026-01-08T08_03: login realizado
+2026-01-08T08_04: O captcha foi resolvido
+2026-01-08T08_04: Consultando o veiculo
+2026-01-08T08_04: Verificando se houve erro na consulta do veiculo
+2026-01-08T08_04: Nao ouve erro
+2026-01-08T08_04: Verificando se existe debito para o veiculo
+2026-01-08T08_04: O veículo da placa RRR5C18 ainda possui pendência de licenciamento
+2026-01-08T08_04: Emitindo licenciamento
+2026-01-08T08_04: O veículo da placa RRR5C18 possui multas pendentes
+2026-01-08T08_04: Emitindo multa
+2026-01-08T08_05: Ocorreu um erro ao processar o veiculo RRR5C18: [Errno 2] No such file or directory: 'S:\\Automacao\\bot\\MULTAS\\MULTAS - 2026 - RENAVAM 1322239913.pdf'
+2026-01-08T08_05: Iniciando o site do Detran
+2026-01-08T08_05: login realizado
+2026-01-08T08_06: O captcha foi resolvido
+2026-01-08T08_06: Consultando o veiculo
+2026-01-08T08_06: Verificando se houve erro na consulta do veiculo
+2026-01-08T08_06: Nao ouve erro
+2026-01-08T08_06: Verificando se existe debito para o veiculo
+2026-01-08T08_06: O veículo da placa RRR5C58 ainda possui pendência de licenciamento
+2026-01-08T08_06: Emitindo licenciamento
+2026-01-08T08_06: O veículo da placa RRR5C58 possui multas pendentes
+2026-01-08T08_06: Emitindo multa
+2026-01-08T08_07: Ocorreu um erro ao processar o veiculo RRR5C58: [Errno 2] No such file or directory: 'S:\\Automacao\\bot\\MULTAS\\MULTAS - 2026 - RENAVAM 1322240563.pdf'
+2026-01-08T08_07: Iniciando o site do Detran
+2026-01-08T08_07: login realizado
+2026-01-08T08_08: O captcha foi resolvido
+2026-01-08T08_08: Consultando o veiculo
+2026-01-08T08_08: Verificando se houve erro na consulta do veiculo
+2026-01-08T08_08: Nao ouve erro
+2026-01-08T08_08: Verificando se existe debito para o veiculo
+2026-01-08T08_08: O veículo da placa RRR5C78 ainda possui pendência de licenciamento
+2026-01-08T08_08: Emitindo licenciamento
+2026-01-08T08_08: O veículo da placa RRR5C78 possui multas pendentes
+2026-01-08T08_08: Emitindo multa
+2026-01-08T08_09: Ocorreu um erro ao processar o veiculo RRR5C78: [Errno 2] No such file or directory: 'S:\\Automacao\\bot\\MULTAS\\MULTAS - 2026 - RENAVAM 1322241519.pdf'
+2026-01-08T08_09: Iniciando o site do Detran
+2026-01-08T08_09: login realizado
+2026-01-08T08_10: O captcha foi resolvido
+2026-01-08T08_10: Consultando o veiculo
+2026-01-08T08_10: Verificando se houve erro na consulta do veiculo
+2026-01-08T08_10: Nao ouve erro
+2026-01-08T08_10: Verificando se existe debito para o veiculo
+2026-01-08T08_10: O veículo da placa RRR5C88 ainda possui pendência de licenciamento
+2026-01-08T08_10: Emitindo licenciamento
+2026-01-08T08_10: O veículo da placa RRR5C88 NAO possui multas pendentes
+2026-01-08T08_10: Finalizando as consultas do veiculo com a placa: RRR5C88
+2026-01-08T08_10: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=61370): Max retries exceeded with url: /session/cd2d2cacf5cc624bc6226c16a86d915d/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D296810>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T08_11: Iniciando o site do Detran
+2026-01-08T08_11: login realizado
+2026-01-08T08_12: O captcha foi resolvido
+2026-01-08T08_12: Consultando o veiculo
+2026-01-08T08_12: Verificando se houve erro na consulta do veiculo
+2026-01-08T08_12: Erro - Documento N/ Confere para o veiculo RRR5A98
+2026-01-08T08_12: Finalizando as consultas do veiculo com a placa: RRR5A98
+2026-01-08T08_12: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=61471): Max retries exceeded with url: /session/1a20ddf34f233931195d60359e0fa61b/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D295490>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T08_12: Iniciando o site do Detran
+2026-01-08T08_13: login realizado
+2026-01-08T08_13: O captcha foi resolvido
+2026-01-08T08_13: Consultando o veiculo
+2026-01-08T08_13: Verificando se houve erro na consulta do veiculo
+2026-01-08T08_13: Erro - Documento N/ Confere para o veiculo RRS5A48
+2026-01-08T08_13: Finalizando as consultas do veiculo com a placa: RRS5A48
+2026-01-08T08_13: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=61563): Max retries exceeded with url: /session/6ad71962bd5315725849e23353c386c6/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D295BE0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T08_13: Iniciando o site do Detran
+2026-01-08T08_14: login realizado
+2026-01-08T08_14: O captcha foi resolvido
+2026-01-08T08_14: Consultando o veiculo
+2026-01-08T08_14: Verificando se houve erro na consulta do veiculo
+2026-01-08T08_14: Erro - Documento N/ Confere para o veiculo RRS7A98
+2026-01-08T08_14: Finalizando as consultas do veiculo com a placa: RRS7A98
+2026-01-08T08_14: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=61707): Max retries exceeded with url: /session/515f2a3337079d8bbbf521172ed17fc2/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D294F50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T08_15: Iniciando o site do Detran
+2026-01-08T08_15: login realizado
+2026-01-08T08_16: O captcha foi resolvido
+2026-01-08T08_16: Consultando o veiculo
+2026-01-08T08_16: Verificando se houve erro na consulta do veiculo
+2026-01-08T08_16: Nao ouve erro
+2026-01-08T08_16: Verificando se existe debito para o veiculo
+2026-01-08T08_16: O veículo da placa RRS7B38 ainda possui pendência de licenciamento
+2026-01-08T08_16: Emitindo licenciamento
+2026-01-08T08_16: O veículo da placa RRS7B38 NAO possui multas pendentes
+2026-01-08T08_16: Finalizando as consultas do veiculo com a placa: RRS7B38
+2026-01-08T08_16: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=61937): Max retries exceeded with url: /session/18fe91584e5f80ebd55bd2509cab5134/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D294C20>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T08_16: Iniciando o site do Detran
+2026-01-08T08_17: login realizado
+2026-01-08T08_17: O captcha foi resolvido
+2026-01-08T08_17: Consultando o veiculo
+2026-01-08T08_17: Verificando se houve erro na consulta do veiculo
+2026-01-08T08_17: Nao ouve erro
+2026-01-08T08_17: Verificando se existe debito para o veiculo
+2026-01-08T08_17: O veículo da placa RRS7B88 ainda possui pendência de licenciamento
+2026-01-08T08_17: Emitindo licenciamento
+2026-01-08T08_18: O veículo da placa RRS7B88 NAO possui multas pendentes
+2026-01-08T08_18: Finalizando as consultas do veiculo com a placa: RRS7B88
+2026-01-08T08_18: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=62279): Max retries exceeded with url: /session/74c08120bf968d5dd8704db693c3ad7e/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D296F90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T08_18: Iniciando o site do Detran
+2026-01-08T08_19: login realizado
+2026-01-08T08_19: O captcha foi resolvido
+2026-01-08T08_19: Consultando o veiculo
+2026-01-08T08_19: Verificando se houve erro na consulta do veiculo
+2026-01-08T08_19: Erro - Documento N/ Confere para o veiculo RRS7C08
+2026-01-08T08_19: Finalizando as consultas do veiculo com a placa: RRS7C08
+2026-01-08T08_19: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=62587): Max retries exceeded with url: /session/8358d24b94f1003e9db52da3b705cf72/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D2CBC20>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T08_19: Iniciando o site do Detran
+2026-01-08T08_20: login realizado
+2026-01-08T08_20: O captcha foi resolvido
+2026-01-08T08_20: Consultando o veiculo
+2026-01-08T08_20: Verificando se houve erro na consulta do veiculo
+2026-01-08T08_20: Erro - Documento N/ Confere para o veiculo RRS7C18
+2026-01-08T08_20: Finalizando as consultas do veiculo com a placa: RRS7C18
+2026-01-08T08_20: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=62789): Max retries exceeded with url: /session/32f934f22f62a958dbbb72fbe2be8c67/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D2C9100>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T08_21: Iniciando o site do Detran
+2026-01-08T08_21: login realizado
+2026-01-08T08_22: O captcha foi resolvido
+2026-01-08T08_22: Consultando o veiculo
+2026-01-08T08_22: Verificando se houve erro na consulta do veiculo
+2026-01-08T08_22: Nao ouve erro
+2026-01-08T08_22: Verificando se existe debito para o veiculo
+2026-01-08T08_22: O veículo da placa RRW5F68 ainda possui pendência de licenciamento
+2026-01-08T08_22: Emitindo licenciamento
+2026-01-08T08_22: O veículo da placa RRW5F68 possui multas pendentes
+2026-01-08T08_22: Emitindo multa
+2026-01-08T08_22: Ocorreu um erro ao processar o veiculo RRW5F68: [Errno 2] No such file or directory: 'S:\\Automacao\\bot\\MULTAS\\MULTAS - 2026 - RENAVAM 1353978173.pdf'
+2026-01-08T08_23: Iniciando o site do Detran
+2026-01-08T08_23: login realizado
+2026-01-08T08_24: O captcha foi resolvido
+2026-01-08T08_24: Consultando o veiculo
+2026-01-08T08_24: Verificando se houve erro na consulta do veiculo
+2026-01-08T08_24: Nao ouve erro
+2026-01-08T08_24: Verificando se existe debito para o veiculo
+2026-01-08T08_24: O veículo da placa SFA7D18 ainda possui pendência de licenciamento
+2026-01-08T08_24: Emitindo licenciamento
+2026-01-08T08_24: O veículo da placa SFA7D18 NAO possui multas pendentes
+2026-01-08T08_24: Finalizando as consultas do veiculo com a placa: SFA7D18
+2026-01-08T08_24: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=63289): Max retries exceeded with url: /session/f42c56e47fc8da679698bbf85e7687d4/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D2C9BB0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T08_24: Iniciando o site do Detran
+2026-01-08T08_25: login realizado
+2026-01-08T08_25: O captcha foi resolvido
+2026-01-08T08_25: Consultando o veiculo
+2026-01-08T08_25: Verificando se houve erro na consulta do veiculo
+2026-01-08T08_25: Nao ouve erro
+2026-01-08T08_25: Verificando se existe debito para o veiculo
+2026-01-08T08_25: O veículo da placa RRN3C18 ainda possui pendência de licenciamento
+2026-01-08T08_25: Emitindo licenciamento
+2026-01-08T08_25: O veículo da placa RRN3C18 possui multas pendentes
+2026-01-08T08_25: Emitindo multa
+2026-01-08T08_26: Ocorreu um erro ao processar o veiculo RRN3C18: [Errno 2] No such file or directory: 'S:\\Automacao\\bot\\MULTAS\\MULTAS - 2026 - RENAVAM 1302625087.pdf'
+2026-01-08T08_26: Iniciando o site do Detran
+2026-01-08T08_27: login realizado
+2026-01-08T08_27: O captcha foi resolvido
+2026-01-08T08_27: Consultando o veiculo
+2026-01-08T08_27: Verificando se houve erro na consulta do veiculo
+2026-01-08T08_27: Nao ouve erro
+2026-01-08T08_27: Verificando se existe debito para o veiculo
+2026-01-08T08_27: O veículo da placa BDR1788 ainda possui pendência de licenciamento
+2026-01-08T08_27: Emitindo licenciamento
+2026-01-08T08_27: O veículo da placa BDR1788 possui multas pendentes
+2026-01-08T08_27: Emitindo multa
+2026-01-08T08_28: Ocorreu um erro ao processar o veiculo BDR1788: [Errno 2] No such file or directory: 'S:\\Automacao\\bot\\MULTAS\\MULTAS - 2026 - RENAVAM 522409407.pdf'
+2026-01-08T08_28: Iniciando o site do Detran
+2026-01-08T08_28: login realizado
+2026-01-08T08_29: O captcha foi resolvido
+2026-01-08T08_29: Consultando o veiculo
+2026-01-08T08_29: Verificando se houve erro na consulta do veiculo
+2026-01-08T08_29: Nao ouve erro
+2026-01-08T08_29: Verificando se existe debito para o veiculo
+2026-01-08T08_29: O veículo da placa QCX8E58 ainda possui pendência de licenciamento
+2026-01-08T08_29: Emitindo licenciamento
+2026-01-08T08_29: O veículo da placa QCX8E58 NAO possui multas pendentes
+2026-01-08T08_29: Finalizando as consultas do veiculo com a placa: QCX8E58
+2026-01-08T08_29: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=64169): Max retries exceeded with url: /session/01260a358a27b5052cebde8b15b8ddb4/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D2CAC90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T08_30: Iniciando o site do Detran
+2026-01-08T08_30: login realizado
+2026-01-08T08_31: O captcha foi resolvido
+2026-01-08T08_31: Consultando o veiculo
+2026-01-08T08_31: Verificando se houve erro na consulta do veiculo
+2026-01-08T08_31: Nao ouve erro
+2026-01-08T08_31: Verificando se existe debito para o veiculo
+2026-01-08T08_31: O veículo da placa QCK0G48 ainda possui pendência de licenciamento
+2026-01-08T08_31: Emitindo licenciamento
+2026-01-08T08_31: O veículo da placa QCK0G48 NAO possui multas pendentes
+2026-01-08T08_31: Finalizando as consultas do veiculo com a placa: QCK0G48
+2026-01-08T08_31: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=64522): Max retries exceeded with url: /session/5e6b401cdd754e26f269b8ca7a7036bd/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D2CAC30>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T08_31: Iniciando o site do Detran
+2026-01-08T08_32: login realizado
+2026-01-08T08_32: O captcha foi resolvido
+2026-01-08T08_32: Consultando o veiculo
+2026-01-08T08_32: Verificando se houve erro na consulta do veiculo
+2026-01-08T08_32: Nao ouve erro
+2026-01-08T08_32: Verificando se existe debito para o veiculo
+2026-01-08T08_32: O veículo da placa OAT5518 ainda possui pendência de licenciamento
+2026-01-08T08_32: Emitindo licenciamento
+2026-01-08T08_33: O veículo da placa OAT5518 NAO possui multas pendentes
+2026-01-08T08_33: Finalizando as consultas do veiculo com a placa: OAT5518
+2026-01-08T08_33: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=64883): Max retries exceeded with url: /session/77089cff7bdb669c70b69436cc7d0638/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D2C8FB0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T08_33: Iniciando o site do Detran
+2026-01-08T08_33: login realizado
+2026-01-08T08_34: O captcha foi resolvido
+2026-01-08T08_34: Consultando o veiculo
+2026-01-08T08_34: Verificando se houve erro na consulta do veiculo
+2026-01-08T08_34: Erro - Documento N/ Confere para o veiculo DXH1D78
+2026-01-08T08_34: Finalizando as consultas do veiculo com a placa: DXH1D78
+2026-01-08T08_34: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=65062): Max retries exceeded with url: /session/081687527ae113fe5d51de8c13eed513/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D2CB5F0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T08_34: Iniciando o site do Detran
+2026-01-08T08_35: login realizado
+2026-01-08T08_36: O captcha foi resolvido
+2026-01-08T08_36: Consultando o veiculo
+2026-01-08T08_36: Verificando se houve erro na consulta do veiculo
+2026-01-08T08_36: Nao ouve erro
+2026-01-08T08_36: Verificando se existe debito para o veiculo
+2026-01-08T08_36: O veículo da placa SPM9F98 ainda possui pendência de licenciamento
+2026-01-08T08_36: Emitindo licenciamento
+2026-01-08T08_36: O veículo da placa SPM9F98 NAO possui multas pendentes
+2026-01-08T08_36: Finalizando as consultas do veiculo com a placa: SPM9F98
+2026-01-08T08_36: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=65237): Max retries exceeded with url: /session/fb43d09fb00637534cd913aba60a62c2/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D2C2930>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T08_36: Iniciando o site do Detran
+2026-01-08T08_37: login realizado
+2026-01-08T08_38: O captcha foi resolvido
+2026-01-08T08_38: Consultando o veiculo
+2026-01-08T08_38: Verificando se houve erro na consulta do veiculo
+2026-01-08T08_38: Nao ouve erro
+2026-01-08T08_38: Verificando se existe debito para o veiculo
+2026-01-08T08_38: O veículo da placa RRN8A98 ainda possui pendência de licenciamento
+2026-01-08T08_38: Emitindo licenciamento
+2026-01-08T08_38: O veículo da placa RRN8A98 NAO possui multas pendentes
+2026-01-08T08_38: Finalizando as consultas do veiculo com a placa: RRN8A98
+2026-01-08T08_38: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=49195): Max retries exceeded with url: /session/63112a395f2a71fd4c92f8b079cbdd0c/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D2C8680>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T08_38: Iniciando o site do Detran
+2026-01-08T08_39: login realizado
+2026-01-08T08_39: O captcha foi resolvido
+2026-01-08T08_39: Consultando o veiculo
+2026-01-08T08_39: Verificando se houve erro na consulta do veiculo
+2026-01-08T08_39: Nao ouve erro
+2026-01-08T08_39: Verificando se existe debito para o veiculo
+2026-01-08T08_39: O veículo da placa QCE2C08 ainda possui pendência de licenciamento
+2026-01-08T08_39: Emitindo licenciamento
+2026-01-08T08_40: O veículo da placa QCE2C08 NAO possui multas pendentes
+2026-01-08T08_40: Finalizando as consultas do veiculo com a placa: QCE2C08
+2026-01-08T08_40: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=49585): Max retries exceeded with url: /session/9219da4eee8e11f00c789a302149ef93/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D2C2210>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T08_40: Iniciando o site do Detran
+2026-01-08T08_41: login realizado
+2026-01-08T08_41: O captcha foi resolvido
+2026-01-08T08_41: Consultando o veiculo
+2026-01-08T08_41: Verificando se houve erro na consulta do veiculo
+2026-01-08T08_41: Nao ouve erro
+2026-01-08T08_41: Verificando se existe debito para o veiculo
+2026-01-08T08_41: O veículo da placa SPI9F78 ainda possui pendência de licenciamento
+2026-01-08T08_41: Emitindo licenciamento
+2026-01-08T08_42: O veículo da placa SPI9F78 possui multas pendentes
+2026-01-08T08_42: Emitindo multa
+2026-01-08T08_42: Ocorreu um erro ao processar o veiculo SPI9F78: [Errno 2] No such file or directory: 'S:\\Automacao\\bot\\MULTAS\\MULTAS - 2026 - RENAVAM 1398734745.pdf'
+2026-01-08T08_42: Iniciando o site do Detran
+2026-01-08T08_43: login realizado
+2026-01-08T08_43: O captcha foi resolvido
+2026-01-08T08_43: Consultando o veiculo
+2026-01-08T08_43: Verificando se houve erro na consulta do veiculo
+2026-01-08T08_43: Nao ouve erro
+2026-01-08T08_43: Verificando se existe debito para o veiculo
+2026-01-08T08_43: O veículo da placa DXZ8618 ainda possui pendência de licenciamento
+2026-01-08T08_43: Emitindo licenciamento
+2026-01-08T08_43: O veículo da placa DXZ8618 NAO possui multas pendentes
+2026-01-08T08_43: Finalizando as consultas do veiculo com a placa: DXZ8618
+2026-01-08T08_44: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=49834): Max retries exceeded with url: /session/4913feeb4bdb485896147ca58f321dda/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D2C1640>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T08_44: Iniciando o site do Detran
+2026-01-08T08_44: login realizado
+2026-01-08T08_45: O captcha foi resolvido
+2026-01-08T08_45: Consultando o veiculo
+2026-01-08T08_45: Verificando se houve erro na consulta do veiculo
+2026-01-08T08_45: Nao ouve erro
+2026-01-08T08_45: Verificando se existe debito para o veiculo
+2026-01-08T08_45: O veículo da placa SPJ9C28 ainda possui pendência de licenciamento
+2026-01-08T08_45: Emitindo licenciamento
+2026-01-08T08_45: O veículo da placa SPJ9C28 NAO possui multas pendentes
+2026-01-08T08_45: Finalizando as consultas do veiculo com a placa: SPJ9C28
+2026-01-08T08_45: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=50141): Max retries exceeded with url: /session/5fc20739470cf11441aa3799199558ee/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D2C3AA0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T08_45: Iniciando o site do Detran
+2026-01-08T08_46: login realizado
+2026-01-08T08_47: O captcha foi resolvido
+2026-01-08T08_47: Consultando o veiculo
+2026-01-08T08_47: Verificando se houve erro na consulta do veiculo
+2026-01-08T08_47: Nao ouve erro
+2026-01-08T08_47: Verificando se existe debito para o veiculo
+2026-01-08T08_47: O veículo da placa SPM9F38 ainda possui pendência de licenciamento
+2026-01-08T08_47: Emitindo licenciamento
+2026-01-08T08_47: O veículo da placa SPM9F38 NAO possui multas pendentes
+2026-01-08T08_47: Finalizando as consultas do veiculo com a placa: SPM9F38
+2026-01-08T08_47: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=50344): Max retries exceeded with url: /session/a53e7de5e4af870ba8048e3ba0d51f25/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D2C0E90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T08_47: Iniciando o site do Detran
+2026-01-08T08_48: login realizado
+2026-01-08T08_48: O captcha foi resolvido
+2026-01-08T08_48: Consultando o veiculo
+2026-01-08T08_48: Verificando se houve erro na consulta do veiculo
+2026-01-08T08_48: Nao ouve erro
+2026-01-08T08_48: Verificando se existe debito para o veiculo
+2026-01-08T08_48: O veículo da placa RRV5J78 ainda possui pendência de licenciamento
+2026-01-08T08_48: Emitindo licenciamento
+2026-01-08T08_49: O veículo da placa RRV5J78 NAO possui multas pendentes
+2026-01-08T08_49: Finalizando as consultas do veiculo com a placa: RRV5J78
+2026-01-08T08_49: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=50580): Max retries exceeded with url: /session/bd24214bf6ee73a4abdaf920197fdd15/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D2C1370>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T08_49: Iniciando o site do Detran
+2026-01-08T08_49: login realizado
+2026-01-08T08_50: O captcha foi resolvido
+2026-01-08T08_50: Consultando o veiculo
+2026-01-08T08_50: Verificando se houve erro na consulta do veiculo
+2026-01-08T08_50: Nao ouve erro
+2026-01-08T08_50: Verificando se existe debito para o veiculo
+2026-01-08T08_50: O veículo da placa CDL8748 ainda possui pendência de licenciamento
+2026-01-08T08_50: Emitindo licenciamento
+2026-01-08T08_50: O veículo da placa CDL8748 NAO possui multas pendentes
+2026-01-08T08_50: Finalizando as consultas do veiculo com a placa: CDL8748
+2026-01-08T08_51: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=50666): Max retries exceeded with url: /session/62c6a85911d781bc76293eef3433a68e/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D2C3B60>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T08_51: Iniciando o site do Detran
+2026-01-08T08_51: login realizado
+2026-01-08T08_52: O captcha foi resolvido
+2026-01-08T08_52: Consultando o veiculo
+2026-01-08T08_52: Verificando se houve erro na consulta do veiculo
+2026-01-08T08_52: Nao ouve erro
+2026-01-08T08_52: Verificando se existe debito para o veiculo
+2026-01-08T08_52: O veículo da placa QCO9A48 ainda possui pendência de licenciamento
+2026-01-08T08_52: Emitindo licenciamento
+2026-01-08T08_52: O veículo da placa QCO9A48 NAO possui multas pendentes
+2026-01-08T08_52: Finalizando as consultas do veiculo com a placa: QCO9A48
+2026-01-08T08_52: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=50885): Max retries exceeded with url: /session/e120c0e9ff60691a9fea00dff03be513/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D296660>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T08_52: Iniciando o site do Detran
+2026-01-08T08_53: login realizado
+2026-01-08T08_53: O captcha foi resolvido
+2026-01-08T08_53: Consultando o veiculo
+2026-01-08T08_53: Verificando se houve erro na consulta do veiculo
+2026-01-08T08_53: Nao ouve erro
+2026-01-08T08_53: Verificando se existe debito para o veiculo
+2026-01-08T08_53: O veículo da placa SPJ8J28 ainda possui pendência de licenciamento
+2026-01-08T08_53: Emitindo licenciamento
+2026-01-08T08_54: O veículo da placa SPJ8J28 NAO possui multas pendentes
+2026-01-08T08_54: Finalizando as consultas do veiculo com a placa: SPJ8J28
+2026-01-08T08_54: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=50978): Max retries exceeded with url: /session/a70527f162ad276f2d1e9aab36d14675/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D61C380>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T08_54: Iniciando o site do Detran
+2026-01-08T08_55: login realizado
+2026-01-08T08_55: O captcha foi resolvido
+2026-01-08T08_55: Consultando o veiculo
+2026-01-08T08_55: Verificando se houve erro na consulta do veiculo
+2026-01-08T08_55: Nao ouve erro
+2026-01-08T08_55: Verificando se existe debito para o veiculo
+2026-01-08T08_55: O veículo da placa SPJ5E28 ainda possui pendência de licenciamento
+2026-01-08T08_55: Emitindo licenciamento
+2026-01-08T08_55: O veículo da placa SPJ5E28 NAO possui multas pendentes
+2026-01-08T08_55: Finalizando as consultas do veiculo com a placa: SPJ5E28
+2026-01-08T08_56: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=51074): Max retries exceeded with url: /session/2cb123a86f8a197f6103a324796e36bd/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D61E990>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T08_56: Iniciando o site do Detran
+2026-01-08T08_56: login realizado
+2026-01-08T08_57: O captcha foi resolvido
+2026-01-08T08_57: Consultando o veiculo
+2026-01-08T08_57: Verificando se houve erro na consulta do veiculo
+2026-01-08T08_57: Nao ouve erro
+2026-01-08T08_57: Verificando se existe debito para o veiculo
+2026-01-08T08_57: O veículo da placa QCB5H08 ainda possui pendência de licenciamento
+2026-01-08T08_57: Emitindo licenciamento
+2026-01-08T08_57: O veículo da placa QCB5H08 NAO possui multas pendentes
+2026-01-08T08_57: Finalizando as consultas do veiculo com a placa: QCB5H08
+2026-01-08T08_57: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=51311): Max retries exceeded with url: /session/1b917a4ec502923f37874b7d94159272/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D2C0BC0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T08_57: Iniciando o site do Detran
+2026-01-08T08_58: login realizado
+2026-01-08T08_59: O captcha foi resolvido
+2026-01-08T08_59: Consultando o veiculo
+2026-01-08T08_59: Verificando se houve erro na consulta do veiculo
+2026-01-08T08_59: Nao ouve erro
+2026-01-08T08_59: Verificando se existe debito para o veiculo
+2026-01-08T08_59: O veículo da placa RRP8C48 ainda possui pendência de licenciamento
+2026-01-08T08_59: Emitindo licenciamento
+2026-01-08T08_59: O veículo da placa RRP8C48 NAO possui multas pendentes
+2026-01-08T08_59: Finalizando as consultas do veiculo com a placa: RRP8C48
+2026-01-08T09_00: Não foi possível acessar as janelas do navegador: HTTPConnectionPool(host='localhost', port=51582): Max retries exceeded with url: /session/31de25f8f08acc112b0b953abbf4aefc/window/handles (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001658D61E480>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2026-01-08T09_00: Iniciando o site do Detran

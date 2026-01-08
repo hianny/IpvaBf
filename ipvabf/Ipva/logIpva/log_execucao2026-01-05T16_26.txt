@@ -1,0 +1,36 @@
+2026-01-05T16_26: Iniciando execução do processo SEFAZ-IPVA
+2026-01-05T16_26: Erro crítico na execução principal: ORA-00903: invalid table name
+Help: https://docs.oracle.com/error-help/db/ora-00903/
+2026-01-05T16_26: Iniciando execução do processo SEFAZ-IPVA
+2026-01-05T16_26: Total de veículos encontrados: 551
+2026-01-05T16_26: Configurando Chrome...
+2026-01-05T16_26: Iniciando ChromeDriver com undetected_chromedriver...
+2026-01-05T16_26: Erro crítico na execução principal: Message: session not created: cannot connect to chrome at 127.0.0.1:58144
+from session not created: This version of ChromeDriver only supports Chrome version 143
+Current browser version is 142.0.7444.176
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x5d12d3
+	0x5d1314
+	0x3be6dd
+	0x3fa958
+	0x3f9992
+	0x3efbe5
+	0x3efa16
+	0x437826
+	0x437047
+	0x42b2e6
+	0x3fd321
+	0x3fe1d4
+	0x825314
+	0x8208cb
+	0x83d1aa
+	0x5eb1d8
+	0x5f31dd
+	0x5d95d8
+	0x5d9799
+	0x5c3b28
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+

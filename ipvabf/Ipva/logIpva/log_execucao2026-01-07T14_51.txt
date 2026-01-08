@@ -1,0 +1,159 @@
+2026-01-07T14_51: Iniciando execução do processo SEFAZ-IPVA
+2026-01-07T14_51: Total de veículos encontrados: 551
+2026-01-07T14_51: Configurando Chrome...
+2026-01-07T14_51: Iniciando ChromeDriver com undetected_chromedriver...
+2026-01-07T14_51: Acessando página inicial: https://www.sefaz.mt.gov.br/ipva/emissaoguia/emitir
+2026-01-07T14_51: [1/551] Processando veículo: RENAVAM=1034575195, CPF/CNPJ=10425282000122, CHASSI=93ZM1RGH0E8924619        
+2026-01-07T14_52: CPF/CNPJ preenchido: 10425282000122
+2026-01-07T14_52: RENAVAM preenchido: 1034575195
+2026-01-07T14_52: CHASSI preenchido: 93ZM1RGH0E8924619        
+2026-01-07T14_52: O captcha foi resolvido e o callback disparado
+2026-01-07T14_52: Nenhuma mensagem de débito encontrada. Continuando processamento...
+2026-01-07T14_52: Erro ao processar veículo 1034575195: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//tbody[@id='cota1']//tr[td[2][contains(text(), '5%')]]/td[1]/input"}
+  (Session info: chrome=142.0.7444.176); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1234103
+	0x1234144
+	0x103e71d
+	0x108a03d
+	0x108a41b
+	0x10d17f2
+	0x10ac954
+	0x10cee17
+	0x10ac706
+	0x107da30
+	0x107ed54
+	0x14a57b4
+	0x14a098a
+	0x125c392
+	0x124c4c8
+	0x125324d
+	0x123c478
+	0x123c63c
+	0x12267ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-07T14_52: [2/551] Processando veículo: RENAVAM=1035983750, CPF/CNPJ=10425282000122, CHASSI=93ZM1RGH0D8923977        
+2026-01-07T14_52: Erro ao processar veículo 1035983750: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1234103
+	0x1234144
+	0x103e71d
+	0x108a03d
+	0x108a41b
+	0x10d17f2
+	0x10ac954
+	0x10cee17
+	0x10ac706
+	0x107da30
+	0x107ed54
+	0x14a57b4
+	0x14a098a
+	0x125c392
+	0x124c4c8
+	0x125324d
+	0x123c478
+	0x123c63c
+	0x12267ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-07T14_52: [3/551] Processando veículo: RENAVAM=1039180563, CPF/CNPJ=10425282003652, CHASSI=9533G8242ER439433        
+2026-01-07T14_53: CPF/CNPJ preenchido: 10425282003652
+2026-01-07T14_53: RENAVAM preenchido: 1039180563
+2026-01-07T14_53: CHASSI preenchido: 9533G8242ER439433        
+2026-01-07T14_53: O captcha foi resolvido e o callback disparado
+2026-01-07T14_53: Nenhuma mensagem de débito encontrada. Continuando processamento...
+2026-01-07T14_53: Erro ao processar veículo 1039180563: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//tbody[@id='cota1']//tr[td[2][contains(text(), '5%')]]/td[1]/input"}
+  (Session info: chrome=142.0.7444.176); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1234103
+	0x1234144
+	0x103e71d
+	0x108a03d
+	0x108a41b
+	0x10d17f2
+	0x10ac954
+	0x10cee17
+	0x10ac706
+	0x107da30
+	0x107ed54
+	0x14a57b4
+	0x14a098a
+	0x125c392
+	0x124c4c8
+	0x125324d
+	0x123c478
+	0x123c63c
+	0x12267ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-07T14_53: [4/551] Processando veículo: RENAVAM=1078372001, CPF/CNPJ=10425282004209, CHASSI=9C2KD1000GR011826        
+2026-01-07T14_53: Erro ao processar veículo 1078372001: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1234103
+	0x1234144
+	0x103e71d
+	0x108a03d
+	0x108a41b
+	0x10d17f2
+	0x10ac954
+	0x10cee17
+	0x10ac706
+	0x107da30
+	0x107ed54
+	0x14a57b4
+	0x14a098a
+	0x125c392
+	0x124c4c8
+	0x125324d
+	0x123c478
+	0x123c63c
+	0x12267ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-07T14_53: [5/551] Processando veículo: RENAVAM=1109421190, CPF/CNPJ=10425282004209, CHASSI=9533172S0ER427114        
+2026-01-07T14_53: CPF/CNPJ preenchido: 10425282004209
+2026-01-07T14_53: RENAVAM preenchido: 1109421190
+2026-01-07T14_53: CHASSI preenchido: 9533172S0ER427114        
+2026-01-07T14_54: O captcha foi resolvido e o callback disparado
+2026-01-07T14_54: Nenhuma mensagem de débito encontrada. Continuando processamento...
+2026-01-07T14_54: Erro ao processar veículo 1109421190: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//tbody[@id='cota1']//tr[td[2][contains(text(), '5%')]]/td[1]/input"}
+  (Session info: chrome=142.0.7444.176); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1234103
+	0x1234144
+	0x103e71d
+	0x108a03d
+	0x108a41b
+	0x10d17f2
+	0x10ac954
+	0x10cee17
+	0x10ac706
+	0x107da30
+	0x107ed54
+	0x14a57b4
+	0x14a098a
+	0x125c392
+	0x124c4c8
+	0x125324d
+	0x123c478
+	0x123c63c
+	0x12267ca
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-07T14_54: [6/551] Processando veículo: RENAVAM=1110408436, CPF/CNPJ=10425282003229, CHASSI=9A9S3CTS8H1AH8012        

@@ -19,8 +19,8 @@ def mainObterDados(finalPlaca):
                     print(row)
                     ObterDadosMultasDB.veiculoIndividual(row['PLACA'], row['RENAVAM'], row['CHASSIS'], row['GRUPO'])
                     ObterDadosMultasDB.InserirDadosTabela(row['PLACA'], row['RENAVAM'], row['CHASSIS'], row['GRUPO'])
-                    numDoc = ObterDadosMultasDB.RetornoVeiculosIpva(row['PLACA'],row['CHASSIS'],tabela_ipva) #peha o num documento da utima tabela de ipva e lic
-                    ObterDadosMultasDB.InserirNumDoc(row['PLACA'],row['CHASSIS'],numDoc)
+                    ObterDadosMultasDB.RetornoVeiculosIpva(row['PLACA'],row['CHASSIS'],tabela_ipva) #pega o num documento da utima tabela de ipva e lic
+                    #ObterDadosMultasDB.InserirNumDoc(row['PLACA'],row['CHASSIS'],numDoc)
                     
                 except Exception as e:
                     print(f"O VEICULO COM A PLACA {row['PLACA']} DEU ERRO: {e}")
@@ -30,6 +30,8 @@ def mainObterDados(finalPlaca):
         pass
         
 if __name__ == "__main__":
-    if len(sys.argv) > 1:
-        final_placa = sys.argv[1]
-        mainObterDados(final_placa)
+    #if len(sys.argv) > 1:
+    #    final_placa = sys.argv[1]
+    #    mainObterDados(final_placa)
+    final_placa = '1'
+    mainObterDados(final_placa)
