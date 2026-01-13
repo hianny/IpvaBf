@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b7e1c5bb-8d8e-4658-9003-30cccaf5b86f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.python-version" beforeDir="false" afterPath="$PROJECT_DIR$/.python-version" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ipvabf/Licenciamento/MainLicenciamento copy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ipvabf/Licenciamento/MainLicenciamento.py" beforeDir="false" afterPath="$PROJECT_DIR$/ipvabf/Licenciamento/MainLicenciamento.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ipvabf/Licenciamento/ObterDadosLicenciamentoDB copy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ipvabf/Licenciamento/ObterResultadoFinalDB copy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ipvabf/Licenciamento/RodarLicMultas0.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ipvabf/Licenciamento/RodarLicMultas1.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ipvabf/Licenciamento/RodarLicMultas2.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ipvabf/Licenciamento/RodarLicMultas3.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ipvabf/Licenciamento/RodarLicMultas4.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ipvabf/Licenciamento/RodarLicMultas5.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ipvabf/Licenciamento/RodarLicMultas6.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ipvabf/Licenciamento/RodarLicMultas7.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ipvabf/Licenciamento/RodarLicMultas8.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ipvabf/Licenciamento/RodarLicMultas9.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ipvabf/Licenciamento/RodarLicMultasERRO.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ipvabf/Licenciamento/captchaLicenciamento.py" beforeDir="false" afterPath="$PROJECT_DIR$/ipvabf/Licenciamento/captchaLicenciamento.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ipvabf/Licenciamento/escreveLog.py" beforeDir="false" afterPath="$PROJECT_DIR$/ipvabf/Licenciamento/escreveLog.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ipvabf/ObterDados/MainObterDadosbkp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ipvabf/ObterDados/ObterDadosDBbkp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry.lock" beforeDir="false" afterPath="$PROJECT_DIR$/poetry.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;anniebf&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/hianny/IpvaBf.git&quot;,
+    &quot;accountId&quot;: &quot;4146924c-08e3-40a6-b3bd-7ea2af9feed5&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="31SfGAeZxPNCn1iSXx0cjW74icq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.MainLicenciamento.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.ObterDadosLicenciamentoDB.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.ResultadoEmail.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.escreveLog.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;docker&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/IpvaBf/IPVABF&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-PY-252.23892.515" />
+        <option value="bundled-python-sdk-7e47963ff851-f0eec537fc84-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.515" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7e1c5bb-8d8e-4658-9003-30cccaf5b86f" name="Changes" comment="" />
+      <created>1755522296041</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755522296041</updated>
+      <workItem from="1755522297429" duration="863000" />
+      <workItem from="1755782062115" duration="609000" />
+      <workItem from="1755873080074" duration="1548000" />
+      <workItem from="1756730611627" duration="3575000" />
+      <workItem from="1756758062985" duration="595000" />
+      <workItem from="1756824857812" duration="5100000" />
+      <workItem from="1756856319586" duration="2658000" />
+      <workItem from="1756985551299" duration="1187000" />
+      <workItem from="1757073882578" duration="124000" />
+      <workItem from="1758638647395" duration="954000" />
+      <workItem from="1758718019746" duration="213000" />
+      <workItem from="1765886876254" duration="14644000" />
+      <workItem from="1767638795579" duration="1198000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ipvabf/Licenciamento/MainLicenciamento.py</url>
+          <line>316</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ipvabf/Licenciamento/MainLicenciamento.py</url>
+          <line>339</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ipvabf/Licenciamento/MainLicenciamento.py</url>
+          <line>325</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ipvabf/Licenciamento/MainLicenciamento.py</url>
+          <line>346</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/IPVABF$MainLicenciamento.coverage" NAME="MainLicenciamento Coverage Results" MODIFIED="1765895441577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ipvabf/Licenciamento" />
+    <SUITE FILE_PATH="coverage/IPVABF$ObterDadosLicenciamentoDB.coverage" NAME="ObterDadosLicenciamentoDB Coverage Results" MODIFIED="1765894229067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ipvabf/Licenciamento" />
+    <SUITE FILE_PATH="coverage/IPVABF$ResultadoEmail.coverage" NAME="ResultadoEmail Coverage Results" MODIFIED="1765891626845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ipvabf/Licenciamento" />
+    <SUITE FILE_PATH="coverage/IPVABF$escreveLog.coverage" NAME="escreveLog Coverage Results" MODIFIED="1765892511219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ipvabf/Licenciamento" />
+  </component>
+</project>
