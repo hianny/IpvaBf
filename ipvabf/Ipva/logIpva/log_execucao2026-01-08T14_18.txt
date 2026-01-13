@@ -1,0 +1,14 @@
+2026-01-08T14_18: Iniciando execução do processo SEFAZ-IPVA
+2026-01-08T14_18: Total de veículos encontrados: 550
+2026-01-08T14_18: Configurando Chrome...
+2026-01-08T14_18: Iniciando ChromeDriver com undetected_chromedriver...
+2026-01-08T14_18: [1/550] Processando veículo: RENAVAM=1039180563, CPF/CNPJ=10425282003652, CHASSI=9533G8242ER439433        
+2026-01-08T14_18: Acessando página inicial: https://www.sefaz.mt.gov.br/ipva/emissaoguia/emitir
+2026-01-08T14_18: CPF/CNPJ preenchido: 10425282003652
+2026-01-08T14_18: RENAVAM preenchido: 1039180563
+2026-01-08T14_18: CHASSI preenchido: 9533G8242ER439433        
+2026-01-08T14_19: O captcha foi resolvido e o callback disparado
+2026-01-08T14_19: Nenhuma mensagem de sem débito encontrada. Continuando processamento...
+2026-01-08T14_19: Veículo 1039180563 processado com sucesso.
+2026-01-08T14_20: [2/550] Processando veículo: RENAVAM=1078372001, CPF/CNPJ=10425282004209, CHASSI=9C2KD1000GR011826        
+2026-01-08T14_20: Erro ao processar veículo 1078372001: you cannot reuse the ChromeOptions object

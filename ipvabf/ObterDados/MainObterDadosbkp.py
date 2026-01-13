@@ -1,11 +1,11 @@
-import ObterDadosDB
+import ipvabf.ObterDados.ObterDadosDBbkp as ObterDadosDBbkp
 import sys
 
 finalPlaca = str(sys.argv[1:][0])
 
 try:
 
-    veiculosbens = ObterDadosDB.RetornoVeiculosBen(finalPlaca)
+    veiculosbens = ObterDadosDBbkp.RetornoVeiculosBen(finalPlaca)
 
     if veiculosbens.empty:
         print("Nao foi encontrado veiculos no banco")
@@ -13,8 +13,8 @@ try:
         for _, row in veiculosbens.iterrows():
             try:
                 #print(row)
-                ObterDadosDB.veiculoIndividual(row['PLACA'], row['RENAVAM'], row['CHASSIS'], row['GRUPO'])
-                ObterDadosDB.InserirDadosTabela(row['PLACA'], row['RENAVAM'], row['CHASSIS'], row['GRUPO'])
+                ObterDadosDBbkp.veiculoIndividual(row['PLACA'], row['RENAVAM'], row['CHASSIS'], row['GRUPO'])
+                ObterDadosDBbkp.InserirDadosTabela(row['PLACA'], row['RENAVAM'], row['CHASSIS'], row['GRUPO'])
             except Exception as e:
                 print(f"O VEICULO COM A PLACA {row['PLACA']} DEU ERRO: {e}")
 

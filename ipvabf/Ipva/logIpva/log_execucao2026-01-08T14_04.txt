@@ -1,0 +1,11 @@
+2026-01-08T14_04: Iniciando execução do processo SEFAZ-IPVA
+2026-01-08T14_04: Total de veículos encontrados: 551
+2026-01-08T14_04: Configurando Chrome...
+2026-01-08T14_04: Iniciando ChromeDriver com undetected_chromedriver...
+2026-01-08T14_04: Acessando página inicial: https://www.sefaz.mt.gov.br/ipva/emissaoguia/emitir
+2026-01-08T14_04: [1/551] Processando veículo: RENAVAM=1035983750, CPF/CNPJ=10425282000122, CHASSI=93ZM1RGH0D8923977        
+2026-01-08T14_04: CPF/CNPJ preenchido: 10425282000122
+2026-01-08T14_04: RENAVAM preenchido: 1035983750
+2026-01-08T14_04: CHASSI preenchido: 93ZM1RGH0D8923977        
+2026-01-08T14_04: O captcha foi resolvido e o callback disparado
+2026-01-08T14_05: Driver encerrado após processamento de todos os veículos.

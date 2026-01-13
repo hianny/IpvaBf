@@ -1,7 +1,7 @@
 import ObterDadosMultasDB 
 import sys
 
-tabela_ipva='ipva_licenciamento'
+tabela_ipva='ipva_licenciamento_2026' # Tabela antiga para copiar num documento para nova tabela
 #finalPlaca = str(sys.argv[1:][0])
 #finalPlaca = '0'
 def mainObterDados(finalPlaca):

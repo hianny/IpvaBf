@@ -6,11 +6,11 @@ dotenv.load_dotenv()
 
 usernameBd = os.getenv('usernameBd')
 passwordBd= os.getenv('passwordBd')
-dsn = os.getenv('dsnhomol')
+dsn = os.getenv('dsn')
 connectionBd = oracledb.connect(user=usernameBd, password=passwordBd, dsn=dsn)
 cursor = connectionBd.cursor()
 
-tabela_ipva_lic = 'ipva2026'
+tabela_ipva_lic = 'IPVA_LICENCIAMENTO'
 
 def RetornoVeiculosBen(finalPlaca):
     cursor.execute(fr"""

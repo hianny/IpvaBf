@@ -1,8 +1,13 @@
 from anticaptchaofficial.turnstileproxyless import *
+import dotenv
+import os
+dotenv.load_dotenv()
+
+set_key = os.getenv('set_key')
 
 solver = turnstileProxyless()
 solver.set_verbose(1)
-solver.set_key("174d6da17fc9ea20b644ed5b591ff5d9")
+solver.set_key(set_key)
 solver.set_website_url("https://www.sefaz.mt.gov.br/ipva/emissaoguia/emitir")
 solver.set_website_key("0x4AAAAAABpF5mikgYMo5Mk-")
 
@@ -18,13 +23,13 @@ def anticaptcha():
             if token:
                 return token
             else:
-                print("Falha ao resolver CAPTCHA, tentando novamente...")
+                #print("Falha ao resolver CAPTCHA, tentando novamente...")
                 time.sleep(3)
         except Exception as e:
-            print("Erro ao tentar resolver CAPTCHA:", e)
+            #print("Erro ao tentar resolver CAPTCHA:", e)
             time.sleep(3)
 
-    print("Tempo limite atingido")
+    #print("Tempo limite atingido")
     return None
 
 

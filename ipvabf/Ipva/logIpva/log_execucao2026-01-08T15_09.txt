@@ -1,0 +1,4 @@
+2026-01-08T15_09: Iniciando execução do processo SEFAZ-IPVA
+2026-01-08T15_09: Total de veículos encontrados: 547
+2026-01-08T15_09: [1/547] Processando veículo: RENAVAM=1110408436, CPF/CNPJ=10425282003229, CHASSI=9A9S3CTS8H1AH8012        
+2026-01-08T15_09: Iniciando nova sessão do Chrome para veículo 1110408436

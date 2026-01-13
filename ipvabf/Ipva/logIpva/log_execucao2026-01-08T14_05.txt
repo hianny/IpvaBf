@@ -1,0 +1,8644 @@
+2026-01-08T14_05: Iniciando execução do processo SEFAZ-IPVA
+2026-01-08T14_05: Total de veículos encontrados: 551
+2026-01-08T14_05: Configurando Chrome...
+2026-01-08T14_05: Iniciando ChromeDriver com undetected_chromedriver...
+2026-01-08T14_05: Acessando página inicial: https://www.sefaz.mt.gov.br/ipva/emissaoguia/emitir
+2026-01-08T14_05: [1/551] Processando veículo: RENAVAM=1035983750, CPF/CNPJ=10425282000122, CHASSI=93ZM1RGH0D8923977        
+2026-01-08T14_05: CPF/CNPJ preenchido: 10425282000122
+2026-01-08T14_05: RENAVAM preenchido: 1035983750
+2026-01-08T14_05: CHASSI preenchido: 93ZM1RGH0D8923977        
+2026-01-08T14_06: O captcha foi resolvido e o callback disparado
+2026-01-08T14_06: Nenhuma mensagem de sem débito encontrada. Continuando processamento...
+2026-01-08T14_14: Veículo 1035983750 processado com sucesso.
+2026-01-08T14_14: [2/551] Processando veículo: RENAVAM=1039180563, CPF/CNPJ=10425282003652, CHASSI=9533G8242ER439433        
+2026-01-08T14_14: Erro ao processar veículo 1039180563: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [3/551] Processando veículo: RENAVAM=1078372001, CPF/CNPJ=10425282004209, CHASSI=9C2KD1000GR011826        
+2026-01-08T14_14: Erro ao processar veículo 1078372001: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [4/551] Processando veículo: RENAVAM=1109421190, CPF/CNPJ=10425282004209, CHASSI=9533172S0ER427114        
+2026-01-08T14_14: Erro ao processar veículo 1109421190: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [5/551] Processando veículo: RENAVAM=1110408436, CPF/CNPJ=10425282003229, CHASSI=9A9S3CTS8H1AH8012        
+2026-01-08T14_14: Erro ao processar veículo 1110408436: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [6/551] Processando veículo: RENAVAM=111249651, CPF/CNPJ=10425282004896, CHASSI=234880744                
+2026-01-08T14_14: Erro ao processar veículo 111249651: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [7/551] Processando veículo: RENAVAM=1113132679, CPF/CNPJ=10425282005868, CHASSI=9BM384078HB048132        
+2026-01-08T14_14: Erro ao processar veículo 1113132679: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [8/551] Processando veículo: RENAVAM=1113133730, CPF/CNPJ=10425282004209, CHASSI=9BM384078HB048169        
+2026-01-08T14_14: Erro ao processar veículo 1113133730: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [9/551] Processando veículo: RENAVAM=1139869989, CPF/CNPJ=10425282002095, CHASSI=9BM979026JB083307        
+2026-01-08T14_14: Erro ao processar veículo 1139869989: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [10/551] Processando veículo: RENAVAM=1140049876, CPF/CNPJ=10425282002095, CHASSI=9BM979026JB083575        
+2026-01-08T14_14: Erro ao processar veículo 1140049876: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [11/551] Processando veículo: RENAVAM=1140049892, CPF/CNPJ=10425282002095, CHASSI=9BM979026JB082833        
+2026-01-08T14_14: Erro ao processar veículo 1140049892: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [12/551] Processando veículo: RENAVAM=1140049906, CPF/CNPJ=10425282002095, CHASSI=9BM979026JB082849        
+2026-01-08T14_14: Erro ao processar veículo 1140049906: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [13/551] Processando veículo: RENAVAM=1140394743, CPF/CNPJ=10425282002095, CHASSI=9ADG1133HJM418255        
+2026-01-08T14_14: Erro ao processar veículo 1140394743: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [14/551] Processando veículo: RENAVAM=1140401723, CPF/CNPJ=10425282002095, CHASSI=9ADG0933HJM418314        
+2026-01-08T14_14: Erro ao processar veículo 1140401723: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [15/551] Processando veículo: RENAVAM=1140404404, CPF/CNPJ=10425282002095, CHASSI=9ADG1133HJM418315        
+2026-01-08T14_14: Erro ao processar veículo 1140404404: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [16/551] Processando veículo: RENAVAM=1140428575, CPF/CNPJ=10425282002095, CHASSI=9ADG0933HJM418354        
+2026-01-08T14_14: Erro ao processar veículo 1140428575: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [17/551] Processando veículo: RENAVAM=1140429059, CPF/CNPJ=10425282002095, CHASSI=9ADG1133HJM418355        
+2026-01-08T14_14: Erro ao processar veículo 1140429059: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [18/551] Processando veículo: RENAVAM=1140429091, CPF/CNPJ=10425282002095, CHASSI=9ADG0933HJM418324        
+2026-01-08T14_14: Erro ao processar veículo 1140429091: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [19/551] Processando veículo: RENAVAM=1140429148, CPF/CNPJ=10425282002095, CHASSI=9ADG1133HJM418325        
+2026-01-08T14_14: Erro ao processar veículo 1140429148: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [20/551] Processando veículo: RENAVAM=1140429180, CPF/CNPJ=10425282002095, CHASSI=9ADG0933HJM417113        
+2026-01-08T14_14: Erro ao processar veículo 1140429180: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [21/551] Processando veículo: RENAVAM=1140429237, CPF/CNPJ=10425282002095, CHASSI=9ADG1133HJM417114        
+2026-01-08T14_14: Erro ao processar veículo 1140429237: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [22/551] Processando veículo: RENAVAM=1140429288, CPF/CNPJ=10425282002095, CHASSI=9ADG0933HJM417111        
+2026-01-08T14_14: Erro ao processar veículo 1140429288: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [23/551] Processando veículo: RENAVAM=1140429334, CPF/CNPJ=10425282002095, CHASSI=9ADG1133HJM417112        
+2026-01-08T14_14: Erro ao processar veículo 1140429334: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [24/551] Processando veículo: RENAVAM=1140429369, CPF/CNPJ=10425282002095, CHASSI=9ADG0933HJM417115        
+2026-01-08T14_14: Erro ao processar veículo 1140429369: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [25/551] Processando veículo: RENAVAM=1140429415, CPF/CNPJ=10425282002095, CHASSI=9ADG1133HJM417116        
+2026-01-08T14_14: Erro ao processar veículo 1140429415: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [26/551] Processando veículo: RENAVAM=1140429440, CPF/CNPJ=10425282002095, CHASSI=9ADG1133HJM418311        
+2026-01-08T14_14: Erro ao processar veículo 1140429440: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [27/551] Processando veículo: RENAVAM=1140429466, CPF/CNPJ=10425282002095, CHASSI=9ADG0933HJM418310        
+2026-01-08T14_14: Erro ao processar veículo 1140429466: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [28/551] Processando veículo: RENAVAM=1140429482, CPF/CNPJ=10425282002095, CHASSI=9ADG0933HJM418352        
+2026-01-08T14_14: Erro ao processar veículo 1140429482: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [29/551] Processando veículo: RENAVAM=1140429490, CPF/CNPJ=10425282002095, CHASSI=9ADG1133HJM418353        
+2026-01-08T14_14: Erro ao processar veículo 1140429490: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [30/551] Processando veículo: RENAVAM=1140429504, CPF/CNPJ=10425282002095, CHASSI=9ADG0933HJM418572        
+2026-01-08T14_14: Erro ao processar veículo 1140429504: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [31/551] Processando veículo: RENAVAM=1140429512, CPF/CNPJ=10425282002095, CHASSI=9ADG1133HJM418573        
+2026-01-08T14_14: Erro ao processar veículo 1140429512: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [32/551] Processando veículo: RENAVAM=1140787443, CPF/CNPJ=10425282002095, CHASSI=9A9R4CBSAJ1AH8025        
+2026-01-08T14_14: Erro ao processar veículo 1140787443: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [33/551] Processando veículo: RENAVAM=1140787923, CPF/CNPJ=10425282002095, CHASSI=9A9R4CBSSJ1AH8021        
+2026-01-08T14_14: Erro ao processar veículo 1140787923: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [34/551] Processando veículo: RENAVAM=1140792420, CPF/CNPJ=10425282002095, CHASSI=9A9R4CBS7J1AH8024        
+2026-01-08T14_14: Erro ao processar veículo 1140792420: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [35/551] Processando veículo: RENAVAM=1140792706, CPF/CNPJ=10425282002095, CHASSI=9A9R4CBSJJ1AH8020        
+2026-01-08T14_14: Erro ao processar veículo 1140792706: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [36/551] Processando veículo: RENAVAM=1140808696, CPF/CNPJ=10425282002095, CHASSI=9A9R4CBSWJ1AH8027        
+2026-01-08T14_14: Erro ao processar veículo 1140808696: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [37/551] Processando veículo: RENAVAM=1140809030, CPF/CNPJ=10425282002095, CHASSI=9A9R4CBSKJ1AH8026        
+2026-01-08T14_14: Erro ao processar veículo 1140809030: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [38/551] Processando veículo: RENAVAM=1140809382, CPF/CNPJ=10425282002095, CHASSI=9A9R4CBSWJ1AH8030        
+2026-01-08T14_14: Erro ao processar veículo 1140809382: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [39/551] Processando veículo: RENAVAM=1140810100, CPF/CNPJ=10425282002095, CHASSI=9A9R4CBS5J1AH8029        
+2026-01-08T14_14: Erro ao processar veículo 1140810100: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [40/551] Processando veículo: RENAVAM=1140810259, CPF/CNPJ=10425282002095, CHASSI=9A9R4CBS2J1AH8028        
+2026-01-08T14_14: Erro ao processar veículo 1140810259: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [41/551] Processando veículo: RENAVAM=1140810623, CPF/CNPJ=10425282005353, CHASSI=9A9R4CBS4J1AH8046        
+2026-01-08T14_14: Erro ao processar veículo 1140810623: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [42/551] Processando veículo: RENAVAM=1145921059, CPF/CNPJ=10425282004209, CHASSI=9BM979277JB086511        
+2026-01-08T14_14: Erro ao processar veículo 1145921059: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [43/551] Processando veículo: RENAVAM=116164433, CPF/CNPJ=None, CHASSI=9BSP8X40093639907        
+2026-01-08T14_14: Erro ao processar veículo 116164433: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [44/551] Processando veículo: RENAVAM=1170522944, CPF/CNPJ=10425282004209, CHASSI=9BM979277KB097966        
+2026-01-08T14_14: Erro ao processar veículo 1170522944: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [45/551] Processando veículo: RENAVAM=1178201047, CPF/CNPJ=10425282003652, CHASSI=9ADG1133JKM434631        
+2026-01-08T14_14: Erro ao processar veículo 1178201047: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [46/551] Processando veículo: RENAVAM=1178203228, CPF/CNPJ=10425282003652, CHASSI=9ADG0933JKM434630        
+2026-01-08T14_14: Erro ao processar veículo 1178203228: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [47/551] Processando veículo: RENAVAM=1178362598, CPF/CNPJ=10425282003229, CHASSI=9ADG0933KKM436209        
+2026-01-08T14_14: Erro ao processar veículo 1178362598: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [48/551] Processando veículo: RENAVAM=1178362784, CPF/CNPJ=10425282003229, CHASSI=9ADG1133KKM436210        
+2026-01-08T14_14: Erro ao processar veículo 1178362784: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [49/551] Processando veículo: RENAVAM=1178363004, CPF/CNPJ=None, CHASSI=9ADG0933KKM436237        
+2026-01-08T14_14: Erro ao processar veículo 1178363004: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [50/551] Processando veículo: RENAVAM=1178363136, CPF/CNPJ=10425282003229, CHASSI=9ADG1133KKM436238        
+2026-01-08T14_14: Erro ao processar veículo 1178363136: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [51/551] Processando veículo: RENAVAM=1178720516, CPF/CNPJ=None, CHASSI=9ADG1133KKM436208        
+2026-01-08T14_14: Erro ao processar veículo 1178720516: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [52/551] Processando veículo: RENAVAM=1178720818, CPF/CNPJ=None, CHASSI=9ADG0933KKM436207        
+2026-01-08T14_14: Erro ao processar veículo 1178720818: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [53/551] Processando veículo: RENAVAM=1178721024, CPF/CNPJ=10425282003229, CHASSI=9ADG1133KKM436220        
+2026-01-08T14_14: Erro ao processar veículo 1178721024: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [54/551] Processando veículo: RENAVAM=1178721350, CPF/CNPJ=10425282003229, CHASSI=9ADG0933KKM436219        
+2026-01-08T14_14: Erro ao processar veículo 1178721350: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [55/551] Processando veículo: RENAVAM=1178721628, CPF/CNPJ=None, CHASSI=9ADG1133KKM436256        
+2026-01-08T14_14: Erro ao processar veículo 1178721628: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [56/551] Processando veículo: RENAVAM=1178721970, CPF/CNPJ=None, CHASSI=9ADG0933KKM436255        
+2026-01-08T14_14: Erro ao processar veículo 1178721970: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [57/551] Processando veículo: RENAVAM=1179170935, CPF/CNPJ=10425282003229, CHASSI=9ADG0933KKM436225        
+2026-01-08T14_14: Erro ao processar veículo 1179170935: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [58/551] Processando veículo: RENAVAM=1179171877, CPF/CNPJ=10425282003229, CHASSI=9ADG1133KKM436244        
+2026-01-08T14_14: Erro ao processar veículo 1179171877: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [59/551] Processando veículo: RENAVAM=1179172261, CPF/CNPJ=10425282003229, CHASSI=9ADG1133KKM436226        
+2026-01-08T14_14: Erro ao processar veículo 1179172261: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [60/551] Processando veículo: RENAVAM=1179172636, CPF/CNPJ=10425282003229, CHASSI=9ADG0933KKM436243        
+2026-01-08T14_14: Erro ao processar veículo 1179172636: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [61/551] Processando veículo: RENAVAM=1179173080, CPF/CNPJ=10425282003229, CHASSI=9ADG1133KKM436258        
+2026-01-08T14_14: Erro ao processar veículo 1179173080: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [62/551] Processando veículo: RENAVAM=1179174060, CPF/CNPJ=10425282003229, CHASSI=9ADG0933KKM436257        
+2026-01-08T14_14: Erro ao processar veículo 1179174060: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [63/551] Processando veículo: RENAVAM=1179174485, CPF/CNPJ=10425282003229, CHASSI=9ADG0933KKM436229        
+2026-01-08T14_14: Erro ao processar veículo 1179174485: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [64/551] Processando veículo: RENAVAM=1179174868, CPF/CNPJ=10425282003229, CHASSI=9ADG1133KKM436230        
+2026-01-08T14_14: Erro ao processar veículo 1179174868: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [65/551] Processando veículo: RENAVAM=1179369570, CPF/CNPJ=10425282003490, CHASSI=9ADG0933KKM436213        
+2026-01-08T14_14: Erro ao processar veículo 1179369570: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [66/551] Processando veículo: RENAVAM=1179370420, CPF/CNPJ=10425282003490, CHASSI=9ADG1133KKM436214        
+2026-01-08T14_14: Erro ao processar veículo 1179370420: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [67/551] Processando veículo: RENAVAM=1179373020, CPF/CNPJ=None, CHASSI=9ADG0933KKM436215        
+2026-01-08T14_14: Erro ao processar veículo 1179373020: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [68/551] Processando veículo: RENAVAM=1179373780, CPF/CNPJ=None, CHASSI=9ADG1133KKM436216        
+2026-01-08T14_14: Erro ao processar veículo 1179373780: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [69/551] Processando veículo: RENAVAM=1179376339, CPF/CNPJ=None, CHASSI=9ADG0933KKM436233        
+2026-01-08T14_14: Erro ao processar veículo 1179376339: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [70/551] Processando veículo: RENAVAM=1179376711, CPF/CNPJ=None, CHASSI=9ADG1133KKM436234        
+2026-01-08T14_14: Erro ao processar veículo 1179376711: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [71/551] Processando veículo: RENAVAM=1179377009, CPF/CNPJ=10425282003490, CHASSI=9ADG0933KKM436241        
+2026-01-08T14_14: Erro ao processar veículo 1179377009: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [72/551] Processando veículo: RENAVAM=1179378544, CPF/CNPJ=10425282003490, CHASSI=9ADG1133KKM436242        
+2026-01-08T14_14: Erro ao processar veículo 1179378544: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [73/551] Processando veículo: RENAVAM=1179514073, CPF/CNPJ=10425282003229, CHASSI=3C6DFVBK8JE142897        
+2026-01-08T14_14: Erro ao processar veículo 1179514073: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [74/551] Processando veículo: RENAVAM=1179830773, CPF/CNPJ=10425282002095, CHASSI=9A9R4CBS1K1AH8033        
+2026-01-08T14_14: Erro ao processar veículo 1179830773: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [75/551] Processando veículo: RENAVAM=1179831435, CPF/CNPJ=10425282002095, CHASSI=9A9R4CBS4K1AH8034        
+2026-01-08T14_14: Erro ao processar veículo 1179831435: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [76/551] Processando veículo: RENAVAM=1179832342, CPF/CNPJ=10425282002095, CHASSI=9A9R4CBS7K1AH8035        
+2026-01-08T14_14: Erro ao processar veículo 1179832342: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [77/551] Processando veículo: RENAVAM=1180114792, CPF/CNPJ=10425282003490, CHASSI=9ADG0933KKM436251        
+2026-01-08T14_14: Erro ao processar veículo 1180114792: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [78/551] Processando veículo: RENAVAM=1180118070, CPF/CNPJ=10425282003490, CHASSI=9ADG0933KKM436227        
+2026-01-08T14_14: Erro ao processar veículo 1180118070: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [79/551] Processando veículo: RENAVAM=1180118844, CPF/CNPJ=None, CHASSI=9ADG1133KKM436252        
+2026-01-08T14_14: Erro ao processar veículo 1180118844: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [80/551] Processando veículo: RENAVAM=1180121055, CPF/CNPJ=10425282003490, CHASSI=9ADG1133KKM436228        
+2026-01-08T14_14: Erro ao processar veículo 1180121055: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [81/551] Processando veículo: RENAVAM=1180121080, CPF/CNPJ=10425282003229, CHASSI=9BVRG40D2KE863279        
+2026-01-08T14_14: Erro ao processar veículo 1180121080: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [82/551] Processando veículo: RENAVAM=1180122370, CPF/CNPJ=10425282003490, CHASSI=9BVRG40D9KE863420        
+2026-01-08T14_14: Erro ao processar veículo 1180122370: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [83/551] Processando veículo: RENAVAM=1180122922, CPF/CNPJ=10425282003490, CHASSI=9BVRG40D1KE863544        
+2026-01-08T14_14: Erro ao processar veículo 1180122922: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [84/551] Processando veículo: RENAVAM=1180123333, CPF/CNPJ=10425282003490, CHASSI=9BVRG40D2KE863548        
+2026-01-08T14_14: Erro ao processar veículo 1180123333: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [85/551] Processando veículo: RENAVAM=1180123511, CPF/CNPJ=10425282003490, CHASSI=9ADG0933KKM436223        
+2026-01-08T14_14: Erro ao processar veículo 1180123511: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [86/551] Processando veículo: RENAVAM=1180124240, CPF/CNPJ=10425282003490, CHASSI=9ADG1133KKM436224        
+2026-01-08T14_14: Erro ao processar veículo 1180124240: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [87/551] Processando veículo: RENAVAM=1180131409, CPF/CNPJ=10425282003490, CHASSI=9ADG0933KKM436247        
+2026-01-08T14_14: Erro ao processar veículo 1180131409: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [88/551] Processando veículo: RENAVAM=1180133495, CPF/CNPJ=10425282003490, CHASSI=9ADG1133KKM436248        
+2026-01-08T14_14: Erro ao processar veículo 1180133495: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [89/551] Processando veículo: RENAVAM=1180134610, CPF/CNPJ=10425282003490, CHASSI=9ADG0933KKM436231        
+2026-01-08T14_14: Erro ao processar veículo 1180134610: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [90/551] Processando veículo: RENAVAM=1180135595, CPF/CNPJ=10425282003490, CHASSI=9ADG1133KKM436232        
+2026-01-08T14_14: Erro ao processar veículo 1180135595: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [91/551] Processando veículo: RENAVAM=1180136931, CPF/CNPJ=10425282003229, CHASSI=9BVRG40D1KE863280        
+2026-01-08T14_14: Erro ao processar veículo 1180136931: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [92/551] Processando veículo: RENAVAM=1180137113, CPF/CNPJ=10425282003490, CHASSI=9BVRG40D0KE863394        
+2026-01-08T14_14: Erro ao processar veículo 1180137113: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [93/551] Processando veículo: RENAVAM=1180138071, CPF/CNPJ=10425282003490, CHASSI=9BVRG40D8KE863393        
+2026-01-08T14_14: Erro ao processar veículo 1180138071: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [94/551] Processando veículo: RENAVAM=1180140637, CPF/CNPJ=10425282003490, CHASSI=9BVRG40D2KE863391        
+2026-01-08T14_14: Erro ao processar veículo 1180140637: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [95/551] Processando veículo: RENAVAM=1180145280, CPF/CNPJ=10425282003490, CHASSI=9BVRG40D3KE863332        
+2026-01-08T14_14: Erro ao processar veículo 1180145280: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [96/551] Processando veículo: RENAVAM=1180148867, CPF/CNPJ=10425282003229, CHASSI=9BVRG40DXKE863283        
+2026-01-08T14_14: Erro ao processar veículo 1180148867: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [97/551] Processando veículo: RENAVAM=1180153070, CPF/CNPJ=10425282003229, CHASSI=9BVRG40D8KE863330        
+2026-01-08T14_14: Erro ao processar veículo 1180153070: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [98/551] Processando veículo: RENAVAM=1180153453, CPF/CNPJ=10425282003229, CHASSI=9BVRG40D6KE863333        
+2026-01-08T14_14: Erro ao processar veículo 1180153453: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [99/551] Processando veículo: RENAVAM=1180154107, CPF/CNPJ=10425282003229, CHASSI=9BVRG40D0KE863331        
+2026-01-08T14_14: Erro ao processar veículo 1180154107: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [100/551] Processando veículo: RENAVAM=1180154719, CPF/CNPJ=10425282003229, CHASSI=9BVRG40DXKE863278        
+2026-01-08T14_14: Erro ao processar veículo 1180154719: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [101/551] Processando veículo: RENAVAM=1180155197, CPF/CNPJ=10425282003229, CHASSI=9BVRG40D9KE863329        
+2026-01-08T14_14: Erro ao processar veículo 1180155197: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [102/551] Processando veículo: RENAVAM=1180155766, CPF/CNPJ=10425282003229, CHASSI=9BVRG40D7KE863282        
+2026-01-08T14_14: Erro ao processar veículo 1180155766: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [103/551] Processando veículo: RENAVAM=1180156363, CPF/CNPJ=10425282003229, CHASSI=9BVRG40D4KE863281        
+2026-01-08T14_14: Erro ao processar veículo 1180156363: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [104/551] Processando veículo: RENAVAM=1180766129, CPF/CNPJ=10425282004209, CHASSI=93KP0R1C8KE162425        
+2026-01-08T14_14: Erro ao processar veículo 1180766129: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [105/551] Processando veículo: RENAVAM=1186241885, CPF/CNPJ=10425282003229, CHASSI=9ADG1133KKM436240        
+2026-01-08T14_14: Erro ao processar veículo 1186241885: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [106/551] Processando veículo: RENAVAM=1186242407, CPF/CNPJ=10425282003229, CHASSI=9ADG0933KKM436239        
+2026-01-08T14_14: Erro ao processar veículo 1186242407: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [107/551] Processando veículo: RENAVAM=1219713780, CPF/CNPJ=10425282003490, CHASSI=9A9S3GRS4L1AH8010        
+2026-01-08T14_14: Erro ao processar veículo 1219713780: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [108/551] Processando veículo: RENAVAM=1219738813, CPF/CNPJ=10425282003490, CHASSI=9A9S3GRSKL1AH8013        
+2026-01-08T14_14: Erro ao processar veículo 1219738813: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [109/551] Processando veículo: RENAVAM=1254584193, CPF/CNPJ=10425282003652, CHASSI=9BM958443MB201828        
+2026-01-08T14_14: Erro ao processar veículo 1254584193: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [110/551] Processando veículo: RENAVAM=1254584622, CPF/CNPJ=10425282003652, CHASSI=9BM958443MB207146        
+2026-01-08T14_14: Erro ao processar veículo 1254584622: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [111/551] Processando veículo: RENAVAM=1254584932, CPF/CNPJ=10425282003652, CHASSI=9BM958443MB200952        
+2026-01-08T14_14: Erro ao processar veículo 1254584932: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [112/551] Processando veículo: RENAVAM=1254746916, CPF/CNPJ=10425282005868, CHASSI=9BM979028MB205299        
+2026-01-08T14_14: Erro ao processar veículo 1254746916: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [113/551] Processando veículo: RENAVAM=1288160221, CPF/CNPJ=10425282004039, CHASSI=9C2KD0810NR158813        
+2026-01-08T14_14: Erro ao processar veículo 1288160221: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [114/551] Processando veículo: RENAVAM=1288160744, CPF/CNPJ=10425282004381, CHASSI=9C2KD0810NR158569        
+2026-01-08T14_14: Erro ao processar veículo 1288160744: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [115/551] Processando veículo: RENAVAM=1288393684, CPF/CNPJ=10425282006597, CHASSI=97T0BN653M2002034        
+2026-01-08T14_14: Erro ao processar veículo 1288393684: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [116/551] Processando veículo: RENAVAM=1288395008, CPF/CNPJ=10425282006597, CHASSI=97TD0N412N2006517        
+2026-01-08T14_14: Erro ao processar veículo 1288395008: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [117/551] Processando veículo: RENAVAM=1288395768, CPF/CNPJ=10425282006597, CHASSI=97T0BN442N2008739        
+2026-01-08T14_14: Erro ao processar veículo 1288395768: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [118/551] Processando veículo: RENAVAM=1288396098, CPF/CNPJ=10425282006597, CHASSI=97TD0N412N2006516        
+2026-01-08T14_14: Erro ao processar veículo 1288396098: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [119/551] Processando veículo: RENAVAM=1288396519, CPF/CNPJ=10425282006597, CHASSI=97TRBD442N2001808        
+2026-01-08T14_14: Erro ao processar veículo 1288396519: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [120/551] Processando veículo: RENAVAM=1288396780, CPF/CNPJ=10425282006597, CHASSI=97T0BN442N2008738        
+2026-01-08T14_14: Erro ao processar veículo 1288396780: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [121/551] Processando veículo: RENAVAM=1288397035, CPF/CNPJ=10425282006597, CHASSI=97TD0N412N2006515        
+2026-01-08T14_14: Erro ao processar veículo 1288397035: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [122/551] Processando veículo: RENAVAM=1288398490, CPF/CNPJ=10425282006597, CHASSI=97TRBD442N2001807        
+2026-01-08T14_14: Erro ao processar veículo 1288398490: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [123/551] Processando veículo: RENAVAM=1288399194, CPF/CNPJ=10425282006597, CHASSI=97T0BN442N2008737        
+2026-01-08T14_14: Erro ao processar veículo 1288399194: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [124/551] Processando veículo: RENAVAM=1288399534, CPF/CNPJ=10425282006597, CHASSI=97TD0N412N2006514        
+2026-01-08T14_14: Erro ao processar veículo 1288399534: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [125/551] Processando veículo: RENAVAM=1288399860, CPF/CNPJ=10425282006597, CHASSI=97TRBD442N2001806        
+2026-01-08T14_14: Erro ao processar veículo 1288399860: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [126/551] Processando veículo: RENAVAM=1288400362, CPF/CNPJ=10425282006597, CHASSI=97T0BN442N2008736        
+2026-01-08T14_14: Erro ao processar veículo 1288400362: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [127/551] Processando veículo: RENAVAM=1288400737, CPF/CNPJ=10425282006597, CHASSI=97TD0N412N2006513        
+2026-01-08T14_14: Erro ao processar veículo 1288400737: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [128/551] Processando veículo: RENAVAM=1288401121, CPF/CNPJ=10425282006597, CHASSI=97TRBD442N2001805        
+2026-01-08T14_14: Erro ao processar veículo 1288401121: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [129/551] Processando veículo: RENAVAM=1288401580, CPF/CNPJ=10425282006597, CHASSI=97T0BN442N2008740        
+2026-01-08T14_14: Erro ao processar veículo 1288401580: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [130/551] Processando veículo: RENAVAM=1288402330, CPF/CNPJ=10425282006597, CHASSI=97TRBD442N2001809        
+2026-01-08T14_14: Erro ao processar veículo 1288402330: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [131/551] Processando veículo: RENAVAM=1288403280, CPF/CNPJ=10425282003733, CHASSI=97T0BN422N2008735        
+2026-01-08T14_14: Erro ao processar veículo 1288403280: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [132/551] Processando veículo: RENAVAM=1288403965, CPF/CNPJ=10425282003733, CHASSI=97TD0N412N2006512        
+2026-01-08T14_14: Erro ao processar veículo 1288403965: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [133/551] Processando veículo: RENAVAM=1288404406, CPF/CNPJ=10425282003733, CHASSI=97TRBD442N2001804        
+2026-01-08T14_14: Erro ao processar veículo 1288404406: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [134/551] Processando veículo: RENAVAM=1288404724, CPF/CNPJ=10425282003733, CHASSI=97T0BN422N2008734        
+2026-01-08T14_14: Erro ao processar veículo 1288404724: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [135/551] Processando veículo: RENAVAM=1288404961, CPF/CNPJ=10425282003733, CHASSI=97TD0N412N2006511        
+2026-01-08T14_14: Erro ao processar veículo 1288404961: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [136/551] Processando veículo: RENAVAM=1288405224, CPF/CNPJ=10425282003733, CHASSI=97TRBD442N2001803        
+2026-01-08T14_14: Erro ao processar veículo 1288405224: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [137/551] Processando veículo: RENAVAM=1288405526, CPF/CNPJ=10425282003733, CHASSI=97T0BN422N2008733        
+2026-01-08T14_14: Erro ao processar veículo 1288405526: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [138/551] Processando veículo: RENAVAM=1288405909, CPF/CNPJ=10425282003733, CHASSI=97TD0N412N2006510        
+2026-01-08T14_14: Erro ao processar veículo 1288405909: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [139/551] Processando veículo: RENAVAM=1288406310, CPF/CNPJ=10425282003733, CHASSI=97TRBD442N2001802        
+2026-01-08T14_14: Erro ao processar veículo 1288406310: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [140/551] Processando veículo: RENAVAM=1288407146, CPF/CNPJ=10425282003733, CHASSI=97T0BN422N2008732        
+2026-01-08T14_14: Erro ao processar veículo 1288407146: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [141/551] Processando veículo: RENAVAM=1288407375, CPF/CNPJ=10425282003733, CHASSI=97TD0N412N2006509        
+2026-01-08T14_14: Erro ao processar veículo 1288407375: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [142/551] Processando veículo: RENAVAM=1288407677, CPF/CNPJ=10425282003733, CHASSI=97TRBD442N2001801        
+2026-01-08T14_14: Erro ao processar veículo 1288407677: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [143/551] Processando veículo: RENAVAM=1288408541, CPF/CNPJ=10425282003733, CHASSI=97T0BN422N2008731        
+2026-01-08T14_14: Erro ao processar veículo 1288408541: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [144/551] Processando veículo: RENAVAM=1288408827, CPF/CNPJ=10425282003733, CHASSI=97TD0N412N2006508        
+2026-01-08T14_14: Erro ao processar veículo 1288408827: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [145/551] Processando veículo: RENAVAM=1288409106, CPF/CNPJ=10425282003733, CHASSI=97TRBD442N2001800        
+2026-01-08T14_14: Erro ao processar veículo 1288409106: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [146/551] Processando veículo: RENAVAM=1288422145, CPF/CNPJ=10425282003814, CHASSI=97T0BN422N2008715        
+2026-01-08T14_14: Erro ao processar veículo 1288422145: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [147/551] Processando veículo: RENAVAM=1288422366, CPF/CNPJ=10425282003814, CHASSI=97TD0N412N2006497        
+2026-01-08T14_14: Erro ao processar veículo 1288422366: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [148/551] Processando veículo: RENAVAM=1288422650, CPF/CNPJ=10425282003814, CHASSI=97TRBD442N2001789        
+2026-01-08T14_14: Erro ao processar veículo 1288422650: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [149/551] Processando veículo: RENAVAM=1288422951, CPF/CNPJ=10425282003814, CHASSI=97T0BN422N2008714        
+2026-01-08T14_14: Erro ao processar veículo 1288422951: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [150/551] Processando veículo: RENAVAM=1288423176, CPF/CNPJ=10425282003814, CHASSI=97TD0N412N2006496        
+2026-01-08T14_14: Erro ao processar veículo 1288423176: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [151/551] Processando veículo: RENAVAM=1288423427, CPF/CNPJ=10425282003814, CHASSI=97TRBD442N2001788        
+2026-01-08T14_14: Erro ao processar veículo 1288423427: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [152/551] Processando veículo: RENAVAM=1288423664, CPF/CNPJ=10425282003814, CHASSI=97T0BN422N2008713        
+2026-01-08T14_14: Erro ao processar veículo 1288423664: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [153/551] Processando veículo: RENAVAM=1288423907, CPF/CNPJ=10425282003814, CHASSI=97TD0N412N2006495        
+2026-01-08T14_14: Erro ao processar veículo 1288423907: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [154/551] Processando veículo: RENAVAM=1288424865, CPF/CNPJ=10425282003814, CHASSI=97TRBD442N2001787        
+2026-01-08T14_14: Erro ao processar veículo 1288424865: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [155/551] Processando veículo: RENAVAM=1288425055, CPF/CNPJ=10425282003490, CHASSI=97T0BN422N2008712        
+2026-01-08T14_14: Erro ao processar veículo 1288425055: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [156/551] Processando veículo: RENAVAM=1288425276, CPF/CNPJ=10425282003490, CHASSI=97TD0N412N2006494        
+2026-01-08T14_14: Erro ao processar veículo 1288425276: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [157/551] Processando veículo: RENAVAM=1288426710, CPF/CNPJ=10425282003490, CHASSI=97TRBD442N2001786        
+2026-01-08T14_14: Erro ao processar veículo 1288426710: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [158/551] Processando veículo: RENAVAM=1288426965, CPF/CNPJ=10425282003490, CHASSI=97T0BN422N2008711        
+2026-01-08T14_14: Erro ao processar veículo 1288426965: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [159/551] Processando veículo: RENAVAM=1288447733, CPF/CNPJ=10425282003490, CHASSI=97TD0N412N2006493        
+2026-01-08T14_14: Erro ao processar veículo 1288447733: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [160/551] Processando veículo: RENAVAM=1288447989, CPF/CNPJ=10425282003490, CHASSI=97TRBD442N2001785        
+2026-01-08T14_14: Erro ao processar veículo 1288447989: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [161/551] Processando veículo: RENAVAM=1288448195, CPF/CNPJ=10425282003490, CHASSI=97T0BN422N2008710        
+2026-01-08T14_14: Erro ao processar veículo 1288448195: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [162/551] Processando veículo: RENAVAM=1288448357, CPF/CNPJ=10425282003490, CHASSI=97TD0N412N2006492        
+2026-01-08T14_14: Erro ao processar veículo 1288448357: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [163/551] Processando veículo: RENAVAM=1288448551, CPF/CNPJ=10425282003490, CHASSI=97TRBD442N2001784        
+2026-01-08T14_14: Erro ao processar veículo 1288448551: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [164/551] Processando veículo: RENAVAM=1288448802, CPF/CNPJ=10425282003490, CHASSI=97T0BN422N2008709        
+2026-01-08T14_14: Erro ao processar veículo 1288448802: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [165/551] Processando veículo: RENAVAM=1288448977, CPF/CNPJ=10425282003490, CHASSI=97TD0N412N2006491        
+2026-01-08T14_14: Erro ao processar veículo 1288448977: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [166/551] Processando veículo: RENAVAM=1288449140, CPF/CNPJ=10425282003490, CHASSI=97TRBD442N2001783        
+2026-01-08T14_14: Erro ao processar veículo 1288449140: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [167/551] Processando veículo: RENAVAM=1288478582, CPF/CNPJ=10425282003571, CHASSI=97T0BN442N2008743        
+2026-01-08T14_14: Erro ao processar veículo 1288478582: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [168/551] Processando veículo: RENAVAM=1288480625, CPF/CNPJ=10425282003571, CHASSI=97TD0N412N2006520        
+2026-01-08T14_14: Erro ao processar veículo 1288480625: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [169/551] Processando veículo: RENAVAM=1288497706, CPF/CNPJ=10425282003571, CHASSI=97TRBD442N2001812        
+2026-01-08T14_14: Erro ao processar veículo 1288497706: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [170/551] Processando veículo: RENAVAM=1288498788, CPF/CNPJ=10425282003571, CHASSI=97T0BN442N2008742        
+2026-01-08T14_14: Erro ao processar veículo 1288498788: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [171/551] Processando veículo: RENAVAM=1288499628, CPF/CNPJ=10425282003571, CHASSI=97TD0N412N2006519        
+2026-01-08T14_14: Erro ao processar veículo 1288499628: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [172/551] Processando veículo: RENAVAM=1288500529, CPF/CNPJ=10425282003571, CHASSI=97TRBD442N2001811        
+2026-01-08T14_14: Erro ao processar veículo 1288500529: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [173/551] Processando veículo: RENAVAM=1288502726, CPF/CNPJ=10425282006830, CHASSI=9C2KD0810NR159431        
+2026-01-08T14_14: Erro ao processar veículo 1288502726: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [174/551] Processando veículo: RENAVAM=1288505148, CPF/CNPJ=10425282003571, CHASSI=97T0BN442N2008741        
+2026-01-08T14_14: Erro ao processar veículo 1288505148: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [175/551] Processando veículo: RENAVAM=1288505733, CPF/CNPJ=10425282003571, CHASSI=97TD0N412N2006518        
+2026-01-08T14_14: Erro ao processar veículo 1288505733: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [176/551] Processando veículo: RENAVAM=1288506829, CPF/CNPJ=10425282003571, CHASSI=97TRBD442N2001810        
+2026-01-08T14_14: Erro ao processar veículo 1288506829: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [177/551] Processando veículo: RENAVAM=1288667733, CPF/CNPJ=10425282003490, CHASSI=9C2KD0810NR161887        
+2026-01-08T14_14: Erro ao processar veículo 1288667733: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [178/551] Processando veículo: RENAVAM=1288667962, CPF/CNPJ=10425282004462, CHASSI=9C2KD0810NR161836        
+2026-01-08T14_14: Erro ao processar veículo 1288667962: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [179/551] Processando veículo: RENAVAM=1288668039, CPF/CNPJ=10425282004462, CHASSI= 9C2KD0810NR161861       
+2026-01-08T14_14: Erro ao processar veículo 1288668039: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [180/551] Processando veículo: RENAVAM=1288939849, CPF/CNPJ=10425282003490, CHASSI=9C2KD0810NR162648        
+2026-01-08T14_14: Erro ao processar veículo 1288939849: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [181/551] Processando veículo: RENAVAM=1288942270, CPF/CNPJ=10425282003490, CHASSI=9C2KD0810NR162675        
+2026-01-08T14_14: Erro ao processar veículo 1288942270: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [182/551] Processando veículo: RENAVAM=1288942939, CPF/CNPJ=10425282003490, CHASSI=9C2KD0810NR162672        
+2026-01-08T14_14: Erro ao processar veículo 1288942939: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [183/551] Processando veículo: RENAVAM=1289192143, CPF/CNPJ=10425282003490, CHASSI=9C2KD0810NR165508        
+2026-01-08T14_14: Erro ao processar veículo 1289192143: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [184/551] Processando veículo: RENAVAM=1290112484, CPF/CNPJ=10425282004624, CHASSI=97T0BN442N2008792        
+2026-01-08T14_14: Erro ao processar veículo 1290112484: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [185/551] Processando veículo: RENAVAM=1290113260, CPF/CNPJ=10425282004624, CHASSI=97TRBD442N2001846        
+2026-01-08T14_14: Erro ao processar veículo 1290113260: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [186/551] Processando veículo: RENAVAM=1290113588, CPF/CNPJ=10425282004624, CHASSI=97TD0N412N2006563        
+2026-01-08T14_14: Erro ao processar veículo 1290113588: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [187/551] Processando veículo: RENAVAM=1290173971, CPF/CNPJ=10425282003490, CHASSI=9C2KD0810NR165597        
+2026-01-08T14_14: Erro ao processar veículo 1290173971: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [188/551] Processando veículo: RENAVAM=1290334258, CPF/CNPJ=10425282003490, CHASSI=9C2KD0810NR165519        
+2026-01-08T14_14: Erro ao processar veículo 1290334258: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [189/551] Processando veículo: RENAVAM=1301815974, CPF/CNPJ=10425282003571, CHASSI=93KK0R1D2NE180248        
+2026-01-08T14_14: Erro ao processar veículo 1301815974: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [190/551] Processando veículo: RENAVAM=1302113477, CPF/CNPJ=10425282004209, CHASSI=93KKSN0A5NE178776        
+2026-01-08T14_14: Erro ao processar veículo 1302113477: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [191/551] Processando veículo: RENAVAM=1315115244, CPF/CNPJ=10425282004209, CHASSI=93KKSN0A3NE179594        
+2026-01-08T14_14: Erro ao processar veículo 1315115244: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [192/551] Processando veículo: RENAVAM=1321099638, CPF/CNPJ=10425282003229, CHASSI=9D8CAB133N1000360        
+2026-01-08T14_14: Erro ao processar veículo 1321099638: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [193/551] Processando veículo: RENAVAM=1321101527, CPF/CNPJ=10425282003229, CHASSI=9D8CAB153N1000359        
+2026-01-08T14_14: Erro ao processar veículo 1321101527: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [194/551] Processando veículo: RENAVAM=1321103805, CPF/CNPJ=10425282003490, CHASSI=9D8CAB133N1000362        
+2026-01-08T14_14: Erro ao processar veículo 1321103805: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [195/551] Processando veículo: RENAVAM=1321105085, CPF/CNPJ=10425282003490, CHASSI=9D8CAB153N1000361        
+2026-01-08T14_14: Erro ao processar veículo 1321105085: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [196/551] Processando veículo: RENAVAM=1340313917, CPF/CNPJ=10425282006759, CHASSI=9C2KD0810PR056607        
+2026-01-08T14_14: Erro ao processar veículo 1340313917: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [197/551] Processando veículo: RENAVAM=1355607148, CPF/CNPJ=10425282004624, CHASSI=93ZA1PMH0P8958577        
+2026-01-08T14_14: Erro ao processar veículo 1355607148: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [198/551] Processando veículo: RENAVAM=1356627754, CPF/CNPJ=10425282003652, CHASSI=93ZA1PMH0P8958759        
+2026-01-08T14_14: Erro ao processar veículo 1356627754: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [199/551] Processando veículo: RENAVAM=1356629552, CPF/CNPJ=10425282003229, CHASSI=8ATA01LF0PX121787        
+2026-01-08T14_14: Erro ao processar veículo 1356629552: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [200/551] Processando veículo: RENAVAM=1356920540, CPF/CNPJ=10425282003652, CHASSI=93ZA1PMH0P8958809        
+2026-01-08T14_14: Erro ao processar veículo 1356920540: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [201/551] Processando veículo: RENAVAM=1356921377, CPF/CNPJ=10425282003652, CHASSI=8ATA01LF0PX121508        
+2026-01-08T14_14: Erro ao processar veículo 1356921377: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [202/551] Processando veículo: RENAVAM=1356921997, CPF/CNPJ=10425282003229, CHASSI=8ATA01LF0PX121789        
+2026-01-08T14_14: Erro ao processar veículo 1356921997: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [203/551] Processando veículo: RENAVAM=1357044167, CPF/CNPJ=None, CHASSI=9BM958472NB288485        
+2026-01-08T14_14: Erro ao processar veículo 1357044167: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [204/551] Processando veículo: RENAVAM=1357490981, CPF/CNPJ=10425282003229, CHASSI=8ATA01LF0PX121513        
+2026-01-08T14_14: Erro ao processar veículo 1357490981: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [205/551] Processando veículo: RENAVAM=1357747982, CPF/CNPJ=10425282003652, CHASSI=93ZA1PMH0P8958794        
+2026-01-08T14_14: Erro ao processar veículo 1357747982: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [206/551] Processando veículo: RENAVAM=1366062024, CPF/CNPJ=10425282004209, CHASSI=9C2KD0810RR022583        
+2026-01-08T14_14: Erro ao processar veículo 1366062024: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [207/551] Processando veículo: RENAVAM=1368082359, CPF/CNPJ=10425282003652, CHASSI=8ATA01LF0PX121503        
+2026-01-08T14_14: Erro ao processar veículo 1368082359: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [208/551] Processando veículo: RENAVAM=1368483221, CPF/CNPJ=10425282004209, CHASSI=9C2KD0810RR025218        
+2026-01-08T14_14: Erro ao processar veículo 1368483221: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [209/551] Processando veículo: RENAVAM=1395351446, CPF/CNPJ=10425282003229, CHASSI=9BD281AJHRYF41941        
+2026-01-08T14_14: Erro ao processar veículo 1395351446: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [210/551] Processando veículo: RENAVAM=1395352108, CPF/CNPJ=10425282003229, CHASSI=9BD281AJHRYF41494        
+2026-01-08T14_14: Erro ao processar veículo 1395352108: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [211/551] Processando veículo: RENAVAM=1395353317, CPF/CNPJ=10425282003490, CHASSI=9BD281AJHRYF34408        
+2026-01-08T14_14: Erro ao processar veículo 1395353317: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [212/551] Processando veículo: RENAVAM=1395354267, CPF/CNPJ=10425282003490, CHASSI=9BD281AJHRYF42207        
+2026-01-08T14_14: Erro ao processar veículo 1395354267: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [213/551] Processando veículo: RENAVAM=1396017159, CPF/CNPJ=10425282003490, CHASSI=9BVRT60D4RE604888        
+2026-01-08T14_14: Erro ao processar veículo 1396017159: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [214/551] Processando veículo: RENAVAM=1396275689, CPF/CNPJ=10425282003490, CHASSI=9BVRT60D7RE604889        
+2026-01-08T14_14: Erro ao processar veículo 1396275689: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [215/551] Processando veículo: RENAVAM=1396322407, CPF/CNPJ=10425282003490, CHASSI=9BVRT60D3RE604821        
+2026-01-08T14_14: Erro ao processar veículo 1396322407: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [216/551] Processando veículo: RENAVAM=1396329754, CPF/CNPJ=10425282003490, CHASSI=9BVRT60D6RE604971        
+2026-01-08T14_14: Erro ao processar veículo 1396329754: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [217/551] Processando veículo: RENAVAM=1396458171, CPF/CNPJ=10425282003490, CHASSI=9BVRT60D6RE604890        
+2026-01-08T14_14: Erro ao processar veículo 1396458171: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [218/551] Processando veículo: RENAVAM=1396657280, CPF/CNPJ=10425282003490, CHASSI=9BVRT60D6RE604822        
+2026-01-08T14_14: Erro ao processar veículo 1396657280: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [219/551] Processando veículo: RENAVAM=1397028120, CPF/CNPJ=10425282003490, CHASSI=9BVRT60D0RE604820        
+2026-01-08T14_14: Erro ao processar veículo 1397028120: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [220/551] Processando veículo: RENAVAM=1397152556, CPF/CNPJ=10425282003490, CHASSI=9BVRT60D4RE604969        
+2026-01-08T14_14: Erro ao processar veículo 1397152556: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [221/551] Processando veículo: RENAVAM=1397538705, CPF/CNPJ=10425282003490, CHASSI=9BVRT60D7RE604750        
+2026-01-08T14_14: Erro ao processar veículo 1397538705: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [222/551] Processando veículo: RENAVAM=1397692666, CPF/CNPJ=10425282003490, CHASSI=9BVRT60D0RE604755        
+2026-01-08T14_14: Erro ao processar veículo 1397692666: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [223/551] Processando veículo: RENAVAM=1397718002, CPF/CNPJ=10425282003490, CHASSI=9BVRT60D1RE604819        
+2026-01-08T14_14: Erro ao processar veículo 1397718002: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [224/551] Processando veículo: RENAVAM=1397722611, CPF/CNPJ=10425282003490, CHASSI=9BVRT60D3RE604970        
+2026-01-08T14_14: Erro ao processar veículo 1397722611: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [225/551] Processando veículo: RENAVAM=1397723332, CPF/CNPJ=10425282003490, CHASSI=9BVRT60D6RE604817        
+2026-01-08T14_14: Erro ao processar veículo 1397723332: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [226/551] Processando veículo: RENAVAM=1397723901, CPF/CNPJ=10425282003490, CHASSI=9BVRT60D9RE604818        
+2026-01-08T14_14: Erro ao processar veículo 1397723901: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [227/551] Processando veículo: RENAVAM=1411542140, CPF/CNPJ=10425282003733, CHASSI=9BVRT60D4RE609578        
+2026-01-08T14_14: Erro ao processar veículo 1411542140: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [228/551] Processando veículo: RENAVAM=1412988478, CPF/CNPJ=10425282003733, CHASSI=9BVRT60DXRE609731        
+2026-01-08T14_14: Erro ao processar veículo 1412988478: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [229/551] Processando veículo: RENAVAM=1413120579, CPF/CNPJ=10425282003733, CHASSI=9BVRT60D6RE609930        
+2026-01-08T14_14: Erro ao processar veículo 1413120579: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [230/551] Processando veículo: RENAVAM=1413123284, CPF/CNPJ=10425282003733, CHASSI=9BVRT60D9RE610099        
+2026-01-08T14_14: Erro ao processar veículo 1413123284: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [231/551] Processando veículo: RENAVAM=1413124370, CPF/CNPJ=10425282003733, CHASSI=9BVRT60D6RE610098        
+2026-01-08T14_14: Erro ao processar veículo 1413124370: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [232/551] Processando veículo: RENAVAM=1413127727, CPF/CNPJ=10425282003733, CHASSI=9BVRT60D1RE609658        
+2026-01-08T14_14: Erro ao processar veículo 1413127727: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [233/551] Processando veículo: RENAVAM=1413128200, CPF/CNPJ=10425282003733, CHASSI=9BVRT60D2RE609630        
+2026-01-08T14_14: Erro ao processar veículo 1413128200: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [234/551] Processando veículo: RENAVAM=1413129304, CPF/CNPJ=10425282003733, CHASSI=9BVRT60D7RE609730        
+2026-01-08T14_14: Erro ao processar veículo 1413129304: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [235/551] Processando veículo: RENAVAM=1413130221, CPF/CNPJ=10425282003733, CHASSI=9BVRT60D4RE609659        
+2026-01-08T14_14: Erro ao processar veículo 1413130221: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [236/551] Processando veículo: RENAVAM=1413130973, CPF/CNPJ=10425282003733, CHASSI=9BVRT60D3RE609660        
+2026-01-08T14_14: Erro ao processar veículo 1413130973: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [237/551] Processando veículo: RENAVAM=1413131562, CPF/CNPJ=10425282003733, CHASSI=9BVRT60D1RE609851        
+2026-01-08T14_14: Erro ao processar veículo 1413131562: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [238/551] Processando veículo: RENAVAM=1413133387, CPF/CNPJ=10425282003733, CHASSI=9BVRT60D7RE609929        
+2026-01-08T14_14: Erro ao processar veículo 1413133387: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [239/551] Processando veículo: RENAVAM=1413134340, CPF/CNPJ=10425282003733, CHASSI=9BVRT60D9RE609931        
+2026-01-08T14_14: Erro ao processar veículo 1413134340: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [240/551] Processando veículo: RENAVAM=1424866216, CPF/CNPJ=None, CHASSI=9C2KD0820SR017150        
+2026-01-08T14_14: Erro ao processar veículo 1424866216: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [241/551] Processando veículo: RENAVAM=1434242410, CPF/CNPJ=None, CHASSI=9C2KD0820SR018207        
+2026-01-08T14_14: Erro ao processar veículo 1434242410: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [242/551] Processando veículo: RENAVAM=1434242541, CPF/CNPJ=None, CHASSI=9C2KD0820SR018204        
+2026-01-08T14_14: Erro ao processar veículo 1434242541: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [243/551] Processando veículo: RENAVAM=1434242720, CPF/CNPJ=None, CHASSI=9C2KD0820SR018221        
+2026-01-08T14_14: Erro ao processar veículo 1434242720: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [244/551] Processando veículo: RENAVAM=1434243041, CPF/CNPJ=None, CHASSI=9C2KD0820SR018137        
+2026-01-08T14_14: Erro ao processar veículo 1434243041: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [245/551] Processando veículo: RENAVAM=1434243319, CPF/CNPJ=None, CHASSI=9C2KD0820SR018168        
+2026-01-08T14_14: Erro ao processar veículo 1434243319: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [246/551] Processando veículo: RENAVAM=1434605075, CPF/CNPJ=None, CHASSI=9BD281BKHSYG45590        
+2026-01-08T14_14: Erro ao processar veículo 1434605075: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [247/551] Processando veículo: RENAVAM=1454934473, CPF/CNPJ=None, CHASSI=9882262PUTKG49992        
+2026-01-08T14_14: Erro ao processar veículo 1454934473: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [248/551] Processando veículo: RENAVAM=152953914, CPF/CNPJ=10425282004209, CHASSI=9BWXN82439R930004        
+2026-01-08T14_14: Erro ao processar veículo 152953914: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [249/551] Processando veículo: RENAVAM=192272292, CPF/CNPJ=10425282004896, CHASSI=94BB0843AAR012075        
+2026-01-08T14_14: Erro ao processar veículo 192272292: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [250/551] Processando veículo: RENAVAM=192274236, CPF/CNPJ=10425282004896, CHASSI=94BB0843AAR012074        
+2026-01-08T14_14: Erro ao processar veículo 192274236: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [251/551] Processando veículo: RENAVAM=243859317, CPF/CNPJ=10425282004896, CHASSI=34540712003406           
+2026-01-08T14_14: Erro ao processar veículo 243859317: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [252/551] Processando veículo: RENAVAM=280547242, CPF/CNPJ=10425282003733, CHASSI=94BN0802BBR002053        
+2026-01-08T14_14: Erro ao processar veículo 280547242: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [253/551] Processando veículo: RENAVAM=289820324, CPF/CNPJ=10425282003652, CHASSI=9A9S21DPSB1AH8422        
+2026-01-08T14_14: Erro ao processar veículo 289820324: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [254/551] Processando veículo: RENAVAM=292587996, CPF/CNPJ=10425282003229, CHASSI=9A9S23DPSB1AH8370        
+2026-01-08T14_14: Erro ao processar veículo 292587996: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [255/551] Processando veículo: RENAVAM=296342017, CPF/CNPJ=10425282004896, CHASSI=93KP0E0A1BE126310        
+2026-01-08T14_14: Erro ao processar veículo 296342017: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [256/551] Processando veículo: RENAVAM=298244071, CPF/CNPJ=10425282004896, CHASSI=9BFVCAC92BBB74245        
+2026-01-08T14_14: Erro ao processar veículo 298244071: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [257/551] Processando veículo: RENAVAM=307083535, CPF/CNPJ=10425282003652, CHASSI=9BFYCE6U1BBB66383        
+2026-01-08T14_14: Erro ao processar veículo 307083535: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [258/551] Processando veículo: RENAVAM=308189370, CPF/CNPJ=10425282000122, CHASSI=93KK0E0D2AE123399        
+2026-01-08T14_14: Erro ao processar veículo 308189370: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [259/551] Processando veículo: RENAVAM=310848296, CPF/CNPJ=10425282000122, CHASSI=93KK0E0D1AE123300        
+2026-01-08T14_14: Erro ao processar veículo 310848296: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [260/551] Processando veículo: RENAVAM=334964318, CPF/CNPJ=10425282004624, CHASSI=9A9R21DPXB1AH8562        
+2026-01-08T14_14: Erro ao processar veículo 334964318: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [261/551] Processando veículo: RENAVAM=451902092, CPF/CNPJ=10425282003490, CHASSI=955B0902CCS349116        
+2026-01-08T14_14: Erro ao processar veículo 451902092: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [262/551] Processando veículo: RENAVAM=451903196, CPF/CNPJ=10425282003490, CHASSI=955B0902CCS349117        
+2026-01-08T14_14: Erro ao processar veículo 451903196: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [263/551] Processando veículo: RENAVAM=451903854, CPF/CNPJ=10425282003490, CHASSI=955B0902CCS349119        
+2026-01-08T14_14: Erro ao processar veículo 451903854: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [264/551] Processando veículo: RENAVAM=451904915, CPF/CNPJ=10425282003490, CHASSI=955B0902CCS349120        
+2026-01-08T14_14: Erro ao processar veículo 451904915: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [265/551] Processando veículo: RENAVAM=452321042, CPF/CNPJ=33511705991, CHASSI=955M0602CCS349118        
+2026-01-08T14_14: Erro ao processar veículo 452321042: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [266/551] Processando veículo: RENAVAM=452321220, CPF/CNPJ=10425282003490, CHASSI=955M0602CCS349121        
+2026-01-08T14_14: Erro ao processar veículo 452321220: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [267/551] Processando veículo: RENAVAM=453289991, CPF/CNPJ=10425282003490, CHASSI=955B0902CCS349308        
+2026-01-08T14_14: Erro ao processar veículo 453289991: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [268/551] Processando veículo: RENAVAM=453292720, CPF/CNPJ=10425282003490, CHASSI=955B0902CCS349312        
+2026-01-08T14_14: Erro ao processar veículo 453292720: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [269/551] Processando veículo: RENAVAM=453301452, CPF/CNPJ=10425282003490, CHASSI=955B0902CCS349314        
+2026-01-08T14_14: Erro ao processar veículo 453301452: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [270/551] Processando veículo: RENAVAM=453302750, CPF/CNPJ=10425282003490, CHASSI=955B0902CCS349315        
+2026-01-08T14_14: Erro ao processar veículo 453302750: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [271/551] Processando veículo: RENAVAM=453303846, CPF/CNPJ=10425282003490, CHASSI=955B0902CCS349302        
+2026-01-08T14_14: Erro ao processar veículo 453303846: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [272/551] Processando veículo: RENAVAM=453305598, CPF/CNPJ=10425282003490, CHASSI=955B0902CCS349305        
+2026-01-08T14_14: Erro ao processar veículo 453305598: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [273/551] Processando veículo: RENAVAM=453306500, CPF/CNPJ=10425282003490, CHASSI=955B0902CCS349306        
+2026-01-08T14_14: Erro ao processar veículo 453306500: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [274/551] Processando veículo: RENAVAM=453307744, CPF/CNPJ=10425282003490, CHASSI=955B0902CCS349309        
+2026-01-08T14_14: Erro ao processar veículo 453307744: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [275/551] Processando veículo: RENAVAM=453309445, CPF/CNPJ=10425282003490, CHASSI=955B0902CCS349311        
+2026-01-08T14_14: Erro ao processar veículo 453309445: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [276/551] Processando veículo: RENAVAM=453525652, CPF/CNPJ=10425282003490, CHASSI=955M0602CCS349307        
+2026-01-08T14_14: Erro ao processar veículo 453525652: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [277/551] Processando veículo: RENAVAM=453528813, CPF/CNPJ=10425282003490, CHASSI=955B0902CCS349303        
+2026-01-08T14_14: Erro ao processar veículo 453528813: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [278/551] Processando veículo: RENAVAM=453531067, CPF/CNPJ=10425282003490, CHASSI=955M0602CCS349316        
+2026-01-08T14_14: Erro ao processar veículo 453531067: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [279/551] Processando veículo: RENAVAM=453534589, CPF/CNPJ=10425282003490, CHASSI=955M0602CCS349310        
+2026-01-08T14_14: Erro ao processar veículo 453534589: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [280/551] Processando veículo: RENAVAM=453536646, CPF/CNPJ=10425282003490, CHASSI=955M0602CCS349313        
+2026-01-08T14_14: Erro ao processar veículo 453536646: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [281/551] Processando veículo: RENAVAM=453753701, CPF/CNPJ=10425282004896, CHASSI=955M0602CCS349304        
+2026-01-08T14_14: Erro ao processar veículo 453753701: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [282/551] Processando veículo: RENAVAM=453755704, CPF/CNPJ=10425282003490, CHASSI=955M0602CCS349351        
+2026-01-08T14_14: Erro ao processar veículo 453755704: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [283/551] Processando veículo: RENAVAM=453757413, CPF/CNPJ=10425282003490, CHASSI=955M0602CCS349354        
+2026-01-08T14_14: Erro ao processar veículo 453757413: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [284/551] Processando veículo: RENAVAM=453761283, CPF/CNPJ=10425282003490, CHASSI=955B0902CCS349350        
+2026-01-08T14_14: Erro ao processar veículo 453761283: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [285/551] Processando veículo: RENAVAM=453764096, CPF/CNPJ=10425282003490, CHASSI=955B0902CCS349352        
+2026-01-08T14_14: Erro ao processar veículo 453764096: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [286/551] Processando veículo: RENAVAM=453765777, CPF/CNPJ=10425282003490, CHASSI=955B0902CCS349346        
+2026-01-08T14_14: Erro ao processar veículo 453765777: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [287/551] Processando veículo: RENAVAM=453766986, CPF/CNPJ=10425282003490, CHASSI=955B0902CCS349349        
+2026-01-08T14_14: Erro ao processar veículo 453766986: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [288/551] Processando veículo: RENAVAM=453768555, CPF/CNPJ=10425282003490, CHASSI=955B0902CCS349347        
+2026-01-08T14_14: Erro ao processar veículo 453768555: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [289/551] Processando veículo: RENAVAM=453867650, CPF/CNPJ=10425282003490, CHASSI=955B0902CCS349353        
+2026-01-08T14_14: Erro ao processar veículo 453867650: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [290/551] Processando veículo: RENAVAM=453867669, CPF/CNPJ=10425282003490, CHASSI=955M0602CCS349348        
+2026-01-08T14_14: Erro ao processar veículo 453867669: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [291/551] Processando veículo: RENAVAM=459953885, CPF/CNPJ=10425282005949, CHASSI=9BM693298CB825255        
+2026-01-08T14_14: Erro ao processar veículo 459953885: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [292/551] Processando veículo: RENAVAM=463546903, CPF/CNPJ=10425282005949, CHASSI=9BM693298CB843122        
+2026-01-08T14_14: Erro ao processar veículo 463546903: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [293/551] Processando veículo: RENAVAM=463548876, CPF/CNPJ=10425282005949, CHASSI=9BM693298CB847799        
+2026-01-08T14_14: Erro ao processar veículo 463548876: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [294/551] Processando veículo: RENAVAM=470889128, CPF/CNPJ=10425282003490, CHASSI=9A9S11DPSC1AH8823        
+2026-01-08T14_14: Erro ao processar veículo 470889128: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [295/551] Processando veículo: RENAVAM=470895500, CPF/CNPJ=10425282003490, CHASSI=9A9S11DPSC1AH8824        
+2026-01-08T14_14: Erro ao processar veículo 470895500: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [296/551] Processando veículo: RENAVAM=502988320, CPF/CNPJ=10425282000122, CHASSI=9A9BD1742DCDJ5381        
+2026-01-08T14_14: Erro ao processar veículo 502988320: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [297/551] Processando veículo: RENAVAM=504228986, CPF/CNPJ=10425282000122, CHASSI=9A9T0123CDSDJ5000        
+2026-01-08T14_14: Erro ao processar veículo 504228986: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [298/551] Processando veículo: RENAVAM=504239902, CPF/CNPJ=10425282000122, CHASSI=94BB0972CDR019287        
+2026-01-08T14_14: Erro ao processar veículo 504239902: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [299/551] Processando veículo: RENAVAM=504309358, CPF/CNPJ=10425282000122, CHASSI=9A9T0113CDSDJ5001        
+2026-01-08T14_14: Erro ao processar veículo 504309358: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [300/551] Processando veículo: RENAVAM=504309560, CPF/CNPJ=10425282000122, CHASSI=94BB0972CDR019288        
+2026-01-08T14_14: Erro ao processar veículo 504309560: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [301/551] Processando veículo: RENAVAM=504309633, CPF/CNPJ=10425282000122, CHASSI=94BB0972CDR019289        
+2026-01-08T14_14: Erro ao processar veículo 504309633: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [302/551] Processando veículo: RENAVAM=504309714, CPF/CNPJ=10425282000122, CHASSI=94BB0972CDR019290        
+2026-01-08T14_14: Erro ao processar veículo 504309714: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [303/551] Processando veículo: RENAVAM=504309790, CPF/CNPJ=10425282000122, CHASSI=94BB0972CDR019291        
+2026-01-08T14_14: Erro ao processar veículo 504309790: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [304/551] Processando veículo: RENAVAM=504309889, CPF/CNPJ=None, CHASSI=94BL0262CDR002384        
+2026-01-08T14_14: Erro ao processar veículo 504309889: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [305/551] Processando veículo: RENAVAM=504309960, CPF/CNPJ=10425282000122, CHASSI=94BL0262CDR002385        
+2026-01-08T14_14: Erro ao processar veículo 504309960: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [306/551] Processando veículo: RENAVAM=504310054, CPF/CNPJ=10425282000122, CHASSI=94BL0262CDR002386        
+2026-01-08T14_14: Erro ao processar veículo 504310054: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [307/551] Processando veículo: RENAVAM=504310119, CPF/CNPJ=10425282000122, CHASSI=94BL0262CDR002387        
+2026-01-08T14_14: Erro ao processar veículo 504310119: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [308/551] Processando veículo: RENAVAM=504310160, CPF/CNPJ=10425282000122, CHASSI=94BL0262CDR002388        
+2026-01-08T14_14: Erro ao processar veículo 504310160: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [309/551] Processando veículo: RENAVAM=504310208, CPF/CNPJ=10425282000122, CHASSI=94BL0262CDR002389        
+2026-01-08T14_14: Erro ao processar veículo 504310208: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [310/551] Processando veículo: RENAVAM=504310631, CPF/CNPJ=10425282000122, CHASSI=94BL0262CDR002390        
+2026-01-08T14_14: Erro ao processar veículo 504310631: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [311/551] Processando veículo: RENAVAM=504310690, CPF/CNPJ=10425282000122, CHASSI=94BL0262CDR002391        
+2026-01-08T14_14: Erro ao processar veículo 504310690: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [312/551] Processando veículo: RENAVAM=504310763, CPF/CNPJ=10425282000122, CHASSI=94BL0262CDR002392        
+2026-01-08T14_14: Erro ao processar veículo 504310763: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [313/551] Processando veículo: RENAVAM=504310801, CPF/CNPJ=10425282000122, CHASSI=94BL0262CDR002393        
+2026-01-08T14_14: Erro ao processar veículo 504310801: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [314/551] Processando veículo: RENAVAM=504310852, CPF/CNPJ=10425282000122, CHASSI=94BL0262CDR002394        
+2026-01-08T14_14: Erro ao processar veículo 504310852: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [315/551] Processando veículo: RENAVAM=504310895, CPF/CNPJ=10425282000122, CHASSI=94BL0262CDR002395        
+2026-01-08T14_14: Erro ao processar veículo 504310895: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [316/551] Processando veículo: RENAVAM=504310992, CPF/CNPJ=10425282000122, CHASSI=94BL0262CDR002396        
+2026-01-08T14_14: Erro ao processar veículo 504310992: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [317/551] Processando veículo: RENAVAM=504311085, CPF/CNPJ=None, CHASSI=94BL0262CDR002397        
+2026-01-08T14_14: Erro ao processar veículo 504311085: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [318/551] Processando veículo: RENAVAM=504311140, CPF/CNPJ=10425282000122, CHASSI=94BL0262CDR002398        
+2026-01-08T14_14: Erro ao processar veículo 504311140: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [319/551] Processando veículo: RENAVAM=504311212, CPF/CNPJ=10425282000122, CHASSI=94BL0262CDR002399        
+2026-01-08T14_14: Erro ao processar veículo 504311212: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [320/551] Processando veículo: RENAVAM=504311328, CPF/CNPJ=10425282000122, CHASSI=94BL0262CDR002400        
+2026-01-08T14_14: Erro ao processar veículo 504311328: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [321/551] Processando veículo: RENAVAM=504311387, CPF/CNPJ=10425282000122, CHASSI=94BL0262CDR002401        
+2026-01-08T14_14: Erro ao processar veículo 504311387: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [322/551] Processando veículo: RENAVAM=504311441, CPF/CNPJ=10425282000122, CHASSI=94BL0262CDR002402        
+2026-01-08T14_14: Erro ao processar veículo 504311441: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [323/551] Processando veículo: RENAVAM=504311492, CPF/CNPJ=10425282000122, CHASSI=94BL0262CDR002403        
+2026-01-08T14_14: Erro ao processar veículo 504311492: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [324/551] Processando veículo: RENAVAM=504311522, CPF/CNPJ=10425282000122, CHASSI=94BL0262CDR002404        
+2026-01-08T14_14: Erro ao processar veículo 504311522: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [325/551] Processando veículo: RENAVAM=504311549, CPF/CNPJ=10425282000122, CHASSI=94BL0262CDR002405        
+2026-01-08T14_14: Erro ao processar veículo 504311549: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [326/551] Processando veículo: RENAVAM=504311565, CPF/CNPJ=10425282000122, CHASSI=94BL0262CDR002406        
+2026-01-08T14_14: Erro ao processar veículo 504311565: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [327/551] Processando veículo: RENAVAM=504311590, CPF/CNPJ=10425282000122, CHASSI=94BL0262CDR002407        
+2026-01-08T14_14: Erro ao processar veículo 504311590: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [328/551] Processando veículo: RENAVAM=504311620, CPF/CNPJ=10425282000122, CHASSI=94BL0262CDR002408        
+2026-01-08T14_14: Erro ao processar veículo 504311620: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [329/551] Processando veículo: RENAVAM=504311662, CPF/CNPJ=10425282000122, CHASSI=9A9BD1742DCDJ5375        
+2026-01-08T14_14: Erro ao processar veículo 504311662: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [330/551] Processando veículo: RENAVAM=504311700, CPF/CNPJ=10425282000122, CHASSI=9A9BD1742DCDJ5376        
+2026-01-08T14_14: Erro ao processar veículo 504311700: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [331/551] Processando veículo: RENAVAM=504311727, CPF/CNPJ=10425282000122, CHASSI=9A9BD1742DCDJ5377        
+2026-01-08T14_14: Erro ao processar veículo 504311727: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [332/551] Processando veículo: RENAVAM=504311778, CPF/CNPJ=10425282000122, CHASSI=9A9BD1742DCDJ5378        
+2026-01-08T14_14: Erro ao processar veículo 504311778: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+
+2026-01-08T14_14: [333/551] Processando veículo: RENAVAM=504311794, CPF/CNPJ=10425282000122, CHASSI=9A9BD1742DCDJ5379        
+2026-01-08T14_14: Erro ao processar veículo 504311794: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x534103
+	0x534144
+	0x33e56b
+	0x37ce58
+	0x3ac7c6
+	0x3a8030
+	0x3a7563
+	0x30e4dd
+	0x30ea6e
+	0x30ef3d
+	0x7a57b4
+	0x7a098a
+	0x55c392
+	0x54c4c8
+	0x55324d
+	0x30e193
+	0x30d848
+	0x8fb0cf
+	0x75cd05c9
+	0x77b27d5d
+	0x77b27d2d
+

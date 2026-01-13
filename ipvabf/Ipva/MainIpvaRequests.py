@@ -1,266 +1,378 @@
+import logging
+from datetime import datetime
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from time import sleep
-from selenium.webdriver.support.ui import Select
-from selenium.webdriver.chrome.options import Options
 import undetected_chromedriver as uc
-from escreveLog import escreveLog
-import  ObterDadosIpvaDB
+import ObterDadosIpvaDB
 import os
-import pandas as pd
 import requests
-import re
-from time import sleep
-import numpy as np
-import pyautogui
-import time
-from datetime import datetime
-import  captchaIPVA 
-import base64
+import captchaIPVA
 import json
-from escreveLog import escreveLog
+import re
+from decimal import Decimal
+
+# Configuração do logging
+def configurar_logging():
+    # Criar diretório de logs se não existir
+    log_dir = 'C:\\IpvaBf\\logs'
+    if not os.path.exists(log_dir):
+        os.makedirs(log_dir)
+    
+    # Configurar formato do log
+    log_format = '%(asctime)s - %(levelname)s - %(message)s'
+    log_filename = os.path.join(log_dir, f'ipva_processo_{datetime.now().strftime("%Y%m%d_%H%M%S")}.log')
+    
+    # Configurar logging
+    logging.basicConfig(
+        level=logging.INFO,
+        format=log_format,
+        handlers=[
+            logging.FileHandler(log_filename, encoding='utf-8'),
+            logging.StreamHandler()  # Também exibe no console
+        ]
+    )
+    
+    return logging.getLogger(__name__)
+
+# Inicializar logger
+logger = configurar_logging()
 
 def main():
+    """Função principal que inicia o processo de consulta IPVA"""
     try:
-        escreveLog("Iniciando execução do processo SEFAZ-IPVA")
-        print("Iniciando execução do processo SEFAZ-IPVA")
+        logger.info("=" * 60)
+        logger.info("INICIANDO PROCESSO DE CONSULTA IPVA - SEFAZ/MT")
+        logger.info("=" * 60)
+        logger.info("Versão do script: 2.0")
+        logger.info(f"Data/hora de início: {datetime.now().strftime('%d/%m/%Y %H:%M:%S')}")
 
         # ---------------------------
         # Busca veículos no banco
         # ---------------------------
+        logger.info("Etapa 1: Buscando veículos no banco de dados...")
         resultadoIpva = ObterDadosIpvaDB.RetornoVeiculosIpva()
-        escreveLog(f"Total de veículos encontrados: {len(resultadoIpva)}")
-        print(f"Total de veículos encontrados: {len(resultadoIpva)}")
-
+        logger.info(f"Total de veículos encontrados: {len(resultadoIpva)}")
+        
         if not resultadoIpva:
-            escreveLog("Nenhum veículo encontrado no banco. Encerrando.")
-            print("Nenhum veículo encontrado no banco. Encerrando.")
+            logger.warning("Nenhum veículo encontrado no banco. Encerrando processo.")
             return
 
-        # ---------------------------
-        # Configurações do Chrome
-        # ---------------------------
-        caminho_download = 'C:\\IpvaBf\\IPVABF'
-        escreveLog("Configurando Chrome...")
-        chrome_options = webdriver.ChromeOptions()
-        settings = {
-            "recentDestinations": [{"id": "Save as PDF", "origin": "local", "account": ""}],
-            "selectedDestinationId": "Save as PDF",
-            "version": 2
-        }
-
-        prefs = {
-            'printing.print_preview_sticky_settings.app_state': json.dumps(settings),
-            'savefile.default_directory': caminho_download,
-            # ESTA LINHA É A CHAVE: impede a janela de "Salvar Como" do sistema
-            'download.prompt_for_download': False,
-            'download.directory_upgrade': True,
-            'plugins.always_open_pdf_externally': True
-        }
-
-        chrome_options.add_experimental_option('prefs', prefs)
+        logger.info(f"Configuração: Nova sessão do Chrome será criada para cada veículo")
         
-        chrome_options.add_argument('--no-sandbox')
-        #chrome_options.add_argument('--headless') 
-        chrome_options.add_argument('--mute-audio')
-        chrome_options.add_argument('--kiosk-printing')
-        chrome_options.add_argument('--disable-session-crashed-bubble')
-        chrome_options.add_argument('--window-size=1200,700')
-        chrome_options.add_argument("--disable-extensions")
-        chrome_options.add_argument("--disable-infobars")
-        chrome_options.add_argument("--disable-component-update")
-        chrome_options.add_argument("--disable-default-apps")
-        chrome_options.add_argument("--disable-sync")
-        chrome_options.add_argument("--no-first-run")
-        chrome_options.add_argument("--disable-background-networking")
-        chrome_options.add_experimental_option("prefs", prefs)
-
         # ---------------------------
-        # Inicializa o Driver
+        # Loop principal - UMA NOVA SESSÃO POR VEÍCULO
         # ---------------------------
-        escreveLog("Iniciando ChromeDriver com undetected_chromedriver...")
-        driver = uc.Chrome(options=chrome_options,version_main=142)
-        driver.set_window_size(1200, 700)
+        veiculos_processados = 0
+        veiculos_com_erro = 0
+        
+        for index, veiculo in enumerate(resultadoIpva, start=1):
+            renavam, num_documento, chassi, idVeiculo = veiculo
+            
+            logger.info("-" * 50)
+            logger.info(f"PROCESSANDO VEÍCULO {index}/{len(resultadoIpva)}")
+            logger.info(f"ID Veículo: {idVeiculo}")
+            logger.info(f"RENAVAM: {renavam}")
+            logger.info(f"CPF/CNPJ: {num_documento}")
+            logger.info(f"Chassi: {chassi}")
+            logger.info("-" * 50)
+            
+            try:
+                # ---------------------------
+                # Configurações do Chrome - PARA CADA VEÍCULO
+                # ---------------------------
+                logger.debug("Configurando opções do Chrome...")
+                caminho_download = 'C:\\IpvaBf\\IPVABF'
+                
+                # Verificar se diretório de download existe
+                if not os.path.exists(caminho_download):
+                    logger.info(f"Criando diretório de download: {caminho_download}")
+                    os.makedirs(caminho_download)
+                
+                chrome_options = webdriver.ChromeOptions()
+                settings = {
+                    "recentDestinations": [{"id": "Save as PDF", "origin": "local", "account": ""}],
+                    "selectedDestinationId": "Save as PDF",
+                    "version": 2
+                }
 
-        url_inicial = "https://www.sefaz.mt.gov.br/ipva/emissaoguia/emitir"
-        escreveLog(f"Acessando página inicial: {url_inicial}")
-        driver.get(url_inicial)
-        driver.implicitly_wait(2)
+                prefs = {
+                    'printing.print_preview_sticky_settings.app_state': json.dumps(settings),
+                    'savefile.default_directory': caminho_download,
+                    'download.prompt_for_download': False,
+                    'download.directory_upgrade': True,
+                    'plugins.always_open_pdf_externally': True
+                }
 
-        try:
-            for index, veiculo in enumerate(resultadoIpva, start=1):
-                renavam, num_documento, chassi, idVeiculo = veiculo
+                chrome_options.add_experimental_option('prefs', prefs)
+                chrome_options.add_argument('--no-sandbox')
+                chrome_options.add_argument('--headless')
+                chrome_options.add_argument('--mute-audio')
+                chrome_options.add_argument('--kiosk-printing')
+                chrome_options.add_argument('--disable-session-crashed-bubble')
+                chrome_options.add_argument('--window-size=1200,700')
+                chrome_options.add_argument("--disable-extensions")
+                chrome_options.add_experimental_option("prefs", prefs)
 
-                escreveLog(f"[{index}/{len(resultadoIpva)}] Processando veículo: RENAVAM={renavam}, CPF/CNPJ={num_documento}, CHASSI={chassi}")
-                print(f"[{index}/{len(resultadoIpva)}] Processando veículo: RENAVAM={renavam}, CPF/CNPJ={num_documento}, CHASSI={chassi}")
-
+                # ---------------------------
+                # Inicializa o Driver - NOVA SESSÃO PARA CADA VEÍCULO
+                # ---------------------------
+                logger.info("Inicializando nova sessão do Chrome...")
                 try:
-                    driver.get(url_inicial)
-                    driver.implicitly_wait(2)
-                    # ---------------------------
-                    # Preenchimento do formulário
-                    # ---------------------------
-                    cpf_cnpj = WebDriverWait(driver, 10).until(
-                        EC.element_to_be_clickable((By.XPATH, '//*[@id="numrDoc"]'))
-                    )
-                    cpf_cnpj.clear()
-                    cpf_cnpj.send_keys(str(num_documento))
-                    escreveLog(f"CPF/CNPJ preenchido: {num_documento}")
-
-                    if renavam:
-                        campo_renavam = WebDriverWait(driver, 10).until(
-                            EC.element_to_be_clickable((By.XPATH, '/html/body/center/form/table[2]/tbody/tr[4]/td[2]/input'))
-                        )
-                        campo_renavam.clear()
-                        campo_renavam.send_keys(str(renavam))
-                        escreveLog(f"RENAVAM preenchido: {renavam}")
-
-                    if chassi:
-                        campo_chassi = WebDriverWait(driver, 10).until(
-                            EC.element_to_be_clickable((By.XPATH, '/html/body/center/form/table[2]/tbody/tr[2]/td[2]/input'))
-                        )
-                        campo_chassi.clear()
-                        campo_chassi.send_keys(str(chassi))
-                        escreveLog(f"CHASSI preenchido: {chassi}")
-
-                    # ---------------------------
-                    # CAPTCHA
-                    # ---------------------------
-                    try:
-                        token = captchaIPVA.anticaptcha()  # Chama a função para resolver o captcha
-                        
-                        # Injeta o token e executa o callback que o site espera para ativar o botão
-                        driver.execute_script(f'''
-                            // 1. Tenta encontrar o campo de resposta (pode ser hidden input ou textarea)
-                            let input = document.getElementsByName("cf-turnstile-response")[0];
-                            if (input) {{
-                                input.value = "{token}";
-                            }}
-
-                            // 2. Chama a função de callback do próprio site para habilitar o botão Consultar
-                            if (typeof habilitarBotao === "function") {{
-                                habilitarBotao("{token}");
-                            }}
-                        ''')
-                        
-                        escreveLog("O captcha foi resolvido e o callback disparado")
-                        print("Captcha finalizado")
-
-                        # Aguarda o botão ficar clicável (o callback deve remover o 'disabled')
-                        boton_consultar = WebDriverWait(driver, 15).until(
-                            EC.element_to_be_clickable((By.ID, 'botaoSubmit'))
-                        )
-                        boton_consultar.click()
-
-                    except Exception as e_captcha:
-                        # Se o clique normal falhar, tentamos um clique via JavaScript como último recurso
-                        try:
-                            print("Tentando clique forçado via JS...")
-                            driver.execute_script("document.getElementById('botaoSubmit').click();")
-                        except:
-                            escreveLog(f"Erro ao resolver CAPTCHA: {e_captcha}")
-                            print(f"Erro ao resolver CAPTCHA: {e_captcha}")
-
-                    # ---------------------------
-                    # Verifica mensagem de Erro
-                    # ---------------------------
-                    try:
-                        erro = WebDriverWait(driver, 5).until(
-                            EC.presence_of_element_located((By.XPATH, '/html/body/center/form/table/tbody/tr[2]/td/font'))
-                        )
-                        mensagem_erro = erro.text.strip()
-
-                        if mensagem_erro == "O CPF/CNPJ informado é inválido para este veiculo.":
-                            escreveLog(f"Erro: CPF/CNPJ {num_documento} inválido para o veículo {renavam}.")
-                            print(f"Erro: CPF/CNPJ {num_documento} inválido para o veículo {renavam}.")
-
-                            # Atualiza status no banco
-                            
-                            escreveLog(f"Erro atualizado no banco para ID {idVeiculo}.")
-
-                            # Clica no botão voltar
-                            voltar = WebDriverWait(driver, 5).until(
-                                EC.element_to_be_clickable((By.XPATH, '/html/body/center/form/table/tbody/tr[4]/td/input[1]'))
-                            )
-                            voltar.click()
-                            escreveLog("Cliquei no botão Voltar após erro de CPF/CNPJ inválido.")
-                            print("Cliquei no botão Voltar após erro de CPF/CNPJ inválido.")
-                            continue
-
-                        elif mensagem_erro == "Veículo informado nao foi encontrado.":
-                            escreveLog(f"Erro: Veículo com RENAVAM {renavam} ou Chassi {chassi} não encontrado.")
-                            print(f"Erro: Veículo com RENAVAM {renavam} ou Chassi {chassi} não encontrado.")
-
-
-                            # Clica no botão voltar
-                            voltar = WebDriverWait(driver, 5).until(
-                                EC.element_to_be_clickable((By.XPATH, '/html/body/center/form/table/tbody/tr[4]/td/input[1]'))
-                            )
-                            voltar.click()
-                            escreveLog("Cliquei no botão Voltar após erro de veículo não encontrado.")
-                            print("Cliquei no botão Voltar após erro de veículo não encontrado.")
-                            continue
-                    except:
-                        pass
-
-                    # ---------------------------
-                    # Verifica mensagem de Débito
-                    # ---------------------------
-                    try:
-                        debito = WebDriverWait(driver, 5).until(
-                            EC.presence_of_element_located((By.XPATH, '/html/body/center/form/div/p'))
-                        )
-                        mensagem_debito = debito.text
-                        if "Nenhum débito foi localizado" in mensagem_debito:
-                            escreveLog(f"Nenhum débito para o veículo {renavam}. Retornando à tela inicial.")
-                            print(f"Nenhum débito para o veículo {renavam}. Retornando à tela inicial.")
-                            voltar_btn = WebDriverWait(driver, 5).until(
-                                EC.element_to_be_clickable((By.XPATH, '/html/body/center/form/input[7]'))
-                            )
-                            voltar_btn.click()
-                            continue
-                    except:
-                        escreveLog("Nenhuma mensagem de débito encontrada. Continuando processamento...")
-                        print("Nenhuma mensagem de débito encontrada. Continuando processamento...")
-                        emissaoGuia(driver,renavam,chassi,idVeiculo)
-
-                    # ---------------------------
-                    # Finaliza processamento do veículo
-                    # ---------------------------
-                    escreveLog(f"Veículo {renavam} processado com sucesso.")
-
-                except Exception as e_veiculo:
-                    escreveLog(f"Erro ao processar veículo {renavam}: {e_veiculo}")
-                    print(f"Erro ao processar veículo {renavam}: {e_veiculo} ")
+                    driver = uc.Chrome(options=chrome_options, version_main=142)
+                    logger.info("Sessão do Chrome inicializada com sucesso")
+                except Exception as e_driver:
+                    logger.error(f"Erro ao inicializar Chrome: {e_driver}")
+                    veiculos_com_erro += 1
                     continue
+                
+                try:
+                    # Processamento do veículo
+                    resultado = processar_veiculo(driver, renavam, num_documento, chassi, idVeiculo)
+                    
+                    if resultado:
+                        veiculos_processados += 1
+                        logger.info(f"Veículo {renavam} processado com sucesso")
+                    else:
+                        veiculos_com_erro += 1
+                        logger.warning(f"Veículo {renavam} não processado completamente")
+                        
+                except Exception as e_veiculo:
+                    logger.error(f"Erro durante processamento do veículo {renavam}: {e_veiculo}", exc_info=True)
+                    veiculos_com_erro += 1
+                    
+                finally:
+                    # ---------------------------
+                    # FECHA A SESSÃO APÓS CADA VEÍCULO
+                    # ---------------------------
+                    logger.info("Finalizando sessão do Chrome...")
+                    try:
+                        driver.quit()
+                        logger.debug("Sessão do Chrome finalizada")
+                    except Exception as e_quit:
+                        logger.warning(f"Erro ao finalizar sessão: {e_quit}")
+                    
+                    # Pequena pausa entre sessões
+                    if index < len(resultadoIpva):
+                        logger.debug("Aguardando 3 segundos antes do próximo veículo...")
+                        sleep(3)
+                        
+            except Exception as e_sessao:
+                logger.error(f"Erro na criação da sessão para veículo {renavam}: {e_sessao}", exc_info=True)
+                veiculos_com_erro += 1
+                continue
 
-        finally:
-            driver.quit()
-            escreveLog("Driver encerrado após processamento de todos os veículos.")
+        # Resumo final
+        logger.info("=" * 60)
+        logger.info("RESUMO DO PROCESSAMENTO")
+        logger.info("=" * 60)
+        logger.info(f"Total de veículos: {len(resultadoIpva)}")
+        logger.info(f"Veículos processados com sucesso: {veiculos_processados}")
+        logger.info(f"Veículos com erro: {veiculos_com_erro}")
+        logger.info(f"Data/hora de término: {datetime.now().strftime('%d/%m/%Y %H:%M:%S')}")
+        logger.info("PROCESSO FINALIZADO")
 
     except Exception as e:
-        escreveLog(f"Erro crítico na execução principal: {e}")
-        print(f"Erro crítico na execução principal: {e}")
+        logger.critical(f"Erro crítico na execução principal: {e}", exc_info=True)
+        raise
 
+def processar_veiculo(driver, renavam, num_documento, chassi, idVeiculo):
+    """Processa um único veículo em uma sessão específica"""
+    
+    try:
+        logger.info("Iniciando processamento do veículo...")
+        
+        # ---------------------------
+        # Acessar página inicial
+        # ---------------------------
+        url_inicial = "https://www.sefaz.mt.gov.br/ipva/emissaoguia/emitir"
+        logger.info(f"Acessando página: {url_inicial}")
+        driver.get(url_inicial)
+        
+        # Aguardar carregamento da página
+        logger.debug("Aguardando carregamento da página...")
+        WebDriverWait(driver, 15).until(
+            lambda d: d.execute_script('return document.readyState') == 'complete'
+        )
+        logger.info("Página carregada com sucesso")
+        
+        # ---------------------------
+        # Preenchimento do formulário
+        # ---------------------------
+        logger.info("Preenchendo formulário de consulta...")
+        
+        # CPF/CNPJ
+        logger.debug("Preenchendo CPF/CNPJ...")
+        cpf_cnpj = WebDriverWait(driver, 10).until(
+            EC.element_to_be_clickable((By.XPATH, '//*[@id="numrDoc"]'))
+        )
+        cpf_cnpj.clear()
+        cpf_cnpj.send_keys(str(num_documento))
+        logger.info(f"CPF/CNPJ preenchido: {num_documento}")
 
+        # RENAVAM
+        if renavam:
+            logger.debug("Preenchendo RENAVAM...")
+            campo_renavam = WebDriverWait(driver, 10).until(
+                EC.element_to_be_clickable((By.XPATH, '/html/body/center/form/table[2]/tbody/tr[4]/td[2]/input'))
+            )
+            campo_renavam.clear()
+            campo_renavam.send_keys(str(renavam))
+            logger.info(f"RENAVAM preenchido: {renavam}")
 
-def emissaoGuia(driver,renavamveiculo,chassi,idVeiculo):
-        tabela=''
+        # CHASSI
+        if chassi:
+            logger.debug("Preenchendo CHASSI...")
+            campo_chassi = WebDriverWait(driver, 10).until(
+                EC.element_to_be_clickable((By.XPATH, '/html/body/center/form/table[2]/tbody/tr[2]/td[2]/input'))
+            )
+            campo_chassi.clear()
+            campo_chassi.send_keys(str(chassi))
+            logger.info(f"CHASSI preenchido: {chassi}")
+
+        # ---------------------------
+        # CAPTCHA
+        # ---------------------------
+        logger.info("Processando CAPTCHA...")
+        try:
+            logger.debug("Solicitando solução do CAPTCHA...")
+            token = captchaIPVA.anticaptcha()
+            logger.info("CAPTCHA resolvido com sucesso")
+            
+            # Aplicar token do CAPTCHA
+            driver.execute_script(f'''
+                let input = document.getElementsByName("cf-turnstile-response")[0];
+                if (input) {{
+                    input.value = "{token}";
+                }}
+
+                if (typeof habilitarBotao === "function") {{
+                    habilitarBotao("{token}");
+                }}
+            ''')
+            
+            # Clicar no botão de consulta
+            logger.debug("Clicando no botão de consulta...")
+            boton_consultar = WebDriverWait(driver, 15).until(
+                EC.element_to_be_clickable((By.ID, 'botaoSubmit'))
+            )
+            boton_consultar.click()
+            logger.info("Consulta solicitada")
+
+        except Exception as e_captcha:
+            logger.warning(f"Erro no processamento do CAPTCHA: {e_captcha}")
+            try:
+                logger.info("Tentando clique forçado via JavaScript...")
+                driver.execute_script("document.getElementById('botaoSubmit').click();")
+            except:
+                logger.error("Falha ao contornar CAPTCHA")
+                ObterDadosIpvaDB.updateErro("Erro no CAPTCHA", idVeiculo)
+                return False
+
+        # ---------------------------
+        # Verifica mensagem de Erro
+        # ---------------------------
+        logger.info("Verificando mensagens de erro...")
+        try:
+            erro = WebDriverWait(driver, 5).until(
+                EC.presence_of_element_located((By.XPATH, '/html/body/center/form/table/tbody/tr[2]/td/font'))
+            )
+            mensagem_erro = erro.text.strip()
+            logger.warning(f"Mensagem de erro encontrada: {mensagem_erro}")
+
+            if mensagem_erro == "O CPF/CNPJ informado é inválido para este veiculo.":
+                logger.error(f"CPF/CNPJ {num_documento} inválido para o veículo {renavam}")
+                ObterDadosIpvaDB.updateErro("ERRO - CPF/CNPJ invalido", idVeiculo)
+                return False
+            
+            elif mensagem_erro == "Dados inválidos, , preencha corretamente.":
+                logger.error("Dados inválidos fornecidos")
+                ObterDadosIpvaDB.updateErro('ERRO - Dados inválidos', idVeiculo)
+                return False
+            
+            elif mensagem_erro == "java.lang.Exception: Validação do CAPTCHA falhou.":
+                logger.error("Validação do CAPTCHA falhou")
+                ObterDadosIpvaDB.updateErro("ERRO -  Validação do CAPTCHA", idVeiculo)
+                return False
+                
+            elif mensagem_erro == 'For input string: "None"':
+                logger.error('For input string: "None"')
+                ObterDadosIpvaDB.updateErro('ERRO - Documento vazio', idVeiculo)
+                return False
+            
+            elif mensagem_erro == 'Veículo informado nao foi encontrado.':
+                logger.error('Veículo informado nao foi encontrado.')
+                ObterDadosIpvaDB.updateErro('ERRO - Veículo nao encontrado', idVeiculo)
+                return False
+            
+        except TimeoutException:
+            logger.debug("Nenhuma mensagem de erro encontrada")
+        except Exception as e_erro:
+            logger.warning(f"Erro ao verificar mensagens de erro: {e_erro}")
+
+        # ---------------------------
+        # Verifica mensagem de Débito
+        # ---------------------------
+        logger.info("Verificando existência de débitos...")
+        try:
+            debito = WebDriverWait(driver, 5).until(
+                EC.presence_of_element_located((By.XPATH, '/html/body/center/form/div/p'))
+            )
+            mensagem_debito = debito.text
+            
+            if "Nenhum débito foi localizado" in mensagem_debito:
+                logger.info(f"Veículo {renavam} não possui débitos (IPVA quitado)")
+                ObterDadosIpvaDB.updateErro("QUITADO", idVeiculo)
+                return True
+                
+        except TimeoutException:
+            logger.info("Débitos encontrados, prosseguindo com emissão da guia...")
+        except Exception as e_debito:
+            logger.warning(f"Erro ao verificar débitos: {e_debito}")
+            
+        # ---------------------------
+        # Emissão da Guia
+        # ---------------------------
+        logger.info("Iniciando processo de emissão da guia...")
+        return emissaoGuia(driver, renavam, chassi, idVeiculo)
+
+    except TimeoutException as e_timeout:
+        logger.error(f"Timeout durante processamento do veículo {renavam}: {e_timeout}")
+        ObterDadosIpvaDB.updateErro(f"Timeout: {str(e_timeout)[:100]}", idVeiculo)
+        return False
+    except Exception as e:
+        logger.error(f"Erro no processamento do veículo {renavam}: {e}", exc_info=True)
+        ObterDadosIpvaDB.updateErro(f"Erro processamento: {str(e)[:100]}", idVeiculo)
+        return False
+
+def emissaoGuia(driver, renavamveiculo, chassi, idVeiculo):
+    """Emite a guia para um veículo específico"""
+    
+    try:
+        logger.info("Procurando tabela de débitos...")
+        tabela = None
+        
         try:   
-            tabela = WebDriverWait(driver, 10).until(
+            tabela = WebDriverWait(driver, 15).until(
                 EC.element_to_be_clickable((By.XPATH, '/html/body/center/form/table[2]/tbody/tr[1]/td'))
             )
-        except: 
-            pass
+            logger.info("Tabela de débitos encontrada")
+        except TimeoutException: 
+            logger.warning("Tabela de débitos não encontrada")
+            return False
         
-        if tabela is not None:
-        
+        if tabela:
+            # Selecionar a opção com 5% de desconto
+            logger.debug("Selecionando opção com 5% de desconto...")
             elemento = driver.find_element(By.XPATH, "//tbody[@id='cota1']//tr[td[2][contains(text(), '5%')]]/td[1]/input")
             elemento.click()
-            print("Procurando input de email e telefone...")
+            logger.info("Opção de 5% de desconto selecionada")
+            
+            # Preencher email e telefone
+            logger.debug("Preenchendo email e telefone...")
             try:
                 email = WebDriverWait(driver, 5).until(
                     EC.element_to_be_clickable((By.ID, 'email'))
@@ -269,138 +381,161 @@ def emissaoGuia(driver,renavamveiculo,chassi,idVeiculo):
                     EC.element_to_be_clickable((By.ID, 'celular'))
                 )
                 email.send_keys('hianny.urt@bomfuturo.com.br')
-                
                 telefone.send_keys('65998178793')
+                logger.info("Email e telefone preenchidos")
             except Exception as e:
-                print(f"Nao foi encontrado input email/telefone")    
+                logger.warning(f"Não foi possível preencher email/telefone: {e}")
+            
+            logger.debug("Aguardando 3 segundos...")
             sleep(3)
-
             
-            '''botao_gerar = WebDriverWait(driver, 10).until(
-                EC.element_to_be_clickable((By.CSS_SELECTOR, "input[value='Gerar Guia - pdf']"))
-            )
-            botao_gerar.click()
+            # Chama a função de download
+            logger.info("Iniciando download da guia...")
+            return download_guia(driver, chassi, renavamveiculo, idVeiculo)
             
-            janela_original = driver.current_window_handle
-            WebDriverWait(driver, 10).until(EC.number_of_windows_to_be(2))
+        return False
             
-            #Loop para encontrar o ID da nova janela
-            for handle in driver.window_handles:
-                if handle != janela_original:
-                    #Troca o foco para a nova aba
-                    driver.switch_to.window(handle)
-                    break
+    except Exception as e:
+        logger.error(f"Erro na emissão da guia para {renavamveiculo}: {e}", exc_info=True)
+        ObterDadosIpvaDB.updateErro(f"Erro emissão guia: {str(e)[:100]}", idVeiculo)
+        return False
 
-            # Nova aba
-            driver.switch_to.window(handle)'''
-            try:
-                download_guia(driver,chassi,renavamveiculo)
-                driver.close()
-                                
-            except Exception as e:
-                driver.close()
-                #driver.switch_to.window(janela_original)
-                print(f"Erro ao gerar PDF: {e}")
-                #driver.close()
-                return
-          
-          
-          
-def download_guia(driver,chassi,renavam):       
-    anoAtual = datetime.now().year
-    session = requests.Session()
-    for cookie in driver.get_cookies():
-        session.cookies.set(cookie['name'], cookie['value'])
-
-    # CAPTURAR OS DADOS DO FORMULÁRIO E TOKEN
-    # CSRT é o numero de segurança anti-falsificação
-    url_action = driver.find_element(By.NAME, "formulario").get_attribute("action")
-    csrf_token = driver.execute_script('return window["_csrf_"];')
-    user_agent = driver.execute_script("return navigator.userAgent;")
-
-    #MONTAR O PAYLOAD COMPLETO
-
-    payload = {}
+def download_guia(driver, chassi, renavam, idVeiculo):
+    """Realiza o download da guia de pagamento"""
     
-    #Pegando todos os inputs da página
-    inputs = driver.find_elements(By.TAG_NAME, "input")
-    for i in inputs:
-        name = i.get_attribute("name")
-        value = i.get_attribute("value")
-        tipo = i.get_attribute("type")
-
-        if not name: continue
-
-        # Mantém valores de campos hidden
-        if tipo == "hidden":
-            payload[name] = value
+    try:
+        logger.info("Iniciando processo de download do PDF...")
         
-        # Seleciona a cota específica (Ex: Opção com 5% de desconto que é o value="2")
-        # No HTML o rádio botão tem o id="tipoGuia.2026.2" e value="2"
-        if name.startswith("tipoGuia") and tipo == "radio":
-            if value == "2": 
+        anoAtual = datetime.now().year
+        session = requests.Session()
+        
+        # Copiar cookies do Selenium para a sessão requests
+        logger.debug("Copiando cookies da sessão do Chrome...")
+        for cookie in driver.get_cookies():
+            session.cookies.set(cookie['name'], cookie['value'])
+        
+        # Capturar dados do formulário
+        logger.debug("Capturando dados do formulário...")
+        url_action = driver.find_element(By.NAME, "formulario").get_attribute("action")
+        csrf_token = driver.execute_script('return window["_csrf_"];')
+        user_agent = driver.execute_script("return navigator.userAgent;")
+        
+        # Montar payload
+        logger.debug("Montando payload da requisição...")
+        payload = {}
+        
+        # Pegar todos os inputs da página
+        inputs = driver.find_elements(By.TAG_NAME, "input")
+        for i in inputs:
+            name = i.get_attribute("name")
+            value = i.get_attribute("value")
+            tipo = i.get_attribute("type")
+
+            if not name: 
+                continue
+
+            # Mantém valores de campos hidden
+            if tipo == "hidden":
                 payload[name] = value
-
-    # Sobrescreve/Garante campos críticos
-    payload["_csrf_"] = csrf_token
-    payload["pdf"] = "1"
-    payload["pix"] = "1"
-    payload["chassi"] = chassi.strip()
-
-    # HEADERS (Imprescindível para sites com proteção F5/TSPD)
-    headers = {
-        "User-Agent": user_agent,
-        "Referer": driver.current_url,
-        "Origin": "https://www.sefaz.mt.gov.br",
-        "Content-Type": "application/x-www-form-urlencoded",
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8"
-    }
-
-    # O stream=True é importante para lidar com binários grandes
-    response = session.post(url_action, data=payload, headers=headers, stream=True)
-
-    # VALIDAÇÃO E SALVAMENTO
-    if response.status_code == 200:
-        content_type = response.headers.get('Content-Type', '')
+            
+            # Seleciona a cota específica (Ex: Opção com 5% de desconto que é o value="2")
+            if name.startswith("tipoGuia") and tipo == "radio":
+                if value == "2": 
+                    payload[name] = value
         
-        if 'application/pdf' in content_type:
-            filename = fr"S:\Automacao\bot\VEICULOS\IPVA_2026\IPVA {anoAtual} - RENAVAM {renavam}.pdf"
-            with open(filename, "wb") as f:
-                for chunk in response.iter_content(chunk_size=8192):
-                    f.write(chunk)
-            print(f"✅ Sucesso! PDF baixado: {filename}")
-            return True
+        # Pegar VALOR DO IPVA
+        logger.debug("Extraindo valor do IPVA...")
+        xpath_valor = "//input[@value='2']/ancestor::tr//td[contains(text(), 'R$')]"
+        elemento_valor = driver.find_element(By.XPATH, xpath_valor)
+        
+        # Converter valor para formato numérico
+        valor_texto = elemento_valor.text.replace('R$', '').strip()
+
+        # 1. Remove qualquer caractere que não seja número, ponto ou vírgula
+        valor_limpo = re.sub(r'[^\d.,]', '', valor_texto)
+
+        # 2. Lógica para identificar o separador decimal real:
+        # Se o último sinal for uma vírgula, é padrão BR (1.280,87)
+        if valor_limpo.find(',') > valor_limpo.find('.'):
+            valor_limpo = valor_limpo.replace('.', '').replace(',', '.')
+        # Se o último sinal for um ponto, é padrão US (1,280.87)
         else:
-            print(f"❌ Erro: O servidor não enviou um PDF. Tipo recebido: {content_type}")
-            # Salva o erro para inspeção
-            with open("erro_sefaz.html", "w", encoding="utf-8") as f:
-                f.write(response.text)
-            print("Verifique o arquivo 'erro_sefaz.html' para entender o motivo da rejeição.")
-    else:
-        print(f"❌ Erro HTTP: {response.status_code}")
-    
-    return False
-          
-    imagemsalvar = fr'.\ipvabf\Ipva\img\salvarAnonimo.png'
-    location = None
-    end_time = time.time() + 20
-    countTimer = 0
-    sleepTime = 0.5
-    
-    print('procurando o salvar...')
-    while time.time() < end_time:
-        try:
-            location = pyautogui.locateOnScreen(imagemsalvar)
-        except:
-            location = None
-        if location:
-            print("Salvar encontrado")
-            x, y = pyautogui.locateCenterOnScreen(imagemsalvar)
-            print("clicando em salvar")
-            pyautogui.click(x, y)
-            break
-        time.sleep(sleepTime)
-        countTimer += sleepTime
+            valor_limpo = valor_limpo.replace(',', '')
+
+        print(f"Valor extraído: {valor_texto}") 
+        print(f"Valor limpo para o banco: {valor_limpo}")           # 1280.87
+
+        # 3. Converte para Decimal
+        valorIpva = Decimal(valor_limpo)
+        
+        # Adicionar campos críticos ao payload
+        payload["_csrf_"] = csrf_token
+        payload["pdf"] = "1"
+        payload["pix"] = "1"
+        payload["chassi"] = chassi.strip()
+        logger.debug(f"Payload montado com {len(payload)} campos")
+
+        # Headers da requisição
+        headers = {
+            "User-Agent": user_agent,
+            "Referer": driver.current_url,
+            "Origin": "https://www.sefaz.mt.gov.br",
+            "Content-Type": "application/x-www-form-urlencoded",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8"
+        }
+        
+        # Enviar requisição POST
+        logger.info("Enviando requisição para geração do PDF...")
+        response = session.post(url_action, data=payload, headers=headers, stream=True)
+        logger.info(f"Resposta recebida - Status: {response.status_code}")
+        
+        # Validar e salvar PDF
+        if response.status_code == 200:
+            content_type = response.headers.get('Content-Type', '')
+            
+            if 'application/pdf' in content_type:
+                logger.info("PDF válido recebido. Salvando arquivo...")
+                
+                # Criar diretório se não existir
+                output_dir = r"S:\Automacao\bot\VEICULOS\IPVA"
+                if not os.path.exists(output_dir):
+                    logger.info(f"Criando diretório: {output_dir}")
+                    os.makedirs(output_dir)
+                
+                # Gerar nome do arquivo
+                filename = os.path.join(output_dir, f"IPVA {anoAtual} - RENAVAM {renavam}.pdf")
+                
+                # Salvar PDF
+                with open(filename, "wb") as f:
+                    for chunk in response.iter_content(chunk_size=8192):
+                        f.write(chunk)
+                
+                logger.info(f"✅ PDF baixado com sucesso: {filename}")
+                logger.info(f"Tamanho do arquivo: {os.path.getsize(filename)} bytes")
+                
+                # Atualizar banco de dados
+                ObterDadosIpvaDB.updateValor(valorIpva, filename, idVeiculo)
+                return True
+                
+            else:
+                logger.error(f"❌ Servidor não enviou um PDF. Content-Type: {content_type}")
+                
+                # Salvar resposta para análise
+                erro_file = f"erro_sefaz_{renavam}_{datetime.now().strftime('%H%M%S')}.html"
+                with open(erro_file, "w", encoding="utf-8") as f:
+                    f.write(response.text)
+                logger.info(f"Resposta salva em: {erro_file}")
+                
+                return False
+        else:
+            logger.error(f"❌ Erro HTTP na requisição: {response.status_code}")
+            logger.error(f"Resposta: {response.text[:500]}...")
+            return False
+            
+    except Exception as e:
+        logger.error(f"Erro durante o download da guia para {renavam}: {e}", exc_info=True)
+        ObterDadosIpvaDB.updateErro(f"Erro download: {str(e)[:100]}", idVeiculo)
+        return False
 
 if __name__ == "__main__":
     main()

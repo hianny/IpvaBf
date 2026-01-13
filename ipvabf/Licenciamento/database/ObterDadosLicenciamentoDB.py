@@ -1,10 +1,12 @@
 import oracledb
 import pandas
+import dotenv
+import os
+dotenv.load_dotenv()
 
-usernameBd = 'rpa' 
-passwordBd= 'Rpa!2023'
-#dsn = 'oracledbdev.bomfuturo.local:1521/homollnx'
-dsn = 'oracle.bomfuturo.local:1521/protheus'
+usernameBd = os.getenv('usernameBd')
+passwordBd= os.getenv('passwordBd')
+dsn = os.getenv('dsn')
 connectionBd = oracledb.connect(user=usernameBd, password=passwordBd, dsn=dsn)
 cursor = connectionBd.cursor()
 

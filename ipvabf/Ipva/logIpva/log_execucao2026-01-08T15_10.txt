@@ -1,0 +1,17 @@
+2026-01-08T15_10: Iniciando execução do processo SEFAZ-IPVA
+2026-01-08T15_10: Total de veículos encontrados: 547
+2026-01-08T15_10: [1/547] Processando veículo: RENAVAM=1110408436, CPF/CNPJ=10425282003229, CHASSI=9A9S3CTS8H1AH8012        
+2026-01-08T15_10: Iniciando nova sessão do Chrome para veículo 1110408436
+2026-01-08T15_10: Acessando página inicial para veículo 1110408436
+2026-01-08T15_11: CPF/CNPJ preenchido: 10425282003229
+2026-01-08T15_11: RENAVAM preenchido: 1110408436
+2026-01-08T15_11: CHASSI preenchido: 9A9S3CTS8H1AH8012        
+2026-01-08T15_11: Captcha resolvido
+2026-01-08T15_11: Nenhum débito para o veículo 1110408436.
+2026-01-08T15_11: Fechando sessão do Chrome para veículo 1110408436
+2026-01-08T15_11: [2/547] Processando veículo: RENAVAM=111249651, CPF/CNPJ=10425282004896, CHASSI=234880744                
+2026-01-08T15_11: Iniciando nova sessão do Chrome para veículo 111249651
+2026-01-08T15_11: Acessando página inicial para veículo 111249651
+2026-01-08T15_11: CPF/CNPJ preenchido: 10425282004896
+2026-01-08T15_11: RENAVAM preenchido: 111249651
+2026-01-08T15_11: CHASSI preenchido: 234880744                
